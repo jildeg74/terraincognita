@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Terra Incognita: a living map of open scientific questions"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - name: Terra Incognita contributors
+license: CC-BY-4.0
+url: "https://www.terraincognita.ca"
+date-released: 2026-11-18
+keywords: [open questions, science, knowledge map, multilingual]

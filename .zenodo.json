@@ -1,0 +1,8 @@
+{
+  "title": "Terra Incognita: a living map of open scientific questions",
+  "upload_type": "dataset",
+  "description": "A multilingual, sourced map of great open scientific questions, linked together and re-checked weekly against recent publications.",
+  "creators": [{"name": "Terra Incognita contributors"}],
+  "license": "cc-by-4.0",
+  "keywords": ["open questions", "science", "knowledge map", "multilingual"]
+}

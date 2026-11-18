@@ -62,6 +62,40 @@
    "t": "USC: weight-loss drug semaglutide shows promise in reducing alcohol cravings (on a 2025 JAMA Psychiatry trial)",
    "ty": "institution",
    "u": "https://today.usc.edu/popular-weight-loss-diabetes-drug-shows-promise-in-reducing-cravings-for-alcohol/"
+  },
+  {
+   "t": "Substance use disorders: a comprehensive update of classification, epidemiology, neurobiology, clinical aspects, treatment and prevention",
+   "ty": "reference",
+   "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10168177/"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "لماذا لا تزال درجات الخطر الجيني تتنبأ بشكل ضعيف جدًا بمن سيصبح مدمنًا؟",
+   "en": "Why do genetic risk scores still predict who will become addicted so poorly?",
+   "es": "¿Por qué las puntuaciones de riesgo genético todavía predicen tan mal quién se volverá adicto?",
+   "fr": "Pourquoi les scores de risque génétique prédisent-ils encore si mal qui deviendra dépendant ?",
+   "hi": "आनुवंशिक जोखिम स्कोर अब भी इतनी ख़राब तरह से क्यों बताते हैं कि किसे लत लगेगी?",
+   "pt": "Por que as pontuações de risco genético ainda preveem tão mal quem vai se tornar dependente?",
+   "zh": "为什么基因风险评分至今仍难以准确预测谁会成瘾？"
+  },
+  {
+   "ar": "هل تفسر العلامات الكيميائية على الحمض النووي (علم التخلق) الإدمان الدائم لدى البشر، وهل يمكن أن تصبح أهدافًا للأدوية؟",
+   "en": "Do chemical marks on DNA (epigenetics) explain lasting addiction in humans, and could they become drug targets?",
+   "es": "¿Explican las marcas químicas en el ADN (epigenética) la adicción duradera en humanos, y podrían convertirse en dianas de fármacos?",
+   "fr": "Les marques chimiques sur l'ADN (épigénétique) expliquent-elles une dépendance durable chez l'humain, et pourraient-elles devenir des cibles de médicaments ?",
+   "hi": "क्या DNA पर रासायनिक निशान (एपिजेनेटिक्स) इंसानों में लंबे समय तक चलने वाली लत को समझाते हैं, और क्या वे दवाओं का लक्ष्य बन सकते हैं?",
+   "pt": "As marcas químicas no DNA (epigenética) explicam a dependência duradoura em humanos, e poderiam se tornar alvos de medicamentos?",
+   "zh": "DNA上的化学标记（表观遗传）能否解释人类的长期成瘾？它们能否成为药物靶点？"
+  },
+  {
+   "ar": "هل يمكن للتحفيز العميق للدماغ أن يساعد بأمان الأشخاص المصابين بأشد حالات الإدمان؟",
+   "en": "Can deep brain stimulation safely help people with the most severe addictions?",
+   "es": "¿Puede la estimulación cerebral profunda ayudar de forma segura a las personas con las adicciones más graves?",
+   "fr": "La stimulation cérébrale profonde peut-elle aider sans danger les personnes souffrant des dépendances les plus sévères ?",
+   "hi": "क्या डीप ब्रेन स्टिमुलेशन सबसे गंभीर लत वाले लोगों की सुरक्षित रूप से मदद कर सकता है?",
+   "pt": "A estimulação cerebral profunda pode ajudar com segurança as pessoas com as dependências mais graves?",
+   "zh": "脑深部电刺激能否安全地帮助最严重的成瘾者？"
   }
  ]
 }

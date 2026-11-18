@@ -62,6 +62,40 @@
    "t": "No evidence that depression is caused by low serotonin levels (UCL, 2022)",
    "ty": "institution",
    "u": "https://www.ucl.ac.uk/news/2022/jul/no-evidence-depression-caused-low-serotonin-levels-finds-comprehensive-review"
+  },
+  {
+   "t": "The serotonin theory of depression: a systematic umbrella review of the evidence",
+   "ty": "study",
+   "u": "https://discovery.ucl.ac.uk/10153006/3/Horowitz_s41380-022-01661-0.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف تغيّر مضادات الاكتئاب التي تؤخذ لسنوات نظام السيروتونين في الدماغ، أثناء استخدامها وبعده؟",
+   "en": "How do antidepressants taken for years change the brain's serotonin system, during and after use?",
+   "es": "¿Cómo cambian los antidepresivos tomados durante años el sistema de serotonina del cerebro, durante y después de su uso?",
+   "fr": "Comment les antidépresseurs pris pendant des années modifient-ils le système sérotoninergique du cerveau, pendant et après leur prise ?",
+   "hi": "सालों तक ली गई अवसादरोधी दवाएँ, लेने के दौरान और बंद करने के बाद, मस्तिष्क की सेरोटोनिन प्रणाली को कैसे बदलती हैं?",
+   "pt": "Como os antidepressivos tomados durante anos alteram o sistema de serotonina do cérebro, durante e depois do uso?",
+   "zh": "长年服用抗抑郁药会如何改变大脑的血清素系统，在用药期间和停药之后各有什么变化？"
+  },
+  {
+   "ar": "ما الذي يفعله فعلًا خفض التربتوفان، وهو المادة الأساسية لصنع السيروتونين، بالمزاج؟",
+   "en": "What does lowering tryptophan, the building block of serotonin, really do to mood?",
+   "es": "¿Qué le hace realmente al estado de ánimo reducir el triptófano, el componente básico de la serotonina?",
+   "fr": "Que fait réellement à l'humeur une baisse du tryptophane, la brique de base de la sérotonine ?",
+   "hi": "सेरोटोनिन के निर्माण-घटक ट्रिप्टोफ़ैन को कम करने से मूड पर वास्तव में क्या असर पड़ता है?",
+   "pt": "O que a redução do triptofano, o componente básico da serotonina, realmente faz com o humor?",
+   "zh": "降低色氨酸（合成血清素的原料）究竟会对情绪产生什么影响？"
+  },
+  {
+   "ar": "هل يمكن العثور على مؤشر حيوي يشخّص الاكتئاب أو يبيّن أي علاج سينجح؟",
+   "en": "Can a biological marker be found that diagnoses depression or shows which treatment will work?",
+   "es": "¿Se puede encontrar un marcador biológico que diagnostique la depresión o indique qué tratamiento funcionará?",
+   "fr": "Peut-on trouver un marqueur biologique qui diagnostique la dépression ou indique quel traitement fonctionnera ?",
+   "hi": "क्या कोई ऐसा जैविक संकेतक खोजा जा सकता है जो अवसाद का निदान करे या बताए कि कौन-सा इलाज काम करेगा?",
+   "pt": "É possível encontrar um marcador biológico que diagnostique a depressão ou mostre qual tratamento vai funcionar?",
+   "zh": "能否找到一种生物标志物来诊断抑郁症，或显示哪种治疗会有效？"
   }
  ]
 }

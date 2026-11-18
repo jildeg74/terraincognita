@@ -68,5 +68,34 @@
    "ty": "press",
    "u": "https://www.sciencenews.org/article/lupus-car-t-cell-therapy-remission-autoimmune-disease"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن للخلايا المناعية المعدّلة أن تبقى في الجسم مدة كافية لإبقاء مرض المناعة الذاتية في حالة هدوء، أم ستلزم عمليات تسريب متكررة؟",
+   "en": "Can engineered immune cells last long enough in the body to keep autoimmune disease in remission, or will repeated infusions be needed?",
+   "es": "¿Pueden las células inmunitarias modificadas durar lo suficiente en el cuerpo para mantener la enfermedad autoinmune en remisión, o harán falta infusiones repetidas?",
+   "fr": "Les cellules immunitaires modifiées peuvent-elles persister assez longtemps dans le corps pour maintenir la maladie auto-immune en rémission, ou faudra-t-il des perfusions répétées ?",
+   "hi": "क्या संशोधित प्रतिरक्षा कोशिकाएँ शरीर में इतने लंबे समय तक टिक सकती हैं कि स्वप्रतिरक्षी बीमारी शांत (रिमिशन में) रहे, या बार-बार इन्फ्यूज़न की ज़रूरत पड़ेगी?",
+   "pt": "As células imunes modificadas conseguem durar o suficiente no corpo para manter a doença autoimune em remissão, ou serão necessárias infusões repetidas?",
+   "zh": "经过改造的免疫细胞能否在体内存留足够长的时间，使自身免疫病保持缓解，还是需要反复输注？"
+  },
+  {
+   "ar": "ما أمراض المناعة الذاتية المناسبة فعلًا للعلاج بخلايا CAR المعدّلة؟",
+   "en": "Which autoimmune diseases are actually suited to treatment with engineered CAR cells?",
+   "es": "¿Qué enfermedades autoinmunes son realmente adecuadas para el tratamiento con células CAR modificadas?",
+   "fr": "Quelles maladies auto-immunes se prêtent réellement à un traitement par cellules CAR modifiées ?",
+   "hi": "कौन-सी स्वप्रतिरक्षी बीमारियाँ वास्तव में संशोधित CAR कोशिकाओं से इलाज के लिए उपयुक्त हैं?",
+   "pt": "Quais doenças autoimunes são realmente adequadas ao tratamento com células CAR modificadas?",
+   "zh": "哪些自身免疫病真正适合用改造的CAR细胞来治疗？"
+  },
+  {
+   "ar": "هل يمكن تقليل الآثار الجانبية الخطيرة والتكلفة المرتفعة للعلاج بخلايا CAR بما يكفي لاستخدامه على نطاق واسع؟",
+   "en": "Can the serious side effects and the high cost of CAR therapy be reduced enough for wide use?",
+   "es": "¿Pueden reducirse lo suficiente los efectos secundarios graves y el alto coste de la terapia CAR para un uso amplio?",
+   "fr": "Les effets secondaires graves et le coût élevé de la thérapie CAR peuvent-ils être suffisamment réduits pour un usage à grande échelle ?",
+   "hi": "क्या CAR थेरेपी के गंभीर दुष्प्रभाव और ऊँची लागत इतनी कम की जा सकती है कि इसका व्यापक उपयोग हो सके?",
+   "pt": "Os efeitos colaterais graves e o alto custo da terapia CAR podem ser reduzidos o suficiente para uso amplo?",
+   "zh": "CAR疗法的严重副作用和高昂费用能否降低到足以广泛使用的程度？"
+  }
  ]
 }

@@ -62,6 +62,45 @@
    "t": "Complete wiring map of an adult fruit fly brain (NIH, 2024)",
    "ty": "official",
    "u": "https://www.nih.gov/news-events/nih-research-matters/complete-wiring-map-adult-fruit-fly-brain"
+  },
+  {
+   "t": "A petavoxel fragment of human cerebral cortex reconstructed at nanoscale resolution",
+   "ty": "study",
+   "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11718559/"
+  },
+  {
+   "t": "The burgeoning field of brain mapping",
+   "ty": "press",
+   "u": "https://www.technologyreview.com/2024/05/10/1092230/the-burgeoning-field-of-brain-mapping/amp/"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل تعكس التوصيلات المرئية في نسيج الدماغ المأخوذ من مرضى الصرع دماغًا طبيعيًا أم دماغًا غيّره المرض؟",
+   "en": "Does the wiring seen in brain tissue removed from epilepsy patients reflect a normal brain or one changed by disease?",
+   "es": "¿El cableado observado en el tejido cerebral extraído de pacientes con epilepsia refleja un cerebro normal o uno alterado por la enfermedad?",
+   "fr": "Le câblage observé dans le tissu cérébral prélevé chez des patients épileptiques reflète-t-il un cerveau normal ou un cerveau modifié par la maladie ?",
+   "hi": "मिर्गी के मरीज़ों से निकाले गए मस्तिष्क ऊतक में दिखने वाली वायरिंग सामान्य मस्तिष्क को दर्शाती है या बीमारी से बदले हुए मस्तिष्क को?",
+   "pt": "A fiação observada no tecido cerebral retirado de pacientes com epilepsia reflete um cérebro normal ou um cérebro alterado pela doença?",
+   "zh": "从癫痫患者身上取下的脑组织中看到的连接，反映的是正常大脑，还是被疾病改变的大脑？"
+  },
+  {
+   "ar": "إلى أي مدى تختلف التوصيلات الدقيقة للقشرة الدماغية البشرية من شخص لآخر؟",
+   "en": "How much does the fine wiring of the human cortex differ from one person to another?",
+   "es": "¿Cuánto difiere el cableado fino de la corteza humana de una persona a otra?",
+   "fr": "À quel point le câblage fin du cortex humain diffère-t-il d'une personne à l'autre ?",
+   "hi": "मानव कॉर्टेक्स की बारीक वायरिंग एक व्यक्ति से दूसरे व्यक्ति में कितनी अलग होती है?",
+   "pt": "Quanto a fiação fina do córtex humano difere de uma pessoa para outra?",
+   "zh": "人类大脑皮层的精细连接在不同人之间有多大差别？"
+  },
+  {
+   "ar": "لماذا توجّه بعض الخلايا العصبية في أعمق طبقة من القشرة فروعها في اتجاهين رئيسيين متعاكسين، مثل البوصلة؟",
+   "en": "Why do some neurons in the deepest layer of the cortex point their branches in two opposite main directions, like a compass?",
+   "es": "¿Por qué algunas neuronas de la capa más profunda de la corteza orientan sus ramificaciones en dos direcciones principales opuestas, como una brújula?",
+   "fr": "Pourquoi certains neurones de la couche la plus profonde du cortex orientent-ils leurs ramifications dans deux directions principales opposées, comme une boussole ?",
+   "hi": "कॉर्टेक्स की सबसे गहरी परत के कुछ न्यूरॉन अपनी शाखाओं को कम्पास की तरह दो विपरीत मुख्य दिशाओं में क्यों फैलाते हैं?",
+   "pt": "Por que alguns neurônios da camada mais profunda do córtex orientam seus ramos em duas direções principais opostas, como uma bússola?",
+   "zh": "为什么大脑皮层最深层的一些神经元会像指南针一样，把分支朝两个相反的主要方向伸展？"
   }
  ]
 }

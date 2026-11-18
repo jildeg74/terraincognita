@@ -3,49 +3,49 @@
  "d": "V",
  "i18n": {
   "ar": {
-   "block": "تحقق المضادات الحيوية الجديدة أرباحًا ضئيلة، لذا تطوّرها شركات قليلة.",
+   "block": "تحقق المضادات الحيوية الجديدة أرباحًا ضئيلة، مما حدّ من اهتمام المستثمرين ومعظم شركات الأدوية الكبرى.",
    "known": "ترتبط البكتيريا المقاومة بملايين الوفيات سنويًا في العالم.",
    "leads": "مضادات حيوية اكتُشفت بالذكاء الاصطناعي مثل الهاليسين، وفيروسات تقتل البكتيريا (العاثيات).",
    "s": "مقاومة المضادات الحيوية",
    "t": "كيف يمكننا هزيمة مقاومة المضادات الحيوية؟"
   },
   "en": {
-   "block": "New antibiotics earn little, so few companies develop them.",
+   "block": "New antibiotics earn little, which has limited the interest of investors and most large drug companies.",
    "known": "Resistant bacteria are associated with millions of deaths a year worldwide.",
    "leads": "AI-discovered antibiotics such as halicin, and bacteria-killing viruses (phages).",
    "s": "Antibiotic resistance",
    "t": "How can we defeat antibiotic resistance?"
   },
   "es": {
-   "block": "Los nuevos antibióticos dan poca ganancia, así que pocas empresas los desarrollan.",
+   "block": "Los nuevos antibióticos dan poca ganancia, lo que ha limitado el interés de los inversores y de la mayoría de las grandes farmacéuticas.",
    "known": "Las bacterias resistentes se asocian a millones de muertes al año en todo el mundo.",
    "leads": "Antibióticos descubiertos por IA, como la halicina, y virus que matan bacterias (fagos).",
    "s": "Resistencia a antibióticos",
    "t": "¿Cómo podemos vencer la resistencia a los antibióticos?"
   },
   "fr": {
-   "block": "Les nouveaux antibiotiques rapportent peu, donc peu d'entreprises en développent.",
+   "block": "Les nouveaux antibiotiques rapportent peu, ce qui a limité l'intérêt des investisseurs et de la plupart des grandes entreprises pharmaceutiques.",
    "known": "Les bactéries résistantes sont associées à des millions de décès par an dans le monde.",
    "leads": "Antibiotiques découverts par IA, comme l'halicine, et virus tueurs de bactéries (phages).",
    "s": "Antibiorésistance",
    "t": "Comment vaincre la résistance aux antibiotiques ?"
   },
   "hi": {
-   "block": "नए एंटीबायोटिक से कमाई कम होती है, इसलिए कम कंपनियाँ उन्हें विकसित करती हैं।",
+   "block": "नए एंटीबायोटिक से कमाई कम होती है, जिससे निवेशकों और ज़्यादातर बड़ी दवा कंपनियों की रुचि सीमित हो गई है।",
    "known": "प्रतिरोधी बैक्टीरिया दुनिया भर में हर साल लाखों मौतों से जुड़े हैं।",
    "leads": "हैलिसिन जैसे AI द्वारा खोजे गए एंटीबायोटिक, और बैक्टीरिया को मारने वाले वायरस (फेज)।",
    "s": "एंटीबायोटिक प्रतिरोध",
    "t": "हम एंटीबायोटिक प्रतिरोध को कैसे हरा सकते हैं?"
   },
   "pt": {
-   "block": "Novos antibióticos dão pouco lucro, por isso poucas empresas os desenvolvem.",
+   "block": "Novos antibióticos dão pouco lucro, o que limitou o interesse dos investidores e da maioria das grandes farmacêuticas.",
    "known": "Bactérias resistentes estão associadas a milhões de mortes por ano no mundo.",
    "leads": "Antibióticos descobertos por IA, como a halicina, e vírus que matam bactérias (fagos).",
    "s": "Resistência a antibióticos",
    "t": "Como podemos vencer a resistência aos antibióticos?"
   },
   "zh": {
-   "block": "新抗生素利润很低,所以很少有公司研发。",
+   "block": "新抗生素利润很低，这限制了投资者和大多数大型制药公司的兴趣。",
    "known": "耐药细菌与全球每年数百万人的死亡有关。",
    "leads": "AI发现的抗生素(如halicin),以及杀死细菌的病毒(噬菌体)。",
    "s": "抗生素耐药",
@@ -62,6 +62,45 @@
    "t": "Global burden of bacterial antimicrobial resistance 1990–2021 (IHME / The Lancet)",
    "ty": "institution",
    "u": "https://healthdata.org/node/12105"
+  },
+  {
+   "t": "Antimicrobial resistance crisis: could artificial intelligence be the solution?",
+   "ty": "reference",
+   "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10804841"
+  },
+  {
+   "t": "Global shortage of innovative antibiotics fuels emergence and spread of drug-resistance",
+   "ty": "official",
+   "u": "https://www.who.int/news/item/15-04-2021-global-shortage-of-innovative-antibiotics-fuels-emergence-and-spread-of-drug-resistance"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن جعل نماذج الذكاء الاصطناعي التي تبحث عن مضادات حيوية جديدة موثوقة خارج ظروف الاختبار ومفهومة بدلًا من أن تكون «صناديق سوداء»؟",
+   "en": "How can AI models that search for new antibiotics be made reliable outside test conditions and understandable rather than 'black boxes'?",
+   "es": "¿Cómo hacer que los modelos de IA que buscan nuevos antibióticos sean fiables fuera de las condiciones de prueba y comprensibles en lugar de «cajas negras»?",
+   "fr": "Comment rendre les modèles d'IA qui cherchent de nouveaux antibiotiques fiables hors des conditions de test et compréhensibles plutôt que des « boîtes noires » ?",
+   "hi": "नए एंटीबायोटिक खोजने वाले AI मॉडलों को परीक्षण की स्थितियों के बाहर भी भरोसेमंद और 'ब्लैक बॉक्स' के बजाय समझने योग्य कैसे बनाया जाए?",
+   "pt": "Como tornar os modelos de IA que procuram novos antibióticos confiáveis fora das condições de teste e compreensíveis, em vez de «caixas-pretas»?",
+   "zh": "如何让寻找新抗生素的人工智能模型在测试条件之外也可靠，并且可以理解，而不是“黑箱”？"
+  },
+  {
+   "ar": "كيف يمكننا التنبؤ بسلوك دواء مرشح جديد داخل جسم الإنسان في ظل ندرة البيانات؟",
+   "en": "How can we predict how a new drug candidate will behave inside the human body when so little data exist?",
+   "es": "¿Cómo predecir el comportamiento de un nuevo candidato a fármaco dentro del cuerpo humano cuando existen tan pocos datos?",
+   "fr": "Comment prédire le comportement d'un nouveau candidat-médicament dans le corps humain alors qu'il existe si peu de données ?",
+   "hi": "जब इतना कम डेटा मौजूद है, तो हम कैसे अनुमान लगाएँ कि कोई नई संभावित दवा मानव शरीर के अंदर कैसा व्यवहार करेगी?",
+   "pt": "Como prever o comportamento de um novo candidato a medicamento dentro do corpo humano quando existem tão poucos dados?",
+   "zh": "在数据如此稀少的情况下，如何预测一种新候选药物在人体内的表现？"
+  },
+  {
+   "ar": "هل يمكننا التنبؤ بما إذا كان فيروس قاتل للبكتيريا (العاثية) سيدمر مضيفه فورًا أم سيختبئ بداخله؟",
+   "en": "Can we predict whether a bacteria-killing virus (phage) will destroy its host right away or hide inside it?",
+   "es": "¿Podemos predecir si un virus que mata bacterias (fago) destruirá a su huésped de inmediato o se esconderá dentro de él?",
+   "fr": "Peut-on prédire si un virus tueur de bactéries (phage) va détruire son hôte tout de suite ou se cacher à l'intérieur ?",
+   "hi": "क्या हम अनुमान लगा सकते हैं कि बैक्टीरिया मारने वाला वायरस (फेज) अपने मेज़बान को तुरंत नष्ट करेगा या उसके अंदर छिप जाएगा?",
+   "pt": "Podemos prever se um vírus que mata bactérias (fago) vai destruir seu hospedeiro imediatamente ou se esconder dentro dele?",
+   "zh": "我们能否预测一种杀菌病毒（噬菌体）会立即摧毁宿主，还是潜伏在宿主体内？"
   }
  ]
 }

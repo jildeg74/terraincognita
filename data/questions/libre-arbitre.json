@@ -67,5 +67,34 @@
    "ty": "reference",
    "u": "https://plato.stanford.edu/entries/freewill/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل تعكس الإشارة الدماغية المسجلة قبل الحركة («جهد الاستعداد») قرارًا، أم مجرد نشاط دماغي خلفي عشوائي؟",
+   "en": "Does the brain signal recorded before a movement (the 'readiness potential') reflect a decision, or just random background brain activity?",
+   "es": "¿La señal cerebral registrada antes de un movimiento (el «potencial de preparación») refleja una decisión, o solo actividad cerebral de fondo aleatoria?",
+   "fr": "Le signal cérébral enregistré avant un mouvement (le « potentiel de préparation motrice ») reflète-t-il une décision, ou simplement une activité cérébrale de fond aléatoire ?",
+   "hi": "किसी हरकत से पहले दर्ज होने वाला मस्तिष्क संकेत ('रेडीनेस पोटेंशियल') किसी निर्णय को दर्शाता है, या बस मस्तिष्क की बेतरतीब पृष्ठभूमि गतिविधि को?",
+   "pt": "O sinal cerebral registrado antes de um movimento (o «potencial de prontidão») reflete uma decisão, ou apenas atividade cerebral de fundo aleatória?",
+   "zh": "在动作之前记录到的脑信号（“准备电位”）反映的是一个决定，还是只是随机的背景脑活动？"
+  },
+  {
+   "ar": "هل تشير هذه الإشارة إلى بدء فعل ما، أم إلى شيء أعمّ مثل التوقع أو الانتباه؟",
+   "en": "Does this signal mark the start of an action, or something more general such as expecting or paying attention?",
+   "es": "¿Marca esta señal el inicio de una acción, o algo más general como la anticipación o la atención?",
+   "fr": "Ce signal marque-t-il le début d'une action, ou quelque chose de plus général comme l'anticipation ou l'attention ?",
+   "hi": "क्या यह संकेत किसी क्रिया की शुरुआत दिखाता है, या कुछ अधिक सामान्य, जैसे अपेक्षा या ध्यान देना?",
+   "pt": "Esse sinal marca o início de uma ação, ou algo mais geral como a expectativa ou a atenção?",
+   "zh": "这个信号标志着动作的开始，还是更一般的东西，比如预期或注意？"
+  },
+  {
+   "ar": "لماذا لا يُظهر بعض الناس أي جهد استعداد على الإطلاق؟",
+   "en": "Why do some people show no readiness potential at all?",
+   "es": "¿Por qué algunas personas no muestran ningún potencial de preparación?",
+   "fr": "Pourquoi certaines personnes ne présentent-elles aucun potentiel de préparation motrice ?",
+   "hi": "कुछ लोगों में रेडीनेस पोटेंशियल बिल्कुल क्यों नहीं दिखता?",
+   "pt": "Por que algumas pessoas não mostram nenhum potencial de prontidão?",
+   "zh": "为什么有些人根本没有出现准备电位？"
+  }
  ]
 }

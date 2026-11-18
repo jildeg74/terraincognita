@@ -356,6 +356,178 @@
   {
    "q": "yang-mills",
    "f": "sub"
+  },
+  {
+   "q": "addiction",
+   "f": "src"
+  },
+  {
+   "q": "addiction",
+   "f": "sub"
+  },
+  {
+   "q": "alzheimer",
+   "f": "sub"
+  },
+  {
+   "q": "antibioresistance",
+   "f": "src"
+  },
+  {
+   "q": "antibioresistance",
+   "f": "sub"
+  },
+  {
+   "q": "antibioresistance",
+   "f": "block"
+  },
+  {
+   "q": "autoimmunes",
+   "f": "sub"
+  },
+  {
+   "q": "cancer",
+   "f": "sub"
+  },
+  {
+   "q": "cellule-virtuelle",
+   "f": "src"
+  },
+  {
+   "q": "cellule-virtuelle",
+   "f": "sub"
+  },
+  {
+   "q": "connectome",
+   "f": "src"
+  },
+  {
+   "q": "connectome",
+   "f": "sub"
+  },
+  {
+   "q": "conscience",
+   "f": "sub"
+  },
+  {
+   "q": "depression",
+   "f": "src"
+  },
+  {
+   "q": "depression",
+   "f": "sub"
+  },
+  {
+   "q": "douleur-chronique",
+   "f": "src"
+  },
+  {
+   "q": "douleur-chronique",
+   "f": "sub"
+  },
+  {
+   "q": "genome-fonction",
+   "f": "sub"
+  },
+  {
+   "q": "intelligence-bio",
+   "f": "src"
+  },
+  {
+   "q": "intelligence-bio",
+   "f": "sub"
+  },
+  {
+   "q": "interface-cerveau",
+   "f": "src"
+  },
+  {
+   "q": "interface-cerveau",
+   "f": "sub"
+  },
+  {
+   "q": "libre-arbitre",
+   "f": "sub"
+  },
+  {
+   "q": "memoire",
+   "f": "sub"
+  },
+  {
+   "q": "microbiome",
+   "f": "sub"
+  },
+  {
+   "q": "obesite",
+   "f": "sub"
+  },
+  {
+   "q": "organes",
+   "f": "src"
+  },
+  {
+   "q": "organes",
+   "f": "sub"
+  },
+  {
+   "q": "origine-vie",
+   "f": "sub"
+  },
+  {
+   "q": "paludisme",
+   "f": "src"
+  },
+  {
+   "q": "paludisme",
+   "f": "sub"
+  },
+  {
+   "q": "pandemies",
+   "f": "src"
+  },
+  {
+   "q": "pandemies",
+   "f": "sub"
+  },
+  {
+   "q": "pandemies",
+   "f": "leads"
+  },
+  {
+   "q": "proteines",
+   "f": "sub"
+  },
+  {
+   "q": "regeneration",
+   "f": "sub"
+  },
+  {
+   "q": "reves",
+   "f": "sub"
+  },
+  {
+   "q": "schizophrenie",
+   "f": "src"
+  },
+  {
+   "q": "schizophrenie",
+   "f": "sub"
+  },
+  {
+   "q": "sommeil",
+   "f": "src"
+  },
+  {
+   "q": "sommeil",
+   "f": "sub"
+  },
+  {
+   "q": "vaccin-vih",
+   "f": "sub"
+  },
+  {
+   "q": "vieillissement",
+   "f": "sub"
   }
  ]
 }

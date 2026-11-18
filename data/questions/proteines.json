@@ -70,5 +70,34 @@
    "ty": "study",
    "u": "https://pubmed.ncbi.nlm.nih.gov/34265844/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن لبرامج التصميم أن تتعامل مع الجزيئات الصغيرة التي يجب أن تتمسك بها البروتينات، مثل دواء أو ركيزة؟",
+   "en": "How can design programs handle the small molecules that proteins must grab hold of, such as a drug or a substrate?",
+   "es": "¿Cómo pueden los programas de diseño tener en cuenta las moléculas pequeñas que las proteínas deben sujetar, como un fármaco o un sustrato?",
+   "fr": "Comment les programmes de conception peuvent-ils prendre en compte les petites molécules que les protéines doivent saisir, comme un médicament ou un substrat ?",
+   "hi": "डिज़ाइन प्रोग्राम उन छोटे अणुओं को कैसे संभाल सकते हैं जिन्हें प्रोटीन को पकड़ना होता है, जैसे कोई दवा या सब्सट्रेट?",
+   "pt": "Como os programas de desenho podem lidar com as moléculas pequenas que as proteínas precisam segurar, como um medicamento ou um substrato?",
+   "zh": "蛋白质设计程序如何处理蛋白质必须抓住的小分子，比如药物或底物？"
+  },
+  {
+   "ar": "هل يمكن جعل البروتينات المصممة ترتبط بهدفها المقصود فقط ولا شيء آخر في الجسم؟",
+   "en": "Can designed proteins be made to stick only to their intended target and to nothing else in the body?",
+   "es": "¿Se puede lograr que las proteínas diseñadas se unan solo a su diana prevista y a nada más en el cuerpo?",
+   "fr": "Peut-on faire en sorte que des protéines conçues ne se fixent qu'à leur cible prévue et à rien d'autre dans le corps ?",
+   "hi": "क्या डिज़ाइन किए गए प्रोटीन को ऐसा बनाया जा सकता है कि वे केवल अपने निर्धारित लक्ष्य से जुड़ें और शरीर में किसी और चीज़ से नहीं?",
+   "pt": "É possível fazer com que proteínas desenhadas se liguem apenas ao alvo pretendido e a nada mais no corpo?",
+   "zh": "能否让设计出的蛋白质只结合预定的目标，而不与体内任何其他分子结合？"
+  },
+  {
+   "ar": "لماذا لا تزال طرق التصميم تفشل في أصعب المهام، ولماذا لا تعمل كثير من التصاميم عند تصنيعها فعليًا في المختبر؟",
+   "en": "Why do design methods still fail on the hardest tasks, and why do many designs not work when actually made in the lab?",
+   "es": "¿Por qué los métodos de diseño siguen fallando en las tareas más difíciles, y por qué muchos diseños no funcionan cuando se fabrican en el laboratorio?",
+   "fr": "Pourquoi les méthodes de conception échouent-elles encore sur les tâches les plus difficiles, et pourquoi beaucoup de protéines conçues ne fonctionnent-elles pas une fois fabriquées au laboratoire ?",
+   "hi": "डिज़ाइन के तरीके सबसे कठिन कामों में अब भी क्यों विफल होते हैं, और प्रयोगशाला में वास्तव में बनाए जाने पर कई डिज़ाइन काम क्यों नहीं करते?",
+   "pt": "Por que os métodos de desenho ainda falham nas tarefas mais difíceis, e por que muitos desenhos não funcionam quando realmente produzidos no laboratório?",
+   "zh": "为什么设计方法在最困难的任务上仍会失败，而许多设计在实验室真正制造出来后却不起作用？"
+  }
  ]
 }

@@ -63,5 +63,34 @@
    "ty": "study",
    "u": "https://doi.org/10.1136/egastro-2024-100086"
   }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يؤثر الميكروبيوم بالضبط في الصحة والمرض؟",
+   "en": "How exactly does the microbiome influence health and disease?",
+   "es": "¿Cómo influye exactamente el microbioma en la salud y la enfermedad?",
+   "fr": "Comment le microbiote influence-t-il exactement la santé et la maladie ?",
+   "hi": "माइक्रोबायोम स्वास्थ्य और बीमारी को ठीक-ठीक कैसे प्रभावित करता है?",
+   "pt": "Como exatamente o microbioma influencia a saúde e a doença?",
+   "zh": "微生物组究竟是如何影响健康和疾病的？"
+  },
+  {
+   "ar": "أي قياسات الميكروبيوم موثوقة بما يكفي للتنبؤ بصحة الشخص؟",
+   "en": "Which measurements of the microbiome are reliable enough to predict a person's health?",
+   "es": "¿Qué mediciones del microbioma son lo bastante fiables para predecir la salud de una persona?",
+   "fr": "Quelles mesures du microbiote sont suffisamment fiables pour prédire l'état de santé d'une personne ?",
+   "hi": "माइक्रोबायोम के कौन-से मापन इतने भरोसेमंद हैं कि किसी व्यक्ति के स्वास्थ्य का अनुमान लगाया जा सके?",
+   "pt": "Quais medições do microbioma são confiáveis o suficiente para prever a saúde de uma pessoa?",
+   "zh": "哪些微生物组测量指标足够可靠，可以用来预测一个人的健康状况？"
+  },
+  {
+   "ar": "هل يمكن جعل زرع البراز والعلاجات القائمة على بكتيريا حية آمنة ومتاحة على نطاق واسع؟",
+   "en": "Can fecal transplants and living bacterial treatments be made safe and available on a large scale?",
+   "es": "¿Pueden los trasplantes fecales y los tratamientos con bacterias vivas volverse seguros y estar disponibles a gran escala?",
+   "fr": "Les transplantations fécales et les traitements à base de bactéries vivantes peuvent-ils être rendus sûrs et disponibles à grande échelle ?",
+   "hi": "क्या मल प्रत्यारोपण और जीवित बैक्टीरिया वाले उपचारों को सुरक्षित और बड़े पैमाने पर उपलब्ध बनाया जा सकता है?",
+   "pt": "Os transplantes fecais e os tratamentos com bactérias vivas podem se tornar seguros e disponíveis em larga escala?",
+   "zh": "粪菌移植和活菌疗法能否做到安全并大规模供应？"
+  }
  ]
 }

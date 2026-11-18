@@ -68,5 +68,16 @@
    "ty": "press",
    "u": "https://www.sciencedaily.com/releases/2021/06/210602153417.htm"
   }
+ ],
+ "sub": [
+  {
+   "ar": "ما الذي يمنح خلايا الطرف المتجدد القدرة على تغيير ذاكرتها عن موضعها في الجسم؟",
+   "en": "What gives the cells of a regenerating limb the ability to change their memory of where they are in the body?",
+   "es": "¿Qué permite a las células de una extremidad en regeneración cambiar su memoria de dónde están en el cuerpo?",
+   "fr": "Qu'est-ce qui permet aux cellules d'un membre en régénération de modifier leur mémoire de leur position dans le corps ?",
+   "hi": "पुनर्जनन कर रहे अंग की कोशिकाओं को यह क्षमता किस चीज़ से मिलती है कि वे शरीर में अपनी स्थिति की स्मृति बदल सकें?",
+   "pt": "O que dá às células de um membro em regeneração a capacidade de mudar sua memória de onde estão no corpo?",
+   "zh": "是什么让再生肢体中的细胞能够改变它们对自身在身体中位置的记忆？"
+  }
  ]
 }

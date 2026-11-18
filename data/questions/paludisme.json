@@ -62,6 +62,45 @@
    "t": "Malaria fact sheet (World Health Organization)",
    "ty": "official",
    "u": "https://who.int/news-room/fact-sheets/detail/malaria"
+  },
+  {
+   "t": "Driving down malaria transmission with engineered gene drives",
+   "ty": "reference",
+   "u": "https://www.frontiersin.org/articles/10.3389/fgene.2022.891218/full"
+  },
+  {
+   "t": "Antibody reduces risk of malaria in children",
+   "ty": "official",
+   "u": "https://www.nih.gov/news-events/nih-research-matters/antibody-reduces-risk-malaria-children"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن منع البعوض من تطوير مقاومة للمحرك الجيني؟",
+   "en": "How can mosquitoes be prevented from evolving resistance to a gene drive?",
+   "es": "¿Cómo evitar que los mosquitos desarrollen resistencia a un impulso genético?",
+   "fr": "Comment empêcher les moustiques de développer une résistance à un forçage génétique ?",
+   "hi": "मच्छरों को जीन ड्राइव के प्रति प्रतिरोध विकसित करने से कैसे रोका जाए?",
+   "pt": "Como impedir que os mosquitos desenvolvam resistência a um impulso genético (gene drive)?",
+   "zh": "如何防止蚊子对基因驱动产生抗性？"
+  },
+  {
+   "ar": "هل ستنجح المحركات الجينية في البرية، مع أنه لم يُختبر أي منها بعد في بيئة مفتوحة؟",
+   "en": "Will gene drives work in the wild, when none has yet been tested in the open environment?",
+   "es": "¿Funcionarán los impulsos genéticos en la naturaleza, cuando ninguno se ha probado todavía en un entorno abierto?",
+   "fr": "Les forçages génétiques fonctionneront-ils dans la nature, alors qu'aucun n'a encore été testé en milieu ouvert ?",
+   "hi": "क्या जीन ड्राइव जंगल में काम करेंगे, जबकि अब तक किसी का भी खुले वातावरण में परीक्षण नहीं हुआ है?",
+   "pt": "Os impulsos genéticos funcionarão na natureza, se nenhum foi ainda testado em ambiente aberto?",
+   "zh": "基因驱动在野外会有效吗？毕竟至今还没有一个在开放环境中测试过。"
+  },
+  {
+   "ar": "هل يمكن لمحرك جيني أن ينتشر في مجموعات كاملة من البعوض البري ويقمعها، خصوصًا حيث تتغير الفصول بشدة؟",
+   "en": "Can a gene drive spread through and suppress whole wild mosquito populations, especially where seasons change sharply?",
+   "es": "¿Puede un impulso genético propagarse por poblaciones enteras de mosquitos silvestres y reducirlas, sobre todo donde las estaciones cambian mucho?",
+   "fr": "Un forçage génétique peut-il se propager dans des populations entières de moustiques sauvages et les réduire, surtout là où les saisons sont très marquées ?",
+   "hi": "क्या कोई जीन ड्राइव जंगली मच्छरों की पूरी आबादी में फैलकर उसे दबा सकता है, ख़ासकर वहाँ जहाँ मौसम तेज़ी से बदलते हैं?",
+   "pt": "Um impulso genético pode se espalhar por populações inteiras de mosquitos selvagens e reduzi-las, sobretudo onde as estações mudam bruscamente?",
+   "zh": "基因驱动能否在整个野生蚊群中扩散并压制它们，尤其是在季节变化明显的地区？"
   }
  ]
 }

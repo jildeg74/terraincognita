@@ -68,5 +68,34 @@
    "ty": "press",
    "u": "https://www.bostonglobe.com/2026/08/19/business/moderna-cancer-vaccine-results/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكننا التنبؤ بشكل أفضل بالطفرات الورمية التي ينبغي أن يستهدفها لقاح مخصص؟",
+   "en": "How can we better predict which tumor mutations a personalized vaccine should target?",
+   "es": "¿Cómo predecir mejor a qué mutaciones del tumor debe dirigirse una vacuna personalizada?",
+   "fr": "Comment mieux prédire quelles mutations d'une tumeur un vaccin personnalisé doit cibler ?",
+   "hi": "हम बेहतर ढंग से कैसे अनुमान लगाएँ कि किसी व्यक्तिगत टीके को ट्यूमर के किन उत्परिवर्तनों (म्यूटेशन) को निशाना बनाना चाहिए?",
+   "pt": "Como prever melhor quais mutações do tumor uma vacina personalizada deve atacar?",
+   "zh": "如何更准确地预测个性化疫苗应该针对肿瘤的哪些突变？"
+  },
+  {
+   "ar": "كيف نمنع الأورام من الإفلات من اللقاح بفقدان أهدافه أو بالاختباء من الجهاز المناعي؟",
+   "en": "How can we stop tumors from escaping a vaccine by losing its targets or hiding from the immune system?",
+   "es": "¿Cómo impedir que los tumores escapen de una vacuna perdiendo sus dianas o escondiéndose del sistema inmunitario?",
+   "fr": "Comment empêcher les tumeurs d'échapper à un vaccin en perdant ses cibles ou en se cachant du système immunitaire ?",
+   "hi": "ट्यूमर को अपने लक्ष्य खोकर या प्रतिरक्षा प्रणाली से छिपकर टीके से बच निकलने से कैसे रोका जाए?",
+   "pt": "Como impedir que os tumores escapem de uma vacina perdendo seus alvos ou se escondendo do sistema imunológico?",
+   "zh": "如何阻止肿瘤通过丢失疫苗靶点或躲避免疫系统来逃脱疫苗的作用？"
+  },
+  {
+   "ar": "ما المؤشرات الحيوية التي يمكنها أن تبيّن مسبقًا أي المرضى سيستجيبون للقاح السرطان؟",
+   "en": "Which biological markers can tell in advance which patients will respond to a cancer vaccine?",
+   "es": "¿Qué marcadores biológicos pueden indicar de antemano qué pacientes responderán a una vacuna contra el cáncer?",
+   "fr": "Quels marqueurs biologiques peuvent indiquer à l'avance quels patients répondront à un vaccin contre le cancer ?",
+   "hi": "कौन-से जैविक संकेतक पहले से बता सकते हैं कि कौन-से मरीज़ कैंसर के टीके पर प्रतिक्रिया देंगे?",
+   "pt": "Quais marcadores biológicos podem indicar com antecedência quais pacientes vão responder a uma vacina contra o câncer?",
+   "zh": "哪些生物标志物能提前判断哪些患者会对癌症疫苗产生反应？"
+  }
  ]
 }

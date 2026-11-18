@@ -66,5 +66,34 @@
    "ty": "study",
    "u": "https://pubmed.ncbi.nlm.nih.gov/40307561/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل تشارك مقدمة الدماغ (القشرة الجبهية الأمامية) في كل تجربة واعية، أم في بعضها فقط؟",
+   "en": "Is the front of the brain (prefrontal cortex) involved in every conscious experience, or only in some?",
+   "es": "¿Participa la parte frontal del cerebro (corteza prefrontal) en todas las experiencias conscientes, o solo en algunas?",
+   "fr": "L'avant du cerveau (cortex préfrontal) participe-t-il à toutes les expériences conscientes, ou seulement à certaines ?",
+   "hi": "क्या मस्तिष्क का अगला हिस्सा (प्रीफ़्रंटल कॉर्टेक्स) हर सचेत अनुभव में शामिल होता है, या केवल कुछ में?",
+   "pt": "A parte da frente do cérebro (córtex pré-frontal) participa de todas as experiências conscientes, ou só de algumas?",
+   "zh": "大脑前部（前额叶皮层）是参与所有的意识体验，还是只参与其中一部分？"
+  },
+  {
+   "ar": "كيف يحتفظ الدماغ في التجربة الواعية بتفاصيل مثل اتجاه جسم ما بينما نواصل النظر إليه؟",
+   "en": "How does the brain keep details such as an object's orientation in conscious experience while we keep looking at it?",
+   "es": "¿Cómo mantiene el cerebro en la experiencia consciente detalles como la orientación de un objeto mientras seguimos mirándolo?",
+   "fr": "Comment le cerveau maintient-il dans l'expérience consciente des détails comme l'orientation d'un objet tant que nous continuons à le regarder ?",
+   "hi": "जब हम किसी वस्तु को देखते रहते हैं, तब मस्तिष्क सचेत अनुभव में उसकी दिशा (ओरिएंटेशन) जैसी बारीकियों को कैसे बनाए रखता है?",
+   "pt": "Como o cérebro mantém na experiência consciente detalhes como a orientação de um objeto enquanto continuamos olhando para ele?",
+   "zh": "在我们持续注视一个物体时，大脑如何在意识体验中保持诸如物体朝向之类的细节？"
+  },
+  {
+   "ar": "كيف يمكن دمج نتائج تجارب كثيرة في إطار كمّي واحد للحكم على النظريات المتنافسة حول الوعي؟",
+   "en": "How can results from many experiments be combined in one quantitative framework to judge rival theories of consciousness?",
+   "es": "¿Cómo combinar los resultados de muchos experimentos en un único marco cuantitativo para juzgar las teorías rivales de la conciencia?",
+   "fr": "Comment combiner les résultats de nombreuses expériences dans un cadre quantitatif unique pour juger les théories rivales de la conscience ?",
+   "hi": "चेतना के प्रतिद्वंद्वी सिद्धांतों को परखने के लिए कई प्रयोगों के नतीजों को एक मात्रात्मक ढाँचे में कैसे जोड़ा जाए?",
+   "pt": "Como combinar os resultados de muitos experimentos em um único quadro quantitativo para julgar as teorias rivais da consciência?",
+   "zh": "如何把众多实验的结果整合进一个统一的定量框架，用来评判相互竞争的意识理论？"
+  }
  ]
 }

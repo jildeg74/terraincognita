@@ -5,49 +5,49 @@
   "ar": {
    "block": "كشف تفشي الأمراض الجديدة بطيء وغير متكافئ بشدة في أنحاء العالم.",
    "known": "في عام 2020، صُمّمت لقاحات mRNA في غضون أيام من نشر جينوم الفيروس.",
-   "leads": "مراقبة مياه الصرف الصحي، ولقاحات مُعدّة مسبقًا لعائلات فيروسية بأكملها، ومضادات فيروسات واسعة الطيف.",
+   "leads": "مراقبة مياه الصرف الصحي، ولقاحات مُعدّة مسبقًا لعائلات فيروسية بأكملها.",
    "s": "الوقاية من الجوائح",
    "t": "هل يمكننا إيقاف الجائحة القادمة قبل أن تنتشر؟"
   },
   "en": {
    "block": "Detecting new outbreaks is slow and very unequal across the world.",
    "known": "In 2020, mRNA vaccines were designed within days of the virus's genome being published.",
-   "leads": "Wastewater surveillance, vaccines prepared in advance for whole virus families, broad-spectrum antivirals.",
+   "leads": "Wastewater surveillance, vaccines prepared in advance for whole virus families.",
    "s": "Pandemic prevention",
    "t": "Can we stop the next pandemic before it spreads?"
   },
   "es": {
    "block": "Detectar nuevos brotes es lento y muy desigual en el mundo.",
    "known": "En 2020, las vacunas de ARNm se diseñaron a los pocos días de publicarse el genoma del virus.",
-   "leads": "Vigilancia de aguas residuales, vacunas preparadas de antemano para familias enteras de virus, antivirales de amplio espectro.",
+   "leads": "Vigilancia de aguas residuales, vacunas preparadas de antemano para familias enteras de virus.",
    "s": "Prevención de pandemias",
    "t": "¿Podemos detener la próxima pandemia antes de que se propague?"
   },
   "fr": {
    "block": "La détection des nouvelles épidémies est lente et très inégale selon les pays.",
    "known": "En 2020, des vaccins à ARNm ont été conçus quelques jours après la publication du génome du virus.",
-   "leads": "Surveillance des eaux usées, vaccins préparés d'avance pour des familles entières de virus, antiviraux à large spectre.",
+   "leads": "Surveillance des eaux usées, vaccins préparés d'avance pour des familles entières de virus.",
    "s": "Prévenir les pandémies",
    "t": "Peut-on arrêter la prochaine pandémie avant qu'elle se propage ?"
   },
   "hi": {
    "block": "नए प्रकोपों का पता लगाना धीमा है और दुनिया भर में बहुत असमान है।",
    "known": "2020 में वायरस का जीनोम प्रकाशित होने के कुछ ही दिनों में mRNA टीके डिज़ाइन कर लिए गए।",
-   "leads": "अपशिष्ट जल निगरानी, वायरस के पूरे परिवारों के लिए पहले से तैयार टीके, व्यापक-स्पेक्ट्रम एंटीवायरल।",
+   "leads": "अपशिष्ट जल निगरानी, वायरस के पूरे परिवारों के लिए पहले से तैयार टीके।",
    "s": "महामारी की रोकथाम",
    "t": "क्या हम अगली महामारी को फैलने से पहले रोक सकते हैं?"
   },
   "pt": {
    "block": "A detecção de novos surtos é lenta e muito desigual pelo mundo.",
    "known": "Em 2020, vacinas de mRNA foram projetadas em poucos dias após a publicação do genoma do vírus.",
-   "leads": "Vigilância de esgoto, vacinas preparadas com antecedência para famílias inteiras de vírus, antivirais de amplo espectro.",
+   "leads": "Vigilância de esgoto, vacinas preparadas com antecedência para famílias inteiras de vírus.",
    "s": "Prevenção de pandemias",
    "t": "Podemos deter a próxima pandemia antes que ela se espalhe?"
   },
   "zh": {
    "block": "发现新疫情很慢,而且世界各地极不平等。",
    "known": "2020年,在病毒基因组公布后的几天内,就设计出了mRNA疫苗。",
-   "leads": "污水监测,为整个病毒家族提前准备的疫苗,广谱抗病毒药物。",
+   "leads": "污水监测，为整个病毒家族提前准备的疫苗。",
    "s": "预防大流行",
    "t": "我们能在下一场大流行扩散之前阻止它吗?"
   }
@@ -67,6 +67,40 @@
    "t": "Brief on wastewater surveillance (Brown University Pandemic Center, 2025)",
    "ty": "institution",
    "u": "https://pandemics.sph.brown.edu/news/2025-01-23/wastewater-brief"
+  },
+  {
+   "t": "100-Day Mission for Future Pandemic Vaccines, Viewed Through the Lens of Low- and Middle-Income Countries (LMICs)",
+   "ty": "reference",
+   "u": "https://mdpi.com/2076-393X/13/7/773"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن حقًا تطوير لقاح وتوزيعه خلال 100 يوم من الإبلاغ عن فيروس جديد؟",
+   "en": "Can a vaccine really be developed and delivered within 100 days of a new virus being reported?",
+   "es": "¿Se puede realmente desarrollar y distribuir una vacuna en los 100 días siguientes a la notificación de un nuevo virus?",
+   "fr": "Peut-on vraiment mettre au point et distribuer un vaccin dans les 100 jours suivant le signalement d'un nouveau virus ?",
+   "hi": "क्या किसी नए वायरस की सूचना मिलने के 100 दिनों के भीतर वाकई टीका विकसित करके लोगों तक पहुँचाया जा सकता है?",
+   "pt": "É realmente possível desenvolver e distribuir uma vacina em até 100 dias após a notificação de um novo vírus?",
+   "zh": "真的能在新病毒被报告后的100天内研制并交付疫苗吗？"
+  },
+  {
+   "ar": "كيف يمكن إشراك البلدان الأفقر منذ البداية، حتى لا تؤدي اللقاحات الأسرع إلى توسيع أوجه عدم المساواة القائمة؟",
+   "en": "How can poorer countries be included from the start, so that faster vaccines do not widen existing inequalities?",
+   "es": "¿Cómo incluir a los países más pobres desde el principio, para que vacunas más rápidas no agranden las desigualdades existentes?",
+   "fr": "Comment inclure les pays les plus pauvres dès le départ, pour que des vaccins plus rapides ne creusent pas les inégalités existantes ?",
+   "hi": "गरीब देशों को शुरुआत से ही कैसे शामिल किया जाए, ताकि तेज़ी से बने टीके मौजूदा असमानताओं को और न बढ़ाएँ?",
+   "pt": "Como incluir os países mais pobres desde o início, para que vacinas mais rápidas não aumentem as desigualdades existentes?",
+   "zh": "如何从一开始就把较贫穷的国家纳入进来，使更快的疫苗不会加剧现有的不平等？"
+  },
+  {
+   "ar": "هل يمكن توسيع فحص مياه الصرف الصحي، الذي تتبّع اتجاهات كوفيد-19، لرصد فيروسات خطيرة أخرى ومتحوراتها مبكرًا؟",
+   "en": "Can wastewater testing, which tracked COVID-19 trends, be extended to catch other dangerous viruses and their variants early?",
+   "es": "¿Pueden los análisis de aguas residuales, que siguieron la evolución del COVID-19, ampliarse para detectar a tiempo otros virus peligrosos y sus variantes?",
+   "fr": "Les analyses des eaux usées, qui ont suivi l'évolution du COVID-19, peuvent-elles être étendues pour repérer tôt d'autres virus dangereux et leurs variants ?",
+   "hi": "क्या COVID-19 के रुझानों पर नज़र रखने वाली गंदे पानी (अपशिष्ट जल) की जाँच को अन्य ख़तरनाक वायरसों और उनके वेरिएंट को जल्दी पकड़ने तक बढ़ाया जा सकता है?",
+   "pt": "A análise de águas residuais, que acompanhou as tendências da COVID-19, pode ser ampliada para detectar cedo outros vírus perigosos e suas variantes?",
+   "zh": "曾用于追踪新冠疫情趋势的污水检测，能否扩展到及早发现其他危险病毒及其变异株？"
   }
  ]
 }

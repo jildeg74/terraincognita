@@ -4,50 +4,50 @@
  "i18n": {
   "ar": {
    "block": "لا نعرف أي الفروق هي المهمة فعلًا.",
-   "known": "للبشر عدد كبير من الخلايا العصبية في القشرة الدماغية وطفولة طويلة، لكن حيوانات أخرى تستخدم الأدوات وتخطط أيضًا.",
-   "leads": "مقارنة عُضيّات دماغية بشرية وأخرى للقردة العليا، ومقارنات مع الذكاء الاصطناعي.",
+   "known": "للبشر عدد كبير من الخلايا العصبية في القشرة الدماغية وطفولة طويلة.",
+   "leads": "مقارنة عُضيّات دماغية بشرية وأخرى للقردة العليا.",
    "s": "الذكاء البشري",
    "t": "ما الذي يميّز الذكاء البشري عن ذكاء الحيوانات الأخرى؟"
   },
   "en": {
    "block": "We don't know which differences actually matter.",
-   "known": "Humans have many neurons in the cortex and a long childhood, but other animals also use tools and plan.",
-   "leads": "Comparing human and ape brain organoids, comparisons with artificial intelligence.",
+   "known": "Humans have many neurons in the cortex and a long childhood.",
+   "leads": "Comparing human and ape brain organoids.",
    "s": "Human intelligence",
    "t": "What makes human intelligence different from other animals'?"
   },
   "es": {
    "block": "No sabemos qué diferencias importan realmente.",
-   "known": "Los humanos tienen muchas neuronas en la corteza y una infancia larga, pero otros animales también usan herramientas y planifican.",
-   "leads": "Comparación de organoides cerebrales humanos y de simios, comparaciones con la inteligencia artificial.",
+   "known": "Los humanos tienen muchas neuronas en la corteza y una infancia larga.",
+   "leads": "Comparación de organoides cerebrales humanos y de simios.",
    "s": "Inteligencia humana",
    "t": "¿Qué hace que la inteligencia humana sea diferente de la de otros animales?"
   },
   "fr": {
    "block": "On ne sait pas quelles différences comptent vraiment.",
-   "known": "L'humain a beaucoup de neurones dans le cortex et une longue enfance, mais d'autres animaux utilisent aussi des outils et planifient.",
-   "leads": "Comparer des organoïdes de cerveau humain et de grand singe, comparaisons avec l'intelligence artificielle.",
+   "known": "L'humain a beaucoup de neurones dans le cortex et une longue enfance.",
+   "leads": "Comparer des organoïdes de cerveau humain et de grand singe.",
    "s": "Intelligence humaine",
    "t": "Qu'est-ce qui rend l'intelligence humaine différente de celle des autres animaux ?"
   },
   "hi": {
    "block": "हमें नहीं पता कि वास्तव में कौन-से अंतर मायने रखते हैं।",
-   "known": "मनुष्यों के कॉर्टेक्स में बहुत से न्यूरॉन होते हैं और बचपन लंबा होता है, लेकिन अन्य जानवर भी औज़ार इस्तेमाल करते हैं और योजना बनाते हैं।",
-   "leads": "मानव और वानर के ब्रेन ऑर्गेनॉइड की तुलना, कृत्रिम बुद्धिमत्ता से तुलना।",
+   "known": "मनुष्यों के कॉर्टेक्स में बहुत से न्यूरॉन होते हैं और बचपन लंबा होता है।",
+   "leads": "मानव और वानर के ब्रेन ऑर्गेनॉइड की तुलना।",
    "s": "मानव बुद्धि",
    "t": "मानव बुद्धि को अन्य जानवरों की बुद्धि से क्या अलग बनाता है?"
   },
   "pt": {
    "block": "Não sabemos quais diferenças realmente importam.",
-   "known": "Os humanos têm muitos neurônios no córtex e uma infância longa, mas outros animais também usam ferramentas e planejam.",
-   "leads": "Comparação entre organoides cerebrais de humanos e de macacos, comparações com a inteligência artificial.",
+   "known": "Os humanos têm muitos neurônios no córtex e uma infância longa.",
+   "leads": "Comparação entre organoides cerebrais de humanos e de macacos.",
    "s": "Inteligência humana",
    "t": "O que torna a inteligência humana diferente da de outros animais?"
   },
   "zh": {
    "block": "我们不知道究竟哪些差异才是关键。",
-   "known": "人类的大脑皮层有很多神经元,童年也很漫长,但其他动物同样会使用工具和做计划。",
-   "leads": "比较人类与猿类的脑类器官,与人工智能作比较。",
+   "known": "人类的大脑皮层有很多神经元，童年也很漫长。",
+   "leads": "比较人类与猿类的脑类器官。",
    "s": "人类智能",
    "t": "是什么让人类智能不同于其他动物?"
   }
@@ -63,6 +63,31 @@
    "t": "What makes us human? Comparing brain development in humans and great apes (TU Dresden, 2026)",
    "ty": "institution",
    "u": "https://tu-dresden.de/tu-dresden/newsportal/news/what-makes-us-human-researchers-compare-brain-development-in-humans-and-great-apes"
+  },
+  {
+   "t": "Genetics of human brain development",
+   "ty": "reference",
+   "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10926850"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "ما الجينات ومناطق الحمض النووي الخاصة بالإنسان التي جعلت قشرتنا الدماغية أكبر، بخلاف الحفنة التي دُرست حتى الآن؟",
+   "en": "Which human-specific genes and DNA regions made our cortex grow larger, beyond the handful studied so far?",
+   "es": "¿Qué genes y regiones de ADN propios del ser humano hicieron crecer nuestra corteza, más allá del puñado estudiado hasta ahora?",
+   "fr": "Quels gènes et régions d'ADN propres à l'humain ont fait grandir notre cortex, au-delà de la poignée étudiée jusqu'ici ?",
+   "hi": "अब तक अध्ययन किए गए कुछ गिने-चुने जीनों के अलावा, कौन-से मनुष्य-विशिष्ट जीन और DNA क्षेत्र हमारे कॉर्टेक्स को बड़ा बनाने के लिए ज़िम्मेदार हैं?",
+   "pt": "Quais genes e regiões de DNA exclusivos dos humanos fizeram nosso córtex crescer, além do punhado estudado até agora?",
+   "zh": "除了目前研究过的少数几个之外，还有哪些人类特有的基因和DNA区域让我们的大脑皮层变大？"
+  },
+  {
+   "ar": "هل تغيّر التعديلات الجينية التي تبدّل البنية الفيزيائية للدماغ فعلًا القدرات المعقدة مثل التفكير والسلوك؟",
+   "en": "Do genetic changes that alter the brain's physical structure actually change complex abilities such as thinking and behavior?",
+   "es": "¿Los cambios genéticos que alteran la estructura física del cerebro cambian realmente capacidades complejas como el pensamiento y la conducta?",
+   "fr": "Les changements génétiques qui modifient la structure physique du cerveau changent-ils réellement des capacités complexes comme la pensée et le comportement ?",
+   "hi": "क्या मस्तिष्क की भौतिक संरचना बदलने वाले आनुवंशिक बदलाव वास्तव में सोचने और व्यवहार जैसी जटिल क्षमताओं को बदलते हैं?",
+   "pt": "As mudanças genéticas que alteram a estrutura física do cérebro realmente mudam capacidades complexas como o pensamento e o comportamento?",
+   "zh": "改变大脑物理结构的基因变化，是否真的会改变思维和行为等复杂能力？"
   }
  ]
 }

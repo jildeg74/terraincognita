@@ -69,5 +69,34 @@
    "ty": "institution",
    "u": "https://www.salk.edu/news-release/turning-back-time-salk-scientists-reverse-signs-aging/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "أيٌّ من عوامل ياماناكا لإعادة البرمجة هي التي تقود فعلًا تجديد شباب الخلايا؟",
+   "en": "Which of the Yamanaka reprogramming factors actually drive the rejuvenation of cells?",
+   "es": "¿Cuáles de los factores de reprogramación de Yamanaka impulsan realmente el rejuvenecimiento de las células?",
+   "fr": "Lesquels des facteurs de reprogrammation de Yamanaka sont réellement responsables du rajeunissement des cellules ?",
+   "hi": "यामानाका के रीप्रोग्रामिंग कारकों में से कौन-से वास्तव में कोशिकाओं को फिर से युवा बनाते हैं?",
+   "pt": "Quais dos fatores de reprogramação de Yamanaka realmente impulsionam o rejuvenescimento das células?",
+   "zh": "山中因子中究竟哪些真正推动了细胞的年轻化？"
+  },
+  {
+   "ar": "هل يمكن تجديد شباب الخلايا من دون أن تفقد هويتها ومن دون خطر الإصابة بالأورام؟",
+   "en": "Can cells be made younger without losing their identity and without the risk of tumors?",
+   "es": "¿Se puede rejuvenecer a las células sin que pierdan su identidad y sin riesgo de tumores?",
+   "fr": "Peut-on rajeunir des cellules sans qu'elles perdent leur identité et sans risque de tumeurs ?",
+   "hi": "क्या कोशिकाओं को उनकी पहचान खोए बिना और ट्यूमर के जोखिम के बिना युवा बनाया जा सकता है?",
+   "pt": "É possível rejuvenescer as células sem que percam sua identidade e sem risco de tumores?",
+   "zh": "能否让细胞变年轻，同时不让它们失去自身身份，也没有长肿瘤的风险？"
+  },
+  {
+   "ar": "هل تقيس الساعات فوق الجينية تجديد الشباب الحقيقي، أم مجرد شيء يرافق التقدم في العمر؟",
+   "en": "Do epigenetic clocks measure true rejuvenation, or only something that goes along with age?",
+   "es": "¿Miden los relojes epigenéticos un verdadero rejuvenecimiento, o solo algo que acompaña a la edad?",
+   "fr": "Les horloges épigénétiques mesurent-elles un vrai rajeunissement, ou seulement quelque chose qui accompagne l'âge ?",
+   "hi": "क्या एपिजेनेटिक घड़ियाँ असली कायाकल्प को मापती हैं, या बस किसी ऐसी चीज़ को जो उम्र के साथ बदलती है?",
+   "pt": "Os relógios epigenéticos medem um rejuvenescimento verdadeiro, ou apenas algo que acompanha a idade?",
+   "zh": "表观遗传时钟测量的是真正的年轻化，还是仅仅是与年龄相伴的某种变化？"
+  }
  ]
 }

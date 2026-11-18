@@ -62,6 +62,40 @@
    "t": "An accurate and rapidly calibrating speech neuroprosthesis (NEJM, 2024)",
    "ty": "study",
    "u": "https://pubmed.ncbi.nlm.nih.gov/39141853/"
+  },
+  {
+   "t": "The state of clinical trials of implantable brain–computer interfaces",
+   "ty": "reference",
+   "u": "https://par.nsf.gov/servlets/purl/10617413"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن للأقطاب الكهربائية المزروعة في الدماغ أن تواصل العمل بموثوقية طوال حياة الشخص؟",
+   "en": "Can electrodes implanted in the brain keep working reliably for a person's whole life?",
+   "es": "¿Pueden los electrodos implantados en el cerebro seguir funcionando de forma fiable durante toda la vida de una persona?",
+   "fr": "Des électrodes implantées dans le cerveau peuvent-elles continuer à fonctionner de façon fiable toute la vie d'une personne ?",
+   "hi": "क्या मस्तिष्क में लगाए गए इलेक्ट्रोड किसी व्यक्ति के पूरे जीवनकाल तक भरोसेमंद ढंग से काम करते रह सकते हैं?",
+   "pt": "Eletrodos implantados no cérebro podem continuar funcionando de forma confiável durante toda a vida de uma pessoa?",
+   "zh": "植入大脑的电极能否在一个人的一生中都可靠地持续工作？"
+  },
+  {
+   "ar": "ما أقل عدد من الإشارات الدماغية يكفي فعلًا للتحكم في جهاز بدقة؟",
+   "en": "How few brain signals are actually enough to control a device accurately?",
+   "es": "¿Cuántas señales cerebrales bastan realmente, como mínimo, para controlar un dispositivo con precisión?",
+   "fr": "Combien de signaux cérébraux, au minimum, suffisent réellement pour contrôler un appareil avec précision ?",
+   "hi": "किसी उपकरण को सटीकता से नियंत्रित करने के लिए वास्तव में कम-से-कम कितने मस्तिष्क संकेत पर्याप्त हैं?",
+   "pt": "Quantos sinais cerebrais, no mínimo, são realmente suficientes para controlar um aparelho com precisão?",
+   "zh": "究竟需要多少脑信号才足以精确控制一台设备？"
+  },
+  {
+   "ar": "كيف يمكن لتجارب الغرسات الدماغية أن تضم تنوعًا عادلًا من الناس، بما أن النساء كنّ ممثّلات تمثيلًا ناقصًا حتى الآن؟",
+   "en": "How can brain implant trials include a fair range of people, since women have been underrepresented so far?",
+   "es": "¿Cómo pueden los ensayos de implantes cerebrales incluir una variedad justa de personas, dado que las mujeres han estado infrarrepresentadas hasta ahora?",
+   "fr": "Comment les essais d'implants cérébraux peuvent-ils inclure un éventail équitable de personnes, alors que les femmes y ont été jusqu'ici sous-représentées ?",
+   "hi": "चूँकि अब तक महिलाओं का प्रतिनिधित्व कम रहा है, मस्तिष्क इम्प्लांट के परीक्षणों में लोगों की उचित विविधता कैसे शामिल की जाए?",
+   "pt": "Como os ensaios de implantes cerebrais podem incluir uma variedade justa de pessoas, já que as mulheres têm sido sub-representadas até agora?",
+   "zh": "鉴于迄今为止女性参与者偏少，脑植入试验如何才能纳入更具代表性的人群？"
   }
  ]
 }

@@ -64,5 +64,25 @@
    "ty": "study",
    "u": "https://pubmed.ncbi.nlm.nih.gov/33567185/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "ما الدوائر الدماغية المسؤولة عن فقدان الوزن الذي تسببه أدوية GLP-1؟",
+   "en": "Which brain circuits are responsible for the weight loss caused by GLP-1 drugs?",
+   "es": "¿Qué circuitos cerebrales son responsables de la pérdida de peso que provocan los fármacos GLP-1?",
+   "fr": "Quels circuits cérébraux sont responsables de la perte de poids provoquée par les médicaments GLP-1 ?",
+   "hi": "GLP-1 दवाओं से होने वाले वज़न घटने के लिए मस्तिष्क के कौन-से सर्किट ज़िम्मेदार हैं?",
+   "pt": "Quais circuitos cerebrais são responsáveis pela perda de peso causada pelos medicamentos GLP-1?",
+   "zh": "GLP-1类药物引起的体重下降是由哪些脑回路负责的？"
+  },
+  {
+   "ar": "لماذا يفقد نحو 10–15% من متناولي سيماغلوتيد قليلًا من الوزن أو لا يفقدون شيئًا؟",
+   "en": "Why do about 10–15% of people on semaglutide lose little or no weight?",
+   "es": "¿Por qué alrededor del 10–15 % de las personas que toman semaglutida pierden poco o ningún peso?",
+   "fr": "Pourquoi environ 10 à 15 % des personnes sous sémaglutide perdent-elles peu ou pas de poids ?",
+   "hi": "सेमाग्लूटाइड लेने वाले लगभग 10–15% लोगों का वज़न बहुत कम या बिल्कुल क्यों नहीं घटता?",
+   "pt": "Por que cerca de 10–15% das pessoas que usam semaglutida perdem pouco ou nenhum peso?",
+   "zh": "为什么大约10–15%使用司美格鲁肽的人体重几乎没有下降？"
+  }
  ]
 }

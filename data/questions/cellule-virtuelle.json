@@ -63,6 +63,40 @@
    "t": "Team simulates a living cell that grows and divides (University of Illinois, 2026)",
    "ty": "institution",
    "u": "https://chemistry.illinois.edu/news/2026-03-09/team-simulates-living-cell-grows-and-divides"
+  },
+  {
+   "t": "Bringing the genetically minimal cell to life on a computer in 4D",
+   "ty": "study",
+   "u": "https://www.jcvi.org/publications/bringing-genetically-minimal-cell-life-computer-4d"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف تُوزَّع كروموسومات الخلية الدنيا بشكل صحيح بين الخليتين الوليدتين؟",
+   "en": "How do the chromosomes of a minimal cell get shared out correctly between the two daughter cells?",
+   "es": "¿Cómo se reparten correctamente los cromosomas de una célula mínima entre las dos células hijas?",
+   "fr": "Comment les chromosomes d'une cellule minimale sont-ils correctement répartis entre les deux cellules filles ?",
+   "hi": "एक न्यूनतम कोशिका के गुणसूत्र दोनों संतति कोशिकाओं में सही तरह से कैसे बँटते हैं?",
+   "pt": "Como os cromossomos de uma célula mínima são repartidos corretamente entre as duas células-filhas?",
+   "zh": "最简细胞的染色体是如何被正确分配到两个子细胞中的？"
+  },
+  {
+   "ar": "ما الذي يسبب التبرعمات الغريبة وأشكال «الخلية داخل الخلية» التي تُرى في الخلية الدنيا؟",
+   "en": "What causes the strange budding and 'cell-inside-a-cell' shapes seen in the minimal cell?",
+   "es": "¿Qué causa las extrañas gemaciones y formas de «célula dentro de una célula» observadas en la célula mínima?",
+   "fr": "Qu'est-ce qui provoque les étranges bourgeonnements et formes de « cellule dans la cellule » observés chez la cellule minimale ?",
+   "hi": "न्यूनतम कोशिका में दिखने वाली अजीब कलिकाएँ (बडिंग) और 'कोशिका के अंदर कोशिका' जैसी आकृतियाँ किस कारण बनती हैं?",
+   "pt": "O que causa os estranhos brotamentos e formas de «célula dentro de uma célula» observados na célula mínima?",
+   "zh": "最简细胞中出现的奇怪出芽和“细胞套细胞”形态是什么原因造成的？"
+  },
+  {
+   "ar": "كيف يمكن جعل محاكاة الخلايا الكاملة رخيصة بما يكفي من حيث القدرة الحاسوبية لنمذجة خلايا كثيرة وليس بضع خلايا فقط؟",
+   "en": "How can whole-cell simulations become cheap enough in computing power to model many cells, not just a few?",
+   "es": "¿Cómo lograr que las simulaciones de células completas sean lo bastante baratas en potencia de cálculo para modelar muchas células y no solo unas pocas?",
+   "fr": "Comment rendre les simulations de cellules entières assez peu coûteuses en calcul pour modéliser de nombreuses cellules, et pas seulement quelques-unes ?",
+   "hi": "पूरी कोशिका के सिमुलेशन को कंप्यूटिंग के मामले में इतना सस्ता कैसे बनाया जाए कि कुछ ही नहीं, बल्कि बहुत सारी कोशिकाओं को मॉडल किया जा सके?",
+   "pt": "Como tornar as simulações de células inteiras baratas o suficiente em poder de computação para modelar muitas células, e não apenas algumas?",
+   "zh": "如何让全细胞模拟所需的计算量足够小，从而能模拟大量细胞而不只是几个？"
   }
  ]
 }

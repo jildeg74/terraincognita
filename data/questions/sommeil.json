@@ -64,6 +64,31 @@
    "t": "Why is sleep important? The brain's glymphatic system (University of Rochester)",
    "ty": "institution",
    "u": "https://www.rochester.edu/newscenter/why-is-sleep-important-brain-glymphatic-system-692222"
+  },
+  {
+   "t": "The new science of sleep: From cells to large-scale societies",
+   "ty": "reference",
+   "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11230563/"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل لا يدفع حقًا «قليلو النوم بالفطرة» النادرون أي ثمن صحي مقابل نومهم أقل بكثير؟",
+   "en": "Do rare 'natural short sleepers' really pay no health cost for sleeping much less?",
+   "es": "¿Los raros «dormidores cortos naturales» realmente no pagan ningún precio en salud por dormir mucho menos?",
+   "fr": "Les rares « petits dormeurs naturels » ne paient-ils vraiment aucun prix pour leur santé en dormant beaucoup moins ?",
+   "hi": "क्या दुर्लभ 'प्राकृतिक रूप से कम सोने वाले' लोग बहुत कम सोने की कोई स्वास्थ्य क़ीमत सच में नहीं चुकाते?",
+   "pt": "Os raros «dormidores curtos naturais» realmente não pagam nenhum preço em saúde por dormir muito menos?",
+   "zh": "少数“天生短睡者”睡得少得多，是否真的对健康毫无代价？"
+  },
+  {
+   "ar": "لماذا يبدو أن قليلي النوم بالفطرة هؤلاء يحتاجون إلى قدر أقل من نوم حركة العين السريعة (نوم الأحلام)؟",
+   "en": "Why do these natural short sleepers seem to need less REM (dreaming) sleep?",
+   "es": "¿Por qué estos dormidores cortos naturales parecen necesitar menos sueño REM (el de los sueños)?",
+   "fr": "Pourquoi ces petits dormeurs naturels semblent-ils avoir besoin de moins de sommeil paradoxal (sommeil des rêves) ?",
+   "hi": "ऐसा क्यों लगता है कि इन प्राकृतिक रूप से कम सोने वाले लोगों को कम REM (सपनों वाली) नींद की ज़रूरत होती है?",
+   "pt": "Por que esses dormidores curtos naturais parecem precisar de menos sono REM (o dos sonhos)?",
+   "zh": "为什么这些天生短睡者似乎需要更少的快速眼动（做梦）睡眠？"
   }
  ]
 }

@@ -69,5 +69,34 @@
    "ty": "press",
    "u": "https://daily.jstor.org/the-ocean-vents-where-life-on-earth-likely-began"
   }
+ ],
+ "sub": [
+  {
+   "ar": "كيف أمكن أن تتكوّن لبنات البيورين في الحمض النووي الريبي (مثل A وG) من دون إنزيمات؟",
+   "en": "How could the purine building blocks of RNA (such as A and G) form without enzymes?",
+   "es": "¿Cómo pudieron formarse sin enzimas los componentes púricos del ARN (como A y G)?",
+   "fr": "Comment les briques puriques de l'ARN (comme A et G) ont-elles pu se former sans enzymes ?",
+   "hi": "RNA के प्यूरीन निर्माण-खंड (जैसे A और G) बिना एंज़ाइम के कैसे बन सकते थे?",
+   "pt": "Como os blocos de purina do RNA (como A e G) puderam se formar sem enzimas?",
+   "zh": "RNA的嘌呤构件（如A和G）在没有酶的情况下是如何形成的？"
+  },
+  {
+   "ar": "هل يمكن لخيوط الحمض النووي الريبي أن تترابط في سلاسل داخل فقاعات مائية شبيهة بالخلايا (خلايا أولية)؟",
+   "en": "Can RNA strands link up into chains inside watery, cell-like bubbles (protocells)?",
+   "es": "¿Pueden las hebras de ARN unirse en cadenas dentro de burbujas acuosas parecidas a células (protocélulas)?",
+   "fr": "Des brins d'ARN peuvent-ils s'assembler en chaînes à l'intérieur de bulles aqueuses ressemblant à des cellules (protocellules) ?",
+   "hi": "क्या RNA के टुकड़े पानी से भरे, कोशिका जैसे बुलबुलों (प्रोटोसेल) के अंदर जुड़कर लंबी शृंखलाएँ बना सकते हैं?",
+   "pt": "Fitas de RNA podem se unir em cadeias dentro de bolhas aquosas semelhantes a células (protocélulas)?",
+   "zh": "RNA片段能否在充满水的类细胞小泡（原始细胞）内部连接成长链？"
+  },
+  {
+   "ar": "مِمّ كانت تتكوّن أغشية آخر سلف مشترك عام لكل أشكال الحياة (LUCA)؟",
+   "en": "What were the membranes of the last universal common ancestor of all life (LUCA) made of?",
+   "es": "¿De qué estaban hechas las membranas del último antepasado común universal de todos los seres vivos (LUCA)?",
+   "fr": "De quoi étaient faites les membranes du dernier ancêtre commun universel de tous les êtres vivants (LUCA) ?",
+   "hi": "सभी जीवों के अंतिम सार्वभौमिक साझा पूर्वज (LUCA) की झिल्लियाँ किससे बनी थीं?",
+   "pt": "Do que eram feitas as membranas do último ancestral comum universal de todos os seres vivos (LUCA)?",
+   "zh": "所有生命的最后共同祖先（LUCA）的细胞膜是由什么构成的？"
+  }
  ]
 }

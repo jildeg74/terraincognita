@@ -64,5 +64,25 @@
    "ty": "study",
    "u": "https://hal.sorbonne-universite.fr/hal-03154112"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل يعود الحلم بأي فائدة على طريقة عمل الدماغ؟",
+   "en": "Does dreaming bring any benefit to how the brain works?",
+   "es": "¿Aporta soñar algún beneficio al funcionamiento del cerebro?",
+   "fr": "Le fait de rêver apporte-t-il un quelconque bénéfice au fonctionnement du cerveau ?",
+   "hi": "क्या सपने देखने से मस्तिष्क के काम करने में कोई फ़ायदा होता है?",
+   "pt": "Sonhar traz algum benefício para o funcionamento do cérebro?",
+   "zh": "做梦对大脑的运作有任何益处吗？"
+  },
+  {
+   "ar": "هل التواصل في الاتجاهين مع شخص نائم ممكن فقط أثناء الأحلام الواعية، أم في الأحلام العادية أيضًا؟",
+   "en": "Is two-way communication with a sleeping person possible only during lucid dreams, or also in ordinary ones?",
+   "es": "¿La comunicación en ambos sentidos con una persona dormida solo es posible durante los sueños lúcidos, o también en los sueños corrientes?",
+   "fr": "La communication dans les deux sens avec une personne endormie n'est-elle possible que pendant les rêves lucides, ou aussi pendant les rêves ordinaires ?",
+   "hi": "क्या सोते हुए व्यक्ति के साथ दोतरफ़ा संवाद केवल स्पष्ट (ल्यूसिड) सपनों के दौरान संभव है, या साधारण सपनों में भी?",
+   "pt": "A comunicação nos dois sentidos com uma pessoa adormecida só é possível durante os sonhos lúcidos, ou também nos sonhos comuns?",
+   "zh": "与睡梦中的人进行双向交流，是只在清醒梦中才可能，还是在普通梦中也可以？"
+  }
  ]
 }

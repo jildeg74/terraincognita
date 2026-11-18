@@ -62,6 +62,40 @@
    "t": "FDA approves drug with new mechanism of action for treatment of schizophrenia (U.S. FDA, 2024)",
    "ty": "official",
    "u": "https://www.fda.gov/news-events/press-announcements/fda-approves-drug-new-mechanism-action-treatment-schizophrenia"
+  },
+  {
+   "t": "Rethinking the First Episode of Schizophrenia: Identifying Convergent Mechanisms During Development and Moving Toward Prediction",
+   "ty": "reference",
+   "u": "https://psychiatryonline.org/doi/10.1176/appi.ajp.20230736"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن للمؤشرات الحيوية أن تتنبأ بأي من الشباب المعرضين لخطر مرتفع سيصابون فعلًا بالذهان؟",
+   "en": "Can biological markers predict which young people at high risk will actually develop psychosis?",
+   "es": "¿Pueden los marcadores biológicos predecir qué jóvenes de alto riesgo desarrollarán realmente una psicosis?",
+   "fr": "Des marqueurs biologiques peuvent-ils prédire quels jeunes à haut risque développeront réellement une psychose ?",
+   "hi": "क्या जैविक संकेतक यह बता सकते हैं कि उच्च जोखिम वाले कौन-से युवा वास्तव में साइकोसिस विकसित करेंगे?",
+   "pt": "Marcadores biológicos podem prever quais jovens de alto risco vão realmente desenvolver psicose?",
+   "zh": "生物标志物能否预测哪些高风险年轻人真的会发展出精神病？"
+  },
+  {
+   "ar": "هل يضر تعاطي القنب في المراهقة بالدماغ البشري النامي كما يحدث في الدراسات على الحيوانات؟",
+   "en": "Does cannabis use in adolescence harm the developing human brain the way it does in animal studies?",
+   "es": "¿El consumo de cannabis en la adolescencia daña el cerebro humano en desarrollo como ocurre en los estudios con animales?",
+   "fr": "La consommation de cannabis à l'adolescence nuit-elle au cerveau humain en développement comme dans les études sur l'animal ?",
+   "hi": "क्या किशोरावस्था में भांग (कैनबिस) का सेवन विकसित हो रहे मानव मस्तिष्क को वैसे ही नुकसान पहुँचाता है जैसे पशु अध्ययनों में देखा गया है?",
+   "pt": "O uso de cannabis na adolescência prejudica o cérebro humano em desenvolvimento como acontece nos estudos com animais?",
+   "zh": "青少年时期使用大麻是否会像动物研究中那样损害正在发育的人类大脑？"
+  },
+  {
+   "ar": "كيف يمكن جعل درجات الخطر الجيني تعمل بالكفاءة نفسها لدى الأشخاص من أصول غير أوروبية؟",
+   "en": "How can genetic risk scores be made to work as well for people of non-European ancestry?",
+   "es": "¿Cómo lograr que las puntuaciones de riesgo genético funcionen igual de bien para personas de ascendencia no europea?",
+   "fr": "Comment faire pour que les scores de risque génétique fonctionnent aussi bien pour les personnes d'ascendance non européenne ?",
+   "hi": "आनुवंशिक जोखिम स्कोर को गैर-यूरोपीय वंश के लोगों के लिए भी उतना ही कारगर कैसे बनाया जाए?",
+   "pt": "Como fazer as pontuações de risco genético funcionarem tão bem para pessoas de ascendência não europeia?",
+   "zh": "如何让基因风险评分对非欧洲血统的人同样有效？"
   }
  ]
 }

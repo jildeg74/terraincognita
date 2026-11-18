@@ -69,5 +69,34 @@
    "ty": "press",
    "u": "https://www.scientificamerican.com/article/another-new-alzheimers-drug-what-promising-trial-results-mean-for-treatment/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل يساهم النوم السيئ في تراكم بروتين تاو، أم أن تاو يُخلّ بالنوم، أم الأمران معًا؟",
+   "en": "Does poor sleep help cause the build-up of tau protein, does tau disturb sleep, or both?",
+   "es": "¿Dormir mal favorece la acumulación de la proteína tau, la tau altera el sueño, o ambas cosas?",
+   "fr": "Un mauvais sommeil favorise-t-il l'accumulation de la protéine tau, la protéine tau perturbe-t-elle le sommeil, ou les deux ?",
+   "hi": "क्या ख़राब नींद टाउ प्रोटीन के जमाव में योगदान देती है, या टाउ नींद को बिगाड़ता है, या दोनों?",
+   "pt": "O sono ruim favorece o acúmulo da proteína tau, a tau perturba o sono, ou ambos?",
+   "zh": "是睡眠不好促成了tau蛋白的堆积，还是tau蛋白扰乱了睡眠，抑或两者兼有？"
+  },
+  {
+   "ar": "لماذا تختلف الدراسات حول ما إذا كانت علامات الالتهاب في الدم أعلى لدى المصابين بألزهايمر؟",
+   "en": "Why do studies disagree on whether signs of inflammation in the blood are higher in people with Alzheimer's?",
+   "es": "¿Por qué los estudios no coinciden en si los signos de inflamación en la sangre son más altos en las personas con alzhéimer?",
+   "fr": "Pourquoi les études ne s'accordent-elles pas sur la présence de signes d'inflammation plus élevés dans le sang des personnes atteintes d'Alzheimer ?",
+   "hi": "अध्ययन इस बात पर असहमत क्यों हैं कि अल्ज़ाइमर वाले लोगों के ख़ून में सूजन (इन्फ्लेमेशन) के संकेत अधिक होते हैं या नहीं?",
+   "pt": "Por que os estudos discordam sobre se os sinais de inflamação no sangue são mais altos em pessoas com Alzheimer?",
+   "zh": "为什么关于阿尔茨海默病患者血液中炎症指标是否升高，各项研究结论不一？"
+  },
+  {
+   "ar": "كيف يغيّر النظام الغذائي بالضبط خطر الإصابة بمرض ألزهايمر؟",
+   "en": "How exactly does diet change the risk of developing Alzheimer's?",
+   "es": "¿Cómo cambia exactamente la alimentación el riesgo de desarrollar alzhéimer?",
+   "fr": "Comment l'alimentation modifie-t-elle exactement le risque de développer la maladie d'Alzheimer ?",
+   "hi": "आहार अल्ज़ाइमर होने के जोखिम को ठीक-ठीक कैसे बदलता है?",
+   "pt": "Como exatamente a alimentação altera o risco de desenvolver Alzheimer?",
+   "zh": "饮食究竟是如何改变患阿尔茨海默病的风险的？"
+  }
  ]
 }

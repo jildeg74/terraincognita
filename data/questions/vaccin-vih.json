@@ -68,5 +68,34 @@
    "ty": "press",
    "u": "https://www.npr.org/sections/goats-and-soda/2025/06/18/g-s1-73130/hiv-prevention-drug-lenacapavir-fda-breakthrough"
   }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن للقاح أن يوقظ بشكل موثوق الخلايا البائية «الأولية» النادرة القادرة على أن تصبح منتجة لأجسام مضادة واسعة التحييد؟",
+   "en": "How can a vaccine reliably wake up the rare 'starter' B cells that could grow into makers of broadly neutralizing antibodies?",
+   "es": "¿Cómo puede una vacuna activar de forma fiable los escasos linfocitos B «iniciales» capaces de convertirse en productores de anticuerpos ampliamente neutralizantes?",
+   "fr": "Comment un vaccin peut-il activer de façon fiable les rares lymphocytes B « de départ » capables de devenir des producteurs d'anticorps largement neutralisants ?",
+   "hi": "कोई टीका उन दुर्लभ 'शुरुआती' B कोशिकाओं को भरोसेमंद ढंग से कैसे सक्रिय करे, जो आगे चलकर व्यापक रूप से निष्क्रिय करने वाली एंटीबॉडी बनाने वाली कोशिकाएँ बन सकती हैं?",
+   "pt": "Como uma vacina pode ativar de forma confiável os raros linfócitos B «iniciais» capazes de se tornar produtores de anticorpos amplamente neutralizantes?",
+   "zh": "疫苗如何才能可靠地激活那些稀少的“起始”B细胞，使其成长为能产生广谱中和抗体的细胞？"
+  },
+  {
+   "ar": "ما الذي لا يزال علينا تعلّمه عن كيفية نمو الخلايا البائية لتوجيهها نحو أجسام مضادة واسعة التحييد؟",
+   "en": "What do we still need to learn about how B cells develop in order to steer them toward broadly neutralizing antibodies?",
+   "es": "¿Qué nos falta aprender sobre el desarrollo de los linfocitos B para orientarlos hacia anticuerpos ampliamente neutralizantes?",
+   "fr": "Que nous reste-t-il à apprendre sur le développement des lymphocytes B pour les orienter vers des anticorps largement neutralisants ?",
+   "hi": "B कोशिकाओं को व्यापक रूप से निष्क्रिय करने वाली एंटीबॉडी की ओर मोड़ने के लिए हमें उनके विकास के बारे में अभी क्या सीखना बाकी है?",
+   "pt": "O que ainda precisamos aprender sobre o desenvolvimento dos linfócitos B para direcioná-los a anticorpos amplamente neutralizantes?",
+   "zh": "为了引导B细胞产生广谱中和抗体，我们还需要了解B细胞发育的哪些方面？"
+  },
+  {
+   "ar": "كيف يمكن للقاحات mRNA أن تنتج بروتين الغلاف المعقد لفيروس نقص المناعة البشرية بالشكل الصحيح تمامًا؟",
+   "en": "How can mRNA vaccines produce HIV's complex outer protein in exactly the right shape?",
+   "es": "¿Cómo pueden las vacunas de ARNm producir la compleja proteína de la envoltura del VIH exactamente con la forma correcta?",
+   "fr": "Comment les vaccins à ARNm peuvent-ils produire la protéine d'enveloppe complexe du VIH exactement dans la bonne forme ?",
+   "hi": "mRNA टीके HIV के जटिल बाहरी प्रोटीन को बिल्कुल सही आकार में कैसे बना सकते हैं?",
+   "pt": "Como as vacinas de mRNA podem produzir a complexa proteína do envelope do HIV exatamente na forma certa?",
+   "zh": "mRNA疫苗如何才能以完全正确的形状产生HIV复杂的外膜蛋白？"
+  }
  ]
 }

@@ -69,5 +69,34 @@
    "ty": "press",
    "u": "https://www.scientificamerican.com/article/hidden-treasures-in-junk-dna/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل كون قطعة من الحمض النووي تُنسخ إلى حمض نووي ريبي يعني أن لها وظيفة حقيقية؟",
+   "en": "Does a stretch of DNA being copied into RNA mean it has a real function?",
+   "es": "¿El hecho de que un trozo de ADN se copie en ARN significa que tiene una función real?",
+   "fr": "Le fait qu'un fragment d'ADN soit copié en ARN signifie-t-il qu'il a une véritable fonction ?",
+   "hi": "क्या DNA के किसी हिस्से की RNA में नक़ल होना यह साबित करता है कि उसका कोई वास्तविक काम है?",
+   "pt": "O fato de um trecho de DNA ser copiado em RNA significa que ele tem uma função real?",
+   "zh": "一段DNA被转录成RNA，是否就意味着它具有真正的功能？"
+  },
+  {
+   "ar": "كيف نميّز الحمض النووي الريبي غير المشفِّر المفيد من آخر لا يفعل شيئًا؟",
+   "en": "How can we tell a useful non-coding RNA apart from one that does nothing?",
+   "es": "¿Cómo distinguir un ARN no codificante útil de uno que no hace nada?",
+   "fr": "Comment distinguer un ARN non codant utile d'un ARN qui ne fait rien ?",
+   "hi": "हम किसी उपयोगी नॉन-कोडिंग RNA को उस RNA से कैसे अलग पहचानें जो कुछ नहीं करता?",
+   "pt": "Como distinguir um RNA não codificante útil de um que não faz nada?",
+   "zh": "我们如何区分有用的非编码RNA和毫无作用的非编码RNA？"
+  },
+  {
+   "ar": "كم عدد الأحماض النووية الريبية غير المشفِّرة التي لها دور حقيقي ولم تُكتشف بعد؟",
+   "en": "How many non-coding RNAs with a real job are still waiting to be found?",
+   "es": "¿Cuántos ARN no codificantes con una función real quedan por descubrir?",
+   "fr": "Combien d'ARN non codants ayant un rôle réel restent-ils à découvrir ?",
+   "hi": "असली भूमिका वाले कितने नॉन-कोडिंग RNA अब भी खोजे जाने बाकी हैं?",
+   "pt": "Quantos RNAs não codificantes com uma função real ainda estão por descobrir?",
+   "zh": "还有多少真正有功能的非编码RNA尚未被发现？"
+  }
  ]
 }

@@ -65,5 +65,34 @@
    "ty": "study",
    "u": "https://dspace.mit.edu/bitstream/1721.1/126264/2/Tonegawa%20NRN%202018%20-%20Main%20Text%20Final.pdf"
   }
+ ],
+ "sub": [
+  {
+   "ar": "كيف تُنشّط الإشارات القادمة من الحُصين خلايا الذاكرة «الصامتة» في القشرة الدماغية؟",
+   "en": "How do signals from the hippocampus switch on 'silent' memory cells in the cortex?",
+   "es": "¿Cómo activan las señales del hipocampo las células de memoria «silenciosas» de la corteza?",
+   "fr": "Comment les signaux de l'hippocampe activent-ils les cellules de mémoire « silencieuses » du cortex ?",
+   "hi": "हिप्पोकैम्पस से आने वाले संकेत कॉर्टेक्स की 'मौन' स्मृति कोशिकाओं को कैसे सक्रिय करते हैं?",
+   "pt": "Como os sinais do hipocampo ativam as células de memória «silenciosas» do córtex?",
+   "zh": "来自海马体的信号如何激活大脑皮层中“沉默”的记忆细胞？"
+  },
+  {
+   "ar": "كيف تصبح خلايا الذاكرة في الحُصين صامتة مع الوقت، وهل هذا تلاشٍ سلبي أم عملية نشطة؟",
+   "en": "How do memory cells in the hippocampus fall silent over time, and is this passive fading or an active process?",
+   "es": "¿Cómo se silencian con el tiempo las células de memoria del hipocampo, y se trata de un desvanecimiento pasivo o de un proceso activo?",
+   "fr": "Comment les cellules de mémoire de l'hippocampe deviennent-elles silencieuses avec le temps, et s'agit-il d'un effacement passif ou d'un processus actif ?",
+   "hi": "हिप्पोकैम्पस की स्मृति कोशिकाएँ समय के साथ मौन कैसे हो जाती हैं, और क्या यह निष्क्रिय रूप से फीका पड़ना है या एक सक्रिय प्रक्रिया?",
+   "pt": "Como as células de memória do hipocampo silenciam com o tempo, e isso é um desvanecimento passivo ou um processo ativo?",
+   "zh": "海马体中的记忆细胞是如何随时间变得沉默的？这是被动消退还是主动过程？"
+  },
+  {
+   "ar": "هل تستخدم القشرة الدماغية مجموعات منفصلة من الخلايا لذكريات الأحداث ولذكريات الحقائق؟",
+   "en": "Does the cortex use separate groups of cells for memories of events and for memories of facts?",
+   "es": "¿Usa la corteza grupos de células distintos para los recuerdos de sucesos y para los recuerdos de hechos?",
+   "fr": "Le cortex utilise-t-il des groupes de cellules distincts pour les souvenirs d'événements et pour les connaissances (faits) ?",
+   "hi": "क्या कॉर्टेक्स घटनाओं की यादों और तथ्यों की यादों के लिए कोशिकाओं के अलग-अलग समूह इस्तेमाल करता है?",
+   "pt": "O córtex usa grupos de células separados para memórias de eventos e para memórias de fatos?",
+   "zh": "大脑皮层是否用不同的细胞群来储存事件记忆和事实记忆？"
+  }
  ]
 }

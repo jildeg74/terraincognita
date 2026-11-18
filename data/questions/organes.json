@@ -67,6 +67,40 @@
    "t": "Gene-edited pig kidney transplanted into third person (STAT, 2024)",
    "ty": "press",
    "u": "https://www.statnews.com/2024/12/17/gene-edited-pig-kidney-transplanted-into-third-person-nyu-langone/"
+  },
+  {
+   "t": "2025: status of cardiac xenotransplantation including preclinical models",
+   "ty": "reference",
+   "u": "https://www.frontiersin.org/articles/10.3389/frtra.2025.1568910/full"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن للأطباء اكتشاف رفض عضو الخنزير مبكرًا، بينما تلتصق معظم الأجسام المضادة للخنزير بالعضو نفسه بدلًا من أن تدور في الدم؟",
+   "en": "How can doctors detect rejection of a pig organ early, when most anti-pig antibodies stick to the organ itself instead of circulating in the blood?",
+   "es": "¿Cómo pueden los médicos detectar a tiempo el rechazo de un órgano de cerdo, si la mayoría de los anticuerpos contra el cerdo se adhieren al propio órgano en lugar de circular en la sangre?",
+   "fr": "Comment les médecins peuvent-ils détecter tôt le rejet d'un organe de porc, alors que la plupart des anticorps anti-porc se fixent sur l'organe lui-même au lieu de circuler dans le sang ?",
+   "hi": "जब ज़्यादातर सुअर-विरोधी एंटीबॉडी ख़ून में घूमने के बजाय अंग से ही चिपक जाती हैं, तो डॉक्टर सुअर के अंग की अस्वीकृति का जल्दी पता कैसे लगाएँ?",
+   "pt": "Como os médicos podem detectar cedo a rejeição de um órgão de porco, se a maioria dos anticorpos antiporco se fixa no próprio órgão em vez de circular no sangue?",
+   "zh": "由于大多数抗猪抗体附着在器官本身上而不是在血液中循环，医生如何才能及早发现对猪器官的排斥？"
+  },
+  {
+   "ar": "ما مزيج الأدوية المثبطة للمناعة الذي يمكن أن يُبقي عضو الخنزير يعمل داخل جسم الإنسان لسنوات؟",
+   "en": "Which combination of immune-suppressing drugs can keep a pig organ working in a person for years?",
+   "es": "¿Qué combinación de fármacos inmunosupresores puede mantener un órgano de cerdo funcionando en una persona durante años?",
+   "fr": "Quelle combinaison de médicaments immunosuppresseurs peut maintenir un organe de porc fonctionnel chez une personne pendant des années ?",
+   "hi": "प्रतिरक्षा को दबाने वाली दवाओं का कौन-सा मेल किसी व्यक्ति में सुअर के अंग को सालों तक काम करता रख सकता है?",
+   "pt": "Que combinação de medicamentos imunossupressores pode manter um órgão de porco funcionando em uma pessoa por anos?",
+   "zh": "哪种免疫抑制药物组合能让猪器官在人体内持续工作多年？"
+  },
+  {
+   "ar": "كيف يؤثر النمو الذاتي لعضو الخنزير في مدى كفاءة عمله داخل جسم الإنسان؟",
+   "en": "How does a pig organ's own growth affect how well it works inside a human body?",
+   "es": "¿Cómo afecta el crecimiento propio de un órgano de cerdo a su funcionamiento dentro de un cuerpo humano?",
+   "fr": "Comment la croissance propre d'un organe de porc influe-t-elle sur son bon fonctionnement dans un corps humain ?",
+   "hi": "सुअर के अंग की अपनी वृद्धि मानव शरीर के अंदर उसके ठीक से काम करने को कैसे प्रभावित करती है?",
+   "pt": "Como o crescimento próprio de um órgão de porco afeta seu funcionamento dentro de um corpo humano?",
+   "zh": "猪器官自身的生长会如何影响它在人体内的工作效果？"
   }
  ]
 }

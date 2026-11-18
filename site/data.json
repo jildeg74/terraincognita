@@ -69,6 +69,40 @@
      "t": "USC: weight-loss drug semaglutide shows promise in reducing alcohol cravings (on a 2025 JAMA Psychiatry trial)",
      "ty": "institution",
      "u": "https://today.usc.edu/popular-weight-loss-diabetes-drug-shows-promise-in-reducing-cravings-for-alcohol/"
+    },
+    {
+     "t": "Substance use disorders: a comprehensive update of classification, epidemiology, neurobiology, clinical aspects, treatment and prevention",
+     "ty": "reference",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10168177/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "لماذا لا تزال درجات الخطر الجيني تتنبأ بشكل ضعيف جدًا بمن سيصبح مدمنًا؟",
+     "en": "Why do genetic risk scores still predict who will become addicted so poorly?",
+     "es": "¿Por qué las puntuaciones de riesgo genético todavía predicen tan mal quién se volverá adicto?",
+     "fr": "Pourquoi les scores de risque génétique prédisent-ils encore si mal qui deviendra dépendant ?",
+     "hi": "आनुवंशिक जोखिम स्कोर अब भी इतनी ख़राब तरह से क्यों बताते हैं कि किसे लत लगेगी?",
+     "pt": "Por que as pontuações de risco genético ainda preveem tão mal quem vai se tornar dependente?",
+     "zh": "为什么基因风险评分至今仍难以准确预测谁会成瘾？"
+    },
+    {
+     "ar": "هل تفسر العلامات الكيميائية على الحمض النووي (علم التخلق) الإدمان الدائم لدى البشر، وهل يمكن أن تصبح أهدافًا للأدوية؟",
+     "en": "Do chemical marks on DNA (epigenetics) explain lasting addiction in humans, and could they become drug targets?",
+     "es": "¿Explican las marcas químicas en el ADN (epigenética) la adicción duradera en humanos, y podrían convertirse en dianas de fármacos?",
+     "fr": "Les marques chimiques sur l'ADN (épigénétique) expliquent-elles une dépendance durable chez l'humain, et pourraient-elles devenir des cibles de médicaments ?",
+     "hi": "क्या DNA पर रासायनिक निशान (एपिजेनेटिक्स) इंसानों में लंबे समय तक चलने वाली लत को समझाते हैं, और क्या वे दवाओं का लक्ष्य बन सकते हैं?",
+     "pt": "As marcas químicas no DNA (epigenética) explicam a dependência duradoura em humanos, e poderiam se tornar alvos de medicamentos?",
+     "zh": "DNA上的化学标记（表观遗传）能否解释人类的长期成瘾？它们能否成为药物靶点？"
+    },
+    {
+     "ar": "هل يمكن للتحفيز العميق للدماغ أن يساعد بأمان الأشخاص المصابين بأشد حالات الإدمان؟",
+     "en": "Can deep brain stimulation safely help people with the most severe addictions?",
+     "es": "¿Puede la estimulación cerebral profunda ayudar de forma segura a las personas con las adicciones más graves?",
+     "fr": "La stimulation cérébrale profonde peut-elle aider sans danger les personnes souffrant des dépendances les plus sévères ?",
+     "hi": "क्या डीप ब्रेन स्टिमुलेशन सबसे गंभीर लत वाले लोगों की सुरक्षित रूप से मदद कर सकता है?",
+     "pt": "A estimulação cerebral profunda pode ajudar com segurança as pessoas com as dependências mais graves?",
+     "zh": "脑深部电刺激能否安全地帮助最严重的成瘾者？"
     }
    ]
   },
@@ -144,6 +178,35 @@
      "ty": "press",
      "u": "https://www.scientificamerican.com/article/another-new-alzheimers-drug-what-promising-trial-results-mean-for-treatment/"
     }
+   ],
+   "sub": [
+    {
+     "ar": "هل يساهم النوم السيئ في تراكم بروتين تاو، أم أن تاو يُخلّ بالنوم، أم الأمران معًا؟",
+     "en": "Does poor sleep help cause the build-up of tau protein, does tau disturb sleep, or both?",
+     "es": "¿Dormir mal favorece la acumulación de la proteína tau, la tau altera el sueño, o ambas cosas?",
+     "fr": "Un mauvais sommeil favorise-t-il l'accumulation de la protéine tau, la protéine tau perturbe-t-elle le sommeil, ou les deux ?",
+     "hi": "क्या ख़राब नींद टाउ प्रोटीन के जमाव में योगदान देती है, या टाउ नींद को बिगाड़ता है, या दोनों?",
+     "pt": "O sono ruim favorece o acúmulo da proteína tau, a tau perturba o sono, ou ambos?",
+     "zh": "是睡眠不好促成了tau蛋白的堆积，还是tau蛋白扰乱了睡眠，抑或两者兼有？"
+    },
+    {
+     "ar": "لماذا تختلف الدراسات حول ما إذا كانت علامات الالتهاب في الدم أعلى لدى المصابين بألزهايمر؟",
+     "en": "Why do studies disagree on whether signs of inflammation in the blood are higher in people with Alzheimer's?",
+     "es": "¿Por qué los estudios no coinciden en si los signos de inflamación en la sangre son más altos en las personas con alzhéimer?",
+     "fr": "Pourquoi les études ne s'accordent-elles pas sur la présence de signes d'inflammation plus élevés dans le sang des personnes atteintes d'Alzheimer ?",
+     "hi": "अध्ययन इस बात पर असहमत क्यों हैं कि अल्ज़ाइमर वाले लोगों के ख़ून में सूजन (इन्फ्लेमेशन) के संकेत अधिक होते हैं या नहीं?",
+     "pt": "Por que os estudos discordam sobre se os sinais de inflamação no sangue são mais altos em pessoas com Alzheimer?",
+     "zh": "为什么关于阿尔茨海默病患者血液中炎症指标是否升高，各项研究结论不一？"
+    },
+    {
+     "ar": "كيف يغيّر النظام الغذائي بالضبط خطر الإصابة بمرض ألزهايمر؟",
+     "en": "How exactly does diet change the risk of developing Alzheimer's?",
+     "es": "¿Cómo cambia exactamente la alimentación el riesgo de desarrollar alzhéimer?",
+     "fr": "Comment l'alimentation modifie-t-elle exactement le risque de développer la maladie d'Alzheimer ?",
+     "hi": "आहार अल्ज़ाइमर होने के जोखिम को ठीक-ठीक कैसे बदलता है?",
+     "pt": "Como exatamente a alimentação altera o risco de desenvolver Alzheimer?",
+     "zh": "饮食究竟是如何改变患阿尔茨海默病的风险的？"
+    }
    ]
   },
   {
@@ -152,49 +215,49 @@
    "d": "V",
    "i18n": {
     "ar": {
-     "block": "تحقق المضادات الحيوية الجديدة أرباحًا ضئيلة، لذا تطوّرها شركات قليلة.",
+     "block": "تحقق المضادات الحيوية الجديدة أرباحًا ضئيلة، مما حدّ من اهتمام المستثمرين ومعظم شركات الأدوية الكبرى.",
      "known": "ترتبط البكتيريا المقاومة بملايين الوفيات سنويًا في العالم.",
      "leads": "مضادات حيوية اكتُشفت بالذكاء الاصطناعي مثل الهاليسين، وفيروسات تقتل البكتيريا (العاثيات).",
      "s": "مقاومة المضادات الحيوية",
      "t": "كيف يمكننا هزيمة مقاومة المضادات الحيوية؟"
     },
     "en": {
-     "block": "New antibiotics earn little, so few companies develop them.",
+     "block": "New antibiotics earn little, which has limited the interest of investors and most large drug companies.",
      "known": "Resistant bacteria are associated with millions of deaths a year worldwide.",
      "leads": "AI-discovered antibiotics such as halicin, and bacteria-killing viruses (phages).",
      "s": "Antibiotic resistance",
      "t": "How can we defeat antibiotic resistance?"
     },
     "es": {
-     "block": "Los nuevos antibióticos dan poca ganancia, así que pocas empresas los desarrollan.",
+     "block": "Los nuevos antibióticos dan poca ganancia, lo que ha limitado el interés de los inversores y de la mayoría de las grandes farmacéuticas.",
      "known": "Las bacterias resistentes se asocian a millones de muertes al año en todo el mundo.",
      "leads": "Antibióticos descubiertos por IA, como la halicina, y virus que matan bacterias (fagos).",
      "s": "Resistencia a antibióticos",
      "t": "¿Cómo podemos vencer la resistencia a los antibióticos?"
     },
     "fr": {
-     "block": "Les nouveaux antibiotiques rapportent peu, donc peu d'entreprises en développent.",
+     "block": "Les nouveaux antibiotiques rapportent peu, ce qui a limité l'intérêt des investisseurs et de la plupart des grandes entreprises pharmaceutiques.",
      "known": "Les bactéries résistantes sont associées à des millions de décès par an dans le monde.",
      "leads": "Antibiotiques découverts par IA, comme l'halicine, et virus tueurs de bactéries (phages).",
      "s": "Antibiorésistance",
      "t": "Comment vaincre la résistance aux antibiotiques ?"
     },
     "hi": {
-     "block": "नए एंटीबायोटिक से कमाई कम होती है, इसलिए कम कंपनियाँ उन्हें विकसित करती हैं।",
+     "block": "नए एंटीबायोटिक से कमाई कम होती है, जिससे निवेशकों और ज़्यादातर बड़ी दवा कंपनियों की रुचि सीमित हो गई है।",
      "known": "प्रतिरोधी बैक्टीरिया दुनिया भर में हर साल लाखों मौतों से जुड़े हैं।",
      "leads": "हैलिसिन जैसे AI द्वारा खोजे गए एंटीबायोटिक, और बैक्टीरिया को मारने वाले वायरस (फेज)।",
      "s": "एंटीबायोटिक प्रतिरोध",
      "t": "हम एंटीबायोटिक प्रतिरोध को कैसे हरा सकते हैं?"
     },
     "pt": {
-     "block": "Novos antibióticos dão pouco lucro, por isso poucas empresas os desenvolvem.",
+     "block": "Novos antibióticos dão pouco lucro, o que limitou o interesse dos investidores e da maioria das grandes farmacêuticas.",
      "known": "Bactérias resistentes estão associadas a milhões de mortes por ano no mundo.",
      "leads": "Antibióticos descobertos por IA, como a halicina, e vírus que matam bactérias (fagos).",
      "s": "Resistência a antibióticos",
      "t": "Como podemos vencer a resistência aos antibióticos?"
     },
     "zh": {
-     "block": "新抗生素利润很低,所以很少有公司研发。",
+     "block": "新抗生素利润很低，这限制了投资者和大多数大型制药公司的兴趣。",
      "known": "耐药细菌与全球每年数百万人的死亡有关。",
      "leads": "AI发现的抗生素(如halicin),以及杀死细菌的病毒(噬菌体)。",
      "s": "抗生素耐药",
@@ -211,6 +274,45 @@
      "t": "Global burden of bacterial antimicrobial resistance 1990–2021 (IHME / The Lancet)",
      "ty": "institution",
      "u": "https://healthdata.org/node/12105"
+    },
+    {
+     "t": "Antimicrobial resistance crisis: could artificial intelligence be the solution?",
+     "ty": "reference",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10804841"
+    },
+    {
+     "t": "Global shortage of innovative antibiotics fuels emergence and spread of drug-resistance",
+     "ty": "official",
+     "u": "https://www.who.int/news/item/15-04-2021-global-shortage-of-innovative-antibiotics-fuels-emergence-and-spread-of-drug-resistance"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن جعل نماذج الذكاء الاصطناعي التي تبحث عن مضادات حيوية جديدة موثوقة خارج ظروف الاختبار ومفهومة بدلًا من أن تكون «صناديق سوداء»؟",
+     "en": "How can AI models that search for new antibiotics be made reliable outside test conditions and understandable rather than 'black boxes'?",
+     "es": "¿Cómo hacer que los modelos de IA que buscan nuevos antibióticos sean fiables fuera de las condiciones de prueba y comprensibles en lugar de «cajas negras»?",
+     "fr": "Comment rendre les modèles d'IA qui cherchent de nouveaux antibiotiques fiables hors des conditions de test et compréhensibles plutôt que des « boîtes noires » ?",
+     "hi": "नए एंटीबायोटिक खोजने वाले AI मॉडलों को परीक्षण की स्थितियों के बाहर भी भरोसेमंद और 'ब्लैक बॉक्स' के बजाय समझने योग्य कैसे बनाया जाए?",
+     "pt": "Como tornar os modelos de IA que procuram novos antibióticos confiáveis fora das condições de teste e compreensíveis, em vez de «caixas-pretas»?",
+     "zh": "如何让寻找新抗生素的人工智能模型在测试条件之外也可靠，并且可以理解，而不是“黑箱”？"
+    },
+    {
+     "ar": "كيف يمكننا التنبؤ بسلوك دواء مرشح جديد داخل جسم الإنسان في ظل ندرة البيانات؟",
+     "en": "How can we predict how a new drug candidate will behave inside the human body when so little data exist?",
+     "es": "¿Cómo predecir el comportamiento de un nuevo candidato a fármaco dentro del cuerpo humano cuando existen tan pocos datos?",
+     "fr": "Comment prédire le comportement d'un nouveau candidat-médicament dans le corps humain alors qu'il existe si peu de données ?",
+     "hi": "जब इतना कम डेटा मौजूद है, तो हम कैसे अनुमान लगाएँ कि कोई नई संभावित दवा मानव शरीर के अंदर कैसा व्यवहार करेगी?",
+     "pt": "Como prever o comportamento de um novo candidato a medicamento dentro do corpo humano quando existem tão poucos dados?",
+     "zh": "在数据如此稀少的情况下，如何预测一种新候选药物在人体内的表现？"
+    },
+    {
+     "ar": "هل يمكننا التنبؤ بما إذا كان فيروس قاتل للبكتيريا (العاثية) سيدمر مضيفه فورًا أم سيختبئ بداخله؟",
+     "en": "Can we predict whether a bacteria-killing virus (phage) will destroy its host right away or hide inside it?",
+     "es": "¿Podemos predecir si un virus que mata bacterias (fago) destruirá a su huésped de inmediato o se esconderá dentro de él?",
+     "fr": "Peut-on prédire si un virus tueur de bactéries (phage) va détruire son hôte tout de suite ou se cacher à l'intérieur ?",
+     "hi": "क्या हम अनुमान लगा सकते हैं कि बैक्टीरिया मारने वाला वायरस (फेज) अपने मेज़बान को तुरंत नष्ट करेगा या उसके अंदर छिप जाएगा?",
+     "pt": "Podemos prever se um vírus que mata bactérias (fago) vai destruir seu hospedeiro imediatamente ou se esconder dentro dele?",
+     "zh": "我们能否预测一种杀菌病毒（噬菌体）会立即摧毁宿主，还是潜伏在宿主体内？"
     }
    ]
   },
@@ -352,6 +454,35 @@
      "t": "5 people with lupus are in remission after CAR-T cell treatment (Science News)",
      "ty": "press",
      "u": "https://www.sciencenews.org/article/lupus-car-t-cell-therapy-remission-autoimmune-disease"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن للخلايا المناعية المعدّلة أن تبقى في الجسم مدة كافية لإبقاء مرض المناعة الذاتية في حالة هدوء، أم ستلزم عمليات تسريب متكررة؟",
+     "en": "Can engineered immune cells last long enough in the body to keep autoimmune disease in remission, or will repeated infusions be needed?",
+     "es": "¿Pueden las células inmunitarias modificadas durar lo suficiente en el cuerpo para mantener la enfermedad autoinmune en remisión, o harán falta infusiones repetidas?",
+     "fr": "Les cellules immunitaires modifiées peuvent-elles persister assez longtemps dans le corps pour maintenir la maladie auto-immune en rémission, ou faudra-t-il des perfusions répétées ?",
+     "hi": "क्या संशोधित प्रतिरक्षा कोशिकाएँ शरीर में इतने लंबे समय तक टिक सकती हैं कि स्वप्रतिरक्षी बीमारी शांत (रिमिशन में) रहे, या बार-बार इन्फ्यूज़न की ज़रूरत पड़ेगी?",
+     "pt": "As células imunes modificadas conseguem durar o suficiente no corpo para manter a doença autoimune em remissão, ou serão necessárias infusões repetidas?",
+     "zh": "经过改造的免疫细胞能否在体内存留足够长的时间，使自身免疫病保持缓解，还是需要反复输注？"
+    },
+    {
+     "ar": "ما أمراض المناعة الذاتية المناسبة فعلًا للعلاج بخلايا CAR المعدّلة؟",
+     "en": "Which autoimmune diseases are actually suited to treatment with engineered CAR cells?",
+     "es": "¿Qué enfermedades autoinmunes son realmente adecuadas para el tratamiento con células CAR modificadas?",
+     "fr": "Quelles maladies auto-immunes se prêtent réellement à un traitement par cellules CAR modifiées ?",
+     "hi": "कौन-सी स्वप्रतिरक्षी बीमारियाँ वास्तव में संशोधित CAR कोशिकाओं से इलाज के लिए उपयुक्त हैं?",
+     "pt": "Quais doenças autoimunes são realmente adequadas ao tratamento com células CAR modificadas?",
+     "zh": "哪些自身免疫病真正适合用改造的CAR细胞来治疗？"
+    },
+    {
+     "ar": "هل يمكن تقليل الآثار الجانبية الخطيرة والتكلفة المرتفعة للعلاج بخلايا CAR بما يكفي لاستخدامه على نطاق واسع؟",
+     "en": "Can the serious side effects and the high cost of CAR therapy be reduced enough for wide use?",
+     "es": "¿Pueden reducirse lo suficiente los efectos secundarios graves y el alto coste de la terapia CAR para un uso amplio?",
+     "fr": "Les effets secondaires graves et le coût élevé de la thérapie CAR peuvent-ils être suffisamment réduits pour un usage à grande échelle ?",
+     "hi": "क्या CAR थेरेपी के गंभीर दुष्प्रभाव और ऊँची लागत इतनी कम की जा सकती है कि इसका व्यापक उपयोग हो सके?",
+     "pt": "Os efeitos colaterais graves e o alto custo da terapia CAR podem ser reduzidos o suficiente para uso amplo?",
+     "zh": "CAR疗法的严重副作用和高昂费用能否降低到足以广泛使用的程度？"
     }
    ]
   },
@@ -684,6 +815,35 @@
      "ty": "press",
      "u": "https://www.bostonglobe.com/2026/08/19/business/moderna-cancer-vaccine-results/"
     }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكننا التنبؤ بشكل أفضل بالطفرات الورمية التي ينبغي أن يستهدفها لقاح مخصص؟",
+     "en": "How can we better predict which tumor mutations a personalized vaccine should target?",
+     "es": "¿Cómo predecir mejor a qué mutaciones del tumor debe dirigirse una vacuna personalizada?",
+     "fr": "Comment mieux prédire quelles mutations d'une tumeur un vaccin personnalisé doit cibler ?",
+     "hi": "हम बेहतर ढंग से कैसे अनुमान लगाएँ कि किसी व्यक्तिगत टीके को ट्यूमर के किन उत्परिवर्तनों (म्यूटेशन) को निशाना बनाना चाहिए?",
+     "pt": "Como prever melhor quais mutações do tumor uma vacina personalizada deve atacar?",
+     "zh": "如何更准确地预测个性化疫苗应该针对肿瘤的哪些突变？"
+    },
+    {
+     "ar": "كيف نمنع الأورام من الإفلات من اللقاح بفقدان أهدافه أو بالاختباء من الجهاز المناعي؟",
+     "en": "How can we stop tumors from escaping a vaccine by losing its targets or hiding from the immune system?",
+     "es": "¿Cómo impedir que los tumores escapen de una vacuna perdiendo sus dianas o escondiéndose del sistema inmunitario?",
+     "fr": "Comment empêcher les tumeurs d'échapper à un vaccin en perdant ses cibles ou en se cachant du système immunitaire ?",
+     "hi": "ट्यूमर को अपने लक्ष्य खोकर या प्रतिरक्षा प्रणाली से छिपकर टीके से बच निकलने से कैसे रोका जाए?",
+     "pt": "Como impedir que os tumores escapem de uma vacina perdendo seus alvos ou se escondendo do sistema imunológico?",
+     "zh": "如何阻止肿瘤通过丢失疫苗靶点或躲避免疫系统来逃脱疫苗的作用？"
+    },
+    {
+     "ar": "ما المؤشرات الحيوية التي يمكنها أن تبيّن مسبقًا أي المرضى سيستجيبون للقاح السرطان؟",
+     "en": "Which biological markers can tell in advance which patients will respond to a cancer vaccine?",
+     "es": "¿Qué marcadores biológicos pueden indicar de antemano qué pacientes responderán a una vacuna contra el cáncer?",
+     "fr": "Quels marqueurs biologiques peuvent indiquer à l'avance quels patients répondront à un vaccin contre le cancer ?",
+     "hi": "कौन-से जैविक संकेतक पहले से बता सकते हैं कि कौन-से मरीज़ कैंसर के टीके पर प्रतिक्रिया देंगे?",
+     "pt": "Quais marcadores biológicos podem indicar com antecedência quais pacientes vão responder a uma vacina contra o câncer?",
+     "zh": "哪些生物标志物能提前判断哪些患者会对癌症疫苗产生反应？"
+    }
    ]
   },
   {
@@ -820,6 +980,40 @@
      "t": "Team simulates a living cell that grows and divides (University of Illinois, 2026)",
      "ty": "institution",
      "u": "https://chemistry.illinois.edu/news/2026-03-09/team-simulates-living-cell-grows-and-divides"
+    },
+    {
+     "t": "Bringing the genetically minimal cell to life on a computer in 4D",
+     "ty": "study",
+     "u": "https://www.jcvi.org/publications/bringing-genetically-minimal-cell-life-computer-4d"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف تُوزَّع كروموسومات الخلية الدنيا بشكل صحيح بين الخليتين الوليدتين؟",
+     "en": "How do the chromosomes of a minimal cell get shared out correctly between the two daughter cells?",
+     "es": "¿Cómo se reparten correctamente los cromosomas de una célula mínima entre las dos células hijas?",
+     "fr": "Comment les chromosomes d'une cellule minimale sont-ils correctement répartis entre les deux cellules filles ?",
+     "hi": "एक न्यूनतम कोशिका के गुणसूत्र दोनों संतति कोशिकाओं में सही तरह से कैसे बँटते हैं?",
+     "pt": "Como os cromossomos de uma célula mínima são repartidos corretamente entre as duas células-filhas?",
+     "zh": "最简细胞的染色体是如何被正确分配到两个子细胞中的？"
+    },
+    {
+     "ar": "ما الذي يسبب التبرعمات الغريبة وأشكال «الخلية داخل الخلية» التي تُرى في الخلية الدنيا؟",
+     "en": "What causes the strange budding and 'cell-inside-a-cell' shapes seen in the minimal cell?",
+     "es": "¿Qué causa las extrañas gemaciones y formas de «célula dentro de una célula» observadas en la célula mínima?",
+     "fr": "Qu'est-ce qui provoque les étranges bourgeonnements et formes de « cellule dans la cellule » observés chez la cellule minimale ?",
+     "hi": "न्यूनतम कोशिका में दिखने वाली अजीब कलिकाएँ (बडिंग) और 'कोशिका के अंदर कोशिका' जैसी आकृतियाँ किस कारण बनती हैं?",
+     "pt": "O que causa os estranhos brotamentos e formas de «célula dentro de uma célula» observados na célula mínima?",
+     "zh": "最简细胞中出现的奇怪出芽和“细胞套细胞”形态是什么原因造成的？"
+    },
+    {
+     "ar": "كيف يمكن جعل محاكاة الخلايا الكاملة رخيصة بما يكفي من حيث القدرة الحاسوبية لنمذجة خلايا كثيرة وليس بضع خلايا فقط؟",
+     "en": "How can whole-cell simulations become cheap enough in computing power to model many cells, not just a few?",
+     "es": "¿Cómo lograr que las simulaciones de células completas sean lo bastante baratas en potencia de cálculo para modelar muchas células y no solo unas pocas?",
+     "fr": "Comment rendre les simulations de cellules entières assez peu coûteuses en calcul pour modéliser de nombreuses cellules, et pas seulement quelques-unes ?",
+     "hi": "पूरी कोशिका के सिमुलेशन को कंप्यूटिंग के मामले में इतना सस्ता कैसे बनाया जाए कि कुछ ही नहीं, बल्कि बहुत सारी कोशिकाओं को मॉडल किया जा सके?",
+     "pt": "Como tornar as simulações de células inteiras baratas o suficiente em poder de computação para modelar muitas células, e não apenas algumas?",
+     "zh": "如何让全细胞模拟所需的计算量足够小，从而能模拟大量细胞而不只是几个？"
     }
    ]
   },
@@ -1242,6 +1436,45 @@
      "t": "Complete wiring map of an adult fruit fly brain (NIH, 2024)",
      "ty": "official",
      "u": "https://www.nih.gov/news-events/nih-research-matters/complete-wiring-map-adult-fruit-fly-brain"
+    },
+    {
+     "t": "A petavoxel fragment of human cerebral cortex reconstructed at nanoscale resolution",
+     "ty": "study",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11718559/"
+    },
+    {
+     "t": "The burgeoning field of brain mapping",
+     "ty": "press",
+     "u": "https://www.technologyreview.com/2024/05/10/1092230/the-burgeoning-field-of-brain-mapping/amp/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل تعكس التوصيلات المرئية في نسيج الدماغ المأخوذ من مرضى الصرع دماغًا طبيعيًا أم دماغًا غيّره المرض؟",
+     "en": "Does the wiring seen in brain tissue removed from epilepsy patients reflect a normal brain or one changed by disease?",
+     "es": "¿El cableado observado en el tejido cerebral extraído de pacientes con epilepsia refleja un cerebro normal o uno alterado por la enfermedad?",
+     "fr": "Le câblage observé dans le tissu cérébral prélevé chez des patients épileptiques reflète-t-il un cerveau normal ou un cerveau modifié par la maladie ?",
+     "hi": "मिर्गी के मरीज़ों से निकाले गए मस्तिष्क ऊतक में दिखने वाली वायरिंग सामान्य मस्तिष्क को दर्शाती है या बीमारी से बदले हुए मस्तिष्क को?",
+     "pt": "A fiação observada no tecido cerebral retirado de pacientes com epilepsia reflete um cérebro normal ou um cérebro alterado pela doença?",
+     "zh": "从癫痫患者身上取下的脑组织中看到的连接，反映的是正常大脑，还是被疾病改变的大脑？"
+    },
+    {
+     "ar": "إلى أي مدى تختلف التوصيلات الدقيقة للقشرة الدماغية البشرية من شخص لآخر؟",
+     "en": "How much does the fine wiring of the human cortex differ from one person to another?",
+     "es": "¿Cuánto difiere el cableado fino de la corteza humana de una persona a otra?",
+     "fr": "À quel point le câblage fin du cortex humain diffère-t-il d'une personne à l'autre ?",
+     "hi": "मानव कॉर्टेक्स की बारीक वायरिंग एक व्यक्ति से दूसरे व्यक्ति में कितनी अलग होती है?",
+     "pt": "Quanto a fiação fina do córtex humano difere de uma pessoa para outra?",
+     "zh": "人类大脑皮层的精细连接在不同人之间有多大差别？"
+    },
+    {
+     "ar": "لماذا توجّه بعض الخلايا العصبية في أعمق طبقة من القشرة فروعها في اتجاهين رئيسيين متعاكسين، مثل البوصلة؟",
+     "en": "Why do some neurons in the deepest layer of the cortex point their branches in two opposite main directions, like a compass?",
+     "es": "¿Por qué algunas neuronas de la capa más profunda de la corteza orientan sus ramificaciones en dos direcciones principales opuestas, como una brújula?",
+     "fr": "Pourquoi certains neurones de la couche la plus profonde du cortex orientent-ils leurs ramifications dans deux directions principales opposées, comme une boussole ?",
+     "hi": "कॉर्टेक्स की सबसे गहरी परत के कुछ न्यूरॉन अपनी शाखाओं को कम्पास की तरह दो विपरीत मुख्य दिशाओं में क्यों फैलाते हैं?",
+     "pt": "Por que alguns neurônios da camada mais profunda do córtex orientam seus ramos em duas direções principais opostas, como uma bússola?",
+     "zh": "为什么大脑皮层最深层的一些神经元会像指南针一样，把分支朝两个相反的主要方向伸展？"
     }
    ]
   },
@@ -1313,6 +1546,35 @@
      "t": "Adversarial testing of global neuronal workspace and integrated information theories of consciousness (Nature, 2025)",
      "ty": "study",
      "u": "https://pubmed.ncbi.nlm.nih.gov/40307561/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل تشارك مقدمة الدماغ (القشرة الجبهية الأمامية) في كل تجربة واعية، أم في بعضها فقط؟",
+     "en": "Is the front of the brain (prefrontal cortex) involved in every conscious experience, or only in some?",
+     "es": "¿Participa la parte frontal del cerebro (corteza prefrontal) en todas las experiencias conscientes, o solo en algunas?",
+     "fr": "L'avant du cerveau (cortex préfrontal) participe-t-il à toutes les expériences conscientes, ou seulement à certaines ?",
+     "hi": "क्या मस्तिष्क का अगला हिस्सा (प्रीफ़्रंटल कॉर्टेक्स) हर सचेत अनुभव में शामिल होता है, या केवल कुछ में?",
+     "pt": "A parte da frente do cérebro (córtex pré-frontal) participa de todas as experiências conscientes, ou só de algumas?",
+     "zh": "大脑前部（前额叶皮层）是参与所有的意识体验，还是只参与其中一部分？"
+    },
+    {
+     "ar": "كيف يحتفظ الدماغ في التجربة الواعية بتفاصيل مثل اتجاه جسم ما بينما نواصل النظر إليه؟",
+     "en": "How does the brain keep details such as an object's orientation in conscious experience while we keep looking at it?",
+     "es": "¿Cómo mantiene el cerebro en la experiencia consciente detalles como la orientación de un objeto mientras seguimos mirándolo?",
+     "fr": "Comment le cerveau maintient-il dans l'expérience consciente des détails comme l'orientation d'un objet tant que nous continuons à le regarder ?",
+     "hi": "जब हम किसी वस्तु को देखते रहते हैं, तब मस्तिष्क सचेत अनुभव में उसकी दिशा (ओरिएंटेशन) जैसी बारीकियों को कैसे बनाए रखता है?",
+     "pt": "Como o cérebro mantém na experiência consciente detalhes como a orientação de um objeto enquanto continuamos olhando para ele?",
+     "zh": "在我们持续注视一个物体时，大脑如何在意识体验中保持诸如物体朝向之类的细节？"
+    },
+    {
+     "ar": "كيف يمكن دمج نتائج تجارب كثيرة في إطار كمّي واحد للحكم على النظريات المتنافسة حول الوعي؟",
+     "en": "How can results from many experiments be combined in one quantitative framework to judge rival theories of consciousness?",
+     "es": "¿Cómo combinar los resultados de muchos experimentos en un único marco cuantitativo para juzgar las teorías rivales de la conciencia?",
+     "fr": "Comment combiner les résultats de nombreuses expériences dans un cadre quantitatif unique pour juger les théories rivales de la conscience ?",
+     "hi": "चेतना के प्रतिद्वंद्वी सिद्धांतों को परखने के लिए कई प्रयोगों के नतीजों को एक मात्रात्मक ढाँचे में कैसे जोड़ा जाए?",
+     "pt": "Como combinar os resultados de muitos experimentos em um único quadro quantitativo para julgar as teorias rivais da consciência?",
+     "zh": "如何把众多实验的结果整合进一个统一的定量框架，用来评判相互竞争的意识理论？"
     }
    ]
   },
@@ -1577,6 +1839,40 @@
      "t": "No evidence that depression is caused by low serotonin levels (UCL, 2022)",
      "ty": "institution",
      "u": "https://www.ucl.ac.uk/news/2022/jul/no-evidence-depression-caused-low-serotonin-levels-finds-comprehensive-review"
+    },
+    {
+     "t": "The serotonin theory of depression: a systematic umbrella review of the evidence",
+     "ty": "study",
+     "u": "https://discovery.ucl.ac.uk/10153006/3/Horowitz_s41380-022-01661-0.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف تغيّر مضادات الاكتئاب التي تؤخذ لسنوات نظام السيروتونين في الدماغ، أثناء استخدامها وبعده؟",
+     "en": "How do antidepressants taken for years change the brain's serotonin system, during and after use?",
+     "es": "¿Cómo cambian los antidepresivos tomados durante años el sistema de serotonina del cerebro, durante y después de su uso?",
+     "fr": "Comment les antidépresseurs pris pendant des années modifient-ils le système sérotoninergique du cerveau, pendant et après leur prise ?",
+     "hi": "सालों तक ली गई अवसादरोधी दवाएँ, लेने के दौरान और बंद करने के बाद, मस्तिष्क की सेरोटोनिन प्रणाली को कैसे बदलती हैं?",
+     "pt": "Como os antidepressivos tomados durante anos alteram o sistema de serotonina do cérebro, durante e depois do uso?",
+     "zh": "长年服用抗抑郁药会如何改变大脑的血清素系统，在用药期间和停药之后各有什么变化？"
+    },
+    {
+     "ar": "ما الذي يفعله فعلًا خفض التربتوفان، وهو المادة الأساسية لصنع السيروتونين، بالمزاج؟",
+     "en": "What does lowering tryptophan, the building block of serotonin, really do to mood?",
+     "es": "¿Qué le hace realmente al estado de ánimo reducir el triptófano, el componente básico de la serotonina?",
+     "fr": "Que fait réellement à l'humeur une baisse du tryptophane, la brique de base de la sérotonine ?",
+     "hi": "सेरोटोनिन के निर्माण-घटक ट्रिप्टोफ़ैन को कम करने से मूड पर वास्तव में क्या असर पड़ता है?",
+     "pt": "O que a redução do triptofano, o componente básico da serotonina, realmente faz com o humor?",
+     "zh": "降低色氨酸（合成血清素的原料）究竟会对情绪产生什么影响？"
+    },
+    {
+     "ar": "هل يمكن العثور على مؤشر حيوي يشخّص الاكتئاب أو يبيّن أي علاج سينجح؟",
+     "en": "Can a biological marker be found that diagnoses depression or shows which treatment will work?",
+     "es": "¿Se puede encontrar un marcador biológico que diagnostique la depresión o indique qué tratamiento funcionará?",
+     "fr": "Peut-on trouver un marqueur biologique qui diagnostique la dépression ou indique quel traitement fonctionnera ?",
+     "hi": "क्या कोई ऐसा जैविक संकेतक खोजा जा सकता है जो अवसाद का निदान करे या बताए कि कौन-सा इलाज काम करेगा?",
+     "pt": "É possível encontrar um marcador biológico que diagnostique a depressão ou mostre qual tratamento vai funcionar?",
+     "zh": "能否找到一种生物标志物来诊断抑郁症，或显示哪种治疗会有效？"
     }
    ]
   },
@@ -1782,49 +2078,49 @@
    "i18n": {
     "ar": {
      "block": "لا يُفهم جيدًا كيف يعيد الجهاز العصبي تشكيل نفسه ليُبقي الألم مستمرًا.",
-     "known": "يصيب الألم المزمن نحو بالغ واحد من كل خمسة. وفي عام 2025 اعتُمد في الولايات المتحدة مسكّن جديد غير أفيوني للألم الحاد، ويجري اختباره على الألم المزمن.",
+     "known": "يصيب الألم المزمن نحو بالغ واحد من كل خمسة في الولايات المتحدة. وفي عام 2025 اعتُمد في الولايات المتحدة مسكّن جديد غير أفيوني للألم الحاد.",
      "leads": "مسكنات تستهدف قنوات صوديوم محددة، وتحفيز الأعصاب.",
      "s": "الألم المزمن",
      "t": "لماذا يتحول الألم إلى مزمن؟"
     },
     "en": {
      "block": "How the nervous system rewires itself to keep pain going is poorly understood.",
-     "known": "Chronic pain affects roughly one adult in five. A new non-opioid painkiller was approved in the US in 2025 for acute pain and is being tested for chronic pain.",
+     "known": "Chronic pain affects roughly one adult in five in the United States. A new non-opioid painkiller was approved in the US in 2025 for acute pain.",
      "leads": "Painkillers targeting specific sodium channels, nerve stimulation.",
      "s": "Chronic pain",
      "t": "Why does pain become chronic?"
     },
     "es": {
      "block": "Se entiende mal cómo se reconfigura el sistema nervioso para mantener el dolor.",
-     "known": "El dolor crónico afecta aproximadamente a uno de cada cinco adultos. En 2025 se aprobó en Estados Unidos un nuevo analgésico no opioide para el dolor agudo, que se está probando contra el dolor crónico.",
+     "known": "El dolor crónico afecta aproximadamente a uno de cada cinco adultos en Estados Unidos. En 2025 se aprobó en Estados Unidos un nuevo analgésico no opioide para el dolor agudo.",
      "leads": "Analgésicos dirigidos a canales de sodio específicos, estimulación nerviosa.",
      "s": "Dolor crónico",
      "t": "¿Por qué el dolor se vuelve crónico?"
     },
     "fr": {
      "block": "On comprend mal comment le système nerveux se reprogramme pour entretenir la douleur.",
-     "known": "La douleur chronique touche environ un adulte sur cinq. Un nouvel antidouleur non opioïde a été approuvé aux États-Unis en 2025 contre la douleur aiguë, et il est testé contre la douleur chronique.",
+     "known": "La douleur chronique touche environ un adulte sur cinq aux États-Unis. Un nouvel antidouleur non opioïde a été approuvé aux États-Unis en 2025 contre la douleur aiguë.",
      "leads": "Antidouleurs ciblant des canaux sodiques précis, stimulation des nerfs.",
      "s": "Douleur chronique",
      "t": "Pourquoi la douleur devient-elle chronique ?"
     },
     "hi": {
      "block": "तंत्रिका तंत्र दर्द को बनाए रखने के लिए खुद को कैसे दोबारा जोड़ता है, यह कम समझा गया है।",
-     "known": "दीर्घकालिक दर्द लगभग हर पाँच में से एक वयस्क को प्रभावित करता है। 2025 में अमेरिका में एक नई गैर-ओपिओइड दर्द-निवारक दवा तीव्र दर्द के लिए स्वीकृत हुई, और दीर्घकालिक दर्द पर उसका परीक्षण हो रहा है।",
+     "known": "अमेरिका में दीर्घकालिक दर्द लगभग हर पाँच में से एक वयस्क को प्रभावित करता है। 2025 में अमेरिका में एक नई गैर-ओपिओइड दर्द-निवारक दवा तीव्र दर्द के लिए स्वीकृत हुई।",
      "leads": "विशिष्ट सोडियम चैनलों को लक्षित करने वाली दर्द निवारक दवाएँ, तंत्रिका उत्तेजना।",
      "s": "दीर्घकालिक दर्द",
      "t": "दर्द दीर्घकालिक क्यों हो जाता है?"
     },
     "pt": {
      "block": "Como o sistema nervoso se reconfigura para manter a dor é pouco compreendido.",
-     "known": "A dor crônica afeta cerca de um em cada cinco adultos. Em 2025, um novo analgésico não opioide foi aprovado nos EUA para dor aguda e está sendo testado contra a dor crônica.",
+     "known": "A dor crônica afeta cerca de um em cada cinco adultos nos EUA. Em 2025, um novo analgésico não opioide foi aprovado nos EUA para dor aguda.",
      "leads": "Analgésicos que atuam em canais de sódio específicos, estimulação nervosa.",
      "s": "Dor crônica",
      "t": "Por que a dor se torna crônica?"
     },
     "zh": {
      "block": "神经系统如何重塑自身以使疼痛持续,目前还了解不多。",
-     "known": "慢性疼痛大约影响五分之一的成年人。2025年,一种新的非阿片类止痛药在美国获批用于急性疼痛,目前正在测试其对慢性疼痛的效果。",
+     "known": "在美国，慢性疼痛大约影响五分之一的成年人。2025年，一种新的非阿片类止痛药在美国获批用于急性疼痛。",
      "leads": "针对特定钠通道的止痛药,神经刺激。",
      "s": "慢性疼痛",
      "t": "疼痛为什么会变成慢性?"
@@ -1840,6 +2136,45 @@
      "t": "FDA approves novel non-opioid treatment for moderate to severe acute pain (U.S. FDA, 2025)",
      "ty": "official",
      "u": "https://www.fda.gov/news-events/press-announcements/fda-approves-novel-non-opioid-treatment-moderate-severe-acute-pain"
+    },
+    {
+     "t": "The mechanisms and management of persistent postsurgical pain",
+     "ty": "reference",
+     "u": "https://www.frontiersin.org/journals/pain-research/articles/10.3389/fpain.2023.1154597/full"
+    },
+    {
+     "t": "Chronic Pain Among Adults — United States, 2019–2021",
+     "ty": "official",
+     "u": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7215a1.htm"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يسبب الألم الشديد بعد الجراحة مباشرةً ألمًا طويل الأمد لاحقًا، أم أن الأمرين مرتبطان فقط؟",
+     "en": "Does strong pain right after surgery actually cause long-lasting pain later, or are the two only linked?",
+     "es": "¿El dolor intenso justo después de una cirugía causa realmente dolor duradero más tarde, o solo están relacionados?",
+     "fr": "Une forte douleur juste après une opération cause-t-elle vraiment une douleur durable plus tard, ou les deux sont-elles seulement liées ?",
+     "hi": "क्या सर्जरी के तुरंत बाद होने वाला तेज़ दर्द वाकई बाद में लंबे समय तक रहने वाले दर्द का कारण बनता है, या दोनों केवल जुड़े हुए हैं?",
+     "pt": "A dor forte logo após uma cirurgia realmente causa dor duradoura mais tarde, ou as duas apenas estão ligadas?",
+     "zh": "手术后立即出现的剧烈疼痛，究竟会导致日后的长期疼痛，还是两者只是相关？"
+    },
+    {
+     "ar": "ما الذي يفسر الفروق بين النساء والرجال في مدى تكرار استمرار الألم بعد الجراحة؟",
+     "en": "What explains the differences between women and men in how often pain persists after surgery?",
+     "es": "¿Qué explica las diferencias entre mujeres y hombres en la frecuencia con que el dolor persiste después de una cirugía?",
+     "fr": "Qu'est-ce qui explique les différences entre femmes et hommes dans la fréquence des douleurs qui persistent après une opération ?",
+     "hi": "सर्जरी के बाद दर्द कितनी बार बना रहता है, इसमें महिलाओं और पुरुषों के बीच के अंतर का कारण क्या है?",
+     "pt": "O que explica as diferenças entre mulheres e homens na frequência com que a dor persiste após uma cirurgia?",
+     "zh": "手术后疼痛持续的发生率为何在女性和男性之间存在差异？"
+    },
+    {
+     "ar": "ما الجينات التي تجعل بعض الناس أكثر عرضة للإصابة بألم دائم، وهل يمكن تأكيد هذه النتائج في دراسات كبيرة؟",
+     "en": "Which genes make some people more likely to develop lasting pain, and can those findings be confirmed in large studies?",
+     "es": "¿Qué genes hacen que algunas personas tengan más probabilidades de desarrollar dolor duradero, y pueden confirmarse esos hallazgos en grandes estudios?",
+     "fr": "Quels gènes rendent certaines personnes plus susceptibles de développer une douleur durable, et ces résultats peuvent-ils être confirmés par de grandes études ?",
+     "hi": "कौन-से जीन कुछ लोगों में लंबे समय तक रहने वाले दर्द की संभावना बढ़ाते हैं, और क्या इन नतीजों की पुष्टि बड़े अध्ययनों में हो सकती है?",
+     "pt": "Quais genes tornam algumas pessoas mais propensas a desenvolver dor duradoura, e esses achados podem ser confirmados em grandes estudos?",
+     "zh": "哪些基因让一些人更容易出现长期疼痛？这些发现能否在大规模研究中得到证实？"
     }
    ]
   },
@@ -2661,6 +2996,35 @@
      "t": "Hidden treasures in junk DNA (Scientific American)",
      "ty": "press",
      "u": "https://www.scientificamerican.com/article/hidden-treasures-in-junk-dna/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل كون قطعة من الحمض النووي تُنسخ إلى حمض نووي ريبي يعني أن لها وظيفة حقيقية؟",
+     "en": "Does a stretch of DNA being copied into RNA mean it has a real function?",
+     "es": "¿El hecho de que un trozo de ADN se copie en ARN significa que tiene una función real?",
+     "fr": "Le fait qu'un fragment d'ADN soit copié en ARN signifie-t-il qu'il a une véritable fonction ?",
+     "hi": "क्या DNA के किसी हिस्से की RNA में नक़ल होना यह साबित करता है कि उसका कोई वास्तविक काम है?",
+     "pt": "O fato de um trecho de DNA ser copiado em RNA significa que ele tem uma função real?",
+     "zh": "一段DNA被转录成RNA，是否就意味着它具有真正的功能？"
+    },
+    {
+     "ar": "كيف نميّز الحمض النووي الريبي غير المشفِّر المفيد من آخر لا يفعل شيئًا؟",
+     "en": "How can we tell a useful non-coding RNA apart from one that does nothing?",
+     "es": "¿Cómo distinguir un ARN no codificante útil de uno que no hace nada?",
+     "fr": "Comment distinguer un ARN non codant utile d'un ARN qui ne fait rien ?",
+     "hi": "हम किसी उपयोगी नॉन-कोडिंग RNA को उस RNA से कैसे अलग पहचानें जो कुछ नहीं करता?",
+     "pt": "Como distinguir um RNA não codificante útil de um que não faz nada?",
+     "zh": "我们如何区分有用的非编码RNA和毫无作用的非编码RNA？"
+    },
+    {
+     "ar": "كم عدد الأحماض النووية الريبية غير المشفِّرة التي لها دور حقيقي ولم تُكتشف بعد؟",
+     "en": "How many non-coding RNAs with a real job are still waiting to be found?",
+     "es": "¿Cuántos ARN no codificantes con una función real quedan por descubrir?",
+     "fr": "Combien d'ARN non codants ayant un rôle réel restent-ils à découvrir ?",
+     "hi": "असली भूमिका वाले कितने नॉन-कोडिंग RNA अब भी खोजे जाने बाकी हैं?",
+     "pt": "Quantos RNAs não codificantes com uma função real ainda estão por descobrir?",
+     "zh": "还有多少真正有功能的非编码RNA尚未被发现？"
     }
    ]
   },
@@ -3694,50 +4058,50 @@
    "i18n": {
     "ar": {
      "block": "لا نعرف أي الفروق هي المهمة فعلًا.",
-     "known": "للبشر عدد كبير من الخلايا العصبية في القشرة الدماغية وطفولة طويلة، لكن حيوانات أخرى تستخدم الأدوات وتخطط أيضًا.",
-     "leads": "مقارنة عُضيّات دماغية بشرية وأخرى للقردة العليا، ومقارنات مع الذكاء الاصطناعي.",
+     "known": "للبشر عدد كبير من الخلايا العصبية في القشرة الدماغية وطفولة طويلة.",
+     "leads": "مقارنة عُضيّات دماغية بشرية وأخرى للقردة العليا.",
      "s": "الذكاء البشري",
      "t": "ما الذي يميّز الذكاء البشري عن ذكاء الحيوانات الأخرى؟"
     },
     "en": {
      "block": "We don't know which differences actually matter.",
-     "known": "Humans have many neurons in the cortex and a long childhood, but other animals also use tools and plan.",
-     "leads": "Comparing human and ape brain organoids, comparisons with artificial intelligence.",
+     "known": "Humans have many neurons in the cortex and a long childhood.",
+     "leads": "Comparing human and ape brain organoids.",
      "s": "Human intelligence",
      "t": "What makes human intelligence different from other animals'?"
     },
     "es": {
      "block": "No sabemos qué diferencias importan realmente.",
-     "known": "Los humanos tienen muchas neuronas en la corteza y una infancia larga, pero otros animales también usan herramientas y planifican.",
-     "leads": "Comparación de organoides cerebrales humanos y de simios, comparaciones con la inteligencia artificial.",
+     "known": "Los humanos tienen muchas neuronas en la corteza y una infancia larga.",
+     "leads": "Comparación de organoides cerebrales humanos y de simios.",
      "s": "Inteligencia humana",
      "t": "¿Qué hace que la inteligencia humana sea diferente de la de otros animales?"
     },
     "fr": {
      "block": "On ne sait pas quelles différences comptent vraiment.",
-     "known": "L'humain a beaucoup de neurones dans le cortex et une longue enfance, mais d'autres animaux utilisent aussi des outils et planifient.",
-     "leads": "Comparer des organoïdes de cerveau humain et de grand singe, comparaisons avec l'intelligence artificielle.",
+     "known": "L'humain a beaucoup de neurones dans le cortex et une longue enfance.",
+     "leads": "Comparer des organoïdes de cerveau humain et de grand singe.",
      "s": "Intelligence humaine",
      "t": "Qu'est-ce qui rend l'intelligence humaine différente de celle des autres animaux ?"
     },
     "hi": {
      "block": "हमें नहीं पता कि वास्तव में कौन-से अंतर मायने रखते हैं।",
-     "known": "मनुष्यों के कॉर्टेक्स में बहुत से न्यूरॉन होते हैं और बचपन लंबा होता है, लेकिन अन्य जानवर भी औज़ार इस्तेमाल करते हैं और योजना बनाते हैं।",
-     "leads": "मानव और वानर के ब्रेन ऑर्गेनॉइड की तुलना, कृत्रिम बुद्धिमत्ता से तुलना।",
+     "known": "मनुष्यों के कॉर्टेक्स में बहुत से न्यूरॉन होते हैं और बचपन लंबा होता है।",
+     "leads": "मानव और वानर के ब्रेन ऑर्गेनॉइड की तुलना।",
      "s": "मानव बुद्धि",
      "t": "मानव बुद्धि को अन्य जानवरों की बुद्धि से क्या अलग बनाता है?"
     },
     "pt": {
      "block": "Não sabemos quais diferenças realmente importam.",
-     "known": "Os humanos têm muitos neurônios no córtex e uma infância longa, mas outros animais também usam ferramentas e planejam.",
-     "leads": "Comparação entre organoides cerebrais de humanos e de macacos, comparações com a inteligência artificial.",
+     "known": "Os humanos têm muitos neurônios no córtex e uma infância longa.",
+     "leads": "Comparação entre organoides cerebrais de humanos e de macacos.",
      "s": "Inteligência humana",
      "t": "O que torna a inteligência humana diferente da de outros animais?"
     },
     "zh": {
      "block": "我们不知道究竟哪些差异才是关键。",
-     "known": "人类的大脑皮层有很多神经元,童年也很漫长,但其他动物同样会使用工具和做计划。",
-     "leads": "比较人类与猿类的脑类器官,与人工智能作比较。",
+     "known": "人类的大脑皮层有很多神经元，童年也很漫长。",
+     "leads": "比较人类与猿类的脑类器官。",
      "s": "人类智能",
      "t": "是什么让人类智能不同于其他动物?"
     }
@@ -3753,6 +4117,31 @@
      "t": "What makes us human? Comparing brain development in humans and great apes (TU Dresden, 2026)",
      "ty": "institution",
      "u": "https://tu-dresden.de/tu-dresden/newsportal/news/what-makes-us-human-researchers-compare-brain-development-in-humans-and-great-apes"
+    },
+    {
+     "t": "Genetics of human brain development",
+     "ty": "reference",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10926850"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "ما الجينات ومناطق الحمض النووي الخاصة بالإنسان التي جعلت قشرتنا الدماغية أكبر، بخلاف الحفنة التي دُرست حتى الآن؟",
+     "en": "Which human-specific genes and DNA regions made our cortex grow larger, beyond the handful studied so far?",
+     "es": "¿Qué genes y regiones de ADN propios del ser humano hicieron crecer nuestra corteza, más allá del puñado estudiado hasta ahora?",
+     "fr": "Quels gènes et régions d'ADN propres à l'humain ont fait grandir notre cortex, au-delà de la poignée étudiée jusqu'ici ?",
+     "hi": "अब तक अध्ययन किए गए कुछ गिने-चुने जीनों के अलावा, कौन-से मनुष्य-विशिष्ट जीन और DNA क्षेत्र हमारे कॉर्टेक्स को बड़ा बनाने के लिए ज़िम्मेदार हैं?",
+     "pt": "Quais genes e regiões de DNA exclusivos dos humanos fizeram nosso córtex crescer, além do punhado estudado até agora?",
+     "zh": "除了目前研究过的少数几个之外，还有哪些人类特有的基因和DNA区域让我们的大脑皮层变大？"
+    },
+    {
+     "ar": "هل تغيّر التعديلات الجينية التي تبدّل البنية الفيزيائية للدماغ فعلًا القدرات المعقدة مثل التفكير والسلوك؟",
+     "en": "Do genetic changes that alter the brain's physical structure actually change complex abilities such as thinking and behavior?",
+     "es": "¿Los cambios genéticos que alteran la estructura física del cerebro cambian realmente capacidades complejas como el pensamiento y la conducta?",
+     "fr": "Les changements génétiques qui modifient la structure physique du cerveau changent-ils réellement des capacités complexes comme la pensée et le comportement ?",
+     "hi": "क्या मस्तिष्क की भौतिक संरचना बदलने वाले आनुवंशिक बदलाव वास्तव में सोचने और व्यवहार जैसी जटिल क्षमताओं को बदलते हैं?",
+     "pt": "As mudanças genéticas que alteram a estrutura física do cérebro realmente mudam capacidades complexas como o pensamento e o comportamento?",
+     "zh": "改变大脑物理结构的基因变化，是否真的会改变思维和行为等复杂能力？"
     }
    ]
   },
@@ -3821,6 +4210,40 @@
      "t": "An accurate and rapidly calibrating speech neuroprosthesis (NEJM, 2024)",
      "ty": "study",
      "u": "https://pubmed.ncbi.nlm.nih.gov/39141853/"
+    },
+    {
+     "t": "The state of clinical trials of implantable brain–computer interfaces",
+     "ty": "reference",
+     "u": "https://par.nsf.gov/servlets/purl/10617413"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن للأقطاب الكهربائية المزروعة في الدماغ أن تواصل العمل بموثوقية طوال حياة الشخص؟",
+     "en": "Can electrodes implanted in the brain keep working reliably for a person's whole life?",
+     "es": "¿Pueden los electrodos implantados en el cerebro seguir funcionando de forma fiable durante toda la vida de una persona?",
+     "fr": "Des électrodes implantées dans le cerveau peuvent-elles continuer à fonctionner de façon fiable toute la vie d'une personne ?",
+     "hi": "क्या मस्तिष्क में लगाए गए इलेक्ट्रोड किसी व्यक्ति के पूरे जीवनकाल तक भरोसेमंद ढंग से काम करते रह सकते हैं?",
+     "pt": "Eletrodos implantados no cérebro podem continuar funcionando de forma confiável durante toda a vida de uma pessoa?",
+     "zh": "植入大脑的电极能否在一个人的一生中都可靠地持续工作？"
+    },
+    {
+     "ar": "ما أقل عدد من الإشارات الدماغية يكفي فعلًا للتحكم في جهاز بدقة؟",
+     "en": "How few brain signals are actually enough to control a device accurately?",
+     "es": "¿Cuántas señales cerebrales bastan realmente, como mínimo, para controlar un dispositivo con precisión?",
+     "fr": "Combien de signaux cérébraux, au minimum, suffisent réellement pour contrôler un appareil avec précision ?",
+     "hi": "किसी उपकरण को सटीकता से नियंत्रित करने के लिए वास्तव में कम-से-कम कितने मस्तिष्क संकेत पर्याप्त हैं?",
+     "pt": "Quantos sinais cerebrais, no mínimo, são realmente suficientes para controlar um aparelho com precisão?",
+     "zh": "究竟需要多少脑信号才足以精确控制一台设备？"
+    },
+    {
+     "ar": "كيف يمكن لتجارب الغرسات الدماغية أن تضم تنوعًا عادلًا من الناس، بما أن النساء كنّ ممثّلات تمثيلًا ناقصًا حتى الآن؟",
+     "en": "How can brain implant trials include a fair range of people, since women have been underrepresented so far?",
+     "es": "¿Cómo pueden los ensayos de implantes cerebrales incluir una variedad justa de personas, dado que las mujeres han estado infrarrepresentadas hasta ahora?",
+     "fr": "Comment les essais d'implants cérébraux peuvent-ils inclure un éventail équitable de personnes, alors que les femmes y ont été jusqu'ici sous-représentées ?",
+     "hi": "चूँकि अब तक महिलाओं का प्रतिनिधित्व कम रहा है, मस्तिष्क इम्प्लांट के परीक्षणों में लोगों की उचित विविधता कैसे शामिल की जाए?",
+     "pt": "Como os ensaios de implantes cerebrais podem incluir uma variedade justa de pessoas, já que as mulheres têm sido sub-representadas até agora?",
+     "zh": "鉴于迄今为止女性参与者偏少，脑植入试验如何才能纳入更具代表性的人群？"
     }
    ]
   },
@@ -4171,6 +4594,35 @@
      "t": "Free Will (Stanford Encyclopedia of Philosophy)",
      "ty": "reference",
      "u": "https://plato.stanford.edu/entries/freewill/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل تعكس الإشارة الدماغية المسجلة قبل الحركة («جهد الاستعداد») قرارًا، أم مجرد نشاط دماغي خلفي عشوائي؟",
+     "en": "Does the brain signal recorded before a movement (the 'readiness potential') reflect a decision, or just random background brain activity?",
+     "es": "¿La señal cerebral registrada antes de un movimiento (el «potencial de preparación») refleja una decisión, o solo actividad cerebral de fondo aleatoria?",
+     "fr": "Le signal cérébral enregistré avant un mouvement (le « potentiel de préparation motrice ») reflète-t-il une décision, ou simplement une activité cérébrale de fond aléatoire ?",
+     "hi": "किसी हरकत से पहले दर्ज होने वाला मस्तिष्क संकेत ('रेडीनेस पोटेंशियल') किसी निर्णय को दर्शाता है, या बस मस्तिष्क की बेतरतीब पृष्ठभूमि गतिविधि को?",
+     "pt": "O sinal cerebral registrado antes de um movimento (o «potencial de prontidão») reflete uma decisão, ou apenas atividade cerebral de fundo aleatória?",
+     "zh": "在动作之前记录到的脑信号（“准备电位”）反映的是一个决定，还是只是随机的背景脑活动？"
+    },
+    {
+     "ar": "هل تشير هذه الإشارة إلى بدء فعل ما، أم إلى شيء أعمّ مثل التوقع أو الانتباه؟",
+     "en": "Does this signal mark the start of an action, or something more general such as expecting or paying attention?",
+     "es": "¿Marca esta señal el inicio de una acción, o algo más general como la anticipación o la atención?",
+     "fr": "Ce signal marque-t-il le début d'une action, ou quelque chose de plus général comme l'anticipation ou l'attention ?",
+     "hi": "क्या यह संकेत किसी क्रिया की शुरुआत दिखाता है, या कुछ अधिक सामान्य, जैसे अपेक्षा या ध्यान देना?",
+     "pt": "Esse sinal marca o início de uma ação, ou algo mais geral como a expectativa ou a atenção?",
+     "zh": "这个信号标志着动作的开始，还是更一般的东西，比如预期或注意？"
+    },
+    {
+     "ar": "لماذا لا يُظهر بعض الناس أي جهد استعداد على الإطلاق؟",
+     "en": "Why do some people show no readiness potential at all?",
+     "es": "¿Por qué algunas personas no muestran ningún potencial de preparación?",
+     "fr": "Pourquoi certaines personnes ne présentent-elles aucun potentiel de préparation motrice ?",
+     "hi": "कुछ लोगों में रेडीनेस पोटेंशियल बिल्कुल क्यों नहीं दिखता?",
+     "pt": "Por que algumas pessoas não mostram nenhum potencial de prontidão?",
+     "zh": "为什么有些人根本没有出现准备电位？"
     }
    ]
   },
@@ -4547,6 +4999,35 @@
      "ty": "study",
      "u": "https://dspace.mit.edu/bitstream/1721.1/126264/2/Tonegawa%20NRN%202018%20-%20Main%20Text%20Final.pdf"
     }
+   ],
+   "sub": [
+    {
+     "ar": "كيف تُنشّط الإشارات القادمة من الحُصين خلايا الذاكرة «الصامتة» في القشرة الدماغية؟",
+     "en": "How do signals from the hippocampus switch on 'silent' memory cells in the cortex?",
+     "es": "¿Cómo activan las señales del hipocampo las células de memoria «silenciosas» de la corteza?",
+     "fr": "Comment les signaux de l'hippocampe activent-ils les cellules de mémoire « silencieuses » du cortex ?",
+     "hi": "हिप्पोकैम्पस से आने वाले संकेत कॉर्टेक्स की 'मौन' स्मृति कोशिकाओं को कैसे सक्रिय करते हैं?",
+     "pt": "Como os sinais do hipocampo ativam as células de memória «silenciosas» do córtex?",
+     "zh": "来自海马体的信号如何激活大脑皮层中“沉默”的记忆细胞？"
+    },
+    {
+     "ar": "كيف تصبح خلايا الذاكرة في الحُصين صامتة مع الوقت، وهل هذا تلاشٍ سلبي أم عملية نشطة؟",
+     "en": "How do memory cells in the hippocampus fall silent over time, and is this passive fading or an active process?",
+     "es": "¿Cómo se silencian con el tiempo las células de memoria del hipocampo, y se trata de un desvanecimiento pasivo o de un proceso activo?",
+     "fr": "Comment les cellules de mémoire de l'hippocampe deviennent-elles silencieuses avec le temps, et s'agit-il d'un effacement passif ou d'un processus actif ?",
+     "hi": "हिप्पोकैम्पस की स्मृति कोशिकाएँ समय के साथ मौन कैसे हो जाती हैं, और क्या यह निष्क्रिय रूप से फीका पड़ना है या एक सक्रिय प्रक्रिया?",
+     "pt": "Como as células de memória do hipocampo silenciam com o tempo, e isso é um desvanecimento passivo ou um processo ativo?",
+     "zh": "海马体中的记忆细胞是如何随时间变得沉默的？这是被动消退还是主动过程？"
+    },
+    {
+     "ar": "هل تستخدم القشرة الدماغية مجموعات منفصلة من الخلايا لذكريات الأحداث ولذكريات الحقائق؟",
+     "en": "Does the cortex use separate groups of cells for memories of events and for memories of facts?",
+     "es": "¿Usa la corteza grupos de células distintos para los recuerdos de sucesos y para los recuerdos de hechos?",
+     "fr": "Le cortex utilise-t-il des groupes de cellules distincts pour les souvenirs d'événements et pour les connaissances (faits) ?",
+     "hi": "क्या कॉर्टेक्स घटनाओं की यादों और तथ्यों की यादों के लिए कोशिकाओं के अलग-अलग समूह इस्तेमाल करता है?",
+     "pt": "O córtex usa grupos de células separados para memórias de eventos e para memórias de fatos?",
+     "zh": "大脑皮层是否用不同的细胞群来储存事件记忆和事实记忆？"
+    }
    ]
   },
   {
@@ -4712,6 +5193,35 @@
      "t": "Papenburg et al., Causal role of the gut microbiome in certain human diseases: a narrative review (eGastroenterology, 2024)",
      "ty": "study",
      "u": "https://doi.org/10.1136/egastro-2024-100086"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يؤثر الميكروبيوم بالضبط في الصحة والمرض؟",
+     "en": "How exactly does the microbiome influence health and disease?",
+     "es": "¿Cómo influye exactamente el microbioma en la salud y la enfermedad?",
+     "fr": "Comment le microbiote influence-t-il exactement la santé et la maladie ?",
+     "hi": "माइक्रोबायोम स्वास्थ्य और बीमारी को ठीक-ठीक कैसे प्रभावित करता है?",
+     "pt": "Como exatamente o microbioma influencia a saúde e a doença?",
+     "zh": "微生物组究竟是如何影响健康和疾病的？"
+    },
+    {
+     "ar": "أي قياسات الميكروبيوم موثوقة بما يكفي للتنبؤ بصحة الشخص؟",
+     "en": "Which measurements of the microbiome are reliable enough to predict a person's health?",
+     "es": "¿Qué mediciones del microbioma son lo bastante fiables para predecir la salud de una persona?",
+     "fr": "Quelles mesures du microbiote sont suffisamment fiables pour prédire l'état de santé d'une personne ?",
+     "hi": "माइक्रोबायोम के कौन-से मापन इतने भरोसेमंद हैं कि किसी व्यक्ति के स्वास्थ्य का अनुमान लगाया जा सके?",
+     "pt": "Quais medições do microbioma são confiáveis o suficiente para prever a saúde de uma pessoa?",
+     "zh": "哪些微生物组测量指标足够可靠，可以用来预测一个人的健康状况？"
+    },
+    {
+     "ar": "هل يمكن جعل زرع البراز والعلاجات القائمة على بكتيريا حية آمنة ومتاحة على نطاق واسع؟",
+     "en": "Can fecal transplants and living bacterial treatments be made safe and available on a large scale?",
+     "es": "¿Pueden los trasplantes fecales y los tratamientos con bacterias vivas volverse seguros y estar disponibles a gran escala?",
+     "fr": "Les transplantations fécales et les traitements à base de bactéries vivantes peuvent-ils être rendus sûrs et disponibles à grande échelle ?",
+     "hi": "क्या मल प्रत्यारोपण और जीवित बैक्टीरिया वाले उपचारों को सुरक्षित और बड़े पैमाने पर उपलब्ध बनाया जा सकता है?",
+     "pt": "Os transplantes fecais e os tratamentos com bactérias vivas podem se tornar seguros e disponíveis em larga escala?",
+     "zh": "粪菌移植和活菌疗法能否做到安全并大规模供应？"
     }
    ]
   },
@@ -5488,6 +5998,26 @@
      "ty": "study",
      "u": "https://pubmed.ncbi.nlm.nih.gov/33567185/"
     }
+   ],
+   "sub": [
+    {
+     "ar": "ما الدوائر الدماغية المسؤولة عن فقدان الوزن الذي تسببه أدوية GLP-1؟",
+     "en": "Which brain circuits are responsible for the weight loss caused by GLP-1 drugs?",
+     "es": "¿Qué circuitos cerebrales son responsables de la pérdida de peso que provocan los fármacos GLP-1?",
+     "fr": "Quels circuits cérébraux sont responsables de la perte de poids provoquée par les médicaments GLP-1 ?",
+     "hi": "GLP-1 दवाओं से होने वाले वज़न घटने के लिए मस्तिष्क के कौन-से सर्किट ज़िम्मेदार हैं?",
+     "pt": "Quais circuitos cerebrais são responsáveis pela perda de peso causada pelos medicamentos GLP-1?",
+     "zh": "GLP-1类药物引起的体重下降是由哪些脑回路负责的？"
+    },
+    {
+     "ar": "لماذا يفقد نحو 10–15% من متناولي سيماغلوتيد قليلًا من الوزن أو لا يفقدون شيئًا؟",
+     "en": "Why do about 10–15% of people on semaglutide lose little or no weight?",
+     "es": "¿Por qué alrededor del 10–15 % de las personas que toman semaglutida pierden poco o ningún peso?",
+     "fr": "Pourquoi environ 10 à 15 % des personnes sous sémaglutide perdent-elles peu ou pas de poids ?",
+     "hi": "सेमाग्लूटाइड लेने वाले लगभग 10–15% लोगों का वज़न बहुत कम या बिल्कुल क्यों नहीं घटता?",
+     "pt": "Por que cerca de 10–15% das pessoas que usam semaglutida perdem pouco ou nenhum peso?",
+     "zh": "为什么大约10–15%使用司美格鲁肽的人体重几乎没有下降？"
+    }
    ]
   },
   {
@@ -5742,6 +6272,40 @@
      "t": "Gene-edited pig kidney transplanted into third person (STAT, 2024)",
      "ty": "press",
      "u": "https://www.statnews.com/2024/12/17/gene-edited-pig-kidney-transplanted-into-third-person-nyu-langone/"
+    },
+    {
+     "t": "2025: status of cardiac xenotransplantation including preclinical models",
+     "ty": "reference",
+     "u": "https://www.frontiersin.org/articles/10.3389/frtra.2025.1568910/full"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن للأطباء اكتشاف رفض عضو الخنزير مبكرًا، بينما تلتصق معظم الأجسام المضادة للخنزير بالعضو نفسه بدلًا من أن تدور في الدم؟",
+     "en": "How can doctors detect rejection of a pig organ early, when most anti-pig antibodies stick to the organ itself instead of circulating in the blood?",
+     "es": "¿Cómo pueden los médicos detectar a tiempo el rechazo de un órgano de cerdo, si la mayoría de los anticuerpos contra el cerdo se adhieren al propio órgano en lugar de circular en la sangre?",
+     "fr": "Comment les médecins peuvent-ils détecter tôt le rejet d'un organe de porc, alors que la plupart des anticorps anti-porc se fixent sur l'organe lui-même au lieu de circuler dans le sang ?",
+     "hi": "जब ज़्यादातर सुअर-विरोधी एंटीबॉडी ख़ून में घूमने के बजाय अंग से ही चिपक जाती हैं, तो डॉक्टर सुअर के अंग की अस्वीकृति का जल्दी पता कैसे लगाएँ?",
+     "pt": "Como os médicos podem detectar cedo a rejeição de um órgão de porco, se a maioria dos anticorpos antiporco se fixa no próprio órgão em vez de circular no sangue?",
+     "zh": "由于大多数抗猪抗体附着在器官本身上而不是在血液中循环，医生如何才能及早发现对猪器官的排斥？"
+    },
+    {
+     "ar": "ما مزيج الأدوية المثبطة للمناعة الذي يمكن أن يُبقي عضو الخنزير يعمل داخل جسم الإنسان لسنوات؟",
+     "en": "Which combination of immune-suppressing drugs can keep a pig organ working in a person for years?",
+     "es": "¿Qué combinación de fármacos inmunosupresores puede mantener un órgano de cerdo funcionando en una persona durante años?",
+     "fr": "Quelle combinaison de médicaments immunosuppresseurs peut maintenir un organe de porc fonctionnel chez une personne pendant des années ?",
+     "hi": "प्रतिरक्षा को दबाने वाली दवाओं का कौन-सा मेल किसी व्यक्ति में सुअर के अंग को सालों तक काम करता रख सकता है?",
+     "pt": "Que combinação de medicamentos imunossupressores pode manter um órgão de porco funcionando em uma pessoa por anos?",
+     "zh": "哪种免疫抑制药物组合能让猪器官在人体内持续工作多年？"
+    },
+    {
+     "ar": "كيف يؤثر النمو الذاتي لعضو الخنزير في مدى كفاءة عمله داخل جسم الإنسان؟",
+     "en": "How does a pig organ's own growth affect how well it works inside a human body?",
+     "es": "¿Cómo afecta el crecimiento propio de un órgano de cerdo a su funcionamiento dentro de un cuerpo humano?",
+     "fr": "Comment la croissance propre d'un organe de porc influe-t-elle sur son bon fonctionnement dans un corps humain ?",
+     "hi": "सुअर के अंग की अपनी वृद्धि मानव शरीर के अंदर उसके ठीक से काम करने को कैसे प्रभावित करती है?",
+     "pt": "Como o crescimento próprio de um órgão de porco afeta seu funcionamento dentro de um corpo humano?",
+     "zh": "猪器官自身的生长会如何影响它在人体内的工作效果？"
     }
    ]
   },
@@ -5919,6 +6483,35 @@
      "ty": "press",
      "u": "https://daily.jstor.org/the-ocean-vents-where-life-on-earth-likely-began"
     }
+   ],
+   "sub": [
+    {
+     "ar": "كيف أمكن أن تتكوّن لبنات البيورين في الحمض النووي الريبي (مثل A وG) من دون إنزيمات؟",
+     "en": "How could the purine building blocks of RNA (such as A and G) form without enzymes?",
+     "es": "¿Cómo pudieron formarse sin enzimas los componentes púricos del ARN (como A y G)?",
+     "fr": "Comment les briques puriques de l'ARN (comme A et G) ont-elles pu se former sans enzymes ?",
+     "hi": "RNA के प्यूरीन निर्माण-खंड (जैसे A और G) बिना एंज़ाइम के कैसे बन सकते थे?",
+     "pt": "Como os blocos de purina do RNA (como A e G) puderam se formar sem enzimas?",
+     "zh": "RNA的嘌呤构件（如A和G）在没有酶的情况下是如何形成的？"
+    },
+    {
+     "ar": "هل يمكن لخيوط الحمض النووي الريبي أن تترابط في سلاسل داخل فقاعات مائية شبيهة بالخلايا (خلايا أولية)؟",
+     "en": "Can RNA strands link up into chains inside watery, cell-like bubbles (protocells)?",
+     "es": "¿Pueden las hebras de ARN unirse en cadenas dentro de burbujas acuosas parecidas a células (protocélulas)?",
+     "fr": "Des brins d'ARN peuvent-ils s'assembler en chaînes à l'intérieur de bulles aqueuses ressemblant à des cellules (protocellules) ?",
+     "hi": "क्या RNA के टुकड़े पानी से भरे, कोशिका जैसे बुलबुलों (प्रोटोसेल) के अंदर जुड़कर लंबी शृंखलाएँ बना सकते हैं?",
+     "pt": "Fitas de RNA podem se unir em cadeias dentro de bolhas aquosas semelhantes a células (protocélulas)?",
+     "zh": "RNA片段能否在充满水的类细胞小泡（原始细胞）内部连接成长链？"
+    },
+    {
+     "ar": "مِمّ كانت تتكوّن أغشية آخر سلف مشترك عام لكل أشكال الحياة (LUCA)؟",
+     "en": "What were the membranes of the last universal common ancestor of all life (LUCA) made of?",
+     "es": "¿De qué estaban hechas las membranas del último antepasado común universal de todos los seres vivos (LUCA)?",
+     "fr": "De quoi étaient faites les membranes du dernier ancêtre commun universel de tous les êtres vivants (LUCA) ?",
+     "hi": "सभी जीवों के अंतिम सार्वभौमिक साझा पूर्वज (LUCA) की झिल्लियाँ किससे बनी थीं?",
+     "pt": "Do que eram feitas as membranas do último ancestral comum universal de todos os seres vivos (LUCA)?",
+     "zh": "所有生命的最后共同祖先（LUCA）的细胞膜是由什么构成的？"
+    }
    ]
   },
   {
@@ -6083,6 +6676,45 @@
      "t": "Malaria fact sheet (World Health Organization)",
      "ty": "official",
      "u": "https://who.int/news-room/fact-sheets/detail/malaria"
+    },
+    {
+     "t": "Driving down malaria transmission with engineered gene drives",
+     "ty": "reference",
+     "u": "https://www.frontiersin.org/articles/10.3389/fgene.2022.891218/full"
+    },
+    {
+     "t": "Antibody reduces risk of malaria in children",
+     "ty": "official",
+     "u": "https://www.nih.gov/news-events/nih-research-matters/antibody-reduces-risk-malaria-children"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن منع البعوض من تطوير مقاومة للمحرك الجيني؟",
+     "en": "How can mosquitoes be prevented from evolving resistance to a gene drive?",
+     "es": "¿Cómo evitar que los mosquitos desarrollen resistencia a un impulso genético?",
+     "fr": "Comment empêcher les moustiques de développer une résistance à un forçage génétique ?",
+     "hi": "मच्छरों को जीन ड्राइव के प्रति प्रतिरोध विकसित करने से कैसे रोका जाए?",
+     "pt": "Como impedir que os mosquitos desenvolvam resistência a um impulso genético (gene drive)?",
+     "zh": "如何防止蚊子对基因驱动产生抗性？"
+    },
+    {
+     "ar": "هل ستنجح المحركات الجينية في البرية، مع أنه لم يُختبر أي منها بعد في بيئة مفتوحة؟",
+     "en": "Will gene drives work in the wild, when none has yet been tested in the open environment?",
+     "es": "¿Funcionarán los impulsos genéticos en la naturaleza, cuando ninguno se ha probado todavía en un entorno abierto?",
+     "fr": "Les forçages génétiques fonctionneront-ils dans la nature, alors qu'aucun n'a encore été testé en milieu ouvert ?",
+     "hi": "क्या जीन ड्राइव जंगल में काम करेंगे, जबकि अब तक किसी का भी खुले वातावरण में परीक्षण नहीं हुआ है?",
+     "pt": "Os impulsos genéticos funcionarão na natureza, se nenhum foi ainda testado em ambiente aberto?",
+     "zh": "基因驱动在野外会有效吗？毕竟至今还没有一个在开放环境中测试过。"
+    },
+    {
+     "ar": "هل يمكن لمحرك جيني أن ينتشر في مجموعات كاملة من البعوض البري ويقمعها، خصوصًا حيث تتغير الفصول بشدة؟",
+     "en": "Can a gene drive spread through and suppress whole wild mosquito populations, especially where seasons change sharply?",
+     "es": "¿Puede un impulso genético propagarse por poblaciones enteras de mosquitos silvestres y reducirlas, sobre todo donde las estaciones cambian mucho?",
+     "fr": "Un forçage génétique peut-il se propager dans des populations entières de moustiques sauvages et les réduire, surtout là où les saisons sont très marquées ?",
+     "hi": "क्या कोई जीन ड्राइव जंगली मच्छरों की पूरी आबादी में फैलकर उसे दबा सकता है, ख़ासकर वहाँ जहाँ मौसम तेज़ी से बदलते हैं?",
+     "pt": "Um impulso genético pode se espalhar por populações inteiras de mosquitos selvagens e reduzi-las, sobretudo onde as estações mudam bruscamente?",
+     "zh": "基因驱动能否在整个野生蚊群中扩散并压制它们，尤其是在季节变化明显的地区？"
     }
    ]
   },
@@ -6094,49 +6726,49 @@
     "ar": {
      "block": "كشف تفشي الأمراض الجديدة بطيء وغير متكافئ بشدة في أنحاء العالم.",
      "known": "في عام 2020، صُمّمت لقاحات mRNA في غضون أيام من نشر جينوم الفيروس.",
-     "leads": "مراقبة مياه الصرف الصحي، ولقاحات مُعدّة مسبقًا لعائلات فيروسية بأكملها، ومضادات فيروسات واسعة الطيف.",
+     "leads": "مراقبة مياه الصرف الصحي، ولقاحات مُعدّة مسبقًا لعائلات فيروسية بأكملها.",
      "s": "الوقاية من الجوائح",
      "t": "هل يمكننا إيقاف الجائحة القادمة قبل أن تنتشر؟"
     },
     "en": {
      "block": "Detecting new outbreaks is slow and very unequal across the world.",
      "known": "In 2020, mRNA vaccines were designed within days of the virus's genome being published.",
-     "leads": "Wastewater surveillance, vaccines prepared in advance for whole virus families, broad-spectrum antivirals.",
+     "leads": "Wastewater surveillance, vaccines prepared in advance for whole virus families.",
      "s": "Pandemic prevention",
      "t": "Can we stop the next pandemic before it spreads?"
     },
     "es": {
      "block": "Detectar nuevos brotes es lento y muy desigual en el mundo.",
      "known": "En 2020, las vacunas de ARNm se diseñaron a los pocos días de publicarse el genoma del virus.",
-     "leads": "Vigilancia de aguas residuales, vacunas preparadas de antemano para familias enteras de virus, antivirales de amplio espectro.",
+     "leads": "Vigilancia de aguas residuales, vacunas preparadas de antemano para familias enteras de virus.",
      "s": "Prevención de pandemias",
      "t": "¿Podemos detener la próxima pandemia antes de que se propague?"
     },
     "fr": {
      "block": "La détection des nouvelles épidémies est lente et très inégale selon les pays.",
      "known": "En 2020, des vaccins à ARNm ont été conçus quelques jours après la publication du génome du virus.",
-     "leads": "Surveillance des eaux usées, vaccins préparés d'avance pour des familles entières de virus, antiviraux à large spectre.",
+     "leads": "Surveillance des eaux usées, vaccins préparés d'avance pour des familles entières de virus.",
      "s": "Prévenir les pandémies",
      "t": "Peut-on arrêter la prochaine pandémie avant qu'elle se propage ?"
     },
     "hi": {
      "block": "नए प्रकोपों का पता लगाना धीमा है और दुनिया भर में बहुत असमान है।",
      "known": "2020 में वायरस का जीनोम प्रकाशित होने के कुछ ही दिनों में mRNA टीके डिज़ाइन कर लिए गए।",
-     "leads": "अपशिष्ट जल निगरानी, वायरस के पूरे परिवारों के लिए पहले से तैयार टीके, व्यापक-स्पेक्ट्रम एंटीवायरल।",
+     "leads": "अपशिष्ट जल निगरानी, वायरस के पूरे परिवारों के लिए पहले से तैयार टीके।",
      "s": "महामारी की रोकथाम",
      "t": "क्या हम अगली महामारी को फैलने से पहले रोक सकते हैं?"
     },
     "pt": {
      "block": "A detecção de novos surtos é lenta e muito desigual pelo mundo.",
      "known": "Em 2020, vacinas de mRNA foram projetadas em poucos dias após a publicação do genoma do vírus.",
-     "leads": "Vigilância de esgoto, vacinas preparadas com antecedência para famílias inteiras de vírus, antivirais de amplo espectro.",
+     "leads": "Vigilância de esgoto, vacinas preparadas com antecedência para famílias inteiras de vírus.",
      "s": "Prevenção de pandemias",
      "t": "Podemos deter a próxima pandemia antes que ela se espalhe?"
     },
     "zh": {
      "block": "发现新疫情很慢,而且世界各地极不平等。",
      "known": "2020年,在病毒基因组公布后的几天内,就设计出了mRNA疫苗。",
-     "leads": "污水监测,为整个病毒家族提前准备的疫苗,广谱抗病毒药物。",
+     "leads": "污水监测，为整个病毒家族提前准备的疫苗。",
      "s": "预防大流行",
      "t": "我们能在下一场大流行扩散之前阻止它吗?"
     }
@@ -6156,6 +6788,40 @@
      "t": "Brief on wastewater surveillance (Brown University Pandemic Center, 2025)",
      "ty": "institution",
      "u": "https://pandemics.sph.brown.edu/news/2025-01-23/wastewater-brief"
+    },
+    {
+     "t": "100-Day Mission for Future Pandemic Vaccines, Viewed Through the Lens of Low- and Middle-Income Countries (LMICs)",
+     "ty": "reference",
+     "u": "https://mdpi.com/2076-393X/13/7/773"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن حقًا تطوير لقاح وتوزيعه خلال 100 يوم من الإبلاغ عن فيروس جديد؟",
+     "en": "Can a vaccine really be developed and delivered within 100 days of a new virus being reported?",
+     "es": "¿Se puede realmente desarrollar y distribuir una vacuna en los 100 días siguientes a la notificación de un nuevo virus?",
+     "fr": "Peut-on vraiment mettre au point et distribuer un vaccin dans les 100 jours suivant le signalement d'un nouveau virus ?",
+     "hi": "क्या किसी नए वायरस की सूचना मिलने के 100 दिनों के भीतर वाकई टीका विकसित करके लोगों तक पहुँचाया जा सकता है?",
+     "pt": "É realmente possível desenvolver e distribuir uma vacina em até 100 dias após a notificação de um novo vírus?",
+     "zh": "真的能在新病毒被报告后的100天内研制并交付疫苗吗？"
+    },
+    {
+     "ar": "كيف يمكن إشراك البلدان الأفقر منذ البداية، حتى لا تؤدي اللقاحات الأسرع إلى توسيع أوجه عدم المساواة القائمة؟",
+     "en": "How can poorer countries be included from the start, so that faster vaccines do not widen existing inequalities?",
+     "es": "¿Cómo incluir a los países más pobres desde el principio, para que vacunas más rápidas no agranden las desigualdades existentes?",
+     "fr": "Comment inclure les pays les plus pauvres dès le départ, pour que des vaccins plus rapides ne creusent pas les inégalités existantes ?",
+     "hi": "गरीब देशों को शुरुआत से ही कैसे शामिल किया जाए, ताकि तेज़ी से बने टीके मौजूदा असमानताओं को और न बढ़ाएँ?",
+     "pt": "Como incluir os países mais pobres desde o início, para que vacinas mais rápidas não aumentem as desigualdades existentes?",
+     "zh": "如何从一开始就把较贫穷的国家纳入进来，使更快的疫苗不会加剧现有的不平等？"
+    },
+    {
+     "ar": "هل يمكن توسيع فحص مياه الصرف الصحي، الذي تتبّع اتجاهات كوفيد-19، لرصد فيروسات خطيرة أخرى ومتحوراتها مبكرًا؟",
+     "en": "Can wastewater testing, which tracked COVID-19 trends, be extended to catch other dangerous viruses and their variants early?",
+     "es": "¿Pueden los análisis de aguas residuales, que siguieron la evolución del COVID-19, ampliarse para detectar a tiempo otros virus peligrosos y sus variantes?",
+     "fr": "Les analyses des eaux usées, qui ont suivi l'évolution du COVID-19, peuvent-elles être étendues pour repérer tôt d'autres virus dangereux et leurs variants ?",
+     "hi": "क्या COVID-19 के रुझानों पर नज़र रखने वाली गंदे पानी (अपशिष्ट जल) की जाँच को अन्य ख़तरनाक वायरसों और उनके वेरिएंट को जल्दी पकड़ने तक बढ़ाया जा सकता है?",
+     "pt": "A análise de águas residuais, que acompanhou as tendências da COVID-19, pode ser ampliada para detectar cedo outros vírus perigosos e suas variantes?",
+     "zh": "曾用于追踪新冠疫情趋势的污水检测，能否扩展到及早发现其他危险病毒及其变异株？"
     }
    ]
   },
@@ -6740,6 +7406,35 @@
      "ty": "study",
      "u": "https://pubmed.ncbi.nlm.nih.gov/34265844/"
     }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن لبرامج التصميم أن تتعامل مع الجزيئات الصغيرة التي يجب أن تتمسك بها البروتينات، مثل دواء أو ركيزة؟",
+     "en": "How can design programs handle the small molecules that proteins must grab hold of, such as a drug or a substrate?",
+     "es": "¿Cómo pueden los programas de diseño tener en cuenta las moléculas pequeñas que las proteínas deben sujetar, como un fármaco o un sustrato?",
+     "fr": "Comment les programmes de conception peuvent-ils prendre en compte les petites molécules que les protéines doivent saisir, comme un médicament ou un substrat ?",
+     "hi": "डिज़ाइन प्रोग्राम उन छोटे अणुओं को कैसे संभाल सकते हैं जिन्हें प्रोटीन को पकड़ना होता है, जैसे कोई दवा या सब्सट्रेट?",
+     "pt": "Como os programas de desenho podem lidar com as moléculas pequenas que as proteínas precisam segurar, como um medicamento ou um substrato?",
+     "zh": "蛋白质设计程序如何处理蛋白质必须抓住的小分子，比如药物或底物？"
+    },
+    {
+     "ar": "هل يمكن جعل البروتينات المصممة ترتبط بهدفها المقصود فقط ولا شيء آخر في الجسم؟",
+     "en": "Can designed proteins be made to stick only to their intended target and to nothing else in the body?",
+     "es": "¿Se puede lograr que las proteínas diseñadas se unan solo a su diana prevista y a nada más en el cuerpo?",
+     "fr": "Peut-on faire en sorte que des protéines conçues ne se fixent qu'à leur cible prévue et à rien d'autre dans le corps ?",
+     "hi": "क्या डिज़ाइन किए गए प्रोटीन को ऐसा बनाया जा सकता है कि वे केवल अपने निर्धारित लक्ष्य से जुड़ें और शरीर में किसी और चीज़ से नहीं?",
+     "pt": "É possível fazer com que proteínas desenhadas se liguem apenas ao alvo pretendido e a nada mais no corpo?",
+     "zh": "能否让设计出的蛋白质只结合预定的目标，而不与体内任何其他分子结合？"
+    },
+    {
+     "ar": "لماذا لا تزال طرق التصميم تفشل في أصعب المهام، ولماذا لا تعمل كثير من التصاميم عند تصنيعها فعليًا في المختبر؟",
+     "en": "Why do design methods still fail on the hardest tasks, and why do many designs not work when actually made in the lab?",
+     "es": "¿Por qué los métodos de diseño siguen fallando en las tareas más difíciles, y por qué muchos diseños no funcionan cuando se fabrican en el laboratorio?",
+     "fr": "Pourquoi les méthodes de conception échouent-elles encore sur les tâches les plus difficiles, et pourquoi beaucoup de protéines conçues ne fonctionnent-elles pas une fois fabriquées au laboratoire ?",
+     "hi": "डिज़ाइन के तरीके सबसे कठिन कामों में अब भी क्यों विफल होते हैं, और प्रयोगशाला में वास्तव में बनाए जाने पर कई डिज़ाइन काम क्यों नहीं करते?",
+     "pt": "Por que os métodos de desenho ainda falham nas tarefas mais difíceis, e por que muitos desenhos não funcionam quando realmente produzidos no laboratório?",
+     "zh": "为什么设计方法在最困难的任务上仍会失败，而许多设计在实验室真正制造出来后却不起作用？"
+    }
    ]
   },
   {
@@ -6813,6 +7508,17 @@
      "ty": "press",
      "u": "https://www.sciencedaily.com/releases/2021/06/210602153417.htm"
     }
+   ],
+   "sub": [
+    {
+     "ar": "ما الذي يمنح خلايا الطرف المتجدد القدرة على تغيير ذاكرتها عن موضعها في الجسم؟",
+     "en": "What gives the cells of a regenerating limb the ability to change their memory of where they are in the body?",
+     "es": "¿Qué permite a las células de una extremidad en regeneración cambiar su memoria de dónde están en el cuerpo?",
+     "fr": "Qu'est-ce qui permet aux cellules d'un membre en régénération de modifier leur mémoire de leur position dans le corps ?",
+     "hi": "पुनर्जनन कर रहे अंग की कोशिकाओं को यह क्षमता किस चीज़ से मिलती है कि वे शरीर में अपनी स्थिति की स्मृति बदल सकें?",
+     "pt": "O que dá às células de um membro em regeneração a capacidade de mudar sua memória de onde estão no corpo?",
+     "zh": "是什么让再生肢体中的细胞能够改变它们对自身在身体中位置的记忆？"
+    }
    ]
   },
   {
@@ -6881,6 +7587,26 @@
      "t": "Konkoly et al., Real-time dialogue between experimenters and dreamers during REM sleep (Current Biology, 2021)",
      "ty": "study",
      "u": "https://hal.sorbonne-universite.fr/hal-03154112"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يعود الحلم بأي فائدة على طريقة عمل الدماغ؟",
+     "en": "Does dreaming bring any benefit to how the brain works?",
+     "es": "¿Aporta soñar algún beneficio al funcionamiento del cerebro?",
+     "fr": "Le fait de rêver apporte-t-il un quelconque bénéfice au fonctionnement du cerveau ?",
+     "hi": "क्या सपने देखने से मस्तिष्क के काम करने में कोई फ़ायदा होता है?",
+     "pt": "Sonhar traz algum benefício para o funcionamento do cérebro?",
+     "zh": "做梦对大脑的运作有任何益处吗？"
+    },
+    {
+     "ar": "هل التواصل في الاتجاهين مع شخص نائم ممكن فقط أثناء الأحلام الواعية، أم في الأحلام العادية أيضًا؟",
+     "en": "Is two-way communication with a sleeping person possible only during lucid dreams, or also in ordinary ones?",
+     "es": "¿La comunicación en ambos sentidos con una persona dormida solo es posible durante los sueños lúcidos, o también en los sueños corrientes?",
+     "fr": "La communication dans les deux sens avec une personne endormie n'est-elle possible que pendant les rêves lucides, ou aussi pendant les rêves ordinaires ?",
+     "hi": "क्या सोते हुए व्यक्ति के साथ दोतरफ़ा संवाद केवल स्पष्ट (ल्यूसिड) सपनों के दौरान संभव है, या साधारण सपनों में भी?",
+     "pt": "A comunicação nos dois sentidos com uma pessoa adormecida só é possível durante os sonhos lúcidos, ou também nos sonhos comuns?",
+     "zh": "与睡梦中的人进行双向交流，是只在清醒梦中才可能，还是在普通梦中也可以？"
     }
    ]
   },
@@ -7204,6 +7930,40 @@
      "t": "FDA approves drug with new mechanism of action for treatment of schizophrenia (U.S. FDA, 2024)",
      "ty": "official",
      "u": "https://www.fda.gov/news-events/press-announcements/fda-approves-drug-new-mechanism-action-treatment-schizophrenia"
+    },
+    {
+     "t": "Rethinking the First Episode of Schizophrenia: Identifying Convergent Mechanisms During Development and Moving Toward Prediction",
+     "ty": "reference",
+     "u": "https://psychiatryonline.org/doi/10.1176/appi.ajp.20230736"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن للمؤشرات الحيوية أن تتنبأ بأي من الشباب المعرضين لخطر مرتفع سيصابون فعلًا بالذهان؟",
+     "en": "Can biological markers predict which young people at high risk will actually develop psychosis?",
+     "es": "¿Pueden los marcadores biológicos predecir qué jóvenes de alto riesgo desarrollarán realmente una psicosis?",
+     "fr": "Des marqueurs biologiques peuvent-ils prédire quels jeunes à haut risque développeront réellement une psychose ?",
+     "hi": "क्या जैविक संकेतक यह बता सकते हैं कि उच्च जोखिम वाले कौन-से युवा वास्तव में साइकोसिस विकसित करेंगे?",
+     "pt": "Marcadores biológicos podem prever quais jovens de alto risco vão realmente desenvolver psicose?",
+     "zh": "生物标志物能否预测哪些高风险年轻人真的会发展出精神病？"
+    },
+    {
+     "ar": "هل يضر تعاطي القنب في المراهقة بالدماغ البشري النامي كما يحدث في الدراسات على الحيوانات؟",
+     "en": "Does cannabis use in adolescence harm the developing human brain the way it does in animal studies?",
+     "es": "¿El consumo de cannabis en la adolescencia daña el cerebro humano en desarrollo como ocurre en los estudios con animales?",
+     "fr": "La consommation de cannabis à l'adolescence nuit-elle au cerveau humain en développement comme dans les études sur l'animal ?",
+     "hi": "क्या किशोरावस्था में भांग (कैनबिस) का सेवन विकसित हो रहे मानव मस्तिष्क को वैसे ही नुकसान पहुँचाता है जैसे पशु अध्ययनों में देखा गया है?",
+     "pt": "O uso de cannabis na adolescência prejudica o cérebro humano em desenvolvimento como acontece nos estudos com animais?",
+     "zh": "青少年时期使用大麻是否会像动物研究中那样损害正在发育的人类大脑？"
+    },
+    {
+     "ar": "كيف يمكن جعل درجات الخطر الجيني تعمل بالكفاءة نفسها لدى الأشخاص من أصول غير أوروبية؟",
+     "en": "How can genetic risk scores be made to work as well for people of non-European ancestry?",
+     "es": "¿Cómo lograr que las puntuaciones de riesgo genético funcionen igual de bien para personas de ascendencia no europea?",
+     "fr": "Comment faire pour que les scores de risque génétique fonctionnent aussi bien pour les personnes d'ascendance non européenne ?",
+     "hi": "आनुवंशिक जोखिम स्कोर को गैर-यूरोपीय वंश के लोगों के लिए भी उतना ही कारगर कैसे बनाया जाए?",
+     "pt": "Como fazer as pontuações de risco genético funcionarem tão bem para pessoas de ascendência não europeia?",
+     "zh": "如何让基因风险评分对非欧洲血统的人同样有效？"
     }
    ]
   },
@@ -7341,6 +8101,31 @@
      "t": "Why is sleep important? The brain's glymphatic system (University of Rochester)",
      "ty": "institution",
      "u": "https://www.rochester.edu/newscenter/why-is-sleep-important-brain-glymphatic-system-692222"
+    },
+    {
+     "t": "The new science of sleep: From cells to large-scale societies",
+     "ty": "reference",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11230563/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل لا يدفع حقًا «قليلو النوم بالفطرة» النادرون أي ثمن صحي مقابل نومهم أقل بكثير؟",
+     "en": "Do rare 'natural short sleepers' really pay no health cost for sleeping much less?",
+     "es": "¿Los raros «dormidores cortos naturales» realmente no pagan ningún precio en salud por dormir mucho menos?",
+     "fr": "Les rares « petits dormeurs naturels » ne paient-ils vraiment aucun prix pour leur santé en dormant beaucoup moins ?",
+     "hi": "क्या दुर्लभ 'प्राकृतिक रूप से कम सोने वाले' लोग बहुत कम सोने की कोई स्वास्थ्य क़ीमत सच में नहीं चुकाते?",
+     "pt": "Os raros «dormidores curtos naturais» realmente não pagam nenhum preço em saúde por dormir muito menos?",
+     "zh": "少数“天生短睡者”睡得少得多，是否真的对健康毫无代价？"
+    },
+    {
+     "ar": "لماذا يبدو أن قليلي النوم بالفطرة هؤلاء يحتاجون إلى قدر أقل من نوم حركة العين السريعة (نوم الأحلام)؟",
+     "en": "Why do these natural short sleepers seem to need less REM (dreaming) sleep?",
+     "es": "¿Por qué estos dormidores cortos naturales parecen necesitar menos sueño REM (el de los sueños)?",
+     "fr": "Pourquoi ces petits dormeurs naturels semblent-ils avoir besoin de moins de sommeil paradoxal (sommeil des rêves) ?",
+     "hi": "ऐसा क्यों लगता है कि इन प्राकृतिक रूप से कम सोने वाले लोगों को कम REM (सपनों वाली) नींद की ज़रूरत होती है?",
+     "pt": "Por que esses dormidores curtos naturais parecem precisar de menos sono REM (o dos sonhos)?",
+     "zh": "为什么这些天生短睡者似乎需要更少的快速眼动（做梦）睡眠？"
     }
    ]
   },
@@ -7793,6 +8578,35 @@
      "ty": "press",
      "u": "https://www.npr.org/sections/goats-and-soda/2025/06/18/g-s1-73130/hiv-prevention-drug-lenacapavir-fda-breakthrough"
     }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن للقاح أن يوقظ بشكل موثوق الخلايا البائية «الأولية» النادرة القادرة على أن تصبح منتجة لأجسام مضادة واسعة التحييد؟",
+     "en": "How can a vaccine reliably wake up the rare 'starter' B cells that could grow into makers of broadly neutralizing antibodies?",
+     "es": "¿Cómo puede una vacuna activar de forma fiable los escasos linfocitos B «iniciales» capaces de convertirse en productores de anticuerpos ampliamente neutralizantes?",
+     "fr": "Comment un vaccin peut-il activer de façon fiable les rares lymphocytes B « de départ » capables de devenir des producteurs d'anticorps largement neutralisants ?",
+     "hi": "कोई टीका उन दुर्लभ 'शुरुआती' B कोशिकाओं को भरोसेमंद ढंग से कैसे सक्रिय करे, जो आगे चलकर व्यापक रूप से निष्क्रिय करने वाली एंटीबॉडी बनाने वाली कोशिकाएँ बन सकती हैं?",
+     "pt": "Como uma vacina pode ativar de forma confiável os raros linfócitos B «iniciais» capazes de se tornar produtores de anticorpos amplamente neutralizantes?",
+     "zh": "疫苗如何才能可靠地激活那些稀少的“起始”B细胞，使其成长为能产生广谱中和抗体的细胞？"
+    },
+    {
+     "ar": "ما الذي لا يزال علينا تعلّمه عن كيفية نمو الخلايا البائية لتوجيهها نحو أجسام مضادة واسعة التحييد؟",
+     "en": "What do we still need to learn about how B cells develop in order to steer them toward broadly neutralizing antibodies?",
+     "es": "¿Qué nos falta aprender sobre el desarrollo de los linfocitos B para orientarlos hacia anticuerpos ampliamente neutralizantes?",
+     "fr": "Que nous reste-t-il à apprendre sur le développement des lymphocytes B pour les orienter vers des anticorps largement neutralisants ?",
+     "hi": "B कोशिकाओं को व्यापक रूप से निष्क्रिय करने वाली एंटीबॉडी की ओर मोड़ने के लिए हमें उनके विकास के बारे में अभी क्या सीखना बाकी है?",
+     "pt": "O que ainda precisamos aprender sobre o desenvolvimento dos linfócitos B para direcioná-los a anticorpos amplamente neutralizantes?",
+     "zh": "为了引导B细胞产生广谱中和抗体，我们还需要了解B细胞发育的哪些方面？"
+    },
+    {
+     "ar": "كيف يمكن للقاحات mRNA أن تنتج بروتين الغلاف المعقد لفيروس نقص المناعة البشرية بالشكل الصحيح تمامًا؟",
+     "en": "How can mRNA vaccines produce HIV's complex outer protein in exactly the right shape?",
+     "es": "¿Cómo pueden las vacunas de ARNm producir la compleja proteína de la envoltura del VIH exactamente con la forma correcta?",
+     "fr": "Comment les vaccins à ARNm peuvent-ils produire la protéine d'enveloppe complexe du VIH exactement dans la bonne forme ?",
+     "hi": "mRNA टीके HIV के जटिल बाहरी प्रोटीन को बिल्कुल सही आकार में कैसे बना सकते हैं?",
+     "pt": "Como as vacinas de mRNA podem produzir a complexa proteína do envelope do HIV exatamente na forma certa?",
+     "zh": "mRNA疫苗如何才能以完全正确的形状产生HIV复杂的外膜蛋白？"
+    }
    ]
   },
   {
@@ -8072,6 +8886,35 @@
      "t": "Turning back time: Salk scientists reverse signs of aging (Salk Institute, 2016)",
      "ty": "institution",
      "u": "https://www.salk.edu/news-release/turning-back-time-salk-scientists-reverse-signs-aging/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "أيٌّ من عوامل ياماناكا لإعادة البرمجة هي التي تقود فعلًا تجديد شباب الخلايا؟",
+     "en": "Which of the Yamanaka reprogramming factors actually drive the rejuvenation of cells?",
+     "es": "¿Cuáles de los factores de reprogramación de Yamanaka impulsan realmente el rejuvenecimiento de las células?",
+     "fr": "Lesquels des facteurs de reprogrammation de Yamanaka sont réellement responsables du rajeunissement des cellules ?",
+     "hi": "यामानाका के रीप्रोग्रामिंग कारकों में से कौन-से वास्तव में कोशिकाओं को फिर से युवा बनाते हैं?",
+     "pt": "Quais dos fatores de reprogramação de Yamanaka realmente impulsionam o rejuvenescimento das células?",
+     "zh": "山中因子中究竟哪些真正推动了细胞的年轻化？"
+    },
+    {
+     "ar": "هل يمكن تجديد شباب الخلايا من دون أن تفقد هويتها ومن دون خطر الإصابة بالأورام؟",
+     "en": "Can cells be made younger without losing their identity and without the risk of tumors?",
+     "es": "¿Se puede rejuvenecer a las células sin que pierdan su identidad y sin riesgo de tumores?",
+     "fr": "Peut-on rajeunir des cellules sans qu'elles perdent leur identité et sans risque de tumeurs ?",
+     "hi": "क्या कोशिकाओं को उनकी पहचान खोए बिना और ट्यूमर के जोखिम के बिना युवा बनाया जा सकता है?",
+     "pt": "É possível rejuvenescer as células sem que percam sua identidade e sem risco de tumores?",
+     "zh": "能否让细胞变年轻，同时不让它们失去自身身份，也没有长肿瘤的风险？"
+    },
+    {
+     "ar": "هل تقيس الساعات فوق الجينية تجديد الشباب الحقيقي، أم مجرد شيء يرافق التقدم في العمر؟",
+     "en": "Do epigenetic clocks measure true rejuvenation, or only something that goes along with age?",
+     "es": "¿Miden los relojes epigenéticos un verdadero rejuvenecimiento, o solo algo que acompaña a la edad?",
+     "fr": "Les horloges épigénétiques mesurent-elles un vrai rajeunissement, ou seulement quelque chose qui accompagne l'âge ?",
+     "hi": "क्या एपिजेनेटिक घड़ियाँ असली कायाकल्प को मापती हैं, या बस किसी ऐसी चीज़ को जो उम्र के साथ बदलती है?",
+     "pt": "Os relógios epigenéticos medem um rejuvenescimento verdadeiro, ou apenas algo que acompanha a idade?",
+     "zh": "表观遗传时钟测量的是真正的年轻化，还是仅仅是与年龄相伴的某种变化？"
     }
    ]
   },
@@ -8706,6 +9549,178 @@
     },
     {
      "q": "yang-mills",
+     "f": "sub"
+    },
+    {
+     "q": "addiction",
+     "f": "src"
+    },
+    {
+     "q": "addiction",
+     "f": "sub"
+    },
+    {
+     "q": "alzheimer",
+     "f": "sub"
+    },
+    {
+     "q": "antibioresistance",
+     "f": "src"
+    },
+    {
+     "q": "antibioresistance",
+     "f": "sub"
+    },
+    {
+     "q": "antibioresistance",
+     "f": "block"
+    },
+    {
+     "q": "autoimmunes",
+     "f": "sub"
+    },
+    {
+     "q": "cancer",
+     "f": "sub"
+    },
+    {
+     "q": "cellule-virtuelle",
+     "f": "src"
+    },
+    {
+     "q": "cellule-virtuelle",
+     "f": "sub"
+    },
+    {
+     "q": "connectome",
+     "f": "src"
+    },
+    {
+     "q": "connectome",
+     "f": "sub"
+    },
+    {
+     "q": "conscience",
+     "f": "sub"
+    },
+    {
+     "q": "depression",
+     "f": "src"
+    },
+    {
+     "q": "depression",
+     "f": "sub"
+    },
+    {
+     "q": "douleur-chronique",
+     "f": "src"
+    },
+    {
+     "q": "douleur-chronique",
+     "f": "sub"
+    },
+    {
+     "q": "genome-fonction",
+     "f": "sub"
+    },
+    {
+     "q": "intelligence-bio",
+     "f": "src"
+    },
+    {
+     "q": "intelligence-bio",
+     "f": "sub"
+    },
+    {
+     "q": "interface-cerveau",
+     "f": "src"
+    },
+    {
+     "q": "interface-cerveau",
+     "f": "sub"
+    },
+    {
+     "q": "libre-arbitre",
+     "f": "sub"
+    },
+    {
+     "q": "memoire",
+     "f": "sub"
+    },
+    {
+     "q": "microbiome",
+     "f": "sub"
+    },
+    {
+     "q": "obesite",
+     "f": "sub"
+    },
+    {
+     "q": "organes",
+     "f": "src"
+    },
+    {
+     "q": "organes",
+     "f": "sub"
+    },
+    {
+     "q": "origine-vie",
+     "f": "sub"
+    },
+    {
+     "q": "paludisme",
+     "f": "src"
+    },
+    {
+     "q": "paludisme",
+     "f": "sub"
+    },
+    {
+     "q": "pandemies",
+     "f": "src"
+    },
+    {
+     "q": "pandemies",
+     "f": "sub"
+    },
+    {
+     "q": "pandemies",
+     "f": "leads"
+    },
+    {
+     "q": "proteines",
+     "f": "sub"
+    },
+    {
+     "q": "regeneration",
+     "f": "sub"
+    },
+    {
+     "q": "reves",
+     "f": "sub"
+    },
+    {
+     "q": "schizophrenie",
+     "f": "src"
+    },
+    {
+     "q": "schizophrenie",
+     "f": "sub"
+    },
+    {
+     "q": "sommeil",
+     "f": "src"
+    },
+    {
+     "q": "sommeil",
+     "f": "sub"
+    },
+    {
+     "q": "vaccin-vih",
+     "f": "sub"
+    },
+    {
+     "q": "vieillissement",
      "f": "sub"
     }
    ]

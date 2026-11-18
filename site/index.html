@@ -47,6 +47,7 @@ select{font:500 13px var(--f-body);background:var(--bg2);color:var(--fg);border:
 #q{font:14px var(--f-body);background:var(--bg2);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:7px 10px;min-width:0;flex:1 1 180px;max-width:280px}
 .main{display:grid;grid-template-columns:minmax(0,1fr) 380px;gap:16px;align-items:start}
 @media (max-width:860px){.main{grid-template-columns:1fr}}
+@media (min-width:861px){.main .sea{position:sticky;top:16px}}
 .sea{position:relative;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:
   radial-gradient(circle at 1px 1px, color-mix(in srgb,var(--line) 70%,transparent) 1px, transparent 0) 0 0/22px 22px, var(--bg)}
 canvas{display:block;width:100%;height:clamp(420px,70vh,760px);cursor:grab;touch-action:none}
@@ -264,7 +265,8 @@ function applyLang(){
 function setStatus(k){statusKey=k;statusEl.hidden=!k;if(k)statusEl.textContent=T()[k]}
 function visible(n){if(!active.has(n.d))return false;if(!query)return true;const a=tx(n);return (a.t+' '+a.s).toLowerCase().includes(query)}
 
-function resize(){const r=cv.getBoundingClientRect();dpr=window.devicePixelRatio||1;W=r.width;H=r.height;cv.width=W*dpr;cv.height=H*dpr;if(nodes.length&&!view.done){fit();view.done=true}draw()}
+function resize(){const r=cv.getBoundingClientRect();dpr=window.devicePixelRatio||1;if(!r.width)return;W=r.width;H=r.height;cv.width=W*dpr;cv.height=H*dpr;if(nodes.length&&!view.touched)fit();draw()}
+try{new ResizeObserver(()=>resize()).observe(cv)}catch(e){}
 addEventListener('resize',resize);
 
 function layout(){
@@ -334,7 +336,7 @@ cv.addEventListener('pointermove',e=>{
     const before=[...pts.values()].map(p=>({...p}));const prev=pts.get(e.pointerId);
     pts.set(e.pointerId,{x:e.offsetX,y:e.offsetY});
     if(pts.size===2){const [a0,b0]=before,[a1,b1]=[...pts.values()];const d0=Math.hypot(a0.x-b0.x,a0.y-b0.y),d1=Math.hypot(a1.x-b1.x,a1.y-b1.y);if(d0>0)zoom((a1.x+b1.x)/2,(a1.y+b1.y)/2,d1/d0);moved=true;return}
-    if(Math.abs(e.offsetX-start.x)+Math.abs(e.offsetY-start.y)>4)moved=true;
+    if(Math.abs(e.offsetX-start.x)+Math.abs(e.offsetY-start.y)>4){moved=true;view.touched=true}
     view.x+=e.offsetX-prev.x;view.y+=e.offsetY-prev.y;draw();return;
   }
   const h=pick(e.offsetX,e.offsetY);if(h!==hover){hover=h;cv.style.cursor=h?'pointer':'grab';draw()}
@@ -343,7 +345,7 @@ cv.addEventListener('pointerup',e=>{pts.delete(e.pointerId);if(!moved){const n=p
 cv.addEventListener('pointercancel',e=>pts.delete(e.pointerId));
 cv.addEventListener('pointerleave',()=>{if(hover){hover=null;draw()}});
 cv.addEventListener('wheel',e=>{e.preventDefault();zoom(e.offsetX,e.offsetY,Math.exp(-e.deltaY*0.0015))},{passive:false});
-function zoom(cx,cy,f){const k=Math.min(4,Math.max(.25,view.k*f));f=k/view.k;view.x=cx-(cx-view.x)*f;view.y=cy-(cy-view.y)*f;view.k=k;draw()}
+function zoom(cx,cy,f){view.touched=true;const k=Math.min(4,Math.max(.25,view.k*f));f=k/view.k;view.x=cx-(cx-view.x)*f;view.y=cy-(cy-view.y)*f;view.k=k;draw()}
 
 function el(tag,props,...kids){const e=document.createElement(tag);for(const [k,v] of Object.entries(props||{})){if(k==='style')e.style.cssText=v;else e[k]=v}kids.forEach(k=>k!=null&&e.append(k));return e}
 function select(n){

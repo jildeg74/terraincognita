@@ -62,8 +62,8 @@ site/                      site public généré (ne pas éditer à la main)
 | GoDaddy | Nom de domaine terraincognita.ca | Acheté le 18/11/2026 pour **2 ans → renouveler avant novembre 2028**. DNS : A `@` → 75.2.60.5 ; CNAME `www` → dainty-frangipane-ab7989.netlify.app |
 | Netlify Forms | Formulaires « propose » (questions, corrections, relecteurs) et « newsletter » | Détection activée ; chaque envoi arrive par courriel à contact@juvason.com |
 | Claude (Anthropic) | Veille hebdomadaire automatique | Tâche planifiée « Veille Terra Incognita », chaque **lundi 6 h 37 (heure de Toronto)**, rapport en français. Elle suit `AGENT.md`. Peut être remplacée par n'importe quel autre agent ou humain. |
-| Google Search Console | Indexation Google | À configurer (enregistrement TXT chez GoDaddy) |
-| Zenodo | DOI pour citer les données | À relier au dépôt GitHub |
+| Google Search Console | Indexation Google, pays des visiteurs | Propriété « Domaine » terraincognita.ca, sitemap `https://terraincognita.ca/sitemap.xml` |
+| Zenodo | Archive à vie + DOI pour citer les données | Relié au dépôt ; créer une release GitHub (v1.1, v2.0…) pour archiver une nouvelle version, par exemple une fois par an ou après un gros changement |
 
 **Leçon apprise (18/11/2026)** : sur Netlify, chaque publication consomme des crédits. Une douzaine de petites publications le même jour a épuisé le plan gratuit et bloqué les mises à jour. **Regrouper les changements en un seul envoi** ; en régime normal, seule la veille du lundi publie (~4-5 fois par mois).
 
@@ -87,8 +87,8 @@ site/                      site public généré (ne pas éditer à la main)
 
 ## 8. À faire / pistes
 
-- [ ] Google Search Console (TXT chez GoDaddy) et envoi du sitemap `https://terraincognita.ca/sitemap.xml`.
-- [ ] Zenodo relié à GitHub (DOI).
+- [x] Google Search Console : propriété « Domaine » terraincognita.ca validée (via GoDaddy), sitemap envoyé le 18/11/2026.
+- [x] Zenodo relié à GitHub le 18/11/2026 : chaque « release » GitHub est archivée avec un DOI (v1.0 publiée le 18/11/2026).
 - [ ] Choisir un outil d'envoi du bilan mensuel par courriel (les adresses sont collectées dans Netlify > Forms > newsletter) — avant début décembre 2026.
 - [ ] Recruter des chercheurs relecteurs par domaine (affichés « Relu par » avec leur institution).
 - [ ] Revenus envisagés : subventions (science ouverte), accès aux données/API pour organisations, rapports sur mesure.

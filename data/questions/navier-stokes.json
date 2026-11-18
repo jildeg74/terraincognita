@@ -63,5 +63,34 @@
    "ty": "reference",
    "u": "https://www.claymath.org/millennium-problems"
   }
+ ],
+ "sub": [
+  {
+   "ar": "لأي جريان ابتدائي كبير في ثلاثة أبعاد، هل توجد حلول ملساء إلى الأبد، أم يمكن أن تنفجر؟",
+   "en": "For any large starting flow in three dimensions, do smooth solutions exist forever, or can they blow up?",
+   "es": "Para cualquier flujo inicial grande en tres dimensiones, ¿existen soluciones suaves para siempre o pueden explotar?",
+   "fr": "Pour un écoulement initial quelconque, même grand, en trois dimensions, existe-t-il des solutions régulières pour toujours, ou peuvent-elles exploser ?",
+   "hi": "तीन आयामों में किसी भी बड़े आरंभिक प्रवाह के लिए, क्या सुचारु हल हमेशा बने रहते हैं, या वे अनंत की ओर फट सकते हैं?",
+   "pt": "Para qualquer escoamento inicial grande em três dimensões, existem soluções suaves para sempre, ou elas podem explodir?",
+   "zh": "对于三维空间中任意大的初始流动，光滑解是否永远存在，还是可能爆破？"
+  },
+  {
+   "ar": "هل حلول لوراي الضعيفة وحيدة؟",
+   "en": "Are Leray's weak solutions unique?",
+   "es": "¿Son únicas las soluciones débiles de Leray?",
+   "fr": "Les solutions faibles de Leray sont-elles uniques ?",
+   "hi": "क्या लेरे के दुर्बल (वीक) हल अद्वितीय हैं?",
+   "pt": "As soluções fracas de Leray são únicas?",
+   "zh": "勒雷的弱解是唯一的吗？"
+  },
+  {
+   "ar": "هل يمكن تحسين مبرهنة كافاريلي–كون–نيرنبرغ التي تحدّ من حجم التفردات الممكنة؟",
+   "en": "Can the Caffarelli–Kohn–Nirenberg theorem, which limits the size of possible singularities, be improved?",
+   "es": "¿Se puede mejorar el teorema de Caffarelli–Kohn–Nirenberg, que limita el tamaño de las posibles singularidades?",
+   "fr": "Le théorème de Caffarelli–Kohn–Nirenberg, qui limite la taille des singularités possibles, peut-il être amélioré ?",
+   "hi": "क्या कैफ़रेली–कोन–निरेनबर्ग प्रमेय, जो संभावित विचित्रताओं (सिंगुलैरिटी) के आकार को सीमित करता है, सुधारा जा सकता है?",
+   "pt": "O teorema de Caffarelli–Kohn–Nirenberg, que limita o tamanho das possíveis singularidades, pode ser melhorado?",
+   "zh": "限制可能奇点大小的卡法雷利–科恩–尼伦伯格定理能否被改进？"
+  }
  ]
 }

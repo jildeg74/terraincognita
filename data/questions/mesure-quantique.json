@@ -64,5 +64,34 @@
    "ty": "reference",
    "u": "https://plato.stanford.edu/entries/qt-measurement/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "عند أي حجم يفسح العالم الكمومي المجال للعالم الكلاسيكي الذي نراه؟",
+   "en": "At what size does the quantum world give way to the classical world we see?",
+   "es": "¿A partir de qué tamaño el mundo cuántico da paso al mundo clásico que vemos?",
+   "fr": "À partir de quelle taille le monde quantique laisse-t-il place au monde classique que nous voyons ?",
+   "hi": "किस आकार पर क्वांटम दुनिया हमारी देखी हुई शास्त्रीय दुनिया में बदल जाती है?",
+   "pt": "A partir de que tamanho o mundo quântico dá lugar ao mundo clássico que vemos?",
+   "zh": "在多大的尺度上，量子世界会让位于我们所见的经典世界？"
+  },
+  {
+   "ar": "هل يمكن لتجارب التداخل باستخدام جزيئات تزداد كبرًا أو أجسام دقيقة معلّقة أن تؤكد نماذج الانهيار أو تستبعدها؟",
+   "en": "Can interference experiments with ever larger molecules or tiny levitated objects confirm or rule out collapse models?",
+   "es": "¿Pueden los experimentos de interferencia con moléculas cada vez más grandes u objetos diminutos levitados confirmar o descartar los modelos de colapso?",
+   "fr": "Des expériences d'interférence avec des molécules toujours plus grosses ou de minuscules objets en lévitation peuvent-elles confirmer ou exclure les modèles d'effondrement ?",
+   "hi": "क्या लगातार बड़े अणुओं या हवा में तैराई गई सूक्ष्म वस्तुओं के साथ व्यतिकरण प्रयोग पतन (कोलैप्स) मॉडलों की पुष्टि कर सकते हैं या उन्हें खारिज कर सकते हैं?",
+   "pt": "Experimentos de interferência com moléculas cada vez maiores ou minúsculos objetos levitados podem confirmar ou descartar os modelos de colapso?",
+   "zh": "用越来越大的分子或悬浮的微小物体进行的干涉实验，能否证实或排除坍缩模型？"
+  },
+  {
+   "ar": "هل تسبّب الجاذبية انهيار الدالة الموجية، كما اقترح ديوشي وبنروز؟",
+   "en": "Does gravity cause the wave function to collapse, as Diósi and Penrose proposed?",
+   "es": "¿Provoca la gravedad el colapso de la función de onda, como propusieron Diósi y Penrose?",
+   "fr": "La gravité provoque-t-elle l'effondrement de la fonction d'onde, comme l'ont proposé Diósi et Penrose ?",
+   "hi": "क्या गुरुत्वाकर्षण तरंग फलन के पतन का कारण बनता है, जैसा कि डियोसी और पेनरोज़ ने प्रस्तावित किया?",
+   "pt": "A gravidade provoca o colapso da função de onda, como propuseram Diósi e Penrose?",
+   "zh": "引力是否会像迪奥西和彭罗斯提出的那样导致波函数坍缩？"
+  }
  ]
 }

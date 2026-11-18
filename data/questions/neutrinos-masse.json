@@ -68,5 +68,34 @@
    "ty": "study",
    "u": "https://pubmed.ncbi.nlm.nih.gov/40208982/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "ما كتلة النيوترينو بالضبط؟ في عام 2025 وضعت تجربة KATRIN حدًا أعلى قدره 0.45 إلكترون فولت.",
+   "en": "What exactly is the neutrino mass? In 2025 KATRIN set an upper limit of 0.45 eV.",
+   "es": "¿Cuál es exactamente la masa del neutrino? En 2025, KATRIN fijó un límite superior de 0,45 eV.",
+   "fr": "Quelle est exactement la masse du neutrino ? En 2025, KATRIN a fixé une limite supérieure de 0,45 eV.",
+   "hi": "न्यूट्रिनो का द्रव्यमान ठीक-ठीक कितना है? 2025 में KATRIN ने इसकी ऊपरी सीमा 0.45 eV तय की।",
+   "pt": "Qual é exatamente a massa do neutrino? Em 2025, o KATRIN estabeleceu um limite superior de 0,45 eV.",
+   "zh": "中微子的质量究竟是多少？2025年，KATRIN给出了0.45 eV的上限。"
+  },
+  {
+   "ar": "هل النيوترينوات هي جسيماتها المضادة نفسها (جسيمات مايورانا)؟ اضمحلال بيتا المزدوج عديم النيوترينو سيثبت ذلك.",
+   "en": "Are neutrinos their own antiparticles (Majorana particles)? Neutrinoless double-beta decay would prove it.",
+   "es": "¿Son los neutrinos sus propias antipartículas (partículas de Majorana)? La desintegración doble beta sin neutrinos lo demostraría.",
+   "fr": "Les neutrinos sont-ils leurs propres antiparticules (particules de Majorana) ? La double désintégration bêta sans neutrinos le prouverait.",
+   "hi": "क्या न्यूट्रिनो स्वयं अपने प्रतिकण (मायोराना कण) हैं? न्यूट्रिनो-रहित दोहरा बीटा क्षय इसे सिद्ध कर देगा।",
+   "pt": "Os neutrinos são suas próprias antipartículas (partículas de Majorana)? O decaimento beta duplo sem neutrinos provaria isso.",
+   "zh": "中微子是否是自身的反粒子（马约拉纳粒子）？无中微子双β衰变将能证明这一点。"
+  },
+  {
+   "ar": "كيف يمكن للنظرية النووية أن تربط معدلًا مقيسًا لاضمحلال بيتا المزدوج بالفيزياء الجديدة الكامنة وراءه؟",
+   "en": "How can nuclear theory link a measured double-beta decay rate to the new physics behind it?",
+   "es": "¿Cómo puede la teoría nuclear relacionar una tasa medida de desintegración doble beta con la física nueva que hay detrás?",
+   "fr": "Comment la théorie nucléaire peut-elle relier un taux mesuré de double désintégration bêta à la physique nouvelle qui en est la cause ?",
+   "hi": "नाभिकीय सिद्धांत दोहरे बीटा क्षय की मापी गई दर को उसके पीछे की नई भौतिकी से कैसे जोड़ सकता है?",
+   "pt": "Como a teoria nuclear pode ligar uma taxa medida de decaimento beta duplo à física nova por trás dela?",
+   "zh": "核理论如何把测得的双β衰变速率与其背后的新物理联系起来？"
+  }
  ]
 }

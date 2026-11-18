@@ -63,5 +63,34 @@
    "ty": "reference",
    "u": "https://www.claymath.org/millennium-problems"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل زمرة تيت–شافاريفيتش لمنحنى إهليلجي منتهية دائمًا، كما يُخمَّن؟",
+   "en": "Is the Tate–Shafarevich group of an elliptic curve always finite, as conjectured?",
+   "es": "¿Es siempre finito el grupo de Tate–Shafarevich de una curva elíptica, como se conjetura?",
+   "fr": "Le groupe de Tate–Shafarevich d'une courbe elliptique est-il toujours fini, comme on le conjecture ?",
+   "hi": "क्या किसी दीर्घवृत्तीय वक्र का टेट–शफ़ारेविच समूह, जैसा कि अनुमान है, हमेशा परिमित होता है?",
+   "pt": "O grupo de Tate–Shafarevich de uma curva elíptica é sempre finito, como se conjectura?",
+   "zh": "椭圆曲线的泰特–沙法列维奇群是否像猜想的那样总是有限的？"
+  },
+  {
+   "ar": "هل توجد طرق عامة لإيجاد النقاط النسبية على أشكال ذات أبعاد أعلى تعرّفها معادلات؟ لا يكاد يوجد منها شيء اليوم.",
+   "en": "Are there general methods for finding the rational points on higher-dimensional shapes defined by equations? Almost none exist today.",
+   "es": "¿Existen métodos generales para encontrar los puntos racionales en objetos de dimensión superior definidos por ecuaciones? Hoy casi no hay ninguno.",
+   "fr": "Existe-t-il des méthodes générales pour trouver les points rationnels sur des objets de dimension supérieure définis par des équations ? Il n'en existe presque aucune aujourd'hui.",
+   "hi": "क्या समीकरणों से परिभाषित उच्च-आयामी आकृतियों पर परिमेय बिंदु खोजने की कोई सामान्य विधियाँ हैं? आज ऐसी लगभग कोई विधि नहीं है।",
+   "pt": "Existem métodos gerais para encontrar os pontos racionais em objetos de dimensão superior definidos por equações? Hoje quase não há nenhum.",
+   "zh": "对于由方程定义的更高维几何对象，是否存在寻找其有理点的一般方法？目前几乎没有。"
+  },
+  {
+   "ar": "هل تصح الحدسية كاملةً في حقول الدوال، حيث لم يبرهن أرتين وتيت إلا جزءًا منها؟",
+   "en": "Does the full conjecture hold for function fields, where Artin and Tate proved only part of it?",
+   "es": "¿Se cumple la conjetura completa para los cuerpos de funciones, donde Artin y Tate solo demostraron una parte?",
+   "fr": "La conjecture complète est-elle vraie pour les corps de fonctions, où Artin et Tate n'en ont démontré qu'une partie ?",
+   "hi": "क्या पूरा अनुमान फलन क्षेत्रों (function fields) के लिए सही है, जहाँ आर्टिन और टेट ने उसका केवल एक भाग सिद्ध किया?",
+   "pt": "A conjectura completa vale para corpos de funções, onde Artin e Tate provaram apenas uma parte dela?",
+   "zh": "在函数域情形中，阿廷和泰特只证明了其中一部分；完整的猜想在那里成立吗？"
+  }
  ]
 }

@@ -68,6 +68,40 @@
    "t": "LZ experiment sets new record in search for dark matter",
    "ty": "institution",
    "u": "https://ucdavis.edu/news/lz-experiment-sets-new-record-search-dark-matter"
+  },
+  {
+   "t": "A new era in the search for dark matter",
+   "ty": "reference",
+   "u": "https://ideas.repec.org/a/nat/nature/v562y2018i7725d10.1038_s41586-018-0542-z.html"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "إذا كانت المادة المظلمة مكوّنة من جسيمات WIMP، فهل يمكن أن تكون أخف أو أن تعطي إشارات أضعف مما تتنبأ به أبسط النماذج؟",
+   "en": "If dark matter is made of WIMPs, could they be lighter or give weaker signals than the simplest models predict?",
+   "es": "Si la materia oscura está hecha de WIMP, ¿podrían ser más ligeras o dar señales más débiles de lo que predicen los modelos más simples?",
+   "fr": "Si la matière noire est faite de WIMP, pourraient-elles être plus légères ou donner des signaux plus faibles que ne le prévoient les modèles les plus simples ?",
+   "hi": "यदि डार्क मैटर WIMP कणों से बना है, तो क्या वे सबसे सरल मॉडलों के अनुमान से हल्के हो सकते हैं या कमज़ोर संकेत दे सकते हैं?",
+   "pt": "Se a matéria escura for feita de WIMPs, elas poderiam ser mais leves ou dar sinais mais fracos do que preveem os modelos mais simples?",
+   "zh": "如果暗物质由WIMP构成，它们是否可能比最简单模型预测的更轻，或信号更弱？"
+  },
+  {
+   "ar": "هل تشير ألغاز المجرات الصغيرة (مثل مشكلة القمة واللب والتوابع المفقودة) إلى مادة مظلمة تتفاعل مع نفسها، أم إلى أخطاء في المحاكاة؟",
+   "en": "Do puzzles in small galaxies (such as cusp-core and missing satellites) point to dark matter that interacts with itself, or to errors in simulations?",
+   "es": "¿Apuntan los enigmas de las galaxias pequeñas (como el problema cúspide-núcleo o los satélites que faltan) a una materia oscura que interactúa consigo misma, o a errores de simulación?",
+   "fr": "Les énigmes des petites galaxies (comme le problème cœur-pic ou les satellites manquants) indiquent-elles une matière noire qui interagit avec elle-même, ou des erreurs de simulation ?",
+   "hi": "क्या छोटी आकाशगंगाओं की पहेलियाँ (जैसे कस्प-कोर और लुप्त उपग्रह) ऐसे डार्क मैटर की ओर इशारा करती हैं जो स्वयं से अन्योन्यक्रिया करता है, या सिमुलेशन की त्रुटियों की ओर?",
+   "pt": "Os enigmas das galáxias pequenas (como o problema cúspide-núcleo e os satélites ausentes) apontam para uma matéria escura que interage consigo mesma, ou para erros de simulação?",
+   "zh": "小星系中的谜题（如“尖点–核心”问题和“卫星星系缺失”问题）指向的是会自相互作用的暗物质，还是模拟中的误差？"
+  },
+  {
+   "ar": "هل يمكن لموجات الجاذبية الصادرة عن الثقوب السوداء أن تكشف مادة مظلمة متجمعة حولها؟",
+   "en": "Could gravitational waves from black holes reveal dark matter gathered around them?",
+   "es": "¿Podrían las ondas gravitacionales de agujeros negros revelar materia oscura acumulada a su alrededor?",
+   "fr": "Les ondes gravitationnelles émises par des trous noirs pourraient-elles révéler de la matière noire accumulée autour d'eux ?",
+   "hi": "क्या ब्लैक होल से आने वाली गुरुत्वीय तरंगें उनके चारों ओर जमा डार्क मैटर को उजागर कर सकती हैं?",
+   "pt": "As ondas gravitacionais de buracos negros poderiam revelar matéria escura acumulada ao redor deles?",
+   "zh": "来自黑洞的引力波能否揭示聚集在黑洞周围的暗物质？"
   }
  ]
 }

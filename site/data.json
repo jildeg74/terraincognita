@@ -489,6 +489,35 @@
      "ty": "reference",
      "u": "https://www.claymath.org/millennium-problems"
     }
+   ],
+   "sub": [
+    {
+     "ar": "هل زمرة تيت–شافاريفيتش لمنحنى إهليلجي منتهية دائمًا، كما يُخمَّن؟",
+     "en": "Is the Tate–Shafarevich group of an elliptic curve always finite, as conjectured?",
+     "es": "¿Es siempre finito el grupo de Tate–Shafarevich de una curva elíptica, como se conjetura?",
+     "fr": "Le groupe de Tate–Shafarevich d'une courbe elliptique est-il toujours fini, comme on le conjecture ?",
+     "hi": "क्या किसी दीर्घवृत्तीय वक्र का टेट–शफ़ारेविच समूह, जैसा कि अनुमान है, हमेशा परिमित होता है?",
+     "pt": "O grupo de Tate–Shafarevich de uma curva elíptica é sempre finito, como se conjectura?",
+     "zh": "椭圆曲线的泰特–沙法列维奇群是否像猜想的那样总是有限的？"
+    },
+    {
+     "ar": "هل توجد طرق عامة لإيجاد النقاط النسبية على أشكال ذات أبعاد أعلى تعرّفها معادلات؟ لا يكاد يوجد منها شيء اليوم.",
+     "en": "Are there general methods for finding the rational points on higher-dimensional shapes defined by equations? Almost none exist today.",
+     "es": "¿Existen métodos generales para encontrar los puntos racionales en objetos de dimensión superior definidos por ecuaciones? Hoy casi no hay ninguno.",
+     "fr": "Existe-t-il des méthodes générales pour trouver les points rationnels sur des objets de dimension supérieure définis par des équations ? Il n'en existe presque aucune aujourd'hui.",
+     "hi": "क्या समीकरणों से परिभाषित उच्च-आयामी आकृतियों पर परिमेय बिंदु खोजने की कोई सामान्य विधियाँ हैं? आज ऐसी लगभग कोई विधि नहीं है।",
+     "pt": "Existem métodos gerais para encontrar os pontos racionais em objetos de dimensão superior definidos por equações? Hoje quase não há nenhum.",
+     "zh": "对于由方程定义的更高维几何对象，是否存在寻找其有理点的一般方法？目前几乎没有。"
+    },
+    {
+     "ar": "هل تصح الحدسية كاملةً في حقول الدوال، حيث لم يبرهن أرتين وتيت إلا جزءًا منها؟",
+     "en": "Does the full conjecture hold for function fields, where Artin and Tate proved only part of it?",
+     "es": "¿Se cumple la conjetura completa para los cuerpos de funciones, donde Artin y Tate solo demostraron una parte?",
+     "fr": "La conjecture complète est-elle vraie pour les corps de fonctions, où Artin et Tate n'en ont démontré qu'une partie ?",
+     "hi": "क्या पूरा अनुमान फलन क्षेत्रों (function fields) के लिए सही है, जहाँ आर्टिन और टेट ने उसका केवल एक भाग सिद्ध किया?",
+     "pt": "A conjectura completa vale para corpos de funções, onde Artin e Tate provaram apenas uma parte dela?",
+     "zh": "在函数域情形中，阿廷和泰特只证明了其中一部分；完整的猜想在那里成立吗？"
+    }
    ]
   },
   {
@@ -1009,6 +1038,40 @@
      "t": "Tao, Almost all orbits of the Collatz map attain almost bounded values (arXiv)",
      "ty": "preprint",
      "u": "https://arxiv.org/abs/1909.03562v5"
+    },
+    {
+     "t": "Almost all orbits of the Collatz map attain almost bounded values",
+     "ty": "study",
+     "u": "https://cambridge.org/core/services/aop-cambridge-core/content/view/1008CC2DF91AF87F66D190C5E01C907F/S2050508622000087a.pdf/almost-all-orbits-of-the-collatz-map-attain-almost-bounded-values.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن ترقية نتيجة تاو «لكل الأعداد تقريبًا» من الكثافة اللوغاريتمية إلى الكثافة الطبيعية المعتادة؟",
+     "en": "Can Tao's 'almost all' result be upgraded from logarithmic density to the usual natural density?",
+     "es": "¿Puede el resultado de «casi todos» de Tao pasar de la densidad logarítmica a la densidad natural habitual?",
+     "fr": "Le résultat « presque tous » de Tao peut-il passer de la densité logarithmique à la densité naturelle habituelle ?",
+     "hi": "क्या ताओ के 'लगभग सभी' वाले परिणाम को लघुगणकीय घनत्व से सामान्य प्राकृतिक घनत्व तक मज़बूत किया जा सकता है?",
+     "pt": "O resultado de «quase todos» de Tao pode ser elevado da densidade logarítmica para a densidade natural usual?",
+     "zh": "陶哲轩的“几乎所有”结果能否从对数密度提升到通常的自然密度？"
+    },
+    {
+     "ar": "هل تنزل كل أعداد البداية تقريبًا تحت حدّ ثابت واحد؟ يقول تاو إن ذلك قد يكون بصعوبة الحدسية الكاملة تقريبًا.",
+     "en": "Do almost all starting numbers drop below one fixed bound? Tao says this may be almost as hard as the full conjecture.",
+     "es": "¿Casi todos los números de partida bajan por debajo de una misma cota fija? Tao dice que esto podría ser casi tan difícil como la conjetura completa.",
+     "fr": "Presque tous les nombres de départ descendent-ils sous une même borne fixe ? Selon Tao, ce serait presque aussi difficile que la conjecture complète.",
+     "hi": "क्या लगभग सभी आरंभिक संख्याएँ किसी एक निश्चित सीमा से नीचे आ जाती हैं? ताओ के अनुसार यह लगभग पूरे अनुमान जितना ही कठिन हो सकता है।",
+     "pt": "Quase todos os números iniciais descem abaixo de um mesmo limite fixo? Tao diz que isso pode ser quase tão difícil quanto a conjectura completa.",
+     "zh": "几乎所有起始数是否都会降到某个固定的界以下？陶哲轩说，这可能几乎和完整猜想一样难。"
+    },
+    {
+     "ar": "هل يمكن لمتتالية ما أن تنمو إلى الأبد، أو أن توجد حلقات لا نهائية العدد؟",
+     "en": "Could some sequence grow forever, or could there be infinitely many loops?",
+     "es": "¿Podría alguna sucesión crecer para siempre, o haber infinitos bucles?",
+     "fr": "Une suite pourrait-elle croître indéfiniment, ou existe-t-il une infinité de boucles ?",
+     "hi": "क्या कोई अनुक्रम हमेशा बढ़ता रह सकता है, या अनंत रूप से अनेक चक्र (लूप) हो सकते हैं?",
+     "pt": "Alguma sequência poderia crescer para sempre, ou poderia haver infinitos ciclos?",
+     "zh": "是否存在某个序列会无限增长，或者存在无穷多个循环？"
     }
    ]
   },
@@ -2226,51 +2289,51 @@
    "d": "P",
    "i18n": {
     "ar": {
-     "block": "يتسارع تمدد الكون. وسببه، المسمى الطاقة المظلمة، يشكّل نحو 70% من محتواه من الطاقة.",
+     "block": "تتنبأ فيزياء الكم بقيمة أكبر بنحو 60 إلى 120 رتبة من حيث المقدار مما تسمح به الأرصاد. وهذه أزمة خطيرة في الفيزياء.",
      "known": "القيمة التي تتنبأ بها الفيزياء الكمومية تخطئ بنحو 120 رتبة قدر، وهو أسوأ تباين في الفيزياء كلها.",
-     "leads": "تلمّح مسوح DESI إلى أنها قد تتغير مع الزمن؛ ويُتوقع أن يحسم الأمر تلسكوب إقليدس ومرصد روبن.",
+     "leads": "تلمّح مسوح DESI إلى أنها قد تتغير مع الزمن؛ وسيقيسها تلسكوب إقليدس ومرصد روبن بدقة أكبر.",
      "s": "الطاقة المظلمة",
      "t": "ما الطاقة المظلمة؟"
     },
     "en": {
-     "block": "The value predicted by quantum physics is off by about 120 orders of magnitude, the worst mismatch in all of physics.",
+     "block": "Quantum physics predicts a value some 60 to 120 orders of magnitude larger than observations allow. This is a serious crisis in physics.",
      "known": "The expansion of the universe is accelerating. The cause, called dark energy, makes up about 70% of its energy content.",
-     "leads": "DESI surveys hint that it may change over time; Euclid and the Rubin Observatory should settle it.",
+     "leads": "DESI surveys hint that it may change over time; Euclid and the Rubin Observatory will measure it more precisely.",
      "s": "Dark energy",
      "t": "What is dark energy?"
     },
     "es": {
-     "block": "El valor que predice la física cuántica se equivoca en unos 120 órdenes de magnitud, la peor discrepancia de toda la física.",
+     "block": "La física cuántica predice un valor entre 60 y 120 órdenes de magnitud mayor de lo que permiten las observaciones. Es una crisis seria para la física.",
      "known": "La expansión del universo se está acelerando. La causa, llamada energía oscura, constituye cerca del 70 % de su contenido energético.",
-     "leads": "Los estudios de DESI sugieren que podría cambiar con el tiempo; Euclid y el Observatorio Rubin deberían resolverlo.",
+     "leads": "Los estudios de DESI sugieren que podría cambiar con el tiempo; Euclid y el Observatorio Rubin la medirán con más precisión.",
      "s": "Energía oscura",
      "t": "¿Qué es la energía oscura?"
     },
     "fr": {
-     "block": "La valeur prédite par la physique quantique est fausse d'environ 120 ordres de grandeur, le pire écart de toute la physique.",
+     "block": "La physique quantique prédit une valeur de 60 à 120 ordres de grandeur plus grande que ce que permettent les observations. C'est une crise sérieuse pour la physique.",
      "known": "L'expansion de l'univers accélère. La cause, appelée énergie sombre, représente environ 70 % de son contenu énergétique.",
-     "leads": "Les relevés DESI suggèrent qu'elle pourrait varier dans le temps ; Euclid et l'observatoire Rubin vont trancher.",
+     "leads": "Les relevés DESI suggèrent qu'elle pourrait varier dans le temps ; Euclid et l'observatoire Rubin la mesureront plus précisément.",
      "s": "Énergie sombre",
      "t": "Qu'est-ce que l'énergie sombre ?"
     },
     "hi": {
-     "block": "ब्रह्मांड का विस्तार तेज़ हो रहा है। इसका कारण, जिसे डार्क एनर्जी कहते हैं, इसकी ऊर्जा का लगभग 70% हिस्सा है।",
+     "block": "क्वांटम भौतिकी जो मान बताती है, वह प्रेक्षणों द्वारा अनुमत मान से 60 से 120 परिमाण-कोटि (ऑर्डर ऑफ़ मैग्निट्यूड) अधिक है। यह भौतिकी के लिए एक गंभीर संकट है।",
      "known": "क्वांटम भौतिकी द्वारा अनुमानित मान लगभग 120 कोटि परिमाण (ऑर्डर ऑफ मैग्नीट्यूड) गलत है, जो पूरी भौतिकी का सबसे बड़ा बेमेल है।",
-     "leads": "DESI सर्वेक्षण संकेत देते हैं कि यह समय के साथ बदल सकती है; Euclid और रुबिन वेधशाला इसे सुलझा सकेंगे।",
+     "leads": "DESI सर्वेक्षण संकेत देते हैं कि यह समय के साथ बदल सकती है; Euclid और रुबिन वेधशाला इसे और अधिक सटीकता से मापेंगे।",
      "s": "डार्क एनर्जी",
      "t": "डार्क एनर्जी क्या है?"
     },
     "pt": {
-     "block": "O valor previsto pela física quântica erra por cerca de 120 ordens de grandeza, a pior discrepância de toda a física.",
+     "block": "A física quântica prevê um valor de 60 a 120 ordens de grandeza maior do que as observações permitem. É uma crise séria para a física.",
      "known": "A expansão do universo está se acelerando. A causa, chamada energia escura, responde por cerca de 70% do seu conteúdo energético.",
-     "leads": "Os levantamentos do DESI sugerem que ela pode mudar com o tempo; o Euclid e o Observatório Rubin devem esclarecer a questão.",
+     "leads": "Os levantamentos do DESI sugerem que ela pode mudar com o tempo; o Euclid e o Observatório Rubin vão medi-la com mais precisão.",
      "s": "Energia escura",
      "t": "O que é a energia escura?"
     },
     "zh": {
-     "block": "量子物理预言的数值偏差约达120个数量级,是物理学中最严重的不符。",
+     "block": "量子物理预测的数值比观测所允许的大60到120个数量级。这是物理学中的一场严重危机。",
      "known": "宇宙的膨胀正在加速。其成因被称为暗能量,约占宇宙能量总量的70%。",
-     "leads": "DESI巡天暗示它可能随时间变化;欧几里得望远镜和鲁宾天文台有望给出定论。",
+     "leads": "DESI巡天暗示它可能随时间变化；欧几里得望远镜和鲁宾天文台将更精确地测量它。",
      "s": "暗能量",
      "t": "暗能量是什么?"
     }
@@ -2288,9 +2351,43 @@
      "u": "https://ukri.org/news/desi-results-suggest-dark-energy-may-evolve-over-time"
     },
     {
-     "t": "New DESI results strengthen hints that dark energy may evolve (Symmetry)",
-     "ty": "press",
-     "u": "https://symmetrymagazine.org/article/new-desi-results-strengthen-hints-that-dark-energy-may-evolve"
+     "t": "DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints",
+     "ty": "study",
+     "u": "https://www.osti.gov/pages/biblio/3011041"
+    },
+    {
+     "t": "TASI Lectures on the Cosmological Constant",
+     "ty": "preprint",
+     "u": "https://arxiv.org/pdf/0708.4231"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل تتغير الطاقة المظلمة حقًا مع الزمن، كما توحي بيانات DESI لعام 2025؟",
+     "en": "Does dark energy really change over time, as DESI's 2025 data suggest?",
+     "es": "¿Cambia realmente la energía oscura con el tiempo, como sugieren los datos de DESI de 2025?",
+     "fr": "L'énergie sombre change-t-elle vraiment avec le temps, comme le suggèrent les données de DESI de 2025 ?",
+     "hi": "क्या डार्क एनर्जी सचमुच समय के साथ बदलती है, जैसा कि DESI के 2025 के आँकड़े संकेत देते हैं?",
+     "pt": "A energia escura muda mesmo com o tempo, como sugerem os dados do DESI de 2025?",
+     "zh": "暗能量是否真的像DESI 2025年数据所暗示的那样随时间变化？"
+    },
+    {
+     "ar": "هل يمكن لخطأ مجهول في القياسات، لا لفيزياء جديدة، أن يفسّر هذا المؤشر؟",
+     "en": "Could an unknown error in the measurements, rather than new physics, explain this hint?",
+     "es": "¿Podría un error desconocido en las mediciones, y no una física nueva, explicar este indicio?",
+     "fr": "Une erreur inconnue dans les mesures, plutôt qu'une physique nouvelle, pourrait-elle expliquer cet indice ?",
+     "hi": "क्या इस संकेत को नई भौतिकी के बजाय मापों में किसी अज्ञात त्रुटि से समझाया जा सकता है?",
+     "pt": "Um erro desconhecido nas medições, em vez de uma física nova, poderia explicar esse indício?",
+     "zh": "这一迹象能否由测量中某个未知误差而非新物理来解释？"
+    },
+    {
+     "ar": "لماذا تعطي خرائط المجرات وإشعاع الخلفية الكونية الميكروي قيمًا مختلفة قليلًا لمعاملات الكون؟",
+     "en": "Why do galaxy maps and the cosmic microwave background give slightly different values for the universe's parameters?",
+     "es": "¿Por qué los mapas de galaxias y el fondo cósmico de microondas dan valores ligeramente distintos para los parámetros del universo?",
+     "fr": "Pourquoi les cartes de galaxies et le fond diffus cosmologique donnent-ils des valeurs légèrement différentes pour les paramètres de l'univers ?",
+     "hi": "आकाशगंगाओं के मानचित्र और कॉस्मिक माइक्रोवेव पृष्ठभूमि ब्रह्मांड के मापदंडों के लिए थोड़े अलग मान क्यों देते हैं?",
+     "pt": "Por que os mapas de galáxias e a radiação cósmica de fundo dão valores ligeiramente diferentes para os parâmetros do universo?",
+     "zh": "为什么星系分布图和宇宙微波背景给出的宇宙参数值略有不同？"
     }
    ]
   },
@@ -2359,6 +2456,35 @@
      "t": "Thermodynamic Asymmetry in Time (Stanford Encyclopedia of Philosophy)",
      "ty": "reference",
      "u": "https://plato.stanford.edu/entries/time-thermo/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل تحتاج الإنتروبيا المنخفضة جدًا للكون المبكر («فرضية الماضي») هي نفسها إلى تفسير؟",
+     "en": "Does the very low entropy of the early universe (the 'Past Hypothesis') itself need an explanation?",
+     "es": "¿Necesita a su vez una explicación la bajísima entropía del universo primitivo (la «hipótesis del pasado»)?",
+     "fr": "La très faible entropie de l'univers primitif (l'« hypothèse du passé ») a-t-elle elle-même besoin d'une explication ?",
+     "hi": "क्या प्रारंभिक ब्रह्मांड की बहुत कम एन्ट्रॉपी (‘अतीत परिकल्पना’) को स्वयं किसी व्याख्या की ज़रूरत है?",
+     "pt": "A entropia muito baixa do universo primitivo (a «hipótese do passado») precisa ela própria de uma explicação?",
+     "zh": "早期宇宙极低的熵（“过去假设”）本身是否需要解释？"
+    },
+    {
+     "ar": "هل تعود أسهم الزمن الأخرى، كالذاكرة أو السبب والنتيجة، إلى ازدياد الإنتروبيا؟",
+     "en": "Do the other arrows of time, such as memory or cause and effect, come down to the growth of entropy?",
+     "es": "¿Se reducen las otras flechas del tiempo, como la memoria o la causa y el efecto, al aumento de la entropía?",
+     "fr": "Les autres flèches du temps, comme la mémoire ou la cause et l'effet, se ramènent-elles à la croissance de l'entropie ?",
+     "hi": "क्या समय के अन्य तीर, जैसे स्मृति या कारण और प्रभाव, एन्ट्रॉपी की वृद्धि पर ही आधारित हैं?",
+     "pt": "As outras setas do tempo, como a memória ou a causa e o efeito, reduzem-se ao aumento da entropia?",
+     "zh": "其他时间之箭，例如记忆或因果关系，能否归结为熵的增加？"
+    },
+    {
+     "ar": "كيف نبرّر قاعدة الاحتمال التي يستخدمها الفيزيائيون لتفسير اتجاه الأنظمة نحو التوازن؟",
+     "en": "How can we justify the probability rule physicists use to explain why systems move toward equilibrium?",
+     "es": "¿Cómo justificar la regla de probabilidad que usan los físicos para explicar por qué los sistemas evolucionan hacia el equilibrio?",
+     "fr": "Comment justifier la règle de probabilité qu'utilisent les physiciens pour expliquer pourquoi les systèmes évoluent vers l'équilibre ?",
+     "hi": "भौतिकविद यह समझाने के लिए जिस प्रायिकता नियम का उपयोग करते हैं कि तंत्र संतुलन की ओर क्यों जाते हैं, उसे कैसे उचित ठहराया जाए?",
+     "pt": "Como justificar a regra de probabilidade que os físicos usam para explicar por que os sistemas evoluem para o equilíbrio?",
+     "zh": "物理学家用来解释系统为何趋向平衡的概率规则，该如何证明其合理？"
     }
    ]
   },
@@ -2432,6 +2558,35 @@
      "t": "US Department of Energy details net energy gain (Photonics)",
      "ty": "press",
      "u": "https://photonics.com/Articles/US_Department_of_Energy_Details_Net_Energy_Gain/a68586"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "ما المواد التي تستطيع الصمود سنواتٍ أمام قصف نيوترونات 14 ميغا إلكترون فولت الناتجة عن الاندماج؟",
+     "en": "Which materials can survive years of bombardment by the 14 MeV neutrons produced by fusion?",
+     "es": "¿Qué materiales pueden resistir años de bombardeo por los neutrones de 14 MeV que produce la fusión?",
+     "fr": "Quels matériaux peuvent résister à des années de bombardement par les neutrons de 14 MeV produits par la fusion ?",
+     "hi": "कौन-से पदार्थ संलयन से बनने वाले 14 MeV न्यूट्रॉनों की वर्षों तक चलने वाली बौछार झेल सकते हैं?",
+     "pt": "Que materiais conseguem resistir a anos de bombardeio pelos nêutrons de 14 MeV produzidos pela fusão?",
+     "zh": "哪些材料能够承受聚变产生的14 MeV中子多年的轰击？"
+    },
+    {
+     "ar": "هل تستطيع محطة طاقة توليد ما يكفي من التريتيوم من الليثيوم لتزويد نفسها بالوقود؟",
+     "en": "Can a power plant breed enough tritium from lithium to fuel itself?",
+     "es": "¿Puede una central producir suficiente tritio a partir de litio para abastecerse a sí misma?",
+     "fr": "Une centrale peut-elle produire assez de tritium à partir du lithium pour s'alimenter elle-même ?",
+     "hi": "क्या कोई बिजलीघर लिथियम से इतना ट्रिटियम बना सकता है कि वह अपना ईंधन खुद पूरा कर सके?",
+     "pt": "Uma usina consegue produzir trítio suficiente a partir do lítio para abastecer a si mesma?",
+     "zh": "电站能否利用锂增殖出足够的氚来为自身提供燃料？"
+    },
+    {
+     "ar": "ما المواد التي تتحمّل المُحوِّل (الديفرتور)، وهو الجزء من المفاعل الذي يواجه أقسى الظروف؟",
+     "en": "Which materials can withstand the divertor, the part of the reactor that faces the harshest conditions?",
+     "es": "¿Qué materiales pueden aguantar en el divertor, la parte del reactor sometida a las condiciones más duras?",
+     "fr": "Quels matériaux peuvent tenir dans le divertor, la partie du réacteur soumise aux conditions les plus dures ?",
+     "hi": "कौन-से पदार्थ डाइवर्टर में टिक सकते हैं, जो रिएक्टर का सबसे कठोर परिस्थितियाँ झेलने वाला हिस्सा है?",
+     "pt": "Que materiais aguentam o divertor, a parte do reator que enfrenta as condições mais severas?",
+     "zh": "哪些材料能经受偏滤器——反应堆中条件最恶劣的部件——的考验？"
     }
    ]
   },
@@ -2575,6 +2730,17 @@
      "ty": "study",
      "u": "https://www.ams.org/journals/mcom/2014-83-288/S0025-5718-2013-02787-1"
     }
+   ],
+   "sub": [
+    {
+     "ar": "هل تنبؤات هاردي وليتلوود بعدد طرق كتابة العدد مجموعًا لعددين أوليين، وبالفجوات بين الأعداد الأولية، صحيحة فعلًا؟",
+     "en": "Are the Hardy–Littlewood predictions for how many ways numbers split into two primes, and for prime gaps, actually correct?",
+     "es": "¿Son realmente correctas las predicciones de Hardy y Littlewood sobre cuántas formas hay de escribir un número como suma de dos primos, y sobre los huecos entre primos?",
+     "fr": "Les prédictions de Hardy et Littlewood sur le nombre de façons d'écrire un nombre comme somme de deux premiers, et sur les écarts entre premiers, sont-elles vraiment exactes ?",
+     "hi": "क्या हार्डी–लिटिलवुड की भविष्यवाणियाँ, कि किसी संख्या को दो अभाज्यों के योग के रूप में कितने तरीकों से लिखा जा सकता है और अभाज्यों के बीच के अंतर कैसे होते हैं, वास्तव में सही हैं?",
+     "pt": "As previsões de Hardy e Littlewood sobre quantas maneiras há de escrever um número como soma de dois primos, e sobre os intervalos entre primos, estão mesmo corretas?",
+     "zh": "哈代–李特尔伍德关于一个数分拆为两个素数之和的方式数以及素数间隔的预测，真的正确吗？"
+    }
    ]
   },
   {
@@ -2647,6 +2813,35 @@
      "t": "A tabletop experiment for quantum gravity (AIP Inside Science)",
      "ty": "press",
      "u": "https://www.aip.org/inside-science/a-tabletop-experiment-for-quantum-gravity"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن وصف الزمن عندما يكون الزمكان نفسه كموميًا («مشكلة الزمن»)؟",
+     "en": "How can time be described when spacetime itself is quantum (the 'problem of time')?",
+     "es": "¿Cómo describir el tiempo cuando el propio espacio-tiempo es cuántico (el «problema del tiempo»)?",
+     "fr": "Comment décrire le temps quand l'espace-temps lui-même est quantique (le « problème du temps ») ?",
+     "hi": "जब स्वयं दिक्-काल क्वांटम हो, तब समय का वर्णन कैसे किया जाए (‘समय की समस्या’)?",
+     "pt": "Como descrever o tempo quando o próprio espaço-tempo é quântico (o «problema do tempo»)?",
+     "zh": "当时空本身是量子的时候，时间该如何描述（“时间问题”）？"
+    },
+    {
+     "ar": "هل يجب تكميم الجاذبية أصلًا؟",
+     "en": "Must gravity be quantized at all?",
+     "es": "¿Hay que cuantizar realmente la gravedad?",
+     "fr": "La gravité doit-elle vraiment être quantifiée ?",
+     "hi": "क्या गुरुत्वाकर्षण का क्वांटीकरण करना ज़रूरी भी है?",
+     "pt": "A gravidade precisa mesmo ser quantizada?",
+     "zh": "引力究竟是否必须量子化？"
+    },
+    {
+     "ar": "هل تعيد الجاذبية الكمومية الحلقية النسبيةَ العامة لأينشتاين عند الطاقات المنخفضة؟",
+     "en": "Does loop quantum gravity give back Einstein's general relativity at low energies?",
+     "es": "¿Recupera la gravedad cuántica de bucles la relatividad general de Einstein a bajas energías?",
+     "fr": "La gravité quantique à boucles redonne-t-elle la relativité générale d'Einstein aux basses énergies ?",
+     "hi": "क्या लूप क्वांटम ग्रैविटी कम ऊर्जा पर आइंस्टाइन की सामान्य सापेक्षता को वापस देती है?",
+     "pt": "A gravidade quântica em loop recupera a relatividade geral de Einstein em baixas energias?",
+     "zh": "圈量子引力在低能下能否还原出爱因斯坦的广义相对论？"
     }
    ]
   },
@@ -2817,6 +3012,26 @@
      "t": "JWST complicates expanding universe paradox by checking Hubble's work (Space.com)",
      "ty": "press",
      "u": "https://space.com/james-webb-space-telescope-hubble-tension-universe-expansion-study"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل سبب الفجوة فيزياء جديدة، أم بُنى كبيرة غير متوقعة، أم عدة أخطاء لا علاقة بينها؟",
+     "en": "Is the gap caused by new physics, by unexpected large-scale structures, or by several unrelated errors?",
+     "es": "¿Se debe la diferencia a una física nueva, a estructuras a gran escala inesperadas o a varios errores sin relación entre sí?",
+     "fr": "L'écart vient-il d'une physique nouvelle, de grandes structures inattendues, ou de plusieurs erreurs sans lien entre elles ?",
+     "hi": "क्या यह अंतर नई भौतिकी, अप्रत्याशित बड़े पैमाने की संरचनाओं, या कई असंबंधित त्रुटियों के कारण है?",
+     "pt": "A diferença vem de uma física nova, de estruturas inesperadas em grande escala ou de vários erros sem relação entre si?",
+     "zh": "这一差异是由新物理、意料之外的大尺度结构，还是由几个互不相关的误差造成的？"
+    },
+    {
+     "ar": "هل يمكن لطاقة مظلمة مبكرة أو متغيرة، أو لتفاعلات جديدة للنيوترينوات، أن تحل هذا التوتر؟",
+     "en": "Could early or evolving dark energy, or new interactions of neutrinos, resolve the tension?",
+     "es": "¿Podrían una energía oscura temprana o variable, o nuevas interacciones de los neutrinos, resolver la tensión?",
+     "fr": "Une énergie sombre précoce ou variable, ou de nouvelles interactions des neutrinos, pourraient-elles résoudre la tension ?",
+     "hi": "क्या प्रारंभिक या बदलती डार्क एनर्जी, या न्यूट्रिनो की नई अन्योन्यक्रियाएँ, इस तनाव को सुलझा सकती हैं?",
+     "pt": "Uma energia escura primordial ou variável, ou novas interações dos neutrinos, poderiam resolver a tensão?",
+     "zh": "早期或动态的暗能量，或者中微子的新相互作用，能否化解这一矛盾？"
     }
    ]
   },
@@ -3850,6 +4065,40 @@
      "t": "Monumental proof settles geometric Langlands conjecture (Quanta, 2024)",
      "ty": "press",
      "u": "https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/"
+    },
+    {
+     "t": "Langlands Program, trace formulas, and their geometrization",
+     "ty": "reference",
+     "u": "https://www.ams.org/journals/bull/2013-50-01/S0273-0979-2012-01387-3"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن برهان مبدأ الدالّية (functoriality) للانغلاندز بصورة عامة؟",
+     "en": "Can Langlands's principle of functoriality be proved in general?",
+     "es": "¿Se puede demostrar en general el principio de functorialidad de Langlands?",
+     "fr": "Le principe de fonctorialité de Langlands peut-il être démontré en général ?",
+     "hi": "क्या लैंगलैंड्स के फ़ंक्टोरियलिटी सिद्धांत को सामान्य रूप में सिद्ध किया जा सकता है?",
+     "pt": "O princípio de functorialidade de Langlands pode ser provado em geral?",
+     "zh": "朗兰兹的函子性原理能否被普遍证明？"
+    },
+    {
+     "ar": "هل يمكن استخدام صيغ الأثر لبرهان الدالّية، كما يقترح فرنكل ولانغلاندز ونغو؟",
+     "en": "Can trace formulas be used to prove functoriality, as Frenkel, Langlands and Ngô propose?",
+     "es": "¿Pueden usarse las fórmulas de trazas para demostrar la functorialidad, como proponen Frenkel, Langlands y Ngô?",
+     "fr": "Les formules des traces peuvent-elles servir à démontrer la fonctorialité, comme le proposent Frenkel, Langlands et Ngô ?",
+     "hi": "क्या फ़्रेंकेल, लैंगलैंड्स और न्गो के प्रस्ताव के अनुसार ट्रेस सूत्रों से फ़ंक्टोरियलिटी सिद्ध की जा सकती है?",
+     "pt": "As fórmulas do traço podem ser usadas para provar a functorialidade, como propõem Frenkel, Langlands e Ngô?",
+     "zh": "能否像弗伦克尔、朗兰兹和吴宝珠所提议的那样，用迹公式来证明函子性？"
+    },
+    {
+     "ar": "هل يمكن تعميم الصلة بين المنحنيات الإهليلجية والأشكال المعيارية، التي استُخدمت لبرهان مبرهنة فيرما الأخيرة، إلى صيغتها العامة؟",
+     "en": "Can the link between elliptic curves and modular forms, used to prove Fermat's Last Theorem, be extended to its general form?",
+     "es": "¿Puede extenderse a su forma general el vínculo entre curvas elípticas y formas modulares que se usó para demostrar el último teorema de Fermat?",
+     "fr": "Le lien entre courbes elliptiques et formes modulaires, utilisé pour démontrer le dernier théorème de Fermat, peut-il être étendu à sa forme générale ?",
+     "hi": "क्या दीर्घवृत्तीय वक्रों और मॉड्यूलर रूपों के बीच का संबंध, जिसका उपयोग फ़र्मा का अंतिम प्रमेय सिद्ध करने में हुआ, उसके सामान्य रूप तक बढ़ाया जा सकता है?",
+     "pt": "A ligação entre curvas elípticas e formas modulares, usada para provar o último teorema de Fermat, pode ser estendida à sua forma geral?",
+     "zh": "用于证明费马大定理的椭圆曲线与模形式之间的联系，能否推广到其一般形式？"
     }
    ]
   },
@@ -3998,6 +4247,35 @@
      "ty": "press",
      "u": "https://www.techrepublic.com/article/news-google-deepmind-math-olympiad/"
     }
+   ],
+   "sub": [
+    {
+     "ar": "هل يستطيع الذكاء الاصطناعي أن يترجم بموثوقية النصوص الرياضية العادية إلى عبارات صورية تتحقق منها الآلة (الصورنة الآلية)؟",
+     "en": "Can AI reliably translate ordinary mathematical writing into formal, machine-checkable statements (autoformalization)?",
+     "es": "¿Puede la IA traducir de forma fiable textos matemáticos corrientes a enunciados formales verificables por máquina (autoformalización)?",
+     "fr": "L'IA peut-elle traduire de façon fiable des textes mathématiques ordinaires en énoncés formels vérifiables par machine (autoformalisation) ?",
+     "hi": "क्या एआई साधारण गणितीय लेखन को भरोसेमंद तरीके से मशीन द्वारा जाँचे जा सकने वाले औपचारिक कथनों में बदल सकता है (ऑटोफ़ॉर्मलाइज़ेशन)?",
+     "pt": "A IA consegue traduzir de forma confiável textos matemáticos comuns em enunciados formais verificáveis por máquina (autoformalização)?",
+     "zh": "人工智能能否可靠地把普通数学文本翻译成可由机器检验的形式化陈述（自动形式化）？"
+    },
+    {
+     "ar": "هل يستطيع الذكاء الاصطناعي اقتراح حدسيات ومفاهيم جديدة، لا مجرد حل مسائل كتبها البشر؟",
+     "en": "Can AI propose new conjectures and concepts, not just solve problems written by humans?",
+     "es": "¿Puede la IA proponer nuevas conjeturas y conceptos, y no solo resolver problemas escritos por humanos?",
+     "fr": "L'IA peut-elle proposer de nouvelles conjectures et de nouveaux concepts, et pas seulement résoudre des problèmes écrits par des humains ?",
+     "hi": "क्या एआई केवल मनुष्यों के लिखे प्रश्न हल करने के बजाय नए अनुमान और नई अवधारणाएँ भी प्रस्तावित कर सकता है?",
+     "pt": "A IA consegue propor novas conjecturas e conceitos, e não apenas resolver problemas escritos por humanos?",
+     "zh": "人工智能能否提出新的猜想和概念，而不仅仅是解决人类写好的问题？"
+    },
+    {
+     "ar": "كيف يتعلم الذكاء الاصطناعي الرياضيات الصورية مع قلة البراهين الصورية التي كتبها البشر للتدرّب عليها؟",
+     "en": "How can AI learn formal mathematics when so few human-written formal proofs exist to train on?",
+     "es": "¿Cómo puede la IA aprender matemáticas formales cuando existen tan pocas demostraciones formales escritas por humanos para entrenarse?",
+     "fr": "Comment l'IA peut-elle apprendre les mathématiques formelles alors qu'il existe si peu de preuves formelles écrites par des humains pour s'entraîner ?",
+     "hi": "जब प्रशिक्षण के लिए मनुष्यों द्वारा लिखे गए औपचारिक प्रमाण इतने कम हैं, तो एआई औपचारिक गणित कैसे सीख सकता है?",
+     "pt": "Como a IA pode aprender matemática formal quando existem tão poucas provas formais escritas por humanos para treinar?",
+     "zh": "人类编写的形式化证明如此稀少，人工智能该如何学习形式化数学？"
+    }
    ]
   },
   {
@@ -4062,9 +4340,34 @@
    "n": 1,
    "src": [
     {
-     "t": "Optimisation of the search for CP violation at DUNE (OSTI)",
+     "t": "Optimisation of the Search for CP-symmetry Violation at the Deep Underground Neutrino Experiment",
      "ty": "institution",
      "u": "https://www.osti.gov/biblio/1998949"
+    },
+    {
+     "t": "Constraint on the matter–antimatter symmetry-violating phase in neutrino oscillations",
+     "ty": "study",
+     "u": "https://eprints.whiterose.ac.uk/160770"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل تتذبذب النيوترينوات ومضادات النيوترينوات بشكل مختلف، مما يعني انتهاكًا لتناظر CP بين اللبتونات؟",
+     "en": "Do neutrinos and antineutrinos oscillate differently, which would mean CP violation among leptons?",
+     "es": "¿Oscilan de forma distinta los neutrinos y los antineutrinos, lo que significaría violación de CP en los leptones?",
+     "fr": "Les neutrinos et les antineutrinos oscillent-ils différemment, ce qui signifierait une violation de CP chez les leptons ?",
+     "hi": "क्या न्यूट्रिनो और एंटीन्यूट्रिनो अलग-अलग तरह से दोलन करते हैं, जिसका अर्थ होगा लेप्टॉनों में CP उल्लंघन?",
+     "pt": "Os neutrinos e os antineutrinos oscilam de forma diferente, o que significaria violação de CP entre os léptons?",
+     "zh": "中微子和反中微子的振荡方式是否不同？这将意味着轻子中存在CP破坏。"
+    },
+    {
+     "ar": "هل يمكن أن يكون انتهاك CP بين اللبتونات قد أنتج فائض المادة، عبر عملية تُسمّى التكوين اللبتوني (leptogenesis)؟",
+     "en": "Could CP violation among leptons have created the excess of matter, through a process called leptogenesis?",
+     "es": "¿Pudo la violación de CP en los leptones crear el exceso de materia, mediante un proceso llamado leptogénesis?",
+     "fr": "La violation de CP chez les leptons a-t-elle pu créer l'excès de matière, par un processus appelé leptogenèse ?",
+     "hi": "क्या लेप्टॉनों में CP उल्लंघन ने ‘लेप्टोजेनेसिस’ नामक प्रक्रिया द्वारा पदार्थ की अधिकता पैदा की हो सकती है?",
+     "pt": "A violação de CP entre os léptons pode ter criado o excesso de matéria, por meio de um processo chamado leptogênese?",
+     "zh": "轻子中的CP破坏是否可能通过一种称为“轻子生成”的过程造成了物质的过剩？"
     }
    ]
   },
@@ -4139,6 +4442,40 @@
      "t": "LZ experiment sets new record in search for dark matter",
      "ty": "institution",
      "u": "https://ucdavis.edu/news/lz-experiment-sets-new-record-search-dark-matter"
+    },
+    {
+     "t": "A new era in the search for dark matter",
+     "ty": "reference",
+     "u": "https://ideas.repec.org/a/nat/nature/v562y2018i7725d10.1038_s41586-018-0542-z.html"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "إذا كانت المادة المظلمة مكوّنة من جسيمات WIMP، فهل يمكن أن تكون أخف أو أن تعطي إشارات أضعف مما تتنبأ به أبسط النماذج؟",
+     "en": "If dark matter is made of WIMPs, could they be lighter or give weaker signals than the simplest models predict?",
+     "es": "Si la materia oscura está hecha de WIMP, ¿podrían ser más ligeras o dar señales más débiles de lo que predicen los modelos más simples?",
+     "fr": "Si la matière noire est faite de WIMP, pourraient-elles être plus légères ou donner des signaux plus faibles que ne le prévoient les modèles les plus simples ?",
+     "hi": "यदि डार्क मैटर WIMP कणों से बना है, तो क्या वे सबसे सरल मॉडलों के अनुमान से हल्के हो सकते हैं या कमज़ोर संकेत दे सकते हैं?",
+     "pt": "Se a matéria escura for feita de WIMPs, elas poderiam ser mais leves ou dar sinais mais fracos do que preveem os modelos mais simples?",
+     "zh": "如果暗物质由WIMP构成，它们是否可能比最简单模型预测的更轻，或信号更弱？"
+    },
+    {
+     "ar": "هل تشير ألغاز المجرات الصغيرة (مثل مشكلة القمة واللب والتوابع المفقودة) إلى مادة مظلمة تتفاعل مع نفسها، أم إلى أخطاء في المحاكاة؟",
+     "en": "Do puzzles in small galaxies (such as cusp-core and missing satellites) point to dark matter that interacts with itself, or to errors in simulations?",
+     "es": "¿Apuntan los enigmas de las galaxias pequeñas (como el problema cúspide-núcleo o los satélites que faltan) a una materia oscura que interactúa consigo misma, o a errores de simulación?",
+     "fr": "Les énigmes des petites galaxies (comme le problème cœur-pic ou les satellites manquants) indiquent-elles une matière noire qui interagit avec elle-même, ou des erreurs de simulation ?",
+     "hi": "क्या छोटी आकाशगंगाओं की पहेलियाँ (जैसे कस्प-कोर और लुप्त उपग्रह) ऐसे डार्क मैटर की ओर इशारा करती हैं जो स्वयं से अन्योन्यक्रिया करता है, या सिमुलेशन की त्रुटियों की ओर?",
+     "pt": "Os enigmas das galáxias pequenas (como o problema cúspide-núcleo e os satélites ausentes) apontam para uma matéria escura que interage consigo mesma, ou para erros de simulação?",
+     "zh": "小星系中的谜题（如“尖点–核心”问题和“卫星星系缺失”问题）指向的是会自相互作用的暗物质，还是模拟中的误差？"
+    },
+    {
+     "ar": "هل يمكن لموجات الجاذبية الصادرة عن الثقوب السوداء أن تكشف مادة مظلمة متجمعة حولها؟",
+     "en": "Could gravitational waves from black holes reveal dark matter gathered around them?",
+     "es": "¿Podrían las ondas gravitacionales de agujeros negros revelar materia oscura acumulada a su alrededor?",
+     "fr": "Les ondes gravitationnelles émises par des trous noirs pourraient-elles révéler de la matière noire accumulée autour d'eux ?",
+     "hi": "क्या ब्लैक होल से आने वाली गुरुत्वीय तरंगें उनके चारों ओर जमा डार्क मैटर को उजागर कर सकती हैं?",
+     "pt": "As ondas gravitacionais de buracos negros poderiam revelar matéria escura acumulada ao redor deles?",
+     "zh": "来自黑洞的引力波能否揭示聚集在黑洞周围的暗物质？"
     }
    ]
   },
@@ -4278,6 +4615,35 @@
      "t": "Measurement in Quantum Theory (Stanford Encyclopedia of Philosophy)",
      "ty": "reference",
      "u": "https://plato.stanford.edu/entries/qt-measurement/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "عند أي حجم يفسح العالم الكمومي المجال للعالم الكلاسيكي الذي نراه؟",
+     "en": "At what size does the quantum world give way to the classical world we see?",
+     "es": "¿A partir de qué tamaño el mundo cuántico da paso al mundo clásico que vemos?",
+     "fr": "À partir de quelle taille le monde quantique laisse-t-il place au monde classique que nous voyons ?",
+     "hi": "किस आकार पर क्वांटम दुनिया हमारी देखी हुई शास्त्रीय दुनिया में बदल जाती है?",
+     "pt": "A partir de que tamanho o mundo quântico dá lugar ao mundo clássico que vemos?",
+     "zh": "在多大的尺度上，量子世界会让位于我们所见的经典世界？"
+    },
+    {
+     "ar": "هل يمكن لتجارب التداخل باستخدام جزيئات تزداد كبرًا أو أجسام دقيقة معلّقة أن تؤكد نماذج الانهيار أو تستبعدها؟",
+     "en": "Can interference experiments with ever larger molecules or tiny levitated objects confirm or rule out collapse models?",
+     "es": "¿Pueden los experimentos de interferencia con moléculas cada vez más grandes u objetos diminutos levitados confirmar o descartar los modelos de colapso?",
+     "fr": "Des expériences d'interférence avec des molécules toujours plus grosses ou de minuscules objets en lévitation peuvent-elles confirmer ou exclure les modèles d'effondrement ?",
+     "hi": "क्या लगातार बड़े अणुओं या हवा में तैराई गई सूक्ष्म वस्तुओं के साथ व्यतिकरण प्रयोग पतन (कोलैप्स) मॉडलों की पुष्टि कर सकते हैं या उन्हें खारिज कर सकते हैं?",
+     "pt": "Experimentos de interferência com moléculas cada vez maiores ou minúsculos objetos levitados podem confirmar ou descartar os modelos de colapso?",
+     "zh": "用越来越大的分子或悬浮的微小物体进行的干涉实验，能否证实或排除坍缩模型？"
+    },
+    {
+     "ar": "هل تسبّب الجاذبية انهيار الدالة الموجية، كما اقترح ديوشي وبنروز؟",
+     "en": "Does gravity cause the wave function to collapse, as Diósi and Penrose proposed?",
+     "es": "¿Provoca la gravedad el colapso de la función de onda, como propusieron Diósi y Penrose?",
+     "fr": "La gravité provoque-t-elle l'effondrement de la fonction d'onde, comme l'ont proposé Diósi et Penrose ?",
+     "hi": "क्या गुरुत्वाकर्षण तरंग फलन के पतन का कारण बनता है, जैसा कि डियोसी और पेनरोज़ ने प्रस्तावित किया?",
+     "pt": "A gravidade provoca o colapso da função de onda, como propuseram Diósi e Penrose?",
+     "zh": "引力是否会像迪奥西和彭罗斯提出的那样导致波函数坍缩？"
     }
    ]
   },
@@ -4521,6 +4887,40 @@
      "t": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve (arXiv, 2026)",
      "ty": "preprint",
      "u": "https://arxiv.org/pdf/2608.16884"
+    },
+    {
+     "t": "Fast matrix multiplication: Limitations of the Coppersmith-Winograd method",
+     "ty": "study",
+     "u": "https://cris.technion.ac.il/en/publications/fast-matrix-multiplication-limitations-of-the-coppersmith-winogra-2"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل أُسّ ضرب المصفوفات يساوي 2، أي هل يمكن ضرب مصفوفتين n×n في نحو n^(2+ε) خطوة لأي ε > 0؟",
+     "en": "Is the matrix multiplication exponent equal to 2, so that two n×n matrices can be multiplied in about n^(2+ε) steps for any ε > 0?",
+     "es": "¿Es igual a 2 el exponente de la multiplicación de matrices, de modo que dos matrices n×n puedan multiplicarse en unos n^(2+ε) pasos para todo ε > 0?",
+     "fr": "L'exposant de la multiplication matricielle vaut-il 2, de sorte que deux matrices n×n puissent être multipliées en environ n^(2+ε) étapes pour tout ε > 0 ?",
+     "hi": "क्या आव्यूह गुणन का घातांक 2 है, यानी क्या किसी भी ε > 0 के लिए दो n×n आव्यूहों को लगभग n^(2+ε) चरणों में गुणा किया जा सकता है?",
+     "pt": "O expoente da multiplicação de matrizes é igual a 2, de modo que duas matrizes n×n possam ser multiplicadas em cerca de n^(2+ε) passos para todo ε > 0?",
+     "zh": "矩阵乘法指数是否等于2，即对任意ε > 0，两个n×n矩阵都能在大约n^(2+ε)步内相乘？"
+    },
+    {
+     "ar": "هل يمكن لطريقة جديدة تجاوز الحدود المُثبتة لـ«طريقة الليزر»، التي لا تستطيع عائلة واسعة من صيغها النزول بالأُسّ تحت 2.3078؟",
+     "en": "Can a new method get past the proven limits of the 'laser method', whose wide family of variants cannot go below an exponent of 2.3078?",
+     "es": "¿Puede un método nuevo superar los límites demostrados del «método láser», cuya amplia familia de variantes no puede bajar de un exponente de 2,3078?",
+     "fr": "Une nouvelle méthode peut-elle dépasser les limites démontrées de la « méthode laser », dont une large famille de variantes ne peut pas descendre sous l'exposant 2,3078 ?",
+     "hi": "क्या कोई नई विधि ‘लेज़र विधि’ की सिद्ध सीमाओं को पार कर सकती है, जिसके विविध रूपों का एक बड़ा वर्ग घातांक को 2.3078 से नीचे नहीं ला सकता?",
+     "pt": "Um método novo consegue superar os limites comprovados do «método laser», cuja ampla família de variantes não pode descer abaixo do expoente 2,3078?",
+     "zh": "能否有新方法突破“激光法”已被证明的极限？该方法的一大类变体都无法使指数低于2.3078。"
+    },
+    {
+     "ar": "ما أقصى سرعة يمكن بها ضرب مصفوفات مستطيلة (غير مربعة) ذات أشكال مختلفة؟",
+     "en": "How fast can rectangular (non-square) matrices of different shapes be multiplied?",
+     "es": "¿Con qué rapidez se pueden multiplicar matrices rectangulares (no cuadradas) de distintas formas?",
+     "fr": "À quelle vitesse peut-on multiplier des matrices rectangulaires (non carrées) de formes différentes ?",
+     "hi": "विभिन्न आकारों के आयताकार (गैर-वर्गाकार) आव्यूहों को कितनी तेज़ी से गुणा किया जा सकता है?",
+     "pt": "Com que rapidez é possível multiplicar matrizes retangulares (não quadradas) de formatos diferentes?",
+     "zh": "不同形状的长方形（非方形）矩阵最快能以多快的速度相乘？"
     }
    ]
   },
@@ -4679,6 +5079,35 @@
      "ty": "reference",
      "u": "https://www.claymath.org/millennium-problems"
     }
+   ],
+   "sub": [
+    {
+     "ar": "لأي جريان ابتدائي كبير في ثلاثة أبعاد، هل توجد حلول ملساء إلى الأبد، أم يمكن أن تنفجر؟",
+     "en": "For any large starting flow in three dimensions, do smooth solutions exist forever, or can they blow up?",
+     "es": "Para cualquier flujo inicial grande en tres dimensiones, ¿existen soluciones suaves para siempre o pueden explotar?",
+     "fr": "Pour un écoulement initial quelconque, même grand, en trois dimensions, existe-t-il des solutions régulières pour toujours, ou peuvent-elles exploser ?",
+     "hi": "तीन आयामों में किसी भी बड़े आरंभिक प्रवाह के लिए, क्या सुचारु हल हमेशा बने रहते हैं, या वे अनंत की ओर फट सकते हैं?",
+     "pt": "Para qualquer escoamento inicial grande em três dimensões, existem soluções suaves para sempre, ou elas podem explodir?",
+     "zh": "对于三维空间中任意大的初始流动，光滑解是否永远存在，还是可能爆破？"
+    },
+    {
+     "ar": "هل حلول لوراي الضعيفة وحيدة؟",
+     "en": "Are Leray's weak solutions unique?",
+     "es": "¿Son únicas las soluciones débiles de Leray?",
+     "fr": "Les solutions faibles de Leray sont-elles uniques ?",
+     "hi": "क्या लेरे के दुर्बल (वीक) हल अद्वितीय हैं?",
+     "pt": "As soluções fracas de Leray são únicas?",
+     "zh": "勒雷的弱解是唯一的吗？"
+    },
+    {
+     "ar": "هل يمكن تحسين مبرهنة كافاريلي–كون–نيرنبرغ التي تحدّ من حجم التفردات الممكنة؟",
+     "en": "Can the Caffarelli–Kohn–Nirenberg theorem, which limits the size of possible singularities, be improved?",
+     "es": "¿Se puede mejorar el teorema de Caffarelli–Kohn–Nirenberg, que limita el tamaño de las posibles singularidades?",
+     "fr": "Le théorème de Caffarelli–Kohn–Nirenberg, qui limite la taille des singularités possibles, peut-il être amélioré ?",
+     "hi": "क्या कैफ़रेली–कोन–निरेनबर्ग प्रमेय, जो संभावित विचित्रताओं (सिंगुलैरिटी) के आकार को सीमित करता है, सुधारा जा सकता है?",
+     "pt": "O teorema de Caffarelli–Kohn–Nirenberg, que limita o tamanho das possíveis singularidades, pode ser melhorado?",
+     "zh": "限制可能奇点大小的卡法雷利–科恩–尼伦伯格定理能否被改进？"
+    }
    ]
   },
   {
@@ -4824,6 +5253,35 @@
      "t": "Direct neutrino-mass measurement based on 259 days of KATRIN data (Science, 2025)",
      "ty": "study",
      "u": "https://pubmed.ncbi.nlm.nih.gov/40208982/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "ما كتلة النيوترينو بالضبط؟ في عام 2025 وضعت تجربة KATRIN حدًا أعلى قدره 0.45 إلكترون فولت.",
+     "en": "What exactly is the neutrino mass? In 2025 KATRIN set an upper limit of 0.45 eV.",
+     "es": "¿Cuál es exactamente la masa del neutrino? En 2025, KATRIN fijó un límite superior de 0,45 eV.",
+     "fr": "Quelle est exactement la masse du neutrino ? En 2025, KATRIN a fixé une limite supérieure de 0,45 eV.",
+     "hi": "न्यूट्रिनो का द्रव्यमान ठीक-ठीक कितना है? 2025 में KATRIN ने इसकी ऊपरी सीमा 0.45 eV तय की।",
+     "pt": "Qual é exatamente a massa do neutrino? Em 2025, o KATRIN estabeleceu um limite superior de 0,45 eV.",
+     "zh": "中微子的质量究竟是多少？2025年，KATRIN给出了0.45 eV的上限。"
+    },
+    {
+     "ar": "هل النيوترينوات هي جسيماتها المضادة نفسها (جسيمات مايورانا)؟ اضمحلال بيتا المزدوج عديم النيوترينو سيثبت ذلك.",
+     "en": "Are neutrinos their own antiparticles (Majorana particles)? Neutrinoless double-beta decay would prove it.",
+     "es": "¿Son los neutrinos sus propias antipartículas (partículas de Majorana)? La desintegración doble beta sin neutrinos lo demostraría.",
+     "fr": "Les neutrinos sont-ils leurs propres antiparticules (particules de Majorana) ? La double désintégration bêta sans neutrinos le prouverait.",
+     "hi": "क्या न्यूट्रिनो स्वयं अपने प्रतिकण (मायोराना कण) हैं? न्यूट्रिनो-रहित दोहरा बीटा क्षय इसे सिद्ध कर देगा।",
+     "pt": "Os neutrinos são suas próprias antipartículas (partículas de Majorana)? O decaimento beta duplo sem neutrinos provaria isso.",
+     "zh": "中微子是否是自身的反粒子（马约拉纳粒子）？无中微子双β衰变将能证明这一点。"
+    },
+    {
+     "ar": "كيف يمكن للنظرية النووية أن تربط معدلًا مقيسًا لاضمحلال بيتا المزدوج بالفيزياء الجديدة الكامنة وراءه؟",
+     "en": "How can nuclear theory link a measured double-beta decay rate to the new physics behind it?",
+     "es": "¿Cómo puede la teoría nuclear relacionar una tasa medida de desintegración doble beta con la física nueva que hay detrás?",
+     "fr": "Comment la théorie nucléaire peut-elle relier un taux mesuré de double désintégration bêta à la physique nouvelle qui en est la cause ?",
+     "hi": "नाभिकीय सिद्धांत दोहरे बीटा क्षय की मापी गई दर को उसके पीछे की नई भौतिकी से कैसे जोड़ सकता है?",
+     "pt": "Como a teoria nuclear pode ligar uma taxa medida de decaimento beta duplo à física nova por trás dela?",
+     "zh": "核理论如何把测得的双β衰变速率与其背后的新物理联系起来？"
     }
    ]
   },
@@ -5183,6 +5641,35 @@
      "ty": "company",
      "u": "https://blog.google/technology/research/google-willow-quantum-chip/"
     }
+   ],
+   "sub": [
+    {
+     "ar": "ما الذي يسبب الدفقات النادرة من الأخطاء المترابطة، التي تُرصد نحو مرة كل ساعة، وكيف يمكن إيقافها؟",
+     "en": "What causes the rare bursts of correlated errors, seen about once an hour, and how can they be stopped?",
+     "es": "¿Qué causa las raras ráfagas de errores correlacionados, observadas aproximadamente una vez por hora, y cómo se pueden evitar?",
+     "fr": "Qu'est-ce qui provoque les rares rafales d'erreurs corrélées, observées environ une fois par heure, et comment les empêcher ?",
+     "hi": "लगभग हर घंटे एक बार दिखने वाले सहसंबद्ध त्रुटियों के दुर्लभ विस्फोटों का कारण क्या है, और उन्हें कैसे रोका जा सकता है?",
+     "pt": "O que causa as raras rajadas de erros correlacionados, observadas cerca de uma vez por hora, e como impedi-las?",
+     "zh": "大约每小时出现一次的罕见相关错误爆发是由什么引起的？如何阻止它们？"
+    },
+    {
+     "ar": "هل يستطيع فكّ ترميز تصحيح الأخطاء مواكبة الزمن الحقيقي مع ازدياد حجم المعالجات الكمومية؟",
+     "en": "Can error-correction decoding keep up in real time as quantum processors grow larger?",
+     "es": "¿Puede la decodificación de la corrección de errores seguir el ritmo en tiempo real a medida que los procesadores cuánticos crecen?",
+     "fr": "Le décodage de la correction d'erreurs peut-il suivre en temps réel à mesure que les processeurs quantiques grandissent ?",
+     "hi": "जैसे-जैसे क्वांटम प्रोसेसर बड़े होते जाते हैं, क्या त्रुटि-सुधार डिकोडिंग वास्तविक समय में साथ चल सकती है?",
+     "pt": "A decodificação da correção de erros consegue acompanhar em tempo real à medida que os processadores quânticos crescem?",
+     "zh": "随着量子处理器规模扩大，纠错解码能否实时跟上？"
+    },
+    {
+     "ar": "كيف يمكن التحكم في «التسرّب»، أي خروج الكيوبتات من حالتيها العاملتين؟",
+     "en": "How can 'leakage', when qubits escape their two working states, be controlled?",
+     "es": "¿Cómo controlar las «fugas», cuando los cúbits escapan de sus dos estados de trabajo?",
+     "fr": "Comment maîtriser les « fuites », quand les qubits sortent de leurs deux états de travail ?",
+     "hi": "‘लीकेज’, यानी जब क्यूबिट अपनी दो कार्यशील अवस्थाओं से बाहर निकल जाते हैं, को कैसे नियंत्रित किया जाए?",
+     "pt": "Como controlar o «vazamento», quando os qubits escapam de seus dois estados de trabalho?",
+     "zh": "如何控制“泄漏”，即量子比特跑出其两个工作状态的现象？"
+    }
    ]
   },
   {
@@ -5323,6 +5810,40 @@
      "t": "LiteBIRD Collaboration (Campeti et al.), LiteBIRD science goals and forecasts: origin of primordial gravitational waves (arXiv, 2023)",
      "ty": "preprint",
      "u": "https://arxiv.org/html/2312.00717v2"
+    },
+    {
+     "t": "Planck 2018 results: X. Constraints on inflation",
+     "ty": "study",
+     "u": "https://collaborate.princeton.edu/en/publications/planck-2018-results-x-constraints-on-inflation/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل أنتج التضخم موجات جاذبية بدائية؟ شدتها (النسبة r) محدودة حاليًا بأقل من 0.056.",
+     "en": "Did inflation produce primordial gravitational waves? Their strength (the ratio r) is now limited to below 0.056.",
+     "es": "¿Produjo la inflación ondas gravitacionales primordiales? Su intensidad (el cociente r) está hoy limitada a menos de 0,056.",
+     "fr": "L'inflation a-t-elle produit des ondes gravitationnelles primordiales ? Leur intensité (le rapport r) est aujourd'hui limitée à moins de 0,056.",
+     "hi": "क्या स्फीति (इन्फ़्लेशन) ने आदिम गुरुत्वीय तरंगें पैदा कीं? उनकी तीव्रता (अनुपात r) अब 0.056 से कम तक सीमित है।",
+     "pt": "A inflação produziu ondas gravitacionais primordiais? Sua intensidade (a razão r) está hoje limitada a menos de 0,056.",
+     "zh": "暴胀是否产生了原初引力波？其强度（张标比r）目前被限制在0.056以下。"
+    },
+    {
+     "ar": "ما شكل منظر الطاقة (الجهد) الذي دفع التضخم؟ تميل البيانات بشكل متزايد إلى الأشكال المقعّرة.",
+     "en": "What shape was the energy landscape (the potential) that drove inflation? Data increasingly favour concave shapes.",
+     "es": "¿Qué forma tenía el paisaje de energía (el potencial) que impulsó la inflación? Los datos favorecen cada vez más las formas cóncavas.",
+     "fr": "Quelle forme avait le paysage d'énergie (le potentiel) qui a entraîné l'inflation ? Les données favorisent de plus en plus les formes concaves.",
+     "hi": "स्फीति को चलाने वाला ऊर्जा परिदृश्य (विभव) किस आकार का था? आँकड़े अधिकाधिक अवतल आकारों के पक्ष में हैं।",
+     "pt": "Que forma tinha a paisagem de energia (o potencial) que impulsionou a inflação? Os dados favorecem cada vez mais formas côncavas.",
+     "zh": "驱动暴胀的能量景观（势）是什么形状？数据越来越倾向于凹形的势。"
+    },
+    {
+     "ar": "هل شمل التضخم شيئًا أبعد من أبسط سلوك «التدحرج البطيء»؟ لم يُعثر على أي دليل حتى الآن.",
+     "en": "Did inflation involve anything beyond the simplest 'slow-roll' behaviour? No evidence has been found so far.",
+     "es": "¿Hubo en la inflación algo más allá del comportamiento más simple de «rodadura lenta»? Hasta ahora no se ha encontrado ninguna evidencia.",
+     "fr": "L'inflation a-t-elle impliqué autre chose que le comportement le plus simple de « roulement lent » ? Aucun indice n'a été trouvé jusqu'ici.",
+     "hi": "क्या स्फीति में सबसे सरल ‘स्लो-रोल’ व्यवहार से आगे भी कुछ था? अब तक इसका कोई प्रमाण नहीं मिला है।",
+     "pt": "A inflação envolveu algo além do comportamento mais simples de «rolamento lento»? Nenhuma evidência foi encontrada até agora.",
+     "zh": "暴胀是否涉及超出最简单“慢滚”行为的动力学？迄今尚未发现证据。"
     }
    ]
   },
@@ -5465,6 +5986,35 @@
      "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
      "ty": "reference",
      "u": "https://www.claymath.org/millennium-problems"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يستطيع أحد أن يبرهن أن مسألة معطاة صراحةً تحتاج إلى دارات بوليانية حجمها أكبر من الخطي؟ أفضل حدّ أدنى معروف هو نحو 4n فقط.",
+     "en": "Can anyone prove that some explicitly given problem needs Boolean circuits of more than linear size? The best known lower bound is only about 4n.",
+     "es": "¿Puede alguien demostrar que algún problema dado explícitamente necesita circuitos booleanos de tamaño mayor que lineal? La mejor cota inferior conocida es solo de unos 4n.",
+     "fr": "Peut-on prouver qu'un problème donné explicitement exige des circuits booléens de taille plus que linéaire ? La meilleure borne inférieure connue n'est que d'environ 4n.",
+     "hi": "क्या कोई सिद्ध कर सकता है कि किसी स्पष्ट रूप से दी गई समस्या के लिए रैखिक से बड़े आकार के बूलियन परिपथ ज़रूरी हैं? सबसे अच्छी ज्ञात निचली सीमा केवल लगभग 4n है।",
+     "pt": "Alguém consegue provar que algum problema dado explicitamente precisa de circuitos booleanos de tamanho maior que linear? O melhor limite inferior conhecido é de apenas cerca de 4n.",
+     "zh": "能否证明某个明确给出的问题需要规模超过线性的布尔电路？目前已知最好的下界仅约为4n。"
+    },
+    {
+     "ar": "هل NP مختلفة عن co-NP؟ وبصيغة مكافئة، ألا يوجد أي نظام برهان يعطي براهين قصيرة لكل تحصيل حاصل (tautology)؟",
+     "en": "Is NP different from co-NP? Equivalently, is there no proof system with short proofs of every tautology?",
+     "es": "¿Es NP distinto de co-NP? De forma equivalente, ¿no existe ningún sistema de prueba con demostraciones cortas de todas las tautologías?",
+     "fr": "NP est-il différent de co-NP ? De façon équivalente, n'existe-t-il aucun système de preuve offrant des preuves courtes de toutes les tautologies ?",
+     "hi": "क्या NP, co-NP से भिन्न है? समतुल्य रूप में, क्या ऐसा कोई प्रमाण तंत्र नहीं है जो हर पुनरुक्ति (टॉटोलॉजी) का छोटा प्रमाण दे?",
+     "pt": "NP é diferente de co-NP? De forma equivalente, não existe nenhum sistema de prova com provas curtas de todas as tautologias?",
+     "zh": "NP是否不同于co-NP？等价地说，是否不存在一个能为所有重言式给出短证明的证明系统？"
+    },
+    {
+     "ar": "ما تقنيات البرهان القادرة على تجاوز الحواجز المعروفة لـ«النسبنة» و«البراهين الطبيعية»؟",
+     "en": "Which proof techniques can get past the known barriers of 'relativization' and 'natural proofs'?",
+     "es": "¿Qué técnicas de demostración pueden superar las barreras conocidas de la «relativización» y las «pruebas naturales»?",
+     "fr": "Quelles techniques de preuve peuvent franchir les barrières connues de la « relativisation » et des « preuves naturelles » ?",
+     "hi": "कौन-सी प्रमाण तकनीकें ‘सापेक्षीकरण’ और ‘प्राकृतिक प्रमाण’ की ज्ञात बाधाओं को पार कर सकती हैं?",
+     "pt": "Que técnicas de prova conseguem superar as barreiras conhecidas da «relativização» e das «provas naturais»?",
+     "zh": "哪些证明技术能够突破已知的“相对化”和“自然证明”障碍？"
     }
    ]
   },
@@ -5914,6 +6464,40 @@
      "t": "Stadlmann, Bounded gaps between primes (arXiv, 2026)",
      "ty": "preprint",
      "u": "https://arxiv.org/pdf/2608.31126"
+    },
+    {
+     "t": "Variants of the Selberg sieve, and bounded intervals containing many primes",
+     "ty": "study",
+     "u": "https://link.springer.com/article/10.1186%2Fs40687-014-0012-7"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن التغلب على «مشكلة التكافؤ»؟ طرق الغربال وحدها لا تستطيع خفض الفجوة إلى ما دون 6.",
+     "en": "Can the 'parity problem' be overcome? Sieve methods alone cannot push the gap below 6.",
+     "es": "¿Se puede superar el «problema de paridad»? Los métodos de criba por sí solos no pueden bajar de un hueco de 6.",
+     "fr": "Peut-on surmonter le « problème de parité » ? Les méthodes de crible seules ne peuvent pas descendre sous un écart de 6.",
+     "hi": "क्या ‘पैरिटी समस्या’ को पार किया जा सकता है? केवल छलनी (सीव) विधियाँ अंतर को 6 से नीचे नहीं ला सकतीं।",
+     "pt": "É possível superar o «problema da paridade»? Os métodos de crivo sozinhos não conseguem levar o intervalo abaixo de 6.",
+     "zh": "能否克服“奇偶性问题”？仅靠筛法无法把间隔降到6以下。"
+    },
+    {
+     "ar": "هل حدسية إليوت–هالبرستام المعمّمة، المتعلقة بمدى انتظام توزع الأعداد الأولية، صحيحة؟ إنها ستخفض الحد إلى 6.",
+     "en": "Is the generalized Elliott–Halberstam conjecture, about how evenly primes are spread out, true? It would bring the bound down to 6.",
+     "es": "¿Es cierta la conjetura de Elliott–Halberstam generalizada, sobre lo uniformemente repartidos que están los primos? Bajaría la cota a 6.",
+     "fr": "La conjecture d'Elliott–Halberstam généralisée, sur la régularité de la répartition des nombres premiers, est-elle vraie ? Elle ferait descendre la borne à 6.",
+     "hi": "क्या सामान्यीकृत इलियट–हैल्बरस्टैम अनुमान, जो बताता है कि अभाज्य संख्याएँ कितनी समान रूप से फैली हैं, सही है? यह सीमा को 6 तक ले आएगा।",
+     "pt": "A conjectura de Elliott–Halberstam generalizada, sobre quão uniformemente os primos se distribuem, é verdadeira? Ela reduziria o limite para 6.",
+     "zh": "关于素数分布均匀程度的广义埃利奥特–哈伯斯坦猜想是否成立？它将把界降到6。"
+    },
+    {
+     "ar": "ما أقصر طول ممكن لمجال يظل يحتوي على ثلاثة أعداد أولية أو أكثر مرات لا نهائية؟",
+     "en": "How short can an interval be and still contain three or more primes infinitely often?",
+     "es": "¿Cuán corto puede ser un intervalo que siga conteniendo tres o más primos infinitas veces?",
+     "fr": "Quelle peut être la longueur minimale d'un intervalle qui contient encore trois nombres premiers ou plus, infiniment souvent ?",
+     "hi": "कोई अंतराल कितना छोटा हो सकता है और फिर भी अनंत बार तीन या अधिक अभाज्य संख्याएँ रख सके?",
+     "pt": "Quão curto pode ser um intervalo e ainda conter três ou mais primos infinitas vezes?",
+     "zh": "一个区间最短可以多短，仍能无穷多次地包含三个或更多素数？"
     }
    ]
   },
@@ -6445,6 +7029,40 @@
      "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
      "ty": "reference",
      "u": "https://www.claymath.org/millennium-problems"
+    },
+    {
+     "t": "The Riemann hypothesis is true up to 3·10^12",
+     "ty": "preprint",
+     "u": "https://arxiv.org/abs/2004.09765"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "من المعروف أن أكثر من 40% من الأصفار تقع على الخط الحرج. هل يمكن رفع هذه النسبة إلى 100%؟",
+     "en": "More than 40% of the zeros are known to lie on the critical line. Can this be raised to 100%?",
+     "es": "Se sabe que más del 40 % de los ceros están en la recta crítica. ¿Se puede elevar esa proporción al 100 %?",
+     "fr": "On sait que plus de 40 % des zéros sont sur la droite critique. Peut-on porter cette part à 100 % ?",
+     "hi": "यह ज्ञात है कि 40% से अधिक शून्य क्रांतिक रेखा पर हैं। क्या इसे 100% तक बढ़ाया जा सकता है?",
+     "pt": "Sabe-se que mais de 40% dos zeros estão na reta crítica. É possível elevar isso a 100%?",
+     "zh": "已知超过40%的零点位于临界线上。能否把这一比例提高到100%？"
+    },
+    {
+     "ar": "هل تصح فرضية ريمان ولو لدالة واحدة من «دوال L» المرتبطة بها؟ لا تُعرف ولا حالة واحدة.",
+     "en": "Does the Riemann hypothesis hold for even one of the related 'L-functions'? Not a single case is known.",
+     "es": "¿Se cumple la hipótesis de Riemann aunque sea para una de las «funciones L» relacionadas? No se conoce ni un solo caso.",
+     "fr": "L'hypothèse de Riemann est-elle vraie pour au moins une des « fonctions L » apparentées ? Aucun cas n'est connu.",
+     "hi": "क्या रीमान परिकल्पना संबंधित ‘L-फलनों’ में से किसी एक के लिए भी सही है? एक भी उदाहरण ज्ञात नहीं है।",
+     "pt": "A hipótese de Riemann vale para pelo menos uma das «funções L» relacionadas? Não se conhece nenhum caso.",
+     "zh": "黎曼猜想对哪怕一个相关的“L函数”成立吗？目前一个例子都不知道。"
+    },
+    {
+     "ar": "هل تتبع المسافات بين الأصفار فعلًا حدسيات دايسون ومونتغمري، التي تدعمها الحسابات الحاسوبية بقوة؟",
+     "en": "Do the spacings between zeros really follow the Dyson–Montgomery conjectures, which computer calculations strongly support?",
+     "es": "¿Siguen realmente los espacios entre ceros las conjeturas de Dyson y Montgomery, que los cálculos por ordenador apoyan con fuerza?",
+     "fr": "Les écarts entre les zéros suivent-ils vraiment les conjectures de Dyson et Montgomery, que les calculs sur ordinateur soutiennent fortement ?",
+     "hi": "क्या शून्यों के बीच की दूरियाँ सचमुच डायसन–मॉन्टगोमरी अनुमानों का पालन करती हैं, जिनका कंप्यूटर गणनाएँ दृढ़ता से समर्थन करती हैं?",
+     "pt": "Os espaçamentos entre os zeros seguem mesmo as conjecturas de Dyson e Montgomery, que os cálculos por computador apoiam fortemente?",
+     "zh": "零点之间的间距是否真的服从戴森–蒙哥马利猜想？计算机计算强烈支持这些猜想。"
     }
    ]
   },
@@ -6864,6 +7482,40 @@
      "t": "Could high-pressure hydrides be high-temperature superconductors? (Physics World)",
      "ty": "press",
      "u": "https://physicsworld.com/a/could-high-pressure-hydrides-be-high-temperature-superconductors/"
+    },
+    {
+     "t": "Clathrate metal superhydrides under high-pressure conditions: enroute to room-temperature superconductivity",
+     "ty": "reference",
+     "u": "https://academic.oup.com/nsr/article/11/7/nwad270/7335310"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن جعل الموصلات الفائقة الهيدريدية مستقرة عند الضغط العادي؟",
+     "en": "Can hydride superconductors be made stable at ordinary pressure?",
+     "es": "¿Se pueden hacer estables a presión ordinaria los superconductores de hidruros?",
+     "fr": "Peut-on rendre les supraconducteurs à base d'hydrures stables à pression ordinaire ?",
+     "hi": "क्या हाइड्राइड अतिचालकों को सामान्य दाब पर स्थिर बनाया जा सकता है?",
+     "pt": "É possível tornar os supercondutores de hidretos estáveis à pressão comum?",
+     "zh": "能否让氢化物超导体在常压下保持稳定？"
+    },
+    {
+     "ar": "ما مدى دقة النظرية في التنبؤ بدرجة الحرارة التي يصبح عندها الهيدريد فائق التوصيل؟",
+     "en": "How accurately can theory predict the temperature at which a hydride becomes superconducting?",
+     "es": "¿Con qué precisión puede la teoría predecir la temperatura a la que un hidruro se vuelve superconductor?",
+     "fr": "Avec quelle précision la théorie peut-elle prédire la température à laquelle un hydrure devient supraconducteur ?",
+     "hi": "सिद्धांत कितनी सटीकता से बता सकता है कि कोई हाइड्राइड किस तापमान पर अतिचालक बनता है?",
+     "pt": "Com que precisão a teoria consegue prever a temperatura em que um hidreto se torna supercondutor?",
+     "zh": "理论能多准确地预测氢化物变为超导体的温度？"
+    },
+    {
+     "ar": "هل يمكن تخليق هيدريدات من ثلاثة عناصر ذات بنية بلورية محددة بوضوح، وبلوغ درجات حرارة أعلى؟",
+     "en": "Can hydrides made of three elements, with a clearly resolved crystal structure, be synthesized and reach higher temperatures?",
+     "es": "¿Se pueden sintetizar hidruros de tres elementos, con una estructura cristalina bien resuelta, y alcanzar temperaturas más altas?",
+     "fr": "Peut-on synthétiser des hydrures à trois éléments, à la structure cristalline bien résolue, et atteindre des températures plus élevées ?",
+     "hi": "क्या तीन तत्वों से बने, स्पष्ट रूप से निर्धारित क्रिस्टल संरचना वाले हाइड्राइड बनाए जा सकते हैं जो अधिक तापमान तक पहुँचें?",
+     "pt": "É possível sintetizar hidretos de três elementos, com estrutura cristalina bem resolvida, e alcançar temperaturas mais altas?",
+     "zh": "能否合成晶体结构清晰确定的三元氢化物，并实现更高的超导温度？"
     }
    ]
   },
@@ -6932,6 +7584,40 @@
      "t": "On the generalization mystery in deep learning (arXiv)",
      "ty": "preprint",
      "u": "https://arxiv.org/pdf/2203.10036"
+    },
+    {
+     "t": "Understanding deep learning requires rethinking generalization",
+     "ty": "study",
+     "u": "https://research.google/pubs/understanding-deep-learning-requires-rethinking-generalization/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "لماذا تظل الشبكات القادرة على حفظ بيانات موسومة عشوائيًا تُعمِّم جيدًا على البيانات الحقيقية؟",
+     "en": "Why do networks that can memorize randomly labelled data still generalize well on real data?",
+     "es": "¿Por qué las redes capaces de memorizar datos etiquetados al azar siguen generalizando bien con datos reales?",
+     "fr": "Pourquoi des réseaux capables de mémoriser des données étiquetées au hasard généralisent-ils quand même bien sur des données réelles ?",
+     "hi": "जो नेटवर्क यादृच्छिक रूप से लेबल किए गए डेटा को याद कर सकते हैं, वे वास्तविक डेटा पर फिर भी अच्छा सामान्यीकरण क्यों करते हैं?",
+     "pt": "Por que redes capazes de memorizar dados rotulados ao acaso ainda generalizam bem em dados reais?",
+     "zh": "能够记住随机标注数据的网络，为什么在真实数据上仍然泛化得很好？"
+    },
+    {
+     "ar": "من بين كل الحلول الملائمة لبيانات التدريب، كيف يجد الانحدار التدرجي حلًا يُعمِّم جيدًا؟",
+     "en": "Among all the solutions that fit the training data, how does gradient descent find one that generalizes well?",
+     "es": "Entre todas las soluciones que se ajustan a los datos de entrenamiento, ¿cómo encuentra el descenso de gradiente una que generalice bien?",
+     "fr": "Parmi toutes les solutions qui collent aux données d'entraînement, comment la descente de gradient en trouve-t-elle une qui généralise bien ?",
+     "hi": "प्रशिक्षण डेटा में फ़िट होने वाले सभी हलों में से, ग्रेडिएंट डिसेंट ऐसा हल कैसे खोजता है जो अच्छा सामान्यीकरण करे?",
+     "pt": "Entre todas as soluções que se ajustam aos dados de treino, como o gradiente descendente encontra uma que generaliza bem?",
+     "zh": "在所有拟合训练数据的解中，梯度下降是如何找到一个泛化良好的解的？"
+    },
+    {
+     "ar": "هل يمكننا تصميم مقياس أفضل لمدى «توافق» أمثلة التدريب فيما بينها (تماسك التدرجات) يأخذ بنية الشبكة في الحسبان؟",
+     "en": "Can we design a better measure of how much training examples 'agree' with each other (gradient coherence) that takes the network's structure into account?",
+     "es": "¿Podemos diseñar una mejor medida de cuánto «concuerdan» entre sí los ejemplos de entrenamiento (coherencia de gradientes) que tenga en cuenta la estructura de la red?",
+     "fr": "Peut-on concevoir une meilleure mesure de l'« accord » entre exemples d'entraînement (cohérence des gradients) qui tienne compte de la structure du réseau ?",
+     "hi": "क्या हम एक बेहतर माप बना सकते हैं जो बताए कि प्रशिक्षण उदाहरण आपस में कितने ‘सहमत’ हैं (ग्रेडिएंट सुसंगतता), और जो नेटवर्क की संरचना को भी ध्यान में रखे?",
+     "pt": "Podemos criar uma medida melhor de quanto os exemplos de treino «concordam» entre si (coerência dos gradientes) que leve em conta a estrutura da rede?",
+     "zh": "能否设计一种更好的度量，衡量训练样本之间的“一致”程度（梯度相干性），并把网络结构考虑在内？"
     }
    ]
   },
@@ -6999,6 +7685,40 @@
      "t": "Mutual information, islands in black holes and the Page curve (arXiv)",
      "ty": "preprint",
      "u": "https://arxiv.org/pdf/2109.02996"
+    },
+    {
+     "t": "The entropy of Hawking radiation",
+     "ty": "reference",
+     "u": "https://arxiv.org/abs/2006.06872"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن حساب الحالة الكمومية الدقيقة لإشعاع هوكينغ، لا إنتروبيته فحسب، انطلاقًا من الجاذبية؟",
+     "en": "Can the exact quantum state of Hawking radiation, not just its entropy, be computed from gravity?",
+     "es": "¿Se puede calcular a partir de la gravedad el estado cuántico exacto de la radiación de Hawking, y no solo su entropía?",
+     "fr": "Peut-on calculer à partir de la gravité l'état quantique exact du rayonnement de Hawking, et pas seulement son entropie ?",
+     "hi": "क्या गुरुत्वाकर्षण से हॉकिंग विकिरण की केवल एन्ट्रॉपी ही नहीं, बल्कि उसकी सटीक क्वांटम अवस्था की गणना की जा सकती है?",
+     "pt": "É possível calcular a partir da gravidade o estado quântico exato da radiação de Hawking, e não só a sua entropia?",
+     "zh": "能否从引力出发计算霍金辐射的精确量子态，而不仅仅是它的熵？"
+    },
+    {
+     "ar": "ما الهندسات، مثل «الثقوب الدودية المتماثلة (replica wormholes)»، التي يجب إدراجها في الحساب الجاذبي، ولماذا؟",
+     "en": "Which geometries, such as 'replica wormholes', must be included in the gravitational calculation, and why?",
+     "es": "¿Qué geometrías, como los «agujeros de gusano réplica», hay que incluir en el cálculo gravitacional, y por qué?",
+     "fr": "Quelles géométries, comme les « trous de ver répliques », faut-il inclure dans le calcul gravitationnel, et pourquoi ?",
+     "hi": "गुरुत्वीय गणना में कौन-सी ज्यामितियाँ, जैसे ‘रेप्लिका वर्महोल’, शामिल करनी ज़रूरी हैं, और क्यों?",
+     "pt": "Quais geometrias, como os «buracos de minhoca réplica», devem ser incluídas no cálculo gravitacional, e por quê?",
+     "zh": "引力计算中必须包含哪些几何构型（例如“复本虫洞”），为什么？"
+    },
+    {
+     "ar": "هل ينبغي أيضًا معاملة أفق كونٍ متمدد كنظام كمومي، مثل الثقب الأسود؟",
+     "en": "Should the horizon of an expanding universe also be treated as a quantum system, like a black hole?",
+     "es": "¿Debe tratarse también el horizonte de un universo en expansión como un sistema cuántico, igual que un agujero negro?",
+     "fr": "L'horizon d'un univers en expansion doit-il lui aussi être traité comme un système quantique, comme un trou noir ?",
+     "hi": "क्या फैलते ब्रह्मांड के क्षितिज को भी ब्लैक होल की तरह एक क्वांटम तंत्र माना जाना चाहिए?",
+     "pt": "O horizonte de um universo em expansão também deve ser tratado como um sistema quântico, como um buraco negro?",
+     "zh": "膨胀宇宙的视界是否也应像黑洞一样被视为一个量子系统？"
     }
    ]
   },
@@ -7145,6 +7865,40 @@
      "t": "NASA records more than 6,000 exoplanets (Scientific American)",
      "ty": "press",
      "u": "https://www.scientificamerican.com/article/nasa-records-more-than-6-000-exoplanets-and-counting/"
+    },
+    {
+     "t": "Exoplanet Biosignatures: A Review of Remotely Detectable Signs of Life",
+     "ty": "reference",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6016574"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف نميّز الأكسجين الذي تنتجه الحياة من الأكسجين الناتج من دون حياة («إيجابية كاذبة»)؟",
+     "en": "How can we tell oxygen made by life from oxygen made without life (a 'false positive')?",
+     "es": "¿Cómo distinguir el oxígeno producido por la vida del oxígeno producido sin vida (un «falso positivo»)?",
+     "fr": "Comment distinguer l'oxygène produit par la vie de l'oxygène produit sans vie (un « faux positif ») ?",
+     "hi": "जीवन द्वारा बनी ऑक्सीजन को बिना जीवन के बनी ऑक्सीजन (‘फ़ॉल्स पॉज़िटिव’) से कैसे अलग पहचाना जाए?",
+     "pt": "Como distinguir o oxigênio produzido pela vida do oxigênio produzido sem vida (um «falso positivo»)?",
+     "zh": "如何区分生命产生的氧气和非生命过程产生的氧气（“假阳性”）？"
+    },
+    {
+     "ar": "هل يمكن أن تكون الكواكب التي تدور حول نجوم صغيرة باردة من نوع الأقزام M صالحة للحياة؟",
+     "en": "Can planets around small, cool M-dwarf stars be habitable?",
+     "es": "¿Pueden ser habitables los planetas que orbitan estrellas pequeñas y frías de tipo enana M?",
+     "fr": "Les planètes autour de petites étoiles froides de type naine M peuvent-elles être habitables ?",
+     "hi": "क्या छोटे, ठंडे M-बौने तारों के चारों ओर घूमने वाले ग्रह रहने योग्य हो सकते हैं?",
+     "pt": "Planetas ao redor de estrelas pequenas e frias do tipo anã M podem ser habitáveis?",
+     "zh": "围绕小而冷的M型矮星运行的行星能否宜居？"
+    },
+    {
+     "ar": "ما العلامات التي قد تكشف عن حياة قائمة على كيمياء مختلفة عن كيمياء الأرض؟",
+     "en": "What signs could reveal life based on a chemistry different from Earth's?",
+     "es": "¿Qué señales podrían revelar una vida basada en una química distinta de la de la Tierra?",
+     "fr": "Quels signes pourraient révéler une vie fondée sur une chimie différente de celle de la Terre ?",
+     "hi": "कौन-से संकेत पृथ्वी से भिन्न रसायन पर आधारित जीवन को उजागर कर सकते हैं?",
+     "pt": "Que sinais poderiam revelar uma vida baseada numa química diferente da da Terra?",
+     "zh": "哪些迹象能揭示基于与地球不同化学的生命？"
     }
    ]
   },
@@ -7562,6 +8316,35 @@
      "ty": "reference",
      "u": "https://www.claymath.org/millennium-problems"
     }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن بناء نظرية يانغ–ميلز الكمومية بصرامة في زمكان رباعي الأبعاد؟ لا يوجد حتى الآن أي مثال كامل لنظرية معيارية كمومية.",
+     "en": "Can quantum Yang–Mills theory be built rigorously in four-dimensional spacetime? No complete example of a quantum gauge theory exists yet.",
+     "es": "¿Se puede construir rigurosamente la teoría cuántica de Yang–Mills en un espacio-tiempo de cuatro dimensiones? Aún no existe ningún ejemplo completo de teoría gauge cuántica.",
+     "fr": "Peut-on construire rigoureusement la théorie quantique de Yang–Mills dans un espace-temps à quatre dimensions ? Il n'existe encore aucun exemple complet de théorie de jauge quantique.",
+     "hi": "क्या क्वांटम यांग–मिल्स सिद्धांत को चार-आयामी दिक्-काल में कठोर गणितीय रूप से बनाया जा सकता है? अभी तक क्वांटम गेज सिद्धांत का कोई पूर्ण उदाहरण नहीं है।",
+     "pt": "É possível construir rigorosamente a teoria quântica de Yang–Mills num espaço-tempo de quatro dimensões? Ainda não existe nenhum exemplo completo de teoria de gauge quântica.",
+     "zh": "量子杨–米尔斯理论能否在四维时空中被严格构造？目前还没有任何完整的量子规范理论实例。"
+    },
+    {
+     "ar": "لماذا الكواركات محصورة، بحيث لا تُرى أبدًا منفردة؟",
+     "en": "Why are quarks confined, so that they are never seen on their own?",
+     "es": "¿Por qué están confinados los quarks, de modo que nunca se observan solos?",
+     "fr": "Pourquoi les quarks sont-ils confinés, si bien qu'on ne les observe jamais seuls ?",
+     "hi": "क्वार्क परिरुद्ध (कन्फ़ाइंड) क्यों हैं, जिससे वे कभी अकेले दिखाई नहीं देते?",
+     "pt": "Por que os quarks estão confinados, de modo que nunca são vistos sozinhos?",
+     "zh": "为什么夸克被禁闭，以至于从未被单独观测到？"
+    },
+    {
+     "ar": "هل للنسخة الشبكية من النظرية نهاية سليمة عندما تتقلص المسافة بين نقاط الشبكة إلى الصفر (نهاية الاتصال)؟",
+     "en": "Does the lattice version of the theory have a proper limit when the lattice spacing shrinks to zero (the continuum limit)?",
+     "es": "¿Tiene la versión en red de la teoría un límite adecuado cuando el espaciado de la red se reduce a cero (el límite continuo)?",
+     "fr": "La version sur réseau de la théorie a-t-elle une vraie limite quand le pas du réseau tend vers zéro (la limite du continu) ?",
+     "hi": "जब जालक (लैटिस) की दूरी शून्य की ओर घटती है (सातत्य सीमा), तो क्या सिद्धांत के जालक संस्करण की कोई उचित सीमा होती है?",
+     "pt": "A versão em rede da teoria tem um limite adequado quando o espaçamento da rede tende a zero (o limite do contínuo)?",
+     "zh": "当格距缩小到零时（连续极限），该理论的格点版本是否有恰当的极限？"
+    }
    ]
   }
  ],
@@ -7763,6 +8546,166 @@
     },
     {
      "q": "vivre-espace",
+     "f": "sub"
+    },
+    {
+     "q": "birch-swinnerton-dyer",
+     "f": "sub"
+    },
+    {
+     "q": "collatz",
+     "f": "src"
+    },
+    {
+     "q": "collatz",
+     "f": "sub"
+    },
+    {
+     "q": "energie-sombre",
+     "f": "src"
+    },
+    {
+     "q": "energie-sombre",
+     "f": "sub"
+    },
+    {
+     "q": "energie-sombre",
+     "f": "block"
+    },
+    {
+     "q": "fleche-temps",
+     "f": "sub"
+    },
+    {
+     "q": "fusion",
+     "f": "sub"
+    },
+    {
+     "q": "goldbach",
+     "f": "sub"
+    },
+    {
+     "q": "gravite-quantique",
+     "f": "sub"
+    },
+    {
+     "q": "hubble-tension",
+     "f": "sub"
+    },
+    {
+     "q": "langlands",
+     "f": "src"
+    },
+    {
+     "q": "langlands",
+     "f": "sub"
+    },
+    {
+     "q": "maths-ia",
+     "f": "sub"
+    },
+    {
+     "q": "matiere-antimatiere",
+     "f": "src"
+    },
+    {
+     "q": "matiere-antimatiere",
+     "f": "sub"
+    },
+    {
+     "q": "matiere-noire",
+     "f": "src"
+    },
+    {
+     "q": "matiere-noire",
+     "f": "sub"
+    },
+    {
+     "q": "mesure-quantique",
+     "f": "sub"
+    },
+    {
+     "q": "multiplication-matrices",
+     "f": "src"
+    },
+    {
+     "q": "multiplication-matrices",
+     "f": "sub"
+    },
+    {
+     "q": "navier-stokes",
+     "f": "sub"
+    },
+    {
+     "q": "neutrinos-masse",
+     "f": "sub"
+    },
+    {
+     "q": "ordinateur-quantique",
+     "f": "sub"
+    },
+    {
+     "q": "origine-univers",
+     "f": "src"
+    },
+    {
+     "q": "origine-univers",
+     "f": "sub"
+    },
+    {
+     "q": "p-np",
+     "f": "sub"
+    },
+    {
+     "q": "premiers-jumeaux",
+     "f": "src"
+    },
+    {
+     "q": "premiers-jumeaux",
+     "f": "sub"
+    },
+    {
+     "q": "riemann",
+     "f": "src"
+    },
+    {
+     "q": "riemann",
+     "f": "sub"
+    },
+    {
+     "q": "supraconducteur",
+     "f": "src"
+    },
+    {
+     "q": "supraconducteur",
+     "f": "sub"
+    },
+    {
+     "q": "theorie-apprentissage",
+     "f": "src"
+    },
+    {
+     "q": "theorie-apprentissage",
+     "f": "sub"
+    },
+    {
+     "q": "trous-noirs-info",
+     "f": "src"
+    },
+    {
+     "q": "trous-noirs-info",
+     "f": "sub"
+    },
+    {
+     "q": "vie-ailleurs",
+     "f": "src"
+    },
+    {
+     "q": "vie-ailleurs",
+     "f": "sub"
+    },
+    {
+     "q": "yang-mills",
      "f": "sub"
     }
    ]

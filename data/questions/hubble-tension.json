@@ -68,5 +68,25 @@
    "ty": "press",
    "u": "https://space.com/james-webb-space-telescope-hubble-tension-universe-expansion-study"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل سبب الفجوة فيزياء جديدة، أم بُنى كبيرة غير متوقعة، أم عدة أخطاء لا علاقة بينها؟",
+   "en": "Is the gap caused by new physics, by unexpected large-scale structures, or by several unrelated errors?",
+   "es": "¿Se debe la diferencia a una física nueva, a estructuras a gran escala inesperadas o a varios errores sin relación entre sí?",
+   "fr": "L'écart vient-il d'une physique nouvelle, de grandes structures inattendues, ou de plusieurs erreurs sans lien entre elles ?",
+   "hi": "क्या यह अंतर नई भौतिकी, अप्रत्याशित बड़े पैमाने की संरचनाओं, या कई असंबंधित त्रुटियों के कारण है?",
+   "pt": "A diferença vem de uma física nova, de estruturas inesperadas em grande escala ou de vários erros sem relação entre si?",
+   "zh": "这一差异是由新物理、意料之外的大尺度结构，还是由几个互不相关的误差造成的？"
+  },
+  {
+   "ar": "هل يمكن لطاقة مظلمة مبكرة أو متغيرة، أو لتفاعلات جديدة للنيوترينوات، أن تحل هذا التوتر؟",
+   "en": "Could early or evolving dark energy, or new interactions of neutrinos, resolve the tension?",
+   "es": "¿Podrían una energía oscura temprana o variable, o nuevas interacciones de los neutrinos, resolver la tensión?",
+   "fr": "Une énergie sombre précoce ou variable, ou de nouvelles interactions des neutrinos, pourraient-elles résoudre la tension ?",
+   "hi": "क्या प्रारंभिक या बदलती डार्क एनर्जी, या न्यूट्रिनो की नई अन्योन्यक्रियाएँ, इस तनाव को सुलझा सकती हैं?",
+   "pt": "Uma energia escura primordial ou variável, ou novas interações dos neutrinos, poderiam resolver a tensão?",
+   "zh": "早期或动态的暗能量，或者中微子的新相互作用，能否化解这一矛盾？"
+  }
  ]
 }

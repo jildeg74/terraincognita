@@ -63,5 +63,34 @@
    "ty": "reference",
    "u": "https://www.claymath.org/millennium-problems"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل يستطيع أحد أن يبرهن أن مسألة معطاة صراحةً تحتاج إلى دارات بوليانية حجمها أكبر من الخطي؟ أفضل حدّ أدنى معروف هو نحو 4n فقط.",
+   "en": "Can anyone prove that some explicitly given problem needs Boolean circuits of more than linear size? The best known lower bound is only about 4n.",
+   "es": "¿Puede alguien demostrar que algún problema dado explícitamente necesita circuitos booleanos de tamaño mayor que lineal? La mejor cota inferior conocida es solo de unos 4n.",
+   "fr": "Peut-on prouver qu'un problème donné explicitement exige des circuits booléens de taille plus que linéaire ? La meilleure borne inférieure connue n'est que d'environ 4n.",
+   "hi": "क्या कोई सिद्ध कर सकता है कि किसी स्पष्ट रूप से दी गई समस्या के लिए रैखिक से बड़े आकार के बूलियन परिपथ ज़रूरी हैं? सबसे अच्छी ज्ञात निचली सीमा केवल लगभग 4n है।",
+   "pt": "Alguém consegue provar que algum problema dado explicitamente precisa de circuitos booleanos de tamanho maior que linear? O melhor limite inferior conhecido é de apenas cerca de 4n.",
+   "zh": "能否证明某个明确给出的问题需要规模超过线性的布尔电路？目前已知最好的下界仅约为4n。"
+  },
+  {
+   "ar": "هل NP مختلفة عن co-NP؟ وبصيغة مكافئة، ألا يوجد أي نظام برهان يعطي براهين قصيرة لكل تحصيل حاصل (tautology)؟",
+   "en": "Is NP different from co-NP? Equivalently, is there no proof system with short proofs of every tautology?",
+   "es": "¿Es NP distinto de co-NP? De forma equivalente, ¿no existe ningún sistema de prueba con demostraciones cortas de todas las tautologías?",
+   "fr": "NP est-il différent de co-NP ? De façon équivalente, n'existe-t-il aucun système de preuve offrant des preuves courtes de toutes les tautologies ?",
+   "hi": "क्या NP, co-NP से भिन्न है? समतुल्य रूप में, क्या ऐसा कोई प्रमाण तंत्र नहीं है जो हर पुनरुक्ति (टॉटोलॉजी) का छोटा प्रमाण दे?",
+   "pt": "NP é diferente de co-NP? De forma equivalente, não existe nenhum sistema de prova com provas curtas de todas as tautologias?",
+   "zh": "NP是否不同于co-NP？等价地说，是否不存在一个能为所有重言式给出短证明的证明系统？"
+  },
+  {
+   "ar": "ما تقنيات البرهان القادرة على تجاوز الحواجز المعروفة لـ«النسبنة» و«البراهين الطبيعية»؟",
+   "en": "Which proof techniques can get past the known barriers of 'relativization' and 'natural proofs'?",
+   "es": "¿Qué técnicas de demostración pueden superar las barreras conocidas de la «relativización» y las «pruebas naturales»?",
+   "fr": "Quelles techniques de preuve peuvent franchir les barrières connues de la « relativisation » et des « preuves naturelles » ?",
+   "hi": "कौन-सी प्रमाण तकनीकें ‘सापेक्षीकरण’ और ‘प्राकृतिक प्रमाण’ की ज्ञात बाधाओं को पार कर सकती हैं?",
+   "pt": "Que técnicas de prova conseguem superar as barreiras conhecidas da «relativização» e das «provas naturais»?",
+   "zh": "哪些证明技术能够突破已知的“相对化”和“自然证明”障碍？"
+  }
  ]
 }

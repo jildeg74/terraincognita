@@ -61,6 +61,40 @@
    "t": "Mutual information, islands in black holes and the Page curve (arXiv)",
    "ty": "preprint",
    "u": "https://arxiv.org/pdf/2109.02996"
+  },
+  {
+   "t": "The entropy of Hawking radiation",
+   "ty": "reference",
+   "u": "https://arxiv.org/abs/2006.06872"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن حساب الحالة الكمومية الدقيقة لإشعاع هوكينغ، لا إنتروبيته فحسب، انطلاقًا من الجاذبية؟",
+   "en": "Can the exact quantum state of Hawking radiation, not just its entropy, be computed from gravity?",
+   "es": "¿Se puede calcular a partir de la gravedad el estado cuántico exacto de la radiación de Hawking, y no solo su entropía?",
+   "fr": "Peut-on calculer à partir de la gravité l'état quantique exact du rayonnement de Hawking, et pas seulement son entropie ?",
+   "hi": "क्या गुरुत्वाकर्षण से हॉकिंग विकिरण की केवल एन्ट्रॉपी ही नहीं, बल्कि उसकी सटीक क्वांटम अवस्था की गणना की जा सकती है?",
+   "pt": "É possível calcular a partir da gravidade o estado quântico exato da radiação de Hawking, e não só a sua entropia?",
+   "zh": "能否从引力出发计算霍金辐射的精确量子态，而不仅仅是它的熵？"
+  },
+  {
+   "ar": "ما الهندسات، مثل «الثقوب الدودية المتماثلة (replica wormholes)»، التي يجب إدراجها في الحساب الجاذبي، ولماذا؟",
+   "en": "Which geometries, such as 'replica wormholes', must be included in the gravitational calculation, and why?",
+   "es": "¿Qué geometrías, como los «agujeros de gusano réplica», hay que incluir en el cálculo gravitacional, y por qué?",
+   "fr": "Quelles géométries, comme les « trous de ver répliques », faut-il inclure dans le calcul gravitationnel, et pourquoi ?",
+   "hi": "गुरुत्वीय गणना में कौन-सी ज्यामितियाँ, जैसे ‘रेप्लिका वर्महोल’, शामिल करनी ज़रूरी हैं, और क्यों?",
+   "pt": "Quais geometrias, como os «buracos de minhoca réplica», devem ser incluídas no cálculo gravitacional, e por quê?",
+   "zh": "引力计算中必须包含哪些几何构型（例如“复本虫洞”），为什么？"
+  },
+  {
+   "ar": "هل ينبغي أيضًا معاملة أفق كونٍ متمدد كنظام كمومي، مثل الثقب الأسود؟",
+   "en": "Should the horizon of an expanding universe also be treated as a quantum system, like a black hole?",
+   "es": "¿Debe tratarse también el horizonte de un universo en expansión como un sistema cuántico, igual que un agujero negro?",
+   "fr": "L'horizon d'un univers en expansion doit-il lui aussi être traité comme un système quantique, comme un trou noir ?",
+   "hi": "क्या फैलते ब्रह्मांड के क्षितिज को भी ब्लैक होल की तरह एक क्वांटम तंत्र माना जाना चाहिए?",
+   "pt": "O horizonte de um universo em expansão também deve ser tratado como um sistema quântico, como um buraco negro?",
+   "zh": "膨胀宇宙的视界是否也应像黑洞一样被视为一个量子系统？"
   }
  ]
 }

@@ -3,51 +3,51 @@
  "d": "P",
  "i18n": {
   "ar": {
-   "block": "يتسارع تمدد الكون. وسببه، المسمى الطاقة المظلمة، يشكّل نحو 70% من محتواه من الطاقة.",
+   "block": "تتنبأ فيزياء الكم بقيمة أكبر بنحو 60 إلى 120 رتبة من حيث المقدار مما تسمح به الأرصاد. وهذه أزمة خطيرة في الفيزياء.",
    "known": "القيمة التي تتنبأ بها الفيزياء الكمومية تخطئ بنحو 120 رتبة قدر، وهو أسوأ تباين في الفيزياء كلها.",
-   "leads": "تلمّح مسوح DESI إلى أنها قد تتغير مع الزمن؛ ويُتوقع أن يحسم الأمر تلسكوب إقليدس ومرصد روبن.",
+   "leads": "تلمّح مسوح DESI إلى أنها قد تتغير مع الزمن؛ وسيقيسها تلسكوب إقليدس ومرصد روبن بدقة أكبر.",
    "s": "الطاقة المظلمة",
    "t": "ما الطاقة المظلمة؟"
   },
   "en": {
-   "block": "The value predicted by quantum physics is off by about 120 orders of magnitude, the worst mismatch in all of physics.",
+   "block": "Quantum physics predicts a value some 60 to 120 orders of magnitude larger than observations allow. This is a serious crisis in physics.",
    "known": "The expansion of the universe is accelerating. The cause, called dark energy, makes up about 70% of its energy content.",
-   "leads": "DESI surveys hint that it may change over time; Euclid and the Rubin Observatory should settle it.",
+   "leads": "DESI surveys hint that it may change over time; Euclid and the Rubin Observatory will measure it more precisely.",
    "s": "Dark energy",
    "t": "What is dark energy?"
   },
   "es": {
-   "block": "El valor que predice la física cuántica se equivoca en unos 120 órdenes de magnitud, la peor discrepancia de toda la física.",
+   "block": "La física cuántica predice un valor entre 60 y 120 órdenes de magnitud mayor de lo que permiten las observaciones. Es una crisis seria para la física.",
    "known": "La expansión del universo se está acelerando. La causa, llamada energía oscura, constituye cerca del 70 % de su contenido energético.",
-   "leads": "Los estudios de DESI sugieren que podría cambiar con el tiempo; Euclid y el Observatorio Rubin deberían resolverlo.",
+   "leads": "Los estudios de DESI sugieren que podría cambiar con el tiempo; Euclid y el Observatorio Rubin la medirán con más precisión.",
    "s": "Energía oscura",
    "t": "¿Qué es la energía oscura?"
   },
   "fr": {
-   "block": "La valeur prédite par la physique quantique est fausse d'environ 120 ordres de grandeur, le pire écart de toute la physique.",
+   "block": "La physique quantique prédit une valeur de 60 à 120 ordres de grandeur plus grande que ce que permettent les observations. C'est une crise sérieuse pour la physique.",
    "known": "L'expansion de l'univers accélère. La cause, appelée énergie sombre, représente environ 70 % de son contenu énergétique.",
-   "leads": "Les relevés DESI suggèrent qu'elle pourrait varier dans le temps ; Euclid et l'observatoire Rubin vont trancher.",
+   "leads": "Les relevés DESI suggèrent qu'elle pourrait varier dans le temps ; Euclid et l'observatoire Rubin la mesureront plus précisément.",
    "s": "Énergie sombre",
    "t": "Qu'est-ce que l'énergie sombre ?"
   },
   "hi": {
-   "block": "ब्रह्मांड का विस्तार तेज़ हो रहा है। इसका कारण, जिसे डार्क एनर्जी कहते हैं, इसकी ऊर्जा का लगभग 70% हिस्सा है।",
+   "block": "क्वांटम भौतिकी जो मान बताती है, वह प्रेक्षणों द्वारा अनुमत मान से 60 से 120 परिमाण-कोटि (ऑर्डर ऑफ़ मैग्निट्यूड) अधिक है। यह भौतिकी के लिए एक गंभीर संकट है।",
    "known": "क्वांटम भौतिकी द्वारा अनुमानित मान लगभग 120 कोटि परिमाण (ऑर्डर ऑफ मैग्नीट्यूड) गलत है, जो पूरी भौतिकी का सबसे बड़ा बेमेल है।",
-   "leads": "DESI सर्वेक्षण संकेत देते हैं कि यह समय के साथ बदल सकती है; Euclid और रुबिन वेधशाला इसे सुलझा सकेंगे।",
+   "leads": "DESI सर्वेक्षण संकेत देते हैं कि यह समय के साथ बदल सकती है; Euclid और रुबिन वेधशाला इसे और अधिक सटीकता से मापेंगे।",
    "s": "डार्क एनर्जी",
    "t": "डार्क एनर्जी क्या है?"
   },
   "pt": {
-   "block": "O valor previsto pela física quântica erra por cerca de 120 ordens de grandeza, a pior discrepância de toda a física.",
+   "block": "A física quântica prevê um valor de 60 a 120 ordens de grandeza maior do que as observações permitem. É uma crise séria para a física.",
    "known": "A expansão do universo está se acelerando. A causa, chamada energia escura, responde por cerca de 70% do seu conteúdo energético.",
-   "leads": "Os levantamentos do DESI sugerem que ela pode mudar com o tempo; o Euclid e o Observatório Rubin devem esclarecer a questão.",
+   "leads": "Os levantamentos do DESI sugerem que ela pode mudar com o tempo; o Euclid e o Observatório Rubin vão medi-la com mais precisão.",
    "s": "Energia escura",
    "t": "O que é a energia escura?"
   },
   "zh": {
-   "block": "量子物理预言的数值偏差约达120个数量级,是物理学中最严重的不符。",
+   "block": "量子物理预测的数值比观测所允许的大60到120个数量级。这是物理学中的一场严重危机。",
    "known": "宇宙的膨胀正在加速。其成因被称为暗能量,约占宇宙能量总量的70%。",
-   "leads": "DESI巡天暗示它可能随时间变化;欧几里得望远镜和鲁宾天文台有望给出定论。",
+   "leads": "DESI巡天暗示它可能随时间变化；欧几里得望远镜和鲁宾天文台将更精确地测量它。",
    "s": "暗能量",
    "t": "暗能量是什么?"
   }
@@ -65,9 +65,43 @@
    "u": "https://ukri.org/news/desi-results-suggest-dark-energy-may-evolve-over-time"
   },
   {
-   "t": "New DESI results strengthen hints that dark energy may evolve (Symmetry)",
-   "ty": "press",
-   "u": "https://symmetrymagazine.org/article/new-desi-results-strengthen-hints-that-dark-energy-may-evolve"
+   "t": "DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints",
+   "ty": "study",
+   "u": "https://www.osti.gov/pages/biblio/3011041"
+  },
+  {
+   "t": "TASI Lectures on the Cosmological Constant",
+   "ty": "preprint",
+   "u": "https://arxiv.org/pdf/0708.4231"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل تتغير الطاقة المظلمة حقًا مع الزمن، كما توحي بيانات DESI لعام 2025؟",
+   "en": "Does dark energy really change over time, as DESI's 2025 data suggest?",
+   "es": "¿Cambia realmente la energía oscura con el tiempo, como sugieren los datos de DESI de 2025?",
+   "fr": "L'énergie sombre change-t-elle vraiment avec le temps, comme le suggèrent les données de DESI de 2025 ?",
+   "hi": "क्या डार्क एनर्जी सचमुच समय के साथ बदलती है, जैसा कि DESI के 2025 के आँकड़े संकेत देते हैं?",
+   "pt": "A energia escura muda mesmo com o tempo, como sugerem os dados do DESI de 2025?",
+   "zh": "暗能量是否真的像DESI 2025年数据所暗示的那样随时间变化？"
+  },
+  {
+   "ar": "هل يمكن لخطأ مجهول في القياسات، لا لفيزياء جديدة، أن يفسّر هذا المؤشر؟",
+   "en": "Could an unknown error in the measurements, rather than new physics, explain this hint?",
+   "es": "¿Podría un error desconocido en las mediciones, y no una física nueva, explicar este indicio?",
+   "fr": "Une erreur inconnue dans les mesures, plutôt qu'une physique nouvelle, pourrait-elle expliquer cet indice ?",
+   "hi": "क्या इस संकेत को नई भौतिकी के बजाय मापों में किसी अज्ञात त्रुटि से समझाया जा सकता है?",
+   "pt": "Um erro desconhecido nas medições, em vez de uma física nova, poderia explicar esse indício?",
+   "zh": "这一迹象能否由测量中某个未知误差而非新物理来解释？"
+  },
+  {
+   "ar": "لماذا تعطي خرائط المجرات وإشعاع الخلفية الكونية الميكروي قيمًا مختلفة قليلًا لمعاملات الكون؟",
+   "en": "Why do galaxy maps and the cosmic microwave background give slightly different values for the universe's parameters?",
+   "es": "¿Por qué los mapas de galaxias y el fondo cósmico de microondas dan valores ligeramente distintos para los parámetros del universo?",
+   "fr": "Pourquoi les cartes de galaxies et le fond diffus cosmologique donnent-ils des valeurs légèrement différentes pour les paramètres de l'univers ?",
+   "hi": "आकाशगंगाओं के मानचित्र और कॉस्मिक माइक्रोवेव पृष्ठभूमि ब्रह्मांड के मापदंडों के लिए थोड़े अलग मान क्यों देते हैं?",
+   "pt": "Por que os mapas de galáxias e a radiação cósmica de fundo dão valores ligeiramente diferentes para os parâmetros do universo?",
+   "zh": "为什么星系分布图和宇宙微波背景给出的宇宙参数值略有不同？"
   }
  ]
 }

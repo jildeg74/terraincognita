@@ -63,5 +63,34 @@
    "ty": "reference",
    "u": "https://www.claymath.org/millennium-problems"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن بناء نظرية يانغ–ميلز الكمومية بصرامة في زمكان رباعي الأبعاد؟ لا يوجد حتى الآن أي مثال كامل لنظرية معيارية كمومية.",
+   "en": "Can quantum Yang–Mills theory be built rigorously in four-dimensional spacetime? No complete example of a quantum gauge theory exists yet.",
+   "es": "¿Se puede construir rigurosamente la teoría cuántica de Yang–Mills en un espacio-tiempo de cuatro dimensiones? Aún no existe ningún ejemplo completo de teoría gauge cuántica.",
+   "fr": "Peut-on construire rigoureusement la théorie quantique de Yang–Mills dans un espace-temps à quatre dimensions ? Il n'existe encore aucun exemple complet de théorie de jauge quantique.",
+   "hi": "क्या क्वांटम यांग–मिल्स सिद्धांत को चार-आयामी दिक्-काल में कठोर गणितीय रूप से बनाया जा सकता है? अभी तक क्वांटम गेज सिद्धांत का कोई पूर्ण उदाहरण नहीं है।",
+   "pt": "É possível construir rigorosamente a teoria quântica de Yang–Mills num espaço-tempo de quatro dimensões? Ainda não existe nenhum exemplo completo de teoria de gauge quântica.",
+   "zh": "量子杨–米尔斯理论能否在四维时空中被严格构造？目前还没有任何完整的量子规范理论实例。"
+  },
+  {
+   "ar": "لماذا الكواركات محصورة، بحيث لا تُرى أبدًا منفردة؟",
+   "en": "Why are quarks confined, so that they are never seen on their own?",
+   "es": "¿Por qué están confinados los quarks, de modo que nunca se observan solos?",
+   "fr": "Pourquoi les quarks sont-ils confinés, si bien qu'on ne les observe jamais seuls ?",
+   "hi": "क्वार्क परिरुद्ध (कन्फ़ाइंड) क्यों हैं, जिससे वे कभी अकेले दिखाई नहीं देते?",
+   "pt": "Por que os quarks estão confinados, de modo que nunca são vistos sozinhos?",
+   "zh": "为什么夸克被禁闭，以至于从未被单独观测到？"
+  },
+  {
+   "ar": "هل للنسخة الشبكية من النظرية نهاية سليمة عندما تتقلص المسافة بين نقاط الشبكة إلى الصفر (نهاية الاتصال)؟",
+   "en": "Does the lattice version of the theory have a proper limit when the lattice spacing shrinks to zero (the continuum limit)?",
+   "es": "¿Tiene la versión en red de la teoría un límite adecuado cuando el espaciado de la red se reduce a cero (el límite continuo)?",
+   "fr": "La version sur réseau de la théorie a-t-elle une vraie limite quand le pas du réseau tend vers zéro (la limite du continu) ?",
+   "hi": "जब जालक (लैटिस) की दूरी शून्य की ओर घटती है (सातत्य सीमा), तो क्या सिद्धांत के जालक संस्करण की कोई उचित सीमा होती है?",
+   "pt": "A versão em rede da teoria tem um limite adequado quando o espaçamento da rede tende a zero (o limite do contínuo)?",
+   "zh": "当格距缩小到零时（连续极限），该理论的格点版本是否有恰当的极限？"
+  }
  ]
 }

@@ -67,6 +67,40 @@
    "t": "Could high-pressure hydrides be high-temperature superconductors? (Physics World)",
    "ty": "press",
    "u": "https://physicsworld.com/a/could-high-pressure-hydrides-be-high-temperature-superconductors/"
+  },
+  {
+   "t": "Clathrate metal superhydrides under high-pressure conditions: enroute to room-temperature superconductivity",
+   "ty": "reference",
+   "u": "https://academic.oup.com/nsr/article/11/7/nwad270/7335310"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن جعل الموصلات الفائقة الهيدريدية مستقرة عند الضغط العادي؟",
+   "en": "Can hydride superconductors be made stable at ordinary pressure?",
+   "es": "¿Se pueden hacer estables a presión ordinaria los superconductores de hidruros?",
+   "fr": "Peut-on rendre les supraconducteurs à base d'hydrures stables à pression ordinaire ?",
+   "hi": "क्या हाइड्राइड अतिचालकों को सामान्य दाब पर स्थिर बनाया जा सकता है?",
+   "pt": "É possível tornar os supercondutores de hidretos estáveis à pressão comum?",
+   "zh": "能否让氢化物超导体在常压下保持稳定？"
+  },
+  {
+   "ar": "ما مدى دقة النظرية في التنبؤ بدرجة الحرارة التي يصبح عندها الهيدريد فائق التوصيل؟",
+   "en": "How accurately can theory predict the temperature at which a hydride becomes superconducting?",
+   "es": "¿Con qué precisión puede la teoría predecir la temperatura a la que un hidruro se vuelve superconductor?",
+   "fr": "Avec quelle précision la théorie peut-elle prédire la température à laquelle un hydrure devient supraconducteur ?",
+   "hi": "सिद्धांत कितनी सटीकता से बता सकता है कि कोई हाइड्राइड किस तापमान पर अतिचालक बनता है?",
+   "pt": "Com que precisão a teoria consegue prever a temperatura em que um hidreto se torna supercondutor?",
+   "zh": "理论能多准确地预测氢化物变为超导体的温度？"
+  },
+  {
+   "ar": "هل يمكن تخليق هيدريدات من ثلاثة عناصر ذات بنية بلورية محددة بوضوح، وبلوغ درجات حرارة أعلى؟",
+   "en": "Can hydrides made of three elements, with a clearly resolved crystal structure, be synthesized and reach higher temperatures?",
+   "es": "¿Se pueden sintetizar hidruros de tres elementos, con una estructura cristalina bien resuelta, y alcanzar temperaturas más altas?",
+   "fr": "Peut-on synthétiser des hydrures à trois éléments, à la structure cristalline bien résolue, et atteindre des températures plus élevées ?",
+   "hi": "क्या तीन तत्वों से बने, स्पष्ट रूप से निर्धारित क्रिस्टल संरचना वाले हाइड्राइड बनाए जा सकते हैं जो अधिक तापमान तक पहुँचें?",
+   "pt": "É possível sintetizar hidretos de três elementos, com estrutura cristalina bem resolvida, e alcançar temperaturas mais altas?",
+   "zh": "能否合成晶体结构清晰确定的三元氢化物，并实现更高的超导温度？"
   }
  ]
 }

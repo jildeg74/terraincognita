@@ -63,5 +63,16 @@
    "ty": "study",
    "u": "https://www.ams.org/journals/mcom/2014-83-288/S0025-5718-2013-02787-1"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل تنبؤات هاردي وليتلوود بعدد طرق كتابة العدد مجموعًا لعددين أوليين، وبالفجوات بين الأعداد الأولية، صحيحة فعلًا؟",
+   "en": "Are the Hardy–Littlewood predictions for how many ways numbers split into two primes, and for prime gaps, actually correct?",
+   "es": "¿Son realmente correctas las predicciones de Hardy y Littlewood sobre cuántas formas hay de escribir un número como suma de dos primos, y sobre los huecos entre primos?",
+   "fr": "Les prédictions de Hardy et Littlewood sur le nombre de façons d'écrire un nombre comme somme de deux premiers, et sur les écarts entre premiers, sont-elles vraiment exactes ?",
+   "hi": "क्या हार्डी–लिटिलवुड की भविष्यवाणियाँ, कि किसी संख्या को दो अभाज्यों के योग के रूप में कितने तरीकों से लिखा जा सकता है और अभाज्यों के बीच के अंतर कैसे होते हैं, वास्तव में सही हैं?",
+   "pt": "As previsões de Hardy e Littlewood sobre quantas maneiras há de escrever um número como soma de dois primos, e sobre os intervalos entre primos, estão mesmo corretas?",
+   "zh": "哈代–李特尔伍德关于一个数分拆为两个素数之和的方式数以及素数间隔的预测，真的正确吗？"
+  }
  ]
 }

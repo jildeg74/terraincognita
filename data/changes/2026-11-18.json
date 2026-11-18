@@ -196,6 +196,166 @@
   {
    "q": "vivre-espace",
    "f": "sub"
+  },
+  {
+   "q": "birch-swinnerton-dyer",
+   "f": "sub"
+  },
+  {
+   "q": "collatz",
+   "f": "src"
+  },
+  {
+   "q": "collatz",
+   "f": "sub"
+  },
+  {
+   "q": "energie-sombre",
+   "f": "src"
+  },
+  {
+   "q": "energie-sombre",
+   "f": "sub"
+  },
+  {
+   "q": "energie-sombre",
+   "f": "block"
+  },
+  {
+   "q": "fleche-temps",
+   "f": "sub"
+  },
+  {
+   "q": "fusion",
+   "f": "sub"
+  },
+  {
+   "q": "goldbach",
+   "f": "sub"
+  },
+  {
+   "q": "gravite-quantique",
+   "f": "sub"
+  },
+  {
+   "q": "hubble-tension",
+   "f": "sub"
+  },
+  {
+   "q": "langlands",
+   "f": "src"
+  },
+  {
+   "q": "langlands",
+   "f": "sub"
+  },
+  {
+   "q": "maths-ia",
+   "f": "sub"
+  },
+  {
+   "q": "matiere-antimatiere",
+   "f": "src"
+  },
+  {
+   "q": "matiere-antimatiere",
+   "f": "sub"
+  },
+  {
+   "q": "matiere-noire",
+   "f": "src"
+  },
+  {
+   "q": "matiere-noire",
+   "f": "sub"
+  },
+  {
+   "q": "mesure-quantique",
+   "f": "sub"
+  },
+  {
+   "q": "multiplication-matrices",
+   "f": "src"
+  },
+  {
+   "q": "multiplication-matrices",
+   "f": "sub"
+  },
+  {
+   "q": "navier-stokes",
+   "f": "sub"
+  },
+  {
+   "q": "neutrinos-masse",
+   "f": "sub"
+  },
+  {
+   "q": "ordinateur-quantique",
+   "f": "sub"
+  },
+  {
+   "q": "origine-univers",
+   "f": "src"
+  },
+  {
+   "q": "origine-univers",
+   "f": "sub"
+  },
+  {
+   "q": "p-np",
+   "f": "sub"
+  },
+  {
+   "q": "premiers-jumeaux",
+   "f": "src"
+  },
+  {
+   "q": "premiers-jumeaux",
+   "f": "sub"
+  },
+  {
+   "q": "riemann",
+   "f": "src"
+  },
+  {
+   "q": "riemann",
+   "f": "sub"
+  },
+  {
+   "q": "supraconducteur",
+   "f": "src"
+  },
+  {
+   "q": "supraconducteur",
+   "f": "sub"
+  },
+  {
+   "q": "theorie-apprentissage",
+   "f": "src"
+  },
+  {
+   "q": "theorie-apprentissage",
+   "f": "sub"
+  },
+  {
+   "q": "trous-noirs-info",
+   "f": "src"
+  },
+  {
+   "q": "trous-noirs-info",
+   "f": "sub"
+  },
+  {
+   "q": "vie-ailleurs",
+   "f": "src"
+  },
+  {
+   "q": "vie-ailleurs",
+   "f": "sub"
+  },
+  {
+   "q": "yang-mills",
+   "f": "sub"
   }
  ]
 }

@@ -68,5 +68,34 @@
    "ty": "press",
    "u": "https://photonics.com/Articles/US_Department_of_Energy_Details_Net_Energy_Gain/a68586"
   }
+ ],
+ "sub": [
+  {
+   "ar": "ما المواد التي تستطيع الصمود سنواتٍ أمام قصف نيوترونات 14 ميغا إلكترون فولت الناتجة عن الاندماج؟",
+   "en": "Which materials can survive years of bombardment by the 14 MeV neutrons produced by fusion?",
+   "es": "¿Qué materiales pueden resistir años de bombardeo por los neutrones de 14 MeV que produce la fusión?",
+   "fr": "Quels matériaux peuvent résister à des années de bombardement par les neutrons de 14 MeV produits par la fusion ?",
+   "hi": "कौन-से पदार्थ संलयन से बनने वाले 14 MeV न्यूट्रॉनों की वर्षों तक चलने वाली बौछार झेल सकते हैं?",
+   "pt": "Que materiais conseguem resistir a anos de bombardeio pelos nêutrons de 14 MeV produzidos pela fusão?",
+   "zh": "哪些材料能够承受聚变产生的14 MeV中子多年的轰击？"
+  },
+  {
+   "ar": "هل تستطيع محطة طاقة توليد ما يكفي من التريتيوم من الليثيوم لتزويد نفسها بالوقود؟",
+   "en": "Can a power plant breed enough tritium from lithium to fuel itself?",
+   "es": "¿Puede una central producir suficiente tritio a partir de litio para abastecerse a sí misma?",
+   "fr": "Une centrale peut-elle produire assez de tritium à partir du lithium pour s'alimenter elle-même ?",
+   "hi": "क्या कोई बिजलीघर लिथियम से इतना ट्रिटियम बना सकता है कि वह अपना ईंधन खुद पूरा कर सके?",
+   "pt": "Uma usina consegue produzir trítio suficiente a partir do lítio para abastecer a si mesma?",
+   "zh": "电站能否利用锂增殖出足够的氚来为自身提供燃料？"
+  },
+  {
+   "ar": "ما المواد التي تتحمّل المُحوِّل (الديفرتور)، وهو الجزء من المفاعل الذي يواجه أقسى الظروف؟",
+   "en": "Which materials can withstand the divertor, the part of the reactor that faces the harshest conditions?",
+   "es": "¿Qué materiales pueden aguantar en el divertor, la parte del reactor sometida a las condiciones más duras?",
+   "fr": "Quels matériaux peuvent tenir dans le divertor, la partie du réacteur soumise aux conditions les plus dures ?",
+   "hi": "कौन-से पदार्थ डाइवर्टर में टिक सकते हैं, जो रिएक्टर का सबसे कठोर परिस्थितियाँ झेलने वाला हिस्सा है?",
+   "pt": "Que materiais aguentam o divertor, a parte do reator que enfrenta as condições mais severas?",
+   "zh": "哪些材料能经受偏滤器——反应堆中条件最恶劣的部件——的考验？"
+  }
  ]
 }

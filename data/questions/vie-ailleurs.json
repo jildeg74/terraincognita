@@ -67,6 +67,40 @@
    "t": "NASA records more than 6,000 exoplanets (Scientific American)",
    "ty": "press",
    "u": "https://www.scientificamerican.com/article/nasa-records-more-than-6-000-exoplanets-and-counting/"
+  },
+  {
+   "t": "Exoplanet Biosignatures: A Review of Remotely Detectable Signs of Life",
+   "ty": "reference",
+   "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6016574"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف نميّز الأكسجين الذي تنتجه الحياة من الأكسجين الناتج من دون حياة («إيجابية كاذبة»)؟",
+   "en": "How can we tell oxygen made by life from oxygen made without life (a 'false positive')?",
+   "es": "¿Cómo distinguir el oxígeno producido por la vida del oxígeno producido sin vida (un «falso positivo»)?",
+   "fr": "Comment distinguer l'oxygène produit par la vie de l'oxygène produit sans vie (un « faux positif ») ?",
+   "hi": "जीवन द्वारा बनी ऑक्सीजन को बिना जीवन के बनी ऑक्सीजन (‘फ़ॉल्स पॉज़िटिव’) से कैसे अलग पहचाना जाए?",
+   "pt": "Como distinguir o oxigênio produzido pela vida do oxigênio produzido sem vida (um «falso positivo»)?",
+   "zh": "如何区分生命产生的氧气和非生命过程产生的氧气（“假阳性”）？"
+  },
+  {
+   "ar": "هل يمكن أن تكون الكواكب التي تدور حول نجوم صغيرة باردة من نوع الأقزام M صالحة للحياة؟",
+   "en": "Can planets around small, cool M-dwarf stars be habitable?",
+   "es": "¿Pueden ser habitables los planetas que orbitan estrellas pequeñas y frías de tipo enana M?",
+   "fr": "Les planètes autour de petites étoiles froides de type naine M peuvent-elles être habitables ?",
+   "hi": "क्या छोटे, ठंडे M-बौने तारों के चारों ओर घूमने वाले ग्रह रहने योग्य हो सकते हैं?",
+   "pt": "Planetas ao redor de estrelas pequenas e frias do tipo anã M podem ser habitáveis?",
+   "zh": "围绕小而冷的M型矮星运行的行星能否宜居？"
+  },
+  {
+   "ar": "ما العلامات التي قد تكشف عن حياة قائمة على كيمياء مختلفة عن كيمياء الأرض؟",
+   "en": "What signs could reveal life based on a chemistry different from Earth's?",
+   "es": "¿Qué señales podrían revelar una vida basada en una química distinta de la de la Tierra?",
+   "fr": "Quels signes pourraient révéler une vie fondée sur une chimie différente de celle de la Terre ?",
+   "hi": "कौन-से संकेत पृथ्वी से भिन्न रसायन पर आधारित जीवन को उजागर कर सकते हैं?",
+   "pt": "Que sinais poderiam revelar uma vida baseada numa química diferente da da Terra?",
+   "zh": "哪些迹象能揭示基于与地球不同化学的生命？"
   }
  ]
 }

@@ -59,9 +59,34 @@
  "n": 1,
  "src": [
   {
-   "t": "Optimisation of the search for CP violation at DUNE (OSTI)",
+   "t": "Optimisation of the Search for CP-symmetry Violation at the Deep Underground Neutrino Experiment",
    "ty": "institution",
    "u": "https://www.osti.gov/biblio/1998949"
+  },
+  {
+   "t": "Constraint on the matter–antimatter symmetry-violating phase in neutrino oscillations",
+   "ty": "study",
+   "u": "https://eprints.whiterose.ac.uk/160770"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل تتذبذب النيوترينوات ومضادات النيوترينوات بشكل مختلف، مما يعني انتهاكًا لتناظر CP بين اللبتونات؟",
+   "en": "Do neutrinos and antineutrinos oscillate differently, which would mean CP violation among leptons?",
+   "es": "¿Oscilan de forma distinta los neutrinos y los antineutrinos, lo que significaría violación de CP en los leptones?",
+   "fr": "Les neutrinos et les antineutrinos oscillent-ils différemment, ce qui signifierait une violation de CP chez les leptons ?",
+   "hi": "क्या न्यूट्रिनो और एंटीन्यूट्रिनो अलग-अलग तरह से दोलन करते हैं, जिसका अर्थ होगा लेप्टॉनों में CP उल्लंघन?",
+   "pt": "Os neutrinos e os antineutrinos oscilam de forma diferente, o que significaria violação de CP entre os léptons?",
+   "zh": "中微子和反中微子的振荡方式是否不同？这将意味着轻子中存在CP破坏。"
+  },
+  {
+   "ar": "هل يمكن أن يكون انتهاك CP بين اللبتونات قد أنتج فائض المادة، عبر عملية تُسمّى التكوين اللبتوني (leptogenesis)؟",
+   "en": "Could CP violation among leptons have created the excess of matter, through a process called leptogenesis?",
+   "es": "¿Pudo la violación de CP en los leptones crear el exceso de materia, mediante un proceso llamado leptogénesis?",
+   "fr": "La violation de CP chez les leptons a-t-elle pu créer l'excès de matière, par un processus appelé leptogenèse ?",
+   "hi": "क्या लेप्टॉनों में CP उल्लंघन ने ‘लेप्टोजेनेसिस’ नामक प्रक्रिया द्वारा पदार्थ की अधिकता पैदा की हो सकती है?",
+   "pt": "A violação de CP entre os léptons pode ter criado o excesso de matéria, por meio de um processo chamado leptogênese?",
+   "zh": "轻子中的CP破坏是否可能通过一种称为“轻子生成”的过程造成了物质的过剩？"
   }
  ]
 }

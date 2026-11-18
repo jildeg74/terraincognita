@@ -62,6 +62,40 @@
    "t": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve (arXiv, 2026)",
    "ty": "preprint",
    "u": "https://arxiv.org/pdf/2608.16884"
+  },
+  {
+   "t": "Fast matrix multiplication: Limitations of the Coppersmith-Winograd method",
+   "ty": "study",
+   "u": "https://cris.technion.ac.il/en/publications/fast-matrix-multiplication-limitations-of-the-coppersmith-winogra-2"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل أُسّ ضرب المصفوفات يساوي 2، أي هل يمكن ضرب مصفوفتين n×n في نحو n^(2+ε) خطوة لأي ε > 0؟",
+   "en": "Is the matrix multiplication exponent equal to 2, so that two n×n matrices can be multiplied in about n^(2+ε) steps for any ε > 0?",
+   "es": "¿Es igual a 2 el exponente de la multiplicación de matrices, de modo que dos matrices n×n puedan multiplicarse en unos n^(2+ε) pasos para todo ε > 0?",
+   "fr": "L'exposant de la multiplication matricielle vaut-il 2, de sorte que deux matrices n×n puissent être multipliées en environ n^(2+ε) étapes pour tout ε > 0 ?",
+   "hi": "क्या आव्यूह गुणन का घातांक 2 है, यानी क्या किसी भी ε > 0 के लिए दो n×n आव्यूहों को लगभग n^(2+ε) चरणों में गुणा किया जा सकता है?",
+   "pt": "O expoente da multiplicação de matrizes é igual a 2, de modo que duas matrizes n×n possam ser multiplicadas em cerca de n^(2+ε) passos para todo ε > 0?",
+   "zh": "矩阵乘法指数是否等于2，即对任意ε > 0，两个n×n矩阵都能在大约n^(2+ε)步内相乘？"
+  },
+  {
+   "ar": "هل يمكن لطريقة جديدة تجاوز الحدود المُثبتة لـ«طريقة الليزر»، التي لا تستطيع عائلة واسعة من صيغها النزول بالأُسّ تحت 2.3078؟",
+   "en": "Can a new method get past the proven limits of the 'laser method', whose wide family of variants cannot go below an exponent of 2.3078?",
+   "es": "¿Puede un método nuevo superar los límites demostrados del «método láser», cuya amplia familia de variantes no puede bajar de un exponente de 2,3078?",
+   "fr": "Une nouvelle méthode peut-elle dépasser les limites démontrées de la « méthode laser », dont une large famille de variantes ne peut pas descendre sous l'exposant 2,3078 ?",
+   "hi": "क्या कोई नई विधि ‘लेज़र विधि’ की सिद्ध सीमाओं को पार कर सकती है, जिसके विविध रूपों का एक बड़ा वर्ग घातांक को 2.3078 से नीचे नहीं ला सकता?",
+   "pt": "Um método novo consegue superar os limites comprovados do «método laser», cuja ampla família de variantes não pode descer abaixo do expoente 2,3078?",
+   "zh": "能否有新方法突破“激光法”已被证明的极限？该方法的一大类变体都无法使指数低于2.3078。"
+  },
+  {
+   "ar": "ما أقصى سرعة يمكن بها ضرب مصفوفات مستطيلة (غير مربعة) ذات أشكال مختلفة؟",
+   "en": "How fast can rectangular (non-square) matrices of different shapes be multiplied?",
+   "es": "¿Con qué rapidez se pueden multiplicar matrices rectangulares (no cuadradas) de distintas formas?",
+   "fr": "À quelle vitesse peut-on multiplier des matrices rectangulaires (non carrées) de formes différentes ?",
+   "hi": "विभिन्न आकारों के आयताकार (गैर-वर्गाकार) आव्यूहों को कितनी तेज़ी से गुणा किया जा सकता है?",
+   "pt": "Com que rapidez é possível multiplicar matrizes retangulares (não quadradas) de formatos diferentes?",
+   "zh": "不同形状的长方形（非方形）矩阵最快能以多快的速度相乘？"
   }
  ]
 }

@@ -62,6 +62,40 @@
    "t": "On the generalization mystery in deep learning (arXiv)",
    "ty": "preprint",
    "u": "https://arxiv.org/pdf/2203.10036"
+  },
+  {
+   "t": "Understanding deep learning requires rethinking generalization",
+   "ty": "study",
+   "u": "https://research.google/pubs/understanding-deep-learning-requires-rethinking-generalization/"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "لماذا تظل الشبكات القادرة على حفظ بيانات موسومة عشوائيًا تُعمِّم جيدًا على البيانات الحقيقية؟",
+   "en": "Why do networks that can memorize randomly labelled data still generalize well on real data?",
+   "es": "¿Por qué las redes capaces de memorizar datos etiquetados al azar siguen generalizando bien con datos reales?",
+   "fr": "Pourquoi des réseaux capables de mémoriser des données étiquetées au hasard généralisent-ils quand même bien sur des données réelles ?",
+   "hi": "जो नेटवर्क यादृच्छिक रूप से लेबल किए गए डेटा को याद कर सकते हैं, वे वास्तविक डेटा पर फिर भी अच्छा सामान्यीकरण क्यों करते हैं?",
+   "pt": "Por que redes capazes de memorizar dados rotulados ao acaso ainda generalizam bem em dados reais?",
+   "zh": "能够记住随机标注数据的网络，为什么在真实数据上仍然泛化得很好？"
+  },
+  {
+   "ar": "من بين كل الحلول الملائمة لبيانات التدريب، كيف يجد الانحدار التدرجي حلًا يُعمِّم جيدًا؟",
+   "en": "Among all the solutions that fit the training data, how does gradient descent find one that generalizes well?",
+   "es": "Entre todas las soluciones que se ajustan a los datos de entrenamiento, ¿cómo encuentra el descenso de gradiente una que generalice bien?",
+   "fr": "Parmi toutes les solutions qui collent aux données d'entraînement, comment la descente de gradient en trouve-t-elle une qui généralise bien ?",
+   "hi": "प्रशिक्षण डेटा में फ़िट होने वाले सभी हलों में से, ग्रेडिएंट डिसेंट ऐसा हल कैसे खोजता है जो अच्छा सामान्यीकरण करे?",
+   "pt": "Entre todas as soluções que se ajustam aos dados de treino, como o gradiente descendente encontra uma que generaliza bem?",
+   "zh": "在所有拟合训练数据的解中，梯度下降是如何找到一个泛化良好的解的？"
+  },
+  {
+   "ar": "هل يمكننا تصميم مقياس أفضل لمدى «توافق» أمثلة التدريب فيما بينها (تماسك التدرجات) يأخذ بنية الشبكة في الحسبان؟",
+   "en": "Can we design a better measure of how much training examples 'agree' with each other (gradient coherence) that takes the network's structure into account?",
+   "es": "¿Podemos diseñar una mejor medida de cuánto «concuerdan» entre sí los ejemplos de entrenamiento (coherencia de gradientes) que tenga en cuenta la estructura de la red?",
+   "fr": "Peut-on concevoir une meilleure mesure de l'« accord » entre exemples d'entraînement (cohérence des gradients) qui tienne compte de la structure du réseau ?",
+   "hi": "क्या हम एक बेहतर माप बना सकते हैं जो बताए कि प्रशिक्षण उदाहरण आपस में कितने ‘सहमत’ हैं (ग्रेडिएंट सुसंगतता), और जो नेटवर्क की संरचना को भी ध्यान में रखे?",
+   "pt": "Podemos criar uma medida melhor de quanto os exemplos de treino «concordam» entre si (coerência dos gradientes) que leve em conta a estrutura da rede?",
+   "zh": "能否设计一种更好的度量，衡量训练样本之间的“一致”程度（梯度相干性），并把网络结构考虑在内？"
   }
  ]
 }

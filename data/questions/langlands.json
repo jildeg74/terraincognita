@@ -68,6 +68,40 @@
    "t": "Monumental proof settles geometric Langlands conjecture (Quanta, 2024)",
    "ty": "press",
    "u": "https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/"
+  },
+  {
+   "t": "Langlands Program, trace formulas, and their geometrization",
+   "ty": "reference",
+   "u": "https://www.ams.org/journals/bull/2013-50-01/S0273-0979-2012-01387-3"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن برهان مبدأ الدالّية (functoriality) للانغلاندز بصورة عامة؟",
+   "en": "Can Langlands's principle of functoriality be proved in general?",
+   "es": "¿Se puede demostrar en general el principio de functorialidad de Langlands?",
+   "fr": "Le principe de fonctorialité de Langlands peut-il être démontré en général ?",
+   "hi": "क्या लैंगलैंड्स के फ़ंक्टोरियलिटी सिद्धांत को सामान्य रूप में सिद्ध किया जा सकता है?",
+   "pt": "O princípio de functorialidade de Langlands pode ser provado em geral?",
+   "zh": "朗兰兹的函子性原理能否被普遍证明？"
+  },
+  {
+   "ar": "هل يمكن استخدام صيغ الأثر لبرهان الدالّية، كما يقترح فرنكل ولانغلاندز ونغو؟",
+   "en": "Can trace formulas be used to prove functoriality, as Frenkel, Langlands and Ngô propose?",
+   "es": "¿Pueden usarse las fórmulas de trazas para demostrar la functorialidad, como proponen Frenkel, Langlands y Ngô?",
+   "fr": "Les formules des traces peuvent-elles servir à démontrer la fonctorialité, comme le proposent Frenkel, Langlands et Ngô ?",
+   "hi": "क्या फ़्रेंकेल, लैंगलैंड्स और न्गो के प्रस्ताव के अनुसार ट्रेस सूत्रों से फ़ंक्टोरियलिटी सिद्ध की जा सकती है?",
+   "pt": "As fórmulas do traço podem ser usadas para provar a functorialidade, como propõem Frenkel, Langlands e Ngô?",
+   "zh": "能否像弗伦克尔、朗兰兹和吴宝珠所提议的那样，用迹公式来证明函子性？"
+  },
+  {
+   "ar": "هل يمكن تعميم الصلة بين المنحنيات الإهليلجية والأشكال المعيارية، التي استُخدمت لبرهان مبرهنة فيرما الأخيرة، إلى صيغتها العامة؟",
+   "en": "Can the link between elliptic curves and modular forms, used to prove Fermat's Last Theorem, be extended to its general form?",
+   "es": "¿Puede extenderse a su forma general el vínculo entre curvas elípticas y formas modulares que se usó para demostrar el último teorema de Fermat?",
+   "fr": "Le lien entre courbes elliptiques et formes modulaires, utilisé pour démontrer le dernier théorème de Fermat, peut-il être étendu à sa forme générale ?",
+   "hi": "क्या दीर्घवृत्तीय वक्रों और मॉड्यूलर रूपों के बीच का संबंध, जिसका उपयोग फ़र्मा का अंतिम प्रमेय सिद्ध करने में हुआ, उसके सामान्य रूप तक बढ़ाया जा सकता है?",
+   "pt": "A ligação entre curvas elípticas e formas modulares, usada para provar o último teorema de Fermat, pode ser estendida à sua forma geral?",
+   "zh": "用于证明费马大定理的椭圆曲线与模形式之间的联系，能否推广到其一般形式？"
   }
  ]
 }

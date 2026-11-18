@@ -62,6 +62,40 @@
    "t": "LiteBIRD Collaboration (Campeti et al.), LiteBIRD science goals and forecasts: origin of primordial gravitational waves (arXiv, 2023)",
    "ty": "preprint",
    "u": "https://arxiv.org/html/2312.00717v2"
+  },
+  {
+   "t": "Planck 2018 results: X. Constraints on inflation",
+   "ty": "study",
+   "u": "https://collaborate.princeton.edu/en/publications/planck-2018-results-x-constraints-on-inflation/"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل أنتج التضخم موجات جاذبية بدائية؟ شدتها (النسبة r) محدودة حاليًا بأقل من 0.056.",
+   "en": "Did inflation produce primordial gravitational waves? Their strength (the ratio r) is now limited to below 0.056.",
+   "es": "¿Produjo la inflación ondas gravitacionales primordiales? Su intensidad (el cociente r) está hoy limitada a menos de 0,056.",
+   "fr": "L'inflation a-t-elle produit des ondes gravitationnelles primordiales ? Leur intensité (le rapport r) est aujourd'hui limitée à moins de 0,056.",
+   "hi": "क्या स्फीति (इन्फ़्लेशन) ने आदिम गुरुत्वीय तरंगें पैदा कीं? उनकी तीव्रता (अनुपात r) अब 0.056 से कम तक सीमित है।",
+   "pt": "A inflação produziu ondas gravitacionais primordiais? Sua intensidade (a razão r) está hoje limitada a menos de 0,056.",
+   "zh": "暴胀是否产生了原初引力波？其强度（张标比r）目前被限制在0.056以下。"
+  },
+  {
+   "ar": "ما شكل منظر الطاقة (الجهد) الذي دفع التضخم؟ تميل البيانات بشكل متزايد إلى الأشكال المقعّرة.",
+   "en": "What shape was the energy landscape (the potential) that drove inflation? Data increasingly favour concave shapes.",
+   "es": "¿Qué forma tenía el paisaje de energía (el potencial) que impulsó la inflación? Los datos favorecen cada vez más las formas cóncavas.",
+   "fr": "Quelle forme avait le paysage d'énergie (le potentiel) qui a entraîné l'inflation ? Les données favorisent de plus en plus les formes concaves.",
+   "hi": "स्फीति को चलाने वाला ऊर्जा परिदृश्य (विभव) किस आकार का था? आँकड़े अधिकाधिक अवतल आकारों के पक्ष में हैं।",
+   "pt": "Que forma tinha a paisagem de energia (o potencial) que impulsionou a inflação? Os dados favorecem cada vez mais formas côncavas.",
+   "zh": "驱动暴胀的能量景观（势）是什么形状？数据越来越倾向于凹形的势。"
+  },
+  {
+   "ar": "هل شمل التضخم شيئًا أبعد من أبسط سلوك «التدحرج البطيء»؟ لم يُعثر على أي دليل حتى الآن.",
+   "en": "Did inflation involve anything beyond the simplest 'slow-roll' behaviour? No evidence has been found so far.",
+   "es": "¿Hubo en la inflación algo más allá del comportamiento más simple de «rodadura lenta»? Hasta ahora no se ha encontrado ninguna evidencia.",
+   "fr": "L'inflation a-t-elle impliqué autre chose que le comportement le plus simple de « roulement lent » ? Aucun indice n'a été trouvé jusqu'ici.",
+   "hi": "क्या स्फीति में सबसे सरल ‘स्लो-रोल’ व्यवहार से आगे भी कुछ था? अब तक इसका कोई प्रमाण नहीं मिला है।",
+   "pt": "A inflação envolveu algo além do comportamento mais simples de «rolamento lento»? Nenhuma evidência foi encontrada até agora.",
+   "zh": "暴胀是否涉及超出最简单“慢滚”行为的动力学？迄今尚未发现证据。"
   }
  ]
 }

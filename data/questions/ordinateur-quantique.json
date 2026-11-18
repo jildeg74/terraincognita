@@ -69,5 +69,34 @@
    "ty": "company",
    "u": "https://blog.google/technology/research/google-willow-quantum-chip/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "ما الذي يسبب الدفقات النادرة من الأخطاء المترابطة، التي تُرصد نحو مرة كل ساعة، وكيف يمكن إيقافها؟",
+   "en": "What causes the rare bursts of correlated errors, seen about once an hour, and how can they be stopped?",
+   "es": "¿Qué causa las raras ráfagas de errores correlacionados, observadas aproximadamente una vez por hora, y cómo se pueden evitar?",
+   "fr": "Qu'est-ce qui provoque les rares rafales d'erreurs corrélées, observées environ une fois par heure, et comment les empêcher ?",
+   "hi": "लगभग हर घंटे एक बार दिखने वाले सहसंबद्ध त्रुटियों के दुर्लभ विस्फोटों का कारण क्या है, और उन्हें कैसे रोका जा सकता है?",
+   "pt": "O que causa as raras rajadas de erros correlacionados, observadas cerca de uma vez por hora, e como impedi-las?",
+   "zh": "大约每小时出现一次的罕见相关错误爆发是由什么引起的？如何阻止它们？"
+  },
+  {
+   "ar": "هل يستطيع فكّ ترميز تصحيح الأخطاء مواكبة الزمن الحقيقي مع ازدياد حجم المعالجات الكمومية؟",
+   "en": "Can error-correction decoding keep up in real time as quantum processors grow larger?",
+   "es": "¿Puede la decodificación de la corrección de errores seguir el ritmo en tiempo real a medida que los procesadores cuánticos crecen?",
+   "fr": "Le décodage de la correction d'erreurs peut-il suivre en temps réel à mesure que les processeurs quantiques grandissent ?",
+   "hi": "जैसे-जैसे क्वांटम प्रोसेसर बड़े होते जाते हैं, क्या त्रुटि-सुधार डिकोडिंग वास्तविक समय में साथ चल सकती है?",
+   "pt": "A decodificação da correção de erros consegue acompanhar em tempo real à medida que os processadores quânticos crescem?",
+   "zh": "随着量子处理器规模扩大，纠错解码能否实时跟上？"
+  },
+  {
+   "ar": "كيف يمكن التحكم في «التسرّب»، أي خروج الكيوبتات من حالتيها العاملتين؟",
+   "en": "How can 'leakage', when qubits escape their two working states, be controlled?",
+   "es": "¿Cómo controlar las «fugas», cuando los cúbits escapan de sus dos estados de trabajo?",
+   "fr": "Comment maîtriser les « fuites », quand les qubits sortent de leurs deux états de travail ?",
+   "hi": "‘लीकेज’, यानी जब क्यूबिट अपनी दो कार्यशील अवस्थाओं से बाहर निकल जाते हैं, को कैसे नियंत्रित किया जाए?",
+   "pt": "Como controlar o «vazamento», quando os qubits escapam de seus dois estados de trabalho?",
+   "zh": "如何控制“泄漏”，即量子比特跑出其两个工作状态的现象？"
+  }
  ]
 }

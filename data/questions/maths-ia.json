@@ -70,5 +70,34 @@
    "ty": "press",
    "u": "https://www.techrepublic.com/article/news-google-deepmind-math-olympiad/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل يستطيع الذكاء الاصطناعي أن يترجم بموثوقية النصوص الرياضية العادية إلى عبارات صورية تتحقق منها الآلة (الصورنة الآلية)؟",
+   "en": "Can AI reliably translate ordinary mathematical writing into formal, machine-checkable statements (autoformalization)?",
+   "es": "¿Puede la IA traducir de forma fiable textos matemáticos corrientes a enunciados formales verificables por máquina (autoformalización)?",
+   "fr": "L'IA peut-elle traduire de façon fiable des textes mathématiques ordinaires en énoncés formels vérifiables par machine (autoformalisation) ?",
+   "hi": "क्या एआई साधारण गणितीय लेखन को भरोसेमंद तरीके से मशीन द्वारा जाँचे जा सकने वाले औपचारिक कथनों में बदल सकता है (ऑटोफ़ॉर्मलाइज़ेशन)?",
+   "pt": "A IA consegue traduzir de forma confiável textos matemáticos comuns em enunciados formais verificáveis por máquina (autoformalização)?",
+   "zh": "人工智能能否可靠地把普通数学文本翻译成可由机器检验的形式化陈述（自动形式化）？"
+  },
+  {
+   "ar": "هل يستطيع الذكاء الاصطناعي اقتراح حدسيات ومفاهيم جديدة، لا مجرد حل مسائل كتبها البشر؟",
+   "en": "Can AI propose new conjectures and concepts, not just solve problems written by humans?",
+   "es": "¿Puede la IA proponer nuevas conjeturas y conceptos, y no solo resolver problemas escritos por humanos?",
+   "fr": "L'IA peut-elle proposer de nouvelles conjectures et de nouveaux concepts, et pas seulement résoudre des problèmes écrits par des humains ?",
+   "hi": "क्या एआई केवल मनुष्यों के लिखे प्रश्न हल करने के बजाय नए अनुमान और नई अवधारणाएँ भी प्रस्तावित कर सकता है?",
+   "pt": "A IA consegue propor novas conjecturas e conceitos, e não apenas resolver problemas escritos por humanos?",
+   "zh": "人工智能能否提出新的猜想和概念，而不仅仅是解决人类写好的问题？"
+  },
+  {
+   "ar": "كيف يتعلم الذكاء الاصطناعي الرياضيات الصورية مع قلة البراهين الصورية التي كتبها البشر للتدرّب عليها؟",
+   "en": "How can AI learn formal mathematics when so few human-written formal proofs exist to train on?",
+   "es": "¿Cómo puede la IA aprender matemáticas formales cuando existen tan pocas demostraciones formales escritas por humanos para entrenarse?",
+   "fr": "Comment l'IA peut-elle apprendre les mathématiques formelles alors qu'il existe si peu de preuves formelles écrites par des humains pour s'entraîner ?",
+   "hi": "जब प्रशिक्षण के लिए मनुष्यों द्वारा लिखे गए औपचारिक प्रमाण इतने कम हैं, तो एआई औपचारिक गणित कैसे सीख सकता है?",
+   "pt": "Como a IA pode aprender matemática formal quando existem tão poucas provas formais escritas por humanos para treinar?",
+   "zh": "人类编写的形式化证明如此稀少，人工智能该如何学习形式化数学？"
+  }
  ]
 }

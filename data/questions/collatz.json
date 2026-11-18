@@ -66,6 +66,40 @@
    "t": "Tao, Almost all orbits of the Collatz map attain almost bounded values (arXiv)",
    "ty": "preprint",
    "u": "https://arxiv.org/abs/1909.03562v5"
+  },
+  {
+   "t": "Almost all orbits of the Collatz map attain almost bounded values",
+   "ty": "study",
+   "u": "https://cambridge.org/core/services/aop-cambridge-core/content/view/1008CC2DF91AF87F66D190C5E01C907F/S2050508622000087a.pdf/almost-all-orbits-of-the-collatz-map-attain-almost-bounded-values.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن ترقية نتيجة تاو «لكل الأعداد تقريبًا» من الكثافة اللوغاريتمية إلى الكثافة الطبيعية المعتادة؟",
+   "en": "Can Tao's 'almost all' result be upgraded from logarithmic density to the usual natural density?",
+   "es": "¿Puede el resultado de «casi todos» de Tao pasar de la densidad logarítmica a la densidad natural habitual?",
+   "fr": "Le résultat « presque tous » de Tao peut-il passer de la densité logarithmique à la densité naturelle habituelle ?",
+   "hi": "क्या ताओ के 'लगभग सभी' वाले परिणाम को लघुगणकीय घनत्व से सामान्य प्राकृतिक घनत्व तक मज़बूत किया जा सकता है?",
+   "pt": "O resultado de «quase todos» de Tao pode ser elevado da densidade logarítmica para a densidade natural usual?",
+   "zh": "陶哲轩的“几乎所有”结果能否从对数密度提升到通常的自然密度？"
+  },
+  {
+   "ar": "هل تنزل كل أعداد البداية تقريبًا تحت حدّ ثابت واحد؟ يقول تاو إن ذلك قد يكون بصعوبة الحدسية الكاملة تقريبًا.",
+   "en": "Do almost all starting numbers drop below one fixed bound? Tao says this may be almost as hard as the full conjecture.",
+   "es": "¿Casi todos los números de partida bajan por debajo de una misma cota fija? Tao dice que esto podría ser casi tan difícil como la conjetura completa.",
+   "fr": "Presque tous les nombres de départ descendent-ils sous une même borne fixe ? Selon Tao, ce serait presque aussi difficile que la conjecture complète.",
+   "hi": "क्या लगभग सभी आरंभिक संख्याएँ किसी एक निश्चित सीमा से नीचे आ जाती हैं? ताओ के अनुसार यह लगभग पूरे अनुमान जितना ही कठिन हो सकता है।",
+   "pt": "Quase todos os números iniciais descem abaixo de um mesmo limite fixo? Tao diz que isso pode ser quase tão difícil quanto a conjectura completa.",
+   "zh": "几乎所有起始数是否都会降到某个固定的界以下？陶哲轩说，这可能几乎和完整猜想一样难。"
+  },
+  {
+   "ar": "هل يمكن لمتتالية ما أن تنمو إلى الأبد، أو أن توجد حلقات لا نهائية العدد؟",
+   "en": "Could some sequence grow forever, or could there be infinitely many loops?",
+   "es": "¿Podría alguna sucesión crecer para siempre, o haber infinitos bucles?",
+   "fr": "Une suite pourrait-elle croître indéfiniment, ou existe-t-il une infinité de boucles ?",
+   "hi": "क्या कोई अनुक्रम हमेशा बढ़ता रह सकता है, या अनंत रूप से अनेक चक्र (लूप) हो सकते हैं?",
+   "pt": "Alguma sequência poderia crescer para sempre, ou poderia haver infinitos ciclos?",
+   "zh": "是否存在某个序列会无限增长，或者存在无穷多个循环？"
   }
  ]
 }

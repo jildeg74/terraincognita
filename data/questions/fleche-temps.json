@@ -63,5 +63,34 @@
    "ty": "reference",
    "u": "https://plato.stanford.edu/entries/time-thermo/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "هل تحتاج الإنتروبيا المنخفضة جدًا للكون المبكر («فرضية الماضي») هي نفسها إلى تفسير؟",
+   "en": "Does the very low entropy of the early universe (the 'Past Hypothesis') itself need an explanation?",
+   "es": "¿Necesita a su vez una explicación la bajísima entropía del universo primitivo (la «hipótesis del pasado»)?",
+   "fr": "La très faible entropie de l'univers primitif (l'« hypothèse du passé ») a-t-elle elle-même besoin d'une explication ?",
+   "hi": "क्या प्रारंभिक ब्रह्मांड की बहुत कम एन्ट्रॉपी (‘अतीत परिकल्पना’) को स्वयं किसी व्याख्या की ज़रूरत है?",
+   "pt": "A entropia muito baixa do universo primitivo (a «hipótese do passado») precisa ela própria de uma explicação?",
+   "zh": "早期宇宙极低的熵（“过去假设”）本身是否需要解释？"
+  },
+  {
+   "ar": "هل تعود أسهم الزمن الأخرى، كالذاكرة أو السبب والنتيجة، إلى ازدياد الإنتروبيا؟",
+   "en": "Do the other arrows of time, such as memory or cause and effect, come down to the growth of entropy?",
+   "es": "¿Se reducen las otras flechas del tiempo, como la memoria o la causa y el efecto, al aumento de la entropía?",
+   "fr": "Les autres flèches du temps, comme la mémoire ou la cause et l'effet, se ramènent-elles à la croissance de l'entropie ?",
+   "hi": "क्या समय के अन्य तीर, जैसे स्मृति या कारण और प्रभाव, एन्ट्रॉपी की वृद्धि पर ही आधारित हैं?",
+   "pt": "As outras setas do tempo, como a memória ou a causa e o efeito, reduzem-se ao aumento da entropia?",
+   "zh": "其他时间之箭，例如记忆或因果关系，能否归结为熵的增加？"
+  },
+  {
+   "ar": "كيف نبرّر قاعدة الاحتمال التي يستخدمها الفيزيائيون لتفسير اتجاه الأنظمة نحو التوازن؟",
+   "en": "How can we justify the probability rule physicists use to explain why systems move toward equilibrium?",
+   "es": "¿Cómo justificar la regla de probabilidad que usan los físicos para explicar por qué los sistemas evolucionan hacia el equilibrio?",
+   "fr": "Comment justifier la règle de probabilité qu'utilisent les physiciens pour expliquer pourquoi les systèmes évoluent vers l'équilibre ?",
+   "hi": "भौतिकविद यह समझाने के लिए जिस प्रायिकता नियम का उपयोग करते हैं कि तंत्र संतुलन की ओर क्यों जाते हैं, उसे कैसे उचित ठहराया जाए?",
+   "pt": "Como justificar a regra de probabilidade que os físicos usam para explicar por que os sistemas evoluem para o equilíbrio?",
+   "zh": "物理学家用来解释系统为何趋向平衡的概率规则，该如何证明其合理？"
+  }
  ]
 }

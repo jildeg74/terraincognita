@@ -61,6 +61,40 @@
    "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
    "ty": "reference",
    "u": "https://www.claymath.org/millennium-problems"
+  },
+  {
+   "t": "The Riemann hypothesis is true up to 3·10^12",
+   "ty": "preprint",
+   "u": "https://arxiv.org/abs/2004.09765"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "من المعروف أن أكثر من 40% من الأصفار تقع على الخط الحرج. هل يمكن رفع هذه النسبة إلى 100%؟",
+   "en": "More than 40% of the zeros are known to lie on the critical line. Can this be raised to 100%?",
+   "es": "Se sabe que más del 40 % de los ceros están en la recta crítica. ¿Se puede elevar esa proporción al 100 %?",
+   "fr": "On sait que plus de 40 % des zéros sont sur la droite critique. Peut-on porter cette part à 100 % ?",
+   "hi": "यह ज्ञात है कि 40% से अधिक शून्य क्रांतिक रेखा पर हैं। क्या इसे 100% तक बढ़ाया जा सकता है?",
+   "pt": "Sabe-se que mais de 40% dos zeros estão na reta crítica. É possível elevar isso a 100%?",
+   "zh": "已知超过40%的零点位于临界线上。能否把这一比例提高到100%？"
+  },
+  {
+   "ar": "هل تصح فرضية ريمان ولو لدالة واحدة من «دوال L» المرتبطة بها؟ لا تُعرف ولا حالة واحدة.",
+   "en": "Does the Riemann hypothesis hold for even one of the related 'L-functions'? Not a single case is known.",
+   "es": "¿Se cumple la hipótesis de Riemann aunque sea para una de las «funciones L» relacionadas? No se conoce ni un solo caso.",
+   "fr": "L'hypothèse de Riemann est-elle vraie pour au moins une des « fonctions L » apparentées ? Aucun cas n'est connu.",
+   "hi": "क्या रीमान परिकल्पना संबंधित ‘L-फलनों’ में से किसी एक के लिए भी सही है? एक भी उदाहरण ज्ञात नहीं है।",
+   "pt": "A hipótese de Riemann vale para pelo menos uma das «funções L» relacionadas? Não se conhece nenhum caso.",
+   "zh": "黎曼猜想对哪怕一个相关的“L函数”成立吗？目前一个例子都不知道。"
+  },
+  {
+   "ar": "هل تتبع المسافات بين الأصفار فعلًا حدسيات دايسون ومونتغمري، التي تدعمها الحسابات الحاسوبية بقوة؟",
+   "en": "Do the spacings between zeros really follow the Dyson–Montgomery conjectures, which computer calculations strongly support?",
+   "es": "¿Siguen realmente los espacios entre ceros las conjeturas de Dyson y Montgomery, que los cálculos por ordenador apoyan con fuerza?",
+   "fr": "Les écarts entre les zéros suivent-ils vraiment les conjectures de Dyson et Montgomery, que les calculs sur ordinateur soutiennent fortement ?",
+   "hi": "क्या शून्यों के बीच की दूरियाँ सचमुच डायसन–मॉन्टगोमरी अनुमानों का पालन करती हैं, जिनका कंप्यूटर गणनाएँ दृढ़ता से समर्थन करती हैं?",
+   "pt": "Os espaçamentos entre os zeros seguem mesmo as conjecturas de Dyson e Montgomery, que os cálculos por computador apoiam fortemente?",
+   "zh": "零点之间的间距是否真的服从戴森–蒙哥马利猜想？计算机计算强烈支持这些猜想。"
   }
  ]
 }

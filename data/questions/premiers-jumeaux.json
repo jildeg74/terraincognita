@@ -67,6 +67,40 @@
    "t": "Stadlmann, Bounded gaps between primes (arXiv, 2026)",
    "ty": "preprint",
    "u": "https://arxiv.org/pdf/2608.31126"
+  },
+  {
+   "t": "Variants of the Selberg sieve, and bounded intervals containing many primes",
+   "ty": "study",
+   "u": "https://link.springer.com/article/10.1186%2Fs40687-014-0012-7"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن التغلب على «مشكلة التكافؤ»؟ طرق الغربال وحدها لا تستطيع خفض الفجوة إلى ما دون 6.",
+   "en": "Can the 'parity problem' be overcome? Sieve methods alone cannot push the gap below 6.",
+   "es": "¿Se puede superar el «problema de paridad»? Los métodos de criba por sí solos no pueden bajar de un hueco de 6.",
+   "fr": "Peut-on surmonter le « problème de parité » ? Les méthodes de crible seules ne peuvent pas descendre sous un écart de 6.",
+   "hi": "क्या ‘पैरिटी समस्या’ को पार किया जा सकता है? केवल छलनी (सीव) विधियाँ अंतर को 6 से नीचे नहीं ला सकतीं।",
+   "pt": "É possível superar o «problema da paridade»? Os métodos de crivo sozinhos não conseguem levar o intervalo abaixo de 6.",
+   "zh": "能否克服“奇偶性问题”？仅靠筛法无法把间隔降到6以下。"
+  },
+  {
+   "ar": "هل حدسية إليوت–هالبرستام المعمّمة، المتعلقة بمدى انتظام توزع الأعداد الأولية، صحيحة؟ إنها ستخفض الحد إلى 6.",
+   "en": "Is the generalized Elliott–Halberstam conjecture, about how evenly primes are spread out, true? It would bring the bound down to 6.",
+   "es": "¿Es cierta la conjetura de Elliott–Halberstam generalizada, sobre lo uniformemente repartidos que están los primos? Bajaría la cota a 6.",
+   "fr": "La conjecture d'Elliott–Halberstam généralisée, sur la régularité de la répartition des nombres premiers, est-elle vraie ? Elle ferait descendre la borne à 6.",
+   "hi": "क्या सामान्यीकृत इलियट–हैल्बरस्टैम अनुमान, जो बताता है कि अभाज्य संख्याएँ कितनी समान रूप से फैली हैं, सही है? यह सीमा को 6 तक ले आएगा।",
+   "pt": "A conjectura de Elliott–Halberstam generalizada, sobre quão uniformemente os primos se distribuem, é verdadeira? Ela reduziria o limite para 6.",
+   "zh": "关于素数分布均匀程度的广义埃利奥特–哈伯斯坦猜想是否成立？它将把界降到6。"
+  },
+  {
+   "ar": "ما أقصر طول ممكن لمجال يظل يحتوي على ثلاثة أعداد أولية أو أكثر مرات لا نهائية؟",
+   "en": "How short can an interval be and still contain three or more primes infinitely often?",
+   "es": "¿Cuán corto puede ser un intervalo que siga conteniendo tres o más primos infinitas veces?",
+   "fr": "Quelle peut être la longueur minimale d'un intervalle qui contient encore trois nombres premiers ou plus, infiniment souvent ?",
+   "hi": "कोई अंतराल कितना छोटा हो सकता है और फिर भी अनंत बार तीन या अधिक अभाज्य संख्याएँ रख सके?",
+   "pt": "Quão curto pode ser um intervalo e ainda conter três ou mais primos infinitas vezes?",
+   "zh": "一个区间最短可以多短，仍能无穷多次地包含三个或更多素数？"
   }
  ]
 }

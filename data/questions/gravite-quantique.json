@@ -68,5 +68,34 @@
    "ty": "press",
    "u": "https://www.aip.org/inside-science/a-tabletop-experiment-for-quantum-gravity"
   }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن وصف الزمن عندما يكون الزمكان نفسه كموميًا («مشكلة الزمن»)؟",
+   "en": "How can time be described when spacetime itself is quantum (the 'problem of time')?",
+   "es": "¿Cómo describir el tiempo cuando el propio espacio-tiempo es cuántico (el «problema del tiempo»)?",
+   "fr": "Comment décrire le temps quand l'espace-temps lui-même est quantique (le « problème du temps ») ?",
+   "hi": "जब स्वयं दिक्-काल क्वांटम हो, तब समय का वर्णन कैसे किया जाए (‘समय की समस्या’)?",
+   "pt": "Como descrever o tempo quando o próprio espaço-tempo é quântico (o «problema do tempo»)?",
+   "zh": "当时空本身是量子的时候，时间该如何描述（“时间问题”）？"
+  },
+  {
+   "ar": "هل يجب تكميم الجاذبية أصلًا؟",
+   "en": "Must gravity be quantized at all?",
+   "es": "¿Hay que cuantizar realmente la gravedad?",
+   "fr": "La gravité doit-elle vraiment être quantifiée ?",
+   "hi": "क्या गुरुत्वाकर्षण का क्वांटीकरण करना ज़रूरी भी है?",
+   "pt": "A gravidade precisa mesmo ser quantizada?",
+   "zh": "引力究竟是否必须量子化？"
+  },
+  {
+   "ar": "هل تعيد الجاذبية الكمومية الحلقية النسبيةَ العامة لأينشتاين عند الطاقات المنخفضة؟",
+   "en": "Does loop quantum gravity give back Einstein's general relativity at low energies?",
+   "es": "¿Recupera la gravedad cuántica de bucles la relatividad general de Einstein a bajas energías?",
+   "fr": "La gravité quantique à boucles redonne-t-elle la relativité générale d'Einstein aux basses énergies ?",
+   "hi": "क्या लूप क्वांटम ग्रैविटी कम ऊर्जा पर आइंस्टाइन की सामान्य सापेक्षता को वापस देती है?",
+   "pt": "A gravidade quântica em loop recupera a relatividade geral de Einstein em baixas energias?",
+   "zh": "圈量子引力在低能下能否还原出爱因斯坦的广义相对论？"
+  }
  ]
 }

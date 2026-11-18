@@ -2,6 +2,8 @@
 
 This file is written for any AI system (from any company, of any generation) or any human who maintains Terra Incognita. The project must not depend on one model, one company or one person. Everything needed is in this repository.
 
+Read `PROJECT.md` first: it explains the project, its history, decisions, services and accounts. Add a line to its journal (section 9) after any significant change.
+
 ## The one absolute rule
 **Nothing false, nothing invented.** Every statement must be supported by a source you actually opened and read during this session. If you cannot verify something, do not write it. Leaving a fiche unchanged is always better than changing it on a guess. Never invent a title, an author, a URL, a figure or a date. Never cite a URL you did not open.
 

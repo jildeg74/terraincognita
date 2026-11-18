@@ -4,6 +4,8 @@ A living map of what humanity does not know yet: great open scientific questions
 
 Website: https://terraincognita.ca
 
+Full project file (history, decisions, services, how to take over): `PROJECT.md` (in French).
+
 ## Contents
 - `data/questions/` — one JSON file per open question: the source of truth.
 - `data/changes/`, `data/digests/` — change log and monthly reports.

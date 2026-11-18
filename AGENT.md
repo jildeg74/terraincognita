@@ -16,7 +16,8 @@ This file is written for any AI system (from any company, of any generation) or 
 ```json
 {
  "d": "P|V|E|M|I|T|H",          // domain: Physics/universe, Life, mind (Esprit), Maths, AI, Earth (Terre), Humanity
- "n": 0,                         // 0 = far from solved, 1 = progress, 2 = close / partly solved
+ "n": 0,                         // 0 = far from solved, 1 = progress, 2 = close / partly solved, 3 = solved
+ "solved": "YYYY-MM-DD",         // only when n = 3: date of the result that settled it
  "links": ["other-id"],          // related questions (must exist)
  "i18n": {"en": {"t": "question", "s": "short label", "known": "...", "block": "...", "leads": "..."}, "fr": {...}, "zh": {...}, "es": {...}, "hi": {...}, "ar": {...}, "pt": {...}},
  "src": [{"t": "exact title of the source", "u": "https://...", "ty": "study"}],
@@ -47,6 +48,9 @@ This file is written for any AI system (from any company, of any generation) or 
 
 ## Adding a new question
 Only for a genuine open question recognized in the scientific literature, not already on the map, with at least one `study` or `reference` source. Give it a short lowercase id with hyphens, link it to existing related questions, and add the reverse links.
+
+## When a question is solved
+Never delete it. A question is solved only when the answer is accepted by the field, shown in peer-reviewed work (or, in mathematics, a proof accepted by experts), not by a single announcement or preprint. Then set `n` to 3, add `"solved"` with the date of the decisive result, rewrite `known` to say what was found and by whom, `block` to say what remains open around it, `leads` to the new questions it opens, cite the decisive paper, and log `{"q": "<id>", "f": "n"}` in the change log. Solved questions stay on the map as conquered territory.
 
 ## Independent verification
 When a large batch is produced (many fiches at once), a second agent or person who did not write it must check every claim and every source before it is merged. Reject anything that cannot be confirmed.

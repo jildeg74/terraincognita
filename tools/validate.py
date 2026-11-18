@@ -30,7 +30,8 @@ if len(qs) < 100:
 for i, q in qs.items():
     if not ID.match(i): err(f'{i}: id must be lowercase words joined by hyphens')
     if q.get('d') not in DOMAINS: err(f'{i}: d must be one of {sorted(DOMAINS)}')
-    if q.get('n') not in (0, 1, 2): err(f'{i}: n must be 0, 1 or 2')
+    if q.get('n') not in (0, 1, 2, 3): err(f'{i}: n must be 0, 1, 2 or 3 (3 = solved)')
+    if q.get('n') == 3 and not DATE.match(str(q.get('solved', '')) ): err(f'{i}: a solved question (n=3) needs "solved": "YYYY-MM-DD"')
     for l in q.get('links', []):
         if l not in qs: err(f'{i}: link to unknown question {l}')
     i18n = q.get('i18n', {})

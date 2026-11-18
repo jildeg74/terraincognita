@@ -41,6 +41,8 @@ li{margin:4px 0}
 .ty{font:500 11px var(--f-mono);color:var(--muted);border:1px solid var(--line);border-radius:4px;padding:1px 6px;margin-inline-start:6px;white-space:nowrap}
 .ty.s{color:var(--fg);border-color:var(--muted)}
 .meta{font:12.5px var(--f-mono);color:var(--muted);margin-top:28px}
+.near[data-n="3"]{background:var(--accent);border-color:var(--accent);color:var(--bg2)}
+.hist{font-size:14px;color:var(--muted)}.hist time{font-family:var(--f-mono);color:var(--fg)}
 .cta{display:inline-block;margin-top:18px;font-weight:600}
 .group{margin-top:26px}
 .group h2{display:flex;align-items:center;gap:8px}
@@ -60,6 +62,7 @@ def shell(lang, title, desc, path, body, tokens, alt_path):
 <meta name="description" content="{e(desc)}">
 <link rel="canonical" href="{BASE}/{path}">{alts}
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:url" content="{BASE}/{path}">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Terra Incognita"><meta property="og:image" content="{BASE}/og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
 <style>*,*::before,*::after{{box-sizing:border-box}}{tokens}{CSS}</style>
 </head><body><div class="w">{body}</div></body></html>
@@ -76,16 +79,25 @@ def foot(lang, X):
             f'<a href="about.html">{e(X["about"])}</a><a href="../data.json">data.json · CC BY 4.0</a></footer>')
 
 
-def build(page, docs, out):
+def build(page, docs, out, changes=()):
     ui = extract_ui(page)
     tokens = extract_tokens(page)
     S = json.load(open(os.path.join(os.path.dirname(__file__), 'strings.json'), encoding='utf-8'))
     by = {d['id']: d for d in docs}
+    hist = {}
+    for c in sorted(changes, key=lambda c: c.get('date', ''), reverse=True):
+        for it in c.get('items', []):
+            if it.get('q') in by:
+                h = hist.setdefault(it['q'], {}).setdefault(c['date'], [])
+                if it.get('f') not in h:
+                    h.append(it.get('f'))
     urls = []
     for lang in LANGS:
         t, X = ui[lang], S[lang]
         os.makedirs(os.path.join(out, lang), exist_ok=True)
         tx = lambda d: {**d['i18n'].get('en', {}), **d['i18n'].get(lang, {})}
+        near = lambda d: (X['solved'] + (' · ' + d['solved'] if d.get('solved') else '')) if d['n'] == 3 else t['near'][d['n']]
+        flab = {'known': t['known'], 'block': t['block'], 'leads': t['leads'], 'src': t['src'], 'sub': t['subq'], 'n': X['status'], 'links': t['rel']}
         for d in docs:
             a = tx(d)
             subs = ''.join(f'<li>{e(s.get(lang) or s.get("en"))}</li>' for s in d.get('sub', []))
@@ -95,16 +107,19 @@ def build(page, docs, out):
                 for s in d['src'])
             revs = d.get('rev', [])
             rv = (f'<p>{e(t["revBy"])} ' + ', '.join(e(r["name"]) + (f' ({e(r["affil"])})' if r.get('affil') else '') for r in revs) + '</p>') if revs else f'<p class="meta">{e(t["notRev"])}</p>'
+            hs = hist.get(d['id'], {})
+            hl = ''.join(f'<li><time>{e(dt)}</time> · {e(", ".join(flab.get(f, f) for f in fs if f))}</li>' for dt, fs in hs.items())
+            hsec = f'<h2>{e(X["history"])}</h2>' + (f'<ul class="hist">{hl}</ul>' if hl else f'<p class="meta">{e(X["histNone"])}</p>')
             body = (top(lang, d['id'] + '.html') +
                     f'<div class="dom" style="--c:var(--d-{d["d"]})"><i></i>{e(t["dom"][d["d"]])}</div>'
-                    f'<h1>{e(a["t"])}</h1><span class="near">{e(t["near"][d["n"]])}</span>'
+                    f'<h1>{e(a["t"])}</h1><span class="near"{' data-n="3"' if d["n"] == 3 else ''}>{e(near(d))}</span>'
                     f'<h2>{e(t["known"])}</h2><p>{e(a["known"])}</p>'
                     f'<h2>{e(t["block"])}</h2><p>{e(a["block"])}</p>'
                     f'<h2>{e(t["leads"])}</h2><p>{e(a["leads"])}</p>' +
                     (f'<h2>{e(t["subq"])}</h2><ul>{subs}</ul>' if subs else '') +
                     (f'<h2>{e(t["rel"])}</h2><ul>{rel}</ul>' if rel else '') +
                     f'<h2>{e(t["src"])}</h2><ul>{srcs}</ul>{rv}'
-                    f'<p class="meta">{e(X["checked"])}: {e(d.get("checked", ""))}</p>'
+                    f'<p class="meta">{e(X["checked"])}: {e(d.get("checked", ""))}</p>' + hsec +
                     f'<a class="cta" href="../?lang={lang}#{d["id"]}">{e(X["map"])} {"←" if lang == "ar" else "→"}</a>' + foot(lang, X))
             open(os.path.join(out, lang, d['id'] + '.html'), 'w', encoding='utf-8').write(
                 shell(lang, f'{a["t"]} · Terra Incognita', a['known'], f'{lang}/{d["id"]}.html', body, tokens, d['id'] + '.html'))
@@ -114,7 +129,7 @@ def build(page, docs, out):
             items = sorted((d for d in docs if d['d'] == k), key=lambda d: tx(d)['t'])
             if not items:
                 continue
-            lis = ''.join(f'<li><a href="{d["id"]}.html">{e(tx(d)["t"])}</a> <small>· {e(t["near"][d["n"]])}</small></li>' for d in items)
+            lis = ''.join(f'<li><a href="{d["id"]}.html">{e(tx(d)["t"])}</a> <small>· {e(near(d))}</small></li>' for d in items)
             groups += f'<section class="group"><h2 style="--c:var(--d-{k})"><i></i>{e(t["dom"][k])}</h2><ul>{lis}</ul></section>'
         body = top(lang, 'index.html') + f'<h1>{e(X["list"])}</h1><p>{e(X["listIntro"])}</p>{groups}' + foot(lang, X)
         open(os.path.join(out, lang, 'index.html'), 'w', encoding='utf-8').write(
@@ -124,4 +139,4 @@ def build(page, docs, out):
         open(os.path.join(out, lang, 'about.html'), 'w', encoding='utf-8').write(
             shell(lang, f'{X["aboutTitle"]}', X['aboutBody'][0][1], f'{lang}/about.html', body, tokens, 'about.html'))
         urls += [f'{lang}/index.html', f'{lang}/about.html']
-    return urls, {l: {'list': S[l]['list'], 'about': S[l]['about']} for l in LANGS}
+    return urls, {l: {k: S[l][k] for k in ('list', 'about', 'solved', 'page')} for l in LANGS}

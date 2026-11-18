@@ -9,7 +9,7 @@ Website: https://terraincognita.ca
 - `data/changes/`, `data/digests/` — change log and monthly reports.
 - `page/index.html` — page template; `tools/build_site.py` builds `site/` from it and the data, and `tools/build_pages.py` adds one page per question, a list page and an about page in each language (`tools/strings.json`).
 - `tools/validate.py` — checks every file (7 languages, sources, links). Run automatically by GitHub Actions, which also rebuilds `site/`.
-- `site/` — the public website published by Netlify. `site/data.json` holds the full dataset.
+- `site/` — the public website published by Netlify. `site/data.json` holds the full dataset; `site/q/<lang>.json` holds one language each, loaded by the map so visitors download only their language. `tools/og.png` is the preview image shown when a link is shared.
 - `AGENT.md` — the rules any maintainer (AI or human) must follow. `CONTRIBUTING.md` — how to help.
 
 ## How it stays up to date

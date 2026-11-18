@@ -39,7 +39,12 @@
     "Publisher",
     "Terra Incognita is published by Juvason, a company based in Montréal, Canada."
    ]
-  ]
+  ],
+  "solved": "Solved",
+  "page": "This question's page",
+  "history": "History of this question",
+  "status": "Status",
+  "histNone": "No change since the first survey."
  },
  "fr": {
   "list": "Toutes les questions",
@@ -81,7 +86,12 @@
     "Éditeur",
     "Terra Incognita est publié par Juvason, une entreprise basée à Montréal, au Canada."
    ]
-  ]
+  ],
+  "solved": "Résolue",
+  "page": "Page de cette question",
+  "history": "Historique de cette question",
+  "status": "Statut",
+  "histNone": "Aucun changement depuis le premier relevé."
  },
  "es": {
   "list": "Todas las preguntas",
@@ -123,7 +133,12 @@
     "Editor",
     "Terra Incognita es publicado por Juvason, una empresa con sede en Montreal, Canadá."
    ]
-  ]
+  ],
+  "solved": "Resuelta",
+  "page": "Página de esta pregunta",
+  "history": "Historial de esta pregunta",
+  "status": "Estado",
+  "histNone": "Sin cambios desde el primer relevamiento."
  },
  "pt": {
   "list": "Todas as perguntas",
@@ -165,7 +180,12 @@
     "Editor",
     "A Terra Incognita é publicada pela Juvason, uma empresa sediada em Montreal, no Canadá."
    ]
-  ]
+  ],
+  "solved": "Resolvida",
+  "page": "Página desta pergunta",
+  "history": "Histórico desta pergunta",
+  "status": "Situação",
+  "histNone": "Nenhuma mudança desde o primeiro levantamento."
  },
  "zh": {
   "list": "全部问题",
@@ -207,7 +227,12 @@
     "发布者",
     "Terra Incognita 由总部位于加拿大蒙特利尔的 Juvason 公司发布。"
    ]
-  ]
+  ],
+  "solved": "已解决",
+  "page": "本问题页面",
+  "history": "本问题的修改记录",
+  "status": "状态",
+  "histNone": "自首次整理以来没有修改。"
  },
  "hi": {
   "list": "सभी प्रश्न",
@@ -249,7 +274,12 @@
     "प्रकाशक",
     "Terra Incognita को Juvason प्रकाशित करती है, जो मॉन्ट्रियल, कनाडा में स्थित एक कंपनी है।"
    ]
-  ]
+  ],
+  "solved": "हल हो चुका",
+  "page": "इस प्रश्न का पेज",
+  "history": "इस प्रश्न का इतिहास",
+  "status": "स्थिति",
+  "histNone": "पहले सर्वेक्षण के बाद से कोई बदलाव नहीं।"
  },
  "ar": {
   "list": "كل الأسئلة",
@@ -291,6 +321,11 @@
     "الناشر",
     "تنشر Terra Incognita شركة Juvason، ومقرها مونتريال في كندا."
    ]
-  ]
+  ],
+  "solved": "محلول",
+  "page": "صفحة هذا السؤال",
+  "history": "سجل هذا السؤال",
+  "status": "الحالة",
+  "histNone": "لا تغيير منذ المسح الأول."
  }
 }

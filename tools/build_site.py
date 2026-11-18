@@ -20,8 +20,15 @@ src_page = page
 start = page.index('(async()=>{')
 end = page.index('})();', start) + len('})();')
 dump = lambda x: json.dumps(x, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
-inline = ('const DATA=' + dump(docs) + ';\nconst CHANGES=' + dump(changes) + ';\nconst DIGESTS=' + dump(digests) + ';\n'
-          'changes=CHANGES;digests=DIGESTS;renderDigest();\ningest(DATA.map(d=>{const {id,...rest}=d;return {id,data:()=>rest}}));')
+inline = ('const CHANGES=' + dump(changes) + ';\nconst DIGESTS=' + dump(digests) + ';\n'
+          'changes=CHANGES;digests=DIGESTS;renderDigest();\n'
+          'const TI_DONE=new Set();\n'
+          'window.TI_LOAD=async function(l){if(TI_DONE.has(l))return;const r=await fetch("q/"+l+".json");if(!r.ok)throw new Error("load");const d=await r.json();TI_DONE.add(l);'
+          'if(!nodes.length){ingest(d.map(x=>{const {id,...rest}=x;return {id,data:()=>rest}}));return}'
+          'for(const x of d){const n=byId[x.id];if(!n)continue;n.i18n={...(n.i18n||{}),...(x.i18n||{})};(x.sub||[]).forEach((q,i)=>{if(n.sub&&n.sub[i])Object.assign(n.sub[i],q)})}};\n'
+          '(async()=>{const timer=setTimeout(()=>{if(!nodes.length)setStatus("slow")},10000);'
+          'try{await TI_LOAD(lang)}catch(e){try{await TI_LOAD("en")}catch(e2){setStatus("err")}}clearTimeout(timer);'
+          'if(nodes.length&&!(byId[nodes[0].id].i18n||{})[lang])applyLang()})();')
 page = page[:start] + inline + page[end:]
 page = page.replace('<meta name="claude:viewport-fit-sides" content="cover">', '')
 head = '''<!doctype html>
@@ -31,6 +38,9 @@ head = '''<!doctype html>
 <meta property="og:title" content="Terra Incognita">
 <meta property="og:description" content="A living map of what humanity does not know yet.">
 <meta property="og:url" content="https://terraincognita.ca/">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Terra Incognita">
+<meta property="og:image" content="https://terraincognita.ca/og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://terraincognita.ca/">
 <style>*,*::before,*::after{box-sizing:border-box}body{margin:0}[hidden]{display:none!important}</style>
 '''
@@ -38,9 +48,21 @@ te = page.index('</title>') + len('</title>')
 html = head + page[:te] + '\n' + page[te:].replace('<div class="wrap">', '</head><body>\n<div class="wrap">', 1) + '\n</body></html>\n'
 
 os.makedirs(out, exist_ok=True)
-urls, extra = build_pages.build(src_page, docs, out)
+urls, extra = build_pages.build(src_page, docs, out, changes)
 html = html.replace('const EXTRA={};', 'const EXTRA=' + dump(extra) + ';', 1)
 open(os.path.join(out, 'index.html'), 'w').write(html)
+os.makedirs(os.path.join(out, 'q'), exist_ok=True)
+for l in build_pages.LANGS:
+    part = []
+    for d in docs:
+        x = {k: v for k, v in d.items() if k not in ('i18n', 'sub')}
+        x['i18n'] = {l: d['i18n'][l]}
+        if d.get('sub'):
+            x['sub'] = [{l: q[l]} for q in d['sub']]
+        part.append(x)
+    open(os.path.join(out, 'q', l + '.json'), 'w').write(json.dumps(part, ensure_ascii=False, separators=(',', ':')))
+import shutil
+shutil.copy(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'og.png'), os.path.join(out, 'og.png'))
 updated = max([d.get('checked', '') for d in docs] + [c.get('date', '') for c in changes])
 open(os.path.join(out, 'data.json'), 'w').write(json.dumps({
     'name': 'Terra Incognita', 'license': 'CC BY 4.0', 'url': 'https://terraincognita.ca/',

@@ -45,13 +45,13 @@ canvas{display:block;width:100%;height:clamp(420px,70vh,760px);cursor:grab;touch
 .legend{position:absolute;inset-inline-start:12px;bottom:10px;font:11px var(--f-body);color:var(--muted);display:flex;gap:14px;flex-wrap:wrap;pointer-events:none}
 .legend span{display:inline-flex;align-items:center;gap:6px}
 .legend b{display:inline-block;width:12px;height:12px;border-radius:50%;border:1.5px solid var(--muted)}
-.legend b.d1{border-style:dashed}.legend b.d0{border-style:dotted}
+.legend b.d1{border-style:dashed}.legend b.d0{border-style:dotted}.legend b.d3{border:3px double var(--accent)}
 aside{background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:20px;display:flex;flex-direction:column;gap:14px;min-width:0}
 .dom{font:500 11px var(--f-mono);letter-spacing:.1em;text-transform:uppercase;color:var(--c)}
 aside h2{font-family:var(--f-display);font-weight:400;font-size:26px;line-height:1.15;margin:0;text-wrap:balance}
 .nonlatin aside h2{font-family:var(--f-body);font-weight:600;font-size:22px}
 .near{align-self:flex-start;font:500 12px var(--f-body);padding:3px 9px;border-radius:6px;border:1px solid var(--line);color:var(--fg)}
-.near[data-n="2"]{border-color:var(--accent);color:var(--accent)}
+.near[data-n="2"]{border-color:var(--accent);color:var(--accent)}.near[data-n="3"]{background:var(--accent);border-color:var(--accent);color:var(--bg2)}
 .fallback{font-size:12px;color:var(--muted);border-inline-start:2px solid var(--accent);padding-inline-start:8px;margin:0}
 section h3{font:600 11px var(--f-body);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 4px}
 section p{margin:0}
@@ -80,6 +80,7 @@ footer{color:var(--muted);font-size:12.5px}
 #propForm button{align-self:flex-start;margin-top:8px;font:600 14px var(--f-body);background:var(--accent);color:var(--bg);border:0;border-radius:8px;padding:9px 16px;cursor:pointer}
 #pMsg{margin:0;font-size:13px;color:var(--muted)}
 footer a{color:var(--accent)}
+aside .qpage{margin:0;font-size:13.5px}aside .qpage a{color:var(--accent)}
 footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-size:14px}
 .sublist{margin:0;padding-inline-start:18px;display:flex;flex-direction:column;gap:4px;font-size:14px}
 .rev{margin:0;font-size:13px}.rev.none{color:var(--muted)}
@@ -219,11 +220,12 @@ function pickLang(){
 let lang=pickLang();
 const T=()=>UI[lang];
 // texte d'une question dans la langue choisie, repli sur l'anglais
+function nearLabel(n){const t=T(),X=EXTRA[lang]||EXTRA.en||{};return n.n===3?((X.solved||'Solved')+(n.solved?' · '+n.solved:'')):(t.near[n.n]||'')}
 function tx(n){const i=n.i18n||{};const own=i[lang];return {...(i.en||{}),...(own||{}),fb:!own&&lang!=='en'}}
 
 const sl=$('lang');
 for(const [k,v] of Object.entries(LANGS)){const o=document.createElement('option');o.value=k;o.textContent=v;sl.append(o)}
-sl.onchange=()=>{lang=sl.value;try{localStorage.setItem('ti-lang',lang)}catch(e){};applyLang()};
+sl.onchange=async()=>{lang=sl.value;try{localStorage.setItem('ti-lang',lang)}catch(e){};try{if(window.TI_LOAD)await window.TI_LOAD(lang)}catch(e){};applyLang()};
 
 const chips={};
 const fEl=$('filters');
@@ -242,7 +244,7 @@ function applyLang(){
   document.documentElement.classList.toggle('nonlatin',['zh','hi','ar'].includes(lang));
   $('sub').textContent=t.sub;$('foot').textContent=t.foot;qi.placeholder=t.search;cv.setAttribute('aria-label',t.map);
   for(const k of DKEYS)chips[k].textContent=t.dom[k];
-  const lg=$('legend');lg.replaceChildren();t.near.forEach((s,i)=>{const sp=document.createElement('span'),b=document.createElement('b');if(i<2)b.className='d'+i;sp.append(b,s);lg.append(sp)});
+  const lg=$('legend');lg.replaceChildren();[...t.near,((EXTRA[lang]||EXTRA.en||{}).solved||'')].forEach((s,i)=>{if(!s)return;const sp=document.createElement('span'),b=document.createElement('b');if(i!==2)b.className='d'+i;sp.append(b,s);lg.append(sp)});
   setStatus(statusKey);
   $('digT').textContent=t.dig;$('nlL').textContent=t.nl;$('nlBtn').textContent=t.nlBtn;$('nlLang').value=lang;$('pkL').textContent=t.kind;$('pk0').textContent=t.k0;$('pk1').textContent=t.k1;$('pk2').textContent=t.k2;
   $('newsT').textContent=t.news;$('propT').textContent=t.prop;$('pqL').textContent=t.propQ;$('psL').textContent=t.propS;$('peL').textContent=t.propE;$('pBtn').textContent=t.send;$('dataLink').textContent=t.data;
@@ -294,12 +296,13 @@ function draw(){
   }
   let shown=0;const showAll=view.k>.75,labels=[];
   for(const n of nodes){
-    if(!visible(n))continue;shown++;
-    const p=toS(n),c=css('--d-'+n.d),r=6+n.n*1.5,dim=focus&&!nb.has(n.id);
+    if(!visible(n))continue;if(n.n<3)shown++;
+    const p=toS(n),c=css('--d-'+n.d),r=6+Math.min(n.n,2)*1.5,dim=focus&&!nb.has(n.id);
     ctx.globalAlpha=dim?.28:1;
     ctx.fillStyle=c;ctx.beginPath();ctx.arc(p.x,p.y,r,0,Math.PI*2);ctx.fill();
     ctx.strokeStyle=c;ctx.lineWidth=1.5;ctx.setLineDash(n.n===0?[1.5,3]:n.n===1?[4,3]:[]);
     ctx.beginPath();ctx.arc(p.x,p.y,r+4.5,0,Math.PI*2);ctx.stroke();ctx.setLineDash([]);
+    if(n.n===3){ctx.strokeStyle=accent;ctx.lineWidth=1.5;ctx.beginPath();ctx.arc(p.x,p.y,r+7.5,0,Math.PI*2);ctx.stroke()}
     if(n===sel){ctx.strokeStyle=fg;ctx.lineWidth=2;ctx.beginPath();ctx.arc(p.x,p.y,r+9,0,Math.PI*2);ctx.stroke()}
     if(showAll||nb.has(n.id)||query)labels.push({n,p,r,pri:n===focus?0:nb.has(n.id)?1:2});
   }
@@ -314,7 +317,7 @@ function draw(){
     ctx.fillStyle=L.pri===0?fg:muted;ctx.fillText(txt,L.p.x,y);
   }
   ctx.globalAlpha=1;
-  $('count').textContent=nodes.length?T().count(shown,nodes.length):'—';
+  $('count').textContent=nodes.length?T().count(shown,nodes.filter(n=>n.n<3).length):'—';
 }
 
 function pick(mx,my){let best=null,bd=20;for(const n of nodes){if(!visible(n))continue;const p=toS(n),d=Math.hypot(p.x-mx,p.y-my);if(d<bd){bd=d;best=n}}return best}
@@ -340,7 +343,7 @@ function el(tag,props,...kids){const e=document.createElement(tag);for(const [k,
 function select(n){
   sel=n;try{if(hashOK&&location.hash.slice(1)!==n.id)history.replaceState(null,'','#'+n.id)}catch(e){}draw();const t=T(),a=tx(n);panel.replaceChildren();
   const dom=el('div',{className:'dom',textContent:t.dom[n.d]||n.d});dom.style.setProperty('--c',`var(--d-${n.d})`);
-  const near=el('span',{className:'near',textContent:t.near[n.n]||''});near.dataset.n=n.n;
+  const near=el('span',{className:'near',textContent:nearLabel(n)});near.dataset.n=n.n;
   const h=el('h2',{textContent:a.t||''});if(a.fb)h.lang='en';
   panel.append(dom,h,near);
   if(a.fb)panel.append(el('p',{className:'fallback',textContent:t.fb}));
@@ -352,6 +355,7 @@ function select(n){
     panel.append(el('section',null,el('h3',{textContent:t.rel}),w))}
   if(Array.isArray(n.src)&&n.src.length){const ul=el('ul',{className:'srcs'});n.src.forEach(s=>{if(!s||!/^https:\/\//.test(s.u||''))return;ul.append(el('li',null,el('a',{href:s.u,target:'_blank',rel:'noopener noreferrer',textContent:s.t||s.u}),s.ty&&t.ty[s.ty]?el('span',{className:'srcty'+(s.ty==='study'||s.ty==='reference'?' strong':''),textContent:t.ty[s.ty]}):null))});
     if(ul.childElementCount)panel.append(el('section',null,el('h3',{textContent:t.src}),ul))}
+  if(onSite){const X=EXTRA[lang]||EXTRA.en;if(X&&X.page)panel.append(el('p',{className:'qpage'},el('a',{href:lang+'/'+n.id+'.html',textContent:X.page+' →'})))}
   const revs=(Array.isArray(n.rev)?n.rev:[]).filter(r=>r&&r.name);
   panel.append(revs.length?el('p',{className:'rev',textContent:t.revBy+' : '+revs.map(r=>r.name+(r.affil?' ('+r.affil+')':'')).join(', ')}):el('p',{className:'rev none',textContent:t.notRev}));
 }
@@ -360,7 +364,7 @@ function ingest(docs){
   const prev=sel&&sel.id;
   nodes=docs.map(d=>{const v=d.data();const n={id:d.id,...v};
     if(!n.i18n&&n.t)n.i18n={fr:{t:v.t,s:v.s,known:v.known,block:v.block,leads:v.leads}};return n});
-  byId={};nodes.forEach(n=>{n.n=Math.max(0,Math.min(2,+n.n||0));byId[n.id]=n});
+  byId={};nodes.forEach(n=>{n.n=Math.max(0,Math.min(3,+n.n||0));byId[n.id]=n});
   const seen=new Set();edges=[];
   for(const n of nodes)for(const l of n.links||[]){if(!byId[l]||l===n.id)continue;const k=[n.id,l].sort().join('|');if(!seen.has(k)){seen.add(k);edges.push([n.id,l])}}
   layout();view.done=!!W;

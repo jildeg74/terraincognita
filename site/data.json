@@ -66,7 +66,8 @@
    "n": 1,
    "src": [
     {
-     "t": "Semaglutide reduces alcohol consumption and cravings in a randomized trial (JAMA Psychiatry, 2025)",
+     "t": "USC: weight-loss drug semaglutide shows promise in reducing alcohol cravings (on a 2025 JAMA Psychiatry trial)",
+     "ty": "institution",
      "u": "https://today.usc.edu/popular-weight-loss-diabetes-drug-shows-promise-in-reducing-cravings-for-alcohol/"
     }
    ]
@@ -134,12 +135,14 @@
    "n": 1,
    "src": [
     {
-     "t": "Another new Alzheimer's drug: what the trial results mean (Scientific American)",
-     "u": "https://www.scientificamerican.com/article/another-new-alzheimers-drug-what-promising-trial-results-mean-for-treatment/"
+     "t": "van Dyck et al., Lecanemab in early Alzheimer's disease (NEJM, 2023)",
+     "ty": "study",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/36449413/"
     },
     {
-     "t": "Review of anti-amyloid therapies (PMC)",
-     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11497653/"
+     "t": "Another new Alzheimer's drug: what the trial results mean (Scientific American)",
+     "ty": "press",
+     "u": "https://www.scientificamerican.com/article/another-new-alzheimers-drug-what-promising-trial-results-mean-for-treatment/"
     }
    ]
   },
@@ -206,6 +209,7 @@
    "src": [
     {
      "t": "Global burden of bacterial antimicrobial resistance 1990–2021 (IHME / The Lancet)",
+     "ty": "institution",
      "u": "https://healthdata.org/node/12105"
     }
    ]
@@ -273,6 +277,7 @@
    "src": [
     {
      "t": "Kirkpatrick et al., Overcoming catastrophic forgetting in neural networks (PNAS, 2017)",
+     "ty": "preprint",
      "u": "https://arxiv.org/abs/1612.00796"
     }
    ]
@@ -339,12 +344,14 @@
    "n": 1,
    "src": [
     {
-     "t": "5 people with lupus are in remission after CAR-T cell treatment (Science News)",
-     "u": "https://www.sciencenews.org/article/lupus-car-t-cell-therapy-remission-autoimmune-disease"
+     "t": "Müller et al., CD19 CAR T-cell therapy in autoimmune disease: a case series with follow-up (NEJM, 2024)",
+     "ty": "study",
+     "u": "https://cris.fau.de/publications/318785330?lang=en_GB"
     },
     {
-     "t": "CAR T-cell therapy in autoimmune disease (Biopharma Dive, NEJM study)",
-     "u": "https://www.biopharmadive.com/news/nejm-car-t-autoimmune-lupus-schett-muller/708152/"
+     "t": "5 people with lupus are in remission after CAR-T cell treatment (Science News)",
+     "ty": "press",
+     "u": "https://www.sciencenews.org/article/lupus-car-t-cell-therapy-remission-autoimmune-disease"
     }
    ]
   },
@@ -411,6 +418,7 @@
    "src": [
     {
      "t": "Mora et al., How many species are there on Earth and in the ocean? (PLOS Biology, 2011)",
+     "ty": "study",
      "u": "https://journals.plos.org/plosbiology/article/info:doi/10.1371/journal.pbio.1001127"
     }
    ]
@@ -478,6 +486,7 @@
    "src": [
     {
      "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+     "ty": "reference",
      "u": "https://www.claymath.org/millennium-problems"
     }
    ]
@@ -545,6 +554,7 @@
    "src": [
     {
      "t": "Over nearly 80 years, Harvard study has been showing how to live a healthy and happy life (Harvard Gazette)",
+     "ty": "institution",
      "u": "https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/"
     }
    ]
@@ -611,12 +621,14 @@
    "n": 2,
    "src": [
     {
-     "t": "Moderna cancer vaccine results (Boston Globe, 2026)",
-     "u": "https://www.bostonglobe.com/2026/08/19/business/moderna-cancer-vaccine-results/"
+     "t": "Weber et al., Individualised neoantigen therapy mRNA-4157 plus pembrolizumab in resected melanoma, KEYNOTE-942 (The Lancet, 2024)",
+     "ty": "study",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/38246194/"
     },
     {
-     "t": "A 'pivotal moment' for personalised cancer vaccines (The Week)",
-     "u": "https://theweek.com/health/a-pivotal-moment-for-personalised-cancer-vaccines"
+     "t": "Moderna cancer vaccine results (Boston Globe, 2026)",
+     "ty": "press",
+     "u": "https://www.bostonglobe.com/2026/08/19/business/moderna-cancer-vaccine-results/"
     }
    ]
   },
@@ -683,6 +695,7 @@
    "src": [
     {
      "t": "Direct Air Capture: executive summary (IEA)",
+     "ty": "official",
      "u": "https://www.iea.org/reports/direct-air-capture-3/executive-summary"
     }
    ]
@@ -751,6 +764,7 @@
    "src": [
     {
      "t": "Team simulates a living cell that grows and divides (University of Illinois, 2026)",
+     "ty": "institution",
      "u": "https://chemistry.illinois.edu/news/2026-03-09/team-simulates-living-cell-grows-and-divides"
     }
    ]
@@ -816,7 +830,13 @@
    "n": 0,
    "src": [
     {
+     "t": "Singer et al., Synchronizing volcanic, sedimentary, and ice core records of Earth's last magnetic polarity reversal (Science Advances, 2019)",
+     "ty": "study",
+     "u": "https://doi.org/10.1126/sciadv.aaw4621"
+    },
+    {
      "t": "Earth's magnetic field could take longer to flip than previously thought (Smithsonian)",
+     "ty": "press",
      "u": "https://www.smithsonianmag.com/science-nature/earths-magnetic-field-could-take-longer-flip-previously-thought-180972843/"
     }
    ]
@@ -885,10 +905,12 @@
    "src": [
     {
      "t": "Global warming unlikely to be small: new study (Met Office, 2020)",
+     "ty": "official",
      "u": "https://www.metoffice.gov.uk/research/news/2020/new-science-shows-global-warming-unlikely-to-be-small"
     },
     {
      "t": "IPCC AR6 Working Group I, Chapter 1",
+     "ty": "official",
      "u": "https://adaptecca.es/sites/default/files/ipcc_ar6_wgi_chapter_01.pdf"
     }
    ]
@@ -955,10 +977,12 @@
    "src": [
     {
      "t": "Mathematician proves huge result on 'dangerous' problem (Quanta, 2019)",
+     "ty": "press",
      "u": "https://quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211"
     },
     {
      "t": "Tao, Almost all orbits of the Collatz map attain almost bounded values (arXiv)",
+     "ty": "preprint",
      "u": "https://arxiv.org/abs/1909.03562v5"
     }
    ]
@@ -1026,6 +1050,7 @@
    "src": [
     {
      "t": "Sperm whale phonetic alphabet proposed for the first time (Project CETI, 2024)",
+     "ty": "institution",
      "u": "https://www.projectceti.org/blog-posts/sperm-whale-phonetic-alphabet-proposed-for-the-first-time"
     }
    ]
@@ -1093,6 +1118,7 @@
    "src": [
     {
      "t": "Complete wiring map of an adult fruit fly brain (NIH, 2024)",
+     "ty": "official",
      "u": "https://www.nih.gov/news-events/nih-research-matters/complete-wiring-map-adult-fruit-fly-brain"
     }
    ]
@@ -1163,6 +1189,7 @@
    "src": [
     {
      "t": "Adversarial testing of global neuronal workspace and integrated information theories of consciousness (Nature, 2025)",
+     "ty": "study",
      "u": "https://pubmed.ncbi.nlm.nih.gov/40307561/"
     }
    ]
@@ -1231,6 +1258,7 @@
    "src": [
     {
      "t": "Richerson, Boyd and Henrich, Cultural evolution of human cooperation (2003)",
+     "ty": "institution",
      "u": "https://henrich.fas.harvard.edu/sites/scholar.harvard.edu/files/henrich/files/richerson_boyd_henrich_2003.pdf"
     }
    ]
@@ -1298,6 +1326,7 @@
    "src": [
     {
      "t": "The Irish Citizens' Assembly (OECD Observatory of Public Sector Innovation)",
+     "ty": "official",
      "u": "https://oecd-opsi.org/innovations/the-irish-citizens-assembly/"
     }
    ]
@@ -1365,6 +1394,7 @@
    "src": [
     {
      "t": "No evidence that depression is caused by low serotonin levels (UCL, 2022)",
+     "ty": "institution",
      "u": "https://www.ucl.ac.uk/news/2022/jul/no-evidence-depression-caused-low-serotonin-levels-finds-comprehensive-review"
     }
    ]
@@ -1433,6 +1463,7 @@
    "src": [
     {
      "t": "Vosoughi, Roy, Aral, The spread of true and false news online (Science, 2018)",
+     "ty": "institution",
      "u": "https://www.media.mit.edu/publications/the-spread-of-true-and-false-news-online/"
     }
    ]
@@ -1498,7 +1529,13 @@
    "n": 2,
    "src": [
     {
+     "t": "The Nobel Prize in Physiology or Medicine 2022: press release (Nobel Prize)",
+     "ty": "reference",
+     "u": "https://www.nobelprize.org/prizes/medicine/2022/press-release/"
+    },
+    {
      "t": "Discoveries about ancient human evolution win 2022 Nobel Prize (Scientific American)",
+     "ty": "press",
      "u": "https://www.scientificamerican.com/article/discoveries-about-ancient-human-evolution-win-2022-nobel-prize-in-physiology-or-medicine/"
     }
    ]
@@ -1565,8 +1602,9 @@
    "n": 1,
    "src": [
     {
-     "t": "FDA approves non-opioid treatment for moderate to severe acute pain (IASP, 2025)",
-     "u": "https://www.iasp-pain.org/publications/iasp-news/fda-approves-non-opioid-treatment-for-moderate-to-severe-acute-pain/"
+     "t": "FDA approves novel non-opioid treatment for moderate to severe acute pain (U.S. FDA, 2025)",
+     "ty": "official",
+     "u": "https://www.fda.gov/news-events/press-announcements/fda-approves-novel-non-opioid-treatment-moderate-severe-acute-pain"
     }
    ]
   },
@@ -1633,6 +1671,7 @@
    "src": [
     {
      "t": "1 in 4 people globally still lack access to safe drinking water (WHO/UNICEF, 2025)",
+     "ty": "official",
      "u": "https://www.who.int/news/item/26-08-2025-1-in-4-people-globally-still-lack-access-to-safe-drinking-water---who--unicef"
     }
    ]
@@ -1699,7 +1738,13 @@
    "n": 1,
    "src": [
     {
+     "t": "Grand prize discovery made in 2,000-year-old Herculaneum scrolls (University of Kentucky, 2024)",
+     "ty": "institution",
+     "u": "https://research.uky.edu/news/grand-prize-discovery-made-2000-year-old-herculaneum-scrolls"
+    },
+    {
      "t": "AI unravels ancient Roman scroll charred by volcano (Scientific American)",
+     "ty": "press",
      "u": "https://www.scientificamerican.com/article/ai-unravels-ancient-roman-scrolls-charred-by-volcano/"
     }
    ]
@@ -1767,6 +1812,7 @@
    "src": [
     {
      "t": "70% of 10-year-olds now in learning poverty (World Bank, 2022)",
+     "ty": "official",
      "u": "https://www.worldbank.org/en/news/press-release/2022/06/23/70-of-10-year-olds-now-in-learning-poverty-unable-to-read-and-understand-a-simple-text"
     }
    ]
@@ -1834,7 +1880,13 @@
    "n": 1,
    "src": [
     {
+     "t": "Findings of the BabyLM Challenge (arXiv, 2025)",
+     "ty": "preprint",
+     "u": "https://arxiv.org/html/2504.08165v1"
+    },
+    {
      "t": "The BabyLM challenge: researchers look to infants (The Transmitter)",
+     "ty": "press",
      "u": "https://www.thetransmitter.org/neuroai/the-babylm-challenge-in-search-of-more-efficient-learning-algorithms-researchers-look-to-infants/"
     }
    ]
@@ -1902,6 +1954,7 @@
    "src": [
     {
      "t": "Social complexity and collapse (Complexity Science Hub, Seshat)",
+     "ty": "institution",
      "u": "https://csh.ac.at/research/research-topic/social-complexity-collapse/"
     }
    ]
@@ -1970,10 +2023,12 @@
    "src": [
     {
      "t": "DESI results suggest dark energy may evolve over time (UKRI)",
+     "ty": "official",
      "u": "https://ukri.org/news/desi-results-suggest-dark-energy-may-evolve-over-time"
     },
     {
      "t": "New DESI results strengthen hints that dark energy may evolve (Symmetry)",
+     "ty": "press",
      "u": "https://symmetrymagazine.org/article/new-desi-results-strengthen-hints-that-dark-energy-may-evolve"
     }
    ]
@@ -2041,6 +2096,7 @@
    "src": [
     {
      "t": "Thermodynamic Asymmetry in Time (Stanford Encyclopedia of Philosophy)",
+     "ty": "reference",
      "u": "https://plato.stanford.edu/entries/time-thermo/"
     }
    ]
@@ -2108,10 +2164,12 @@
    "src": [
     {
      "t": "Achievement of target gain larger than unity in an inertial fusion experiment (Phys. Rev. Lett. 2024)",
+     "ty": "study",
      "u": "https://dx.doi.org/10.1103/PhysRevLett.132.065102"
     },
     {
      "t": "US Department of Energy details net energy gain (Photonics)",
+     "ty": "press",
      "u": "https://photonics.com/Articles/US_Department_of_Energy_Details_Net_Energy_Gain/a68586"
     }
    ]
@@ -2179,12 +2237,14 @@
    "n": 1,
    "src": [
     {
-     "t": "Hidden treasures in junk DNA (Scientific American)",
-     "u": "https://www.scientificamerican.com/article/hidden-treasures-in-junk-dna/"
+     "t": "ENCODE Project Consortium, An integrated encyclopedia of DNA elements in the human genome (Nature, 2012)",
+     "ty": "study",
+     "u": "https://www.encodeproject.org/publications/1398930d-c330-4f92-8aa7-5b92b62d8941/"
     },
     {
-     "t": "ENCODE: the rough guide to the human genome (National Geographic)",
-     "u": "https://www.nationalgeographic.com/science/article/encode-the-rough-guide-to-the-human-genome"
+     "t": "Hidden treasures in junk DNA (Scientific American)",
+     "ty": "press",
+     "u": "https://www.scientificamerican.com/article/hidden-treasures-in-junk-dna/"
     }
    ]
   },
@@ -2250,8 +2310,9 @@
    "n": 0,
    "src": [
     {
-     "t": "Goldbach's conjecture (Wikipedia, with references to the 4×10^18 verification and Helfgott's proof)",
-     "u": "https://en.wikipedia.org/wiki/Goldbach%27s_conjecture"
+     "t": "Oliveira e Silva, Herzog, Pardi, Empirical verification of the even Goldbach conjecture and computation of prime gaps up to 4·10^18 (Mathematics of Computation, 2014)",
+     "ty": "study",
+     "u": "https://www.ams.org/journals/mcom/2014-83-288/S0025-5718-2013-02787-1"
     }
    ]
   },
@@ -2318,10 +2379,12 @@
    "src": [
     {
      "t": "Quantum Gravity (Stanford Encyclopedia of Philosophy)",
+     "ty": "reference",
      "u": "https://plato.stanford.edu/entries/quantum-gravity/"
     },
     {
      "t": "A tabletop experiment for quantum gravity (AIP Inside Science)",
+     "ty": "press",
      "u": "https://www.aip.org/inside-science/a-tabletop-experiment-for-quantum-gravity"
     }
    ]
@@ -2389,6 +2452,7 @@
    "src": [
     {
      "t": "Fearon, Rationalist explanations for war (International Organization, 1995)",
+     "ty": "study",
      "u": "https://www.cambridge.org/core/journals/international-organization/article/abs/rationalist-explanations-for-war/E3B716A4034C11ECF8CE8732BC2F80DD"
     }
    ]
@@ -2455,12 +2519,14 @@
    "n": 1,
    "src": [
     {
-     "t": "JWST complicates expanding universe paradox by checking Hubble's work (Space.com)",
-     "u": "https://space.com/james-webb-space-telescope-hubble-tension-universe-expansion-study"
+     "t": "Riess et al., JWST observations reject unrecognized crowding of Cepheid photometry as an explanation for the Hubble tension (Astrophysical Journal Letters, 2024)",
+     "ty": "study",
+     "u": "https://doi.org/10.3847/2041-8213/ad1ddd"
     },
     {
-     "t": "James Webb telescope confirms crisis in cosmic expansion (Live Science)",
-     "u": "https://www.livescience.com/space/cosmology/james-webb-telescope-confirms-huge-crisis-in-our-understanding-of-cosmic-expansion"
+     "t": "JWST complicates expanding universe paradox by checking Hubble's work (Space.com)",
+     "ty": "press",
+     "u": "https://space.com/james-webb-space-telescope-hubble-tension-universe-expansion-study"
     }
    ]
   },
@@ -2527,6 +2593,7 @@
    "src": [
     {
      "t": "Butlin, Long et al., Consciousness in artificial intelligence: insights from the science of consciousness (arXiv)",
+     "ty": "preprint",
      "u": "https://arxiv.org/pdf/2308.08708v2"
     }
    ]
@@ -2595,6 +2662,7 @@
    "src": [
     {
      "t": "Brynjolfsson, Li, Raymond, Generative AI at Work (NBER)",
+     "ty": "institution",
      "u": "https://nber.org/papers/w31161"
     }
    ]
@@ -2662,8 +2730,9 @@
    "n": 1,
    "src": [
     {
-     "t": "Electricity demand from data centres set to more than double by 2030: IEA (APPA)",
-     "u": "https://www.publicpower.org/periodical/article/electricity-demand-data-centers-worldwide-set-more-double-2030-iea"
+     "t": "Energy and AI: executive summary (International Energy Agency, 2025)",
+     "ty": "official",
+     "u": "https://www.iea.org/reports/energy-and-ai/executive-summary"
     }
    ]
   },
@@ -2731,6 +2800,7 @@
    "src": [
     {
      "t": "International AI Safety Report 2025 (UK Government)",
+     "ty": "official",
      "u": "https://www.gov.uk/government/publications/international-ai-safety-report-2025"
     }
    ]
@@ -2798,6 +2868,7 @@
    "src": [
     {
      "t": "Towards Guaranteed Safe AI: a framework for robust and reliable AI systems (arXiv, 2024)",
+     "ty": "preprint",
      "u": "https://arxiv.org/html/2405.06624v2"
     }
    ]
@@ -2864,8 +2935,9 @@
    "n": 2,
    "src": [
     {
-     "t": "Why language models hallucinate (OpenAI, 2025)",
-     "u": "https://openai.com/index/why-language-models-hallucinate/"
+     "t": "Kalai et al., Why language models hallucinate (arXiv, 2025)",
+     "ty": "preprint",
+     "u": "https://arxiv.org/html/2509.04664v1"
     }
    ]
   },
@@ -2932,7 +3004,13 @@
    "n": 1,
    "src": [
     {
+     "t": "Stokes et al., A deep learning approach to antibiotic discovery (Cell, 2020)",
+     "ty": "study",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/32084340/"
+    },
+    {
      "t": "Autoscience builds automated research lab (SiliconANGLE, 2026)",
+     "ty": "press",
      "u": "https://siliconangle.com/2026/03/19/autoscience-builds-automated-research-lab-machine-learning-models-14m/"
     }
    ]
@@ -3000,7 +3078,13 @@
    "n": 0,
    "src": [
     {
+     "t": "Huang et al., Collective Constitutional AI: aligning a language model with public input (arXiv, 2024)",
+     "ty": "preprint",
+     "u": "https://arxiv.org/abs/2406.07814"
+    },
+    {
      "t": "Collective Constitutional AI: aligning a language model with public input (Anthropic)",
+     "ty": "company",
      "u": "https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input"
     }
    ]
@@ -3068,6 +3152,7 @@
    "src": [
     {
      "t": "World Inequality Report 2018: executive summary",
+     "ty": "institution",
      "u": "https://wir2018.wid.world/executive-summary.html"
     }
    ]
@@ -3136,6 +3221,7 @@
    "src": [
     {
      "t": "What makes us human? Comparing brain development in humans and great apes (TU Dresden, 2026)",
+     "ty": "institution",
      "u": "https://tu-dresden.de/tu-dresden/newsportal/news/what-makes-us-human-researchers-compare-brain-development-in-humans-and-great-apes"
     }
    ]
@@ -3203,6 +3289,7 @@
    "src": [
     {
      "t": "An accurate and rapidly calibrating speech neuroprosthesis (NEJM, 2024)",
+     "ty": "study",
      "u": "https://pubmed.ncbi.nlm.nih.gov/39141853/"
     }
    ]
@@ -3269,7 +3356,13 @@
    "n": 1,
    "src": [
     {
+     "t": "Cunningham et al., Sparse autoencoders find highly interpretable features in language models (arXiv, 2023)",
+     "ty": "preprint",
+     "u": "https://arxiv.org/abs/2309.08600v3"
+    },
+    {
      "t": "Open-sourcing circuit tracing tools (Anthropic)",
+     "ty": "company",
      "u": "https://anthropic.com/research/open-source-circuit-tracing"
     }
    ]
@@ -3337,6 +3430,7 @@
    "src": [
     {
      "t": "Hauser et al., The mystery of language evolution (Frontiers in Psychology, 2014)",
+     "ty": "study",
      "u": "https://dspace.mit.edu/handle/1721.1/88068"
     }
    ]
@@ -3404,7 +3498,13 @@
    "n": 1,
    "src": [
     {
+     "t": "Gaitsgory and Raskin, Proof of the geometric Langlands conjecture I: construction of the functor (arXiv, 2024; first of a series of papers)",
+     "ty": "preprint",
+     "u": "https://arxiv.org/abs/2405.03599"
+    },
+    {
      "t": "Monumental proof settles geometric Langlands conjecture (Quanta, 2024)",
+     "ty": "press",
      "u": "https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/"
     }
    ]
@@ -3471,10 +3571,12 @@
    "src": [
     {
      "t": "Libet and free will revisited (Discover)",
+     "ty": "press",
      "u": "https://www.discovermagazine.com/mind/libet-and-free-will-revisited"
     },
     {
      "t": "Free Will (Stanford Encyclopedia of Philosophy)",
+     "ty": "reference",
      "u": "https://plato.stanford.edu/entries/freewill/"
     }
    ]
@@ -3543,7 +3645,13 @@
    "n": 2,
    "src": [
     {
+     "t": "Olympiad-level formal mathematical reasoning with reinforcement learning (Nature, 2025)",
+     "ty": "study",
+     "u": "https://www.nature.com/articles/s41586-025-09833-y"
+    },
+    {
      "t": "Google DeepMind achieves gold-level Math Olympiad performance, matching OpenAI (TechRepublic, 2025)",
+     "ty": "press",
      "u": "https://www.techrepublic.com/article/news-google-deepmind-math-olympiad/"
     }
    ]
@@ -3611,6 +3719,7 @@
    "src": [
     {
      "t": "Optimisation of the search for CP violation at DUNE (OSTI)",
+     "ty": "institution",
      "u": "https://www.osti.gov/biblio/1998949"
     }
    ]
@@ -3679,10 +3788,12 @@
    "src": [
     {
      "t": "LZ experiment sees surprising result in search for dark matter (2026)",
+     "ty": "institution",
      "u": "https://www.bnl.gov/newsroom/news.php?a=123133"
     },
     {
      "t": "LZ experiment sets new record in search for dark matter",
+     "ty": "institution",
      "u": "https://ucdavis.edu/news/lz-experiment-sets-new-record-search-dark-matter"
     }
    ]
@@ -3751,7 +3862,8 @@
    "n": 1,
    "src": [
     {
-     "t": "Memory engrams: recalling the past and imagining the future (Science, Tonegawa lab)",
+     "t": "Tonegawa, Morrissey, Kitamura, The role of engram cells in the systems consolidation of memory (Nature Reviews Neuroscience, 2018)",
+     "ty": "study",
      "u": "https://dspace.mit.edu/bitstream/1721.1/126264/2/Tonegawa%20NRN%202018%20-%20Main%20Text%20Final.pdf"
     }
    ]
@@ -3820,6 +3932,7 @@
    "src": [
     {
      "t": "Measurement in Quantum Theory (Stanford Encyclopedia of Philosophy)",
+     "ty": "reference",
      "u": "https://plato.stanford.edu/entries/qt-measurement/"
     }
    ]
@@ -3886,8 +3999,9 @@
    "n": 1,
    "src": [
     {
-     "t": "Role of the intestinal microbiome in health and disease: from correlation to causation (PMC)",
-     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7217228"
+     "t": "Papenburg et al., Causal role of the gut microbiome in certain human diseases: a narrative review (eGastroenterology, 2024)",
+     "ty": "study",
+     "u": "https://doi.org/10.1136/egastro-2024-100086"
     }
    ]
   },
@@ -3954,6 +4068,7 @@
    "src": [
     {
      "t": "Awad et al., The Moral Machine experiment (Nature, 2018)",
+     "ty": "study",
      "u": "https://dspace.mit.edu/handle/1721.1/125065"
     }
    ]
@@ -4021,6 +4136,7 @@
    "src": [
     {
      "t": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve (arXiv, 2026)",
+     "ty": "preprint",
      "u": "https://arxiv.org/pdf/2608.16884"
     }
    ]
@@ -4088,6 +4204,7 @@
    "src": [
     {
      "t": "Global population to peak this century: World Population Prospects 2024 (IISD)",
+     "ty": "official",
      "u": "https://sdg.iisd.org/news/global-population-to-peak-this-century-world-population-prospects-2024/"
     }
    ]
@@ -4155,6 +4272,7 @@
    "src": [
     {
      "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+     "ty": "reference",
      "u": "https://www.claymath.org/millennium-problems"
     }
    ]
@@ -4221,7 +4339,13 @@
    "n": 1,
    "src": [
     {
+     "t": "Davies et al., Loihi: a neuromorphic manycore processor with on-chip learning (IEEE Micro, 2018)",
+     "ty": "study",
+     "u": "https://doi.org/10.1109/MM.2018.112130359"
+    },
+    {
      "t": "Intel unveils largest-ever neuromorphic computer, Hala Point (Live Science, 2024)",
+     "ty": "press",
      "u": "https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain"
     }
    ]
@@ -4289,10 +4413,12 @@
    "src": [
     {
      "t": "New KATRIN results (KIT)",
+     "ty": "institution",
      "u": "https://www.katrin.kit.edu/1271.php"
     },
     {
      "t": "Direct neutrino-mass measurement based on 259 days of KATRIN data (Science, 2025)",
+     "ty": "study",
      "u": "https://pubmed.ncbi.nlm.nih.gov/40208982/"
     }
    ]
@@ -4360,6 +4486,7 @@
    "src": [
     {
      "t": "Business-as-usual not an option with future global food security in jeopardy (UN News, FAO)",
+     "ty": "official",
      "u": "https://news.un.org/en/node/551972"
     }
    ]
@@ -4427,6 +4554,7 @@
    "src": [
     {
      "t": "USC study confirms the rotation of Earth's inner core has slowed (USC, 2024)",
+     "ty": "institution",
      "u": "https://today.usc.edu/usc-study-confirms-the-rotation-of-earths-inner-core-has-slowed/"
     }
    ]
@@ -4495,6 +4623,7 @@
    "src": [
     {
      "t": "Once-weekly semaglutide in adults with overweight or obesity (NEJM, 2021)",
+     "ty": "study",
      "u": "https://pubmed.ncbi.nlm.nih.gov/33567185/"
     }
    ]
@@ -4563,7 +4692,18 @@
    "src": [
     {
      "t": "Ocean Census reveals more than 1,100 new species (Scientific American)",
+     "ty": "press",
      "u": "https://www.scientificamerican.com/article/ocean-census-reveals-more-than-1-100-new-species/"
+    },
+    {
+     "t": "Only 0.001% of the deep seafloor visually observed in seventy years (EurekAlert, study in Science Advances, 2025)",
+     "ty": "press",
+     "u": "https://www.eurekalert.org/news-releases/1082535"
+    },
+    {
+     "t": "Bell et al., study of how much of the deep seafloor has been visually observed (Science Advances, 2025): repository record",
+     "ty": "institution",
+     "u": "https://marineinfo.org/doc/publication/408357"
     }
    ]
   },
@@ -4630,7 +4770,13 @@
    "n": 2,
    "src": [
     {
+     "t": "Google Quantum AI, Quantum error correction below the surface code threshold (Nature, 2024)",
+     "ty": "study",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/39653125/"
+    },
+    {
      "t": "Meet Willow, our state-of-the-art quantum chip (Google)",
+     "ty": "company",
      "u": "https://blog.google/technology/research/google-willow-quantum-chip/"
     }
    ]
@@ -4698,10 +4844,12 @@
    "src": [
     {
      "t": "MGH performs second xenotransplant of gene-edited pig kidney into living recipient (Mass General Brigham, 2025)",
+     "ty": "institution",
      "u": "https://news.massgeneralbrigham.org/en/mgh-performs-second-xenotransplant-of-genetically-edited-pig-kidney-into-living-recipient"
     },
     {
      "t": "Gene-edited pig kidney transplanted into third person (STAT, 2024)",
+     "ty": "press",
      "u": "https://www.statnews.com/2024/12/17/gene-edited-pig-kidney-transplanted-into-third-person-nyu-langone/"
     }
    ]
@@ -4768,7 +4916,8 @@
    "n": 0,
    "src": [
     {
-     "t": "LiteBIRD: probing cosmic inflation with B-mode polarization (arXiv, 2023)",
+     "t": "LiteBIRD Collaboration (Campeti et al.), LiteBIRD science goals and forecasts: origin of primordial gravitational waves (arXiv, 2023)",
+     "ty": "preprint",
      "u": "https://arxiv.org/html/2312.00717v2"
     }
    ]
@@ -4836,11 +4985,13 @@
    "n": 0,
    "src": [
     {
-     "t": "Harrison et al., The origins of life (Annual Review of Ecology, Evolution and Systematics, 2023)",
+     "t": "Harrison et al., Life as a guide to its own origins (Annual Review of Ecology, Evolution, and Systematics, 2023)",
+     "ty": "study",
      "u": "https://discovery.ucl.ac.uk/10177411/1/Harrison%20et%20al%20Annu%20Rev%20Ecol%20Evol%20System%202023.pdf"
     },
     {
      "t": "The ocean vents where life on Earth likely began (JSTOR Daily)",
+     "ty": "press",
      "u": "https://daily.jstor.org/the-ocean-vents-where-life-on-earth-likely-began"
     }
    ]
@@ -4908,6 +5059,7 @@
    "src": [
     {
      "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+     "ty": "reference",
      "u": "https://www.claymath.org/millennium-problems"
     }
    ]
@@ -4975,6 +5127,7 @@
    "src": [
     {
      "t": "Malaria fact sheet (World Health Organization)",
+     "ty": "official",
      "u": "https://who.int/news-room/fact-sheets/detail/malaria"
     }
    ]
@@ -5042,10 +5195,12 @@
    "src": [
     {
      "t": "The 100 Days Mission (CEPI)",
+     "ty": "official",
      "u": "https://cepi.net/100-days-mission"
     },
     {
-     "t": "Wastewater surveillance brief (Brown University Pandemic Center)",
+     "t": "Brief on wastewater surveillance (Brown University Pandemic Center, 2025)",
+     "ty": "institution",
      "u": "https://pandemics.sph.brown.edu/news/2025-01-23/wastewater-brief"
     }
    ]
@@ -5114,6 +5269,7 @@
    "src": [
     {
      "t": "Poverty and Inequality Update, Fall 2025 (World Bank)",
+     "ty": "official",
      "u": "https://thedocs.worldbank.org/en/doc/229ff18129687a785f08af7cfb28e5e1-0350012025/original/WBG-Poverty-and-Inequality-Update-Fall-2025.pdf"
     }
    ]
@@ -5182,6 +5338,7 @@
    "src": [
     {
      "t": "Scientists engineer shortcut for photosynthetic glitch (University of Illinois, Science 2019)",
+     "ty": "institution",
      "u": "https://las.illinois.edu/news/2019-01-03/scientists-engineer-shortcut-photosynthetic-glitch"
     }
    ]
@@ -5248,10 +5405,12 @@
    "src": [
     {
      "t": "Global Tipping Points Report 2025 reveals first Earth system tipping point reached (NOC)",
+     "ty": "official",
      "u": "https://www.noc.ac.uk/news/global-tipping-points-report-2025-reveals-first-earth-system-tipping-point-reached"
     },
     {
      "t": "Earth system tipping point risks (Global Tipping Points Report)",
+     "ty": "official",
      "u": "https://global-tipping-points.org/summary-report/section-1/"
     }
    ]
@@ -5319,10 +5478,12 @@
    "src": [
     {
      "t": "The bounded gaps between primes Polymath project: a retrospective (arXiv)",
+     "ty": "preprint",
      "u": "https://arxiv.org/abs/1409.8361"
     },
     {
      "t": "Stadlmann, Bounded gaps between primes (arXiv, 2026)",
+     "ty": "preprint",
      "u": "https://arxiv.org/pdf/2608.31126"
     }
    ]
@@ -5389,7 +5550,13 @@
    "n": 2,
    "src": [
     {
+     "t": "Price et al., Probabilistic weather forecasting with machine learning (Nature, 2024)",
+     "ty": "study",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/39633054/"
+    },
+    {
      "t": "GenCast predicts weather and the risks of extreme conditions (Google DeepMind, Nature 2024)",
+     "ty": "company",
      "u": "https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/"
     }
    ]
@@ -5457,6 +5624,7 @@
    "src": [
     {
      "t": "Bloom, Jones, Van Reenen, Webb, Are ideas getting harder to find? (NBER)",
+     "ty": "institution",
      "u": "https://www.nber.org/papers/w23782.pdf"
     }
    ]
@@ -5526,11 +5694,13 @@
    "src": [
     {
      "t": "De novo design of protein structure and function with RFdiffusion (Nature, 2023)",
+     "ty": "study",
      "u": "https://www.nature.com/articles/s41586-023-06415-8.pdf"
     },
     {
-     "t": "AlphaFold Protein Structure Database",
-     "u": "https://alphafold.com/"
+     "t": "Jumper et al., Highly accurate protein structure prediction with AlphaFold (Nature, 2021)",
+     "ty": "study",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/34265844/"
     }
    ]
   },
@@ -5596,7 +5766,13 @@
    "n": 1,
    "src": [
     {
+     "t": "Molecular basis of positional memory in limb regeneration (Nature, 2025)",
+     "ty": "study",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/40399677/"
+    },
+    {
      "t": "New insight into regeneration in mammals (ScienceDaily)",
+     "ty": "press",
      "u": "https://www.sciencedaily.com/releases/2021/06/210602153417.htm"
     }
    ]
@@ -5664,8 +5840,9 @@
    "n": 0,
    "src": [
     {
-     "t": "Real-time dialogue between experimenters and dreamers during REM sleep (Current Biology, 2021)",
-     "u": "https://www.sciencedaily.com/releases/2021/02/210218114018.htm"
+     "t": "Konkoly et al., Real-time dialogue between experimenters and dreamers during REM sleep (Current Biology, 2021)",
+     "ty": "study",
+     "u": "https://hal.sorbonne-universite.fr/hal-03154112"
     }
    ]
   },
@@ -5729,6 +5906,7 @@
    "src": [
     {
      "t": "Acemoglu, Johnson and Robinson awarded 2024 Nobel Prize (NBER)",
+     "ty": "institution",
      "u": "https://nber.org/news/daron-acemoglu-simon-johnson-and-james-robinson-awarded-2024-nobel-prize"
     }
    ]
@@ -5795,6 +5973,7 @@
    "src": [
     {
      "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+     "ty": "reference",
      "u": "https://www.claymath.org/millennium-problems"
     }
    ]
@@ -5862,10 +6041,12 @@
    "src": [
     {
      "t": "Why humanoid robots aren't advancing as fast as AI chatbots (The Robot Report)",
+     "ty": "press",
      "u": "https://www.therobotreport.com/why-humanoid-robots-arent-advancing-as-fast-as-ai-chatbots/"
     },
     {
      "t": "Are we truly on the verge of a humanoid robot revolution? (UC Berkeley)",
+     "ty": "institution",
      "u": "https://vcresearch.berkeley.edu/news/are-we-truly-verge-humanoid-robot-revolution"
     }
    ]
@@ -5932,8 +6113,9 @@
    "n": 1,
    "src": [
     {
-     "t": "FDA approves first new class of schizophrenia treatment in more than 30 years (Healio, 2024)",
-     "u": "https://cm.healio.com/news/psychiatry/20240927/fda-approves-first-new-class-of-schizophrenia-treatment-in-more-than-30-years"
+     "t": "FDA approves drug with new mechanism of action for treatment of schizophrenia (U.S. FDA, 2024)",
+     "ty": "official",
+     "u": "https://www.fda.gov/news-events/press-announcements/fda-approves-drug-new-mechanism-action-treatment-schizophrenia"
     }
    ]
   },
@@ -5999,6 +6181,7 @@
    "src": [
     {
      "t": "Can you predict earthquakes? (USGS)",
+     "ty": "official",
      "u": "https://www.usgs.gov/faqs/can-you-predict-earthquakes"
     }
    ]
@@ -6068,6 +6251,7 @@
    "src": [
     {
      "t": "Why is sleep important? The brain's glymphatic system (University of Rochester)",
+     "ty": "institution",
      "u": "https://www.rochester.edu/newscenter/why-is-sleep-important-brain-glymphatic-system-692222"
     }
    ]
@@ -6134,8 +6318,9 @@
    "n": 2,
    "src": [
     {
-     "t": "Global lithium-ion battery pack prices fall to $108/kWh, says BNEF (pv magazine, 2025)",
-     "u": "https://pv-magazine-usa.com/2025/12/09/global-lithium-ion-battery-pack-prices-fall-to-108-kwh-says-bnef/"
+     "t": "New record lows for battery prices (BloombergNEF)",
+     "ty": "institution",
+     "u": "https://about.bnef.com/insights/clean-transport/new-record-lows-for-battery-prices/"
     }
    ]
   },
@@ -6202,10 +6387,12 @@
    "src": [
     {
      "t": "Superconductivity at 250 K in lanthanum hydride under high pressures (Nature, 2019)",
+     "ty": "institution",
      "u": "https://www.osti.gov/biblio/1594454-superconductivity-lanthanum-hydride-under-high-pressures"
     },
     {
      "t": "Could high-pressure hydrides be high-temperature superconductors? (Physics World)",
+     "ty": "press",
      "u": "https://physicsworld.com/a/could-high-pressure-hydrides-be-high-temperature-superconductors/"
     }
    ]
@@ -6273,6 +6460,7 @@
    "src": [
     {
      "t": "On the generalization mystery in deep learning (arXiv)",
+     "ty": "preprint",
      "u": "https://arxiv.org/pdf/2203.10036"
     }
    ]
@@ -6339,6 +6527,7 @@
    "src": [
     {
      "t": "Mutual information, islands in black holes and the Page curve (arXiv)",
+     "ty": "preprint",
      "u": "https://arxiv.org/pdf/2109.02996"
     }
    ]
@@ -6405,7 +6594,13 @@
    "n": 1,
    "src": [
     {
+     "t": "Bekker et al., Twice-yearly lenacapavir or daily F/TAF for HIV prevention in cisgender women (NEJM, 2024)",
+     "ty": "study",
+     "u": "https://doi.org/10.1056/NEJMoa2407001"
+    },
+    {
      "t": "HIV prevention drug lenacapavir gets FDA approval (NPR, 2025)",
+     "ty": "press",
      "u": "https://www.npr.org/sections/goats-and-soda/2025/06/18/g-s1-73130/hiv-prevention-drug-lenacapavir-fda-breakthrough"
     }
    ]
@@ -6472,7 +6667,13 @@
    "n": 1,
    "src": [
     {
+     "t": "NASA's tally of planets outside our solar system reaches 6,000 (NASA, 2025)",
+     "ty": "official",
+     "u": "https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/"
+    },
+    {
      "t": "NASA records more than 6,000 exoplanets (Scientific American)",
+     "ty": "press",
      "u": "https://www.scientificamerican.com/article/nasa-records-more-than-6-000-exoplanets-and-counting/"
     }
    ]
@@ -6541,6 +6742,7 @@
    "src": [
     {
      "t": "Global population to peak this century: World Population Prospects 2024 (IISD)",
+     "ty": "official",
      "u": "https://sdg.iisd.org/news/global-population-to-peak-this-century-world-population-prospects-2024/"
     }
    ]
@@ -6608,8 +6810,14 @@
    "n": 1,
    "src": [
     {
-     "t": "A single injection of gene therapy made old mice live longer (Freethink)",
-     "u": "https://www.freethink.com/science/partial-reprogramming"
+     "t": "Ocampo et al., In vivo amelioration of age-associated hallmarks by partial reprogramming (Cell, 2016)",
+     "ty": "study",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/27984723/"
+    },
+    {
+     "t": "Turning back time: Salk scientists reverse signs of aging (Salk Institute, 2016)",
+     "ty": "institution",
+     "u": "https://www.salk.edu/news-release/turning-back-time-salk-scientists-reverse-signs-aging/"
     }
    ]
   },
@@ -6676,7 +6884,13 @@
    "n": 1,
    "src": [
     {
+     "t": "International Space Station (NASA)",
+     "ty": "official",
+     "u": "https://www.nasa.gov/international-space-station/"
+    },
+    {
      "t": "ISS marks 25 years of continuous human presence in orbit (AIAA, 2025)",
+     "ty": "press",
      "u": "https://aiaa.org/2025/11/05/iss-marks-25-years-of-continuous-human-presence-in-orbit/"
     }
    ]
@@ -6743,6 +6957,7 @@
    "src": [
     {
      "t": "InSAR and its applications to study volcanoes (USGS)",
+     "ty": "official",
      "u": "https://www.usgs.gov/maps/interferometric-synthetic-aperture-radar-insar-and-its-applications-study-volcanoes-part-2"
     }
    ]
@@ -6810,6 +7025,7 @@
    "src": [
     {
      "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+     "ty": "reference",
      "u": "https://www.claymath.org/millennium-problems"
     }
    ]

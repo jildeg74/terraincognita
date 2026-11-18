@@ -62,6 +62,45 @@
    "t": "Awad et al., The Moral Machine experiment (Nature, 2018)",
    "ty": "study",
    "u": "https://dspace.mit.edu/handle/1721.1/125065"
+  },
+  {
+   "t": "Do infants have a sense of fairness?",
+   "ty": "study",
+   "u": "https://experts.illinois.edu/en/publications/do-infants-have-a-sense-of-fairness/"
+  },
+  {
+   "t": "Seven Moral Rules Found All Around the World",
+   "ty": "study",
+   "u": "https://www.jubileecentre.ac.uk/wp-content/uploads/2023/07/Curry.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "لماذا ترتب المجتمعات القيم الأخلاقية نفسها بشكل مختلف، مثل تقديم العائلة على الجماعة الأوسع أو العكس؟",
+   "en": "Why do societies rank the same moral values differently, for example putting family above the wider group or the reverse?",
+   "es": "¿Por qué las sociedades ordenan de forma distinta los mismos valores morales, por ejemplo poniendo a la familia por encima del grupo más amplio o al revés?",
+   "fr": "Pourquoi les sociétés classent-elles différemment les mêmes valeurs morales, par exemple en plaçant la famille au-dessus du groupe plus large, ou l'inverse ?",
+   "hi": "समाज एक ही नैतिक मूल्यों को अलग-अलग क्रम में क्यों रखते हैं, जैसे कहीं परिवार को बड़े समूह से ऊपर रखना और कहीं इसका उलटा?",
+   "pt": "Por que as sociedades ordenam de forma diferente os mesmos valores morais, por exemplo colocando a família acima do grupo mais amplo ou o contrário?",
+   "zh": "为什么不同社会对相同道德价值的排序不同，例如有的把家庭置于更大群体之上，有的则相反？"
+  },
+  {
+   "ar": "كيف ترتبط القيم الأخلاقية لمجتمع ما بحجمه ومدى تنقّل أفراده ودرجة عدم المساواة فيه؟",
+   "en": "How are a society's moral values linked to its size, how much people move around, and how unequal it is?",
+   "es": "¿Qué relación hay entre los valores morales de una sociedad y su tamaño, cuánto se desplaza su gente y su nivel de desigualdad?",
+   "fr": "Quels liens y a-t-il entre les valeurs morales d'une société et sa taille, la mobilité de ses membres et son niveau d'inégalité ?",
+   "hi": "किसी समाज के नैतिक मूल्य उसके आकार, लोगों के कितना आने-जाने और उसमें कितनी असमानता है, इनसे कैसे जुड़े हैं?",
+   "pt": "Como os valores morais de uma sociedade se relacionam com o seu tamanho, com o quanto as pessoas se deslocam e com o seu nível de desigualdade?",
+   "zh": "一个社会的道德价值与其规模、人们的流动程度以及不平等程度有何关联？"
+  },
+  {
+   "ar": "هل يمكن تفسير القواعد الأخلاقية المتعلقة بالجنس والدين والسياسة أيضًا على أنها وسائل لمساعدة الناس على التعاون؟",
+   "en": "Can moral rules about sex, religion and politics also be explained as ways of helping people cooperate?",
+   "es": "¿Pueden las normas morales sobre sexo, religión y política explicarse también como formas de ayudar a las personas a cooperar?",
+   "fr": "Les règles morales sur la sexualité, la religion et la politique peuvent-elles aussi s'expliquer comme des moyens d'aider les gens à coopérer ?",
+   "hi": "क्या यौन संबंध, धर्म और राजनीति से जुड़े नैतिक नियमों को भी लोगों के बीच सहयोग में मदद करने के तरीक़ों के रूप में समझाया जा सकता है?",
+   "pt": "As regras morais sobre sexo, religião e política também podem ser explicadas como formas de ajudar as pessoas a cooperar?",
+   "zh": "关于性、宗教和政治的道德规范，是否也能被解释为帮助人们合作的方式？"
   }
  ]
 }

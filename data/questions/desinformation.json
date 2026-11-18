@@ -3,49 +3,49 @@
  "d": "H",
  "i18n": {
   "ar": {
-   "block": "الثقة منخفضة، والأحجام هائلة، والذكاء الاصطناعي يجعل التزييف الواقعي رخيصًا.",
+   "block": "كثيرًا ما تكون الثقة بالخبراء منخفضة، وينتشر المحتوى الكاذب بكميات هائلة.",
    "known": "وجدت دراسة عام 2018 أن الأخبار الكاذبة انتشرت على تويتر أسرع وأبعد من الأخبار الصحيحة.",
    "leads": "معايير منشأ المحتوى، والتحقق من الحقائق مجتمعيًا، والثقافة الإعلامية.",
    "s": "التضليل الإعلامي",
    "t": "كيف تميّز المجتمعات الحقيقة من الزيف على نطاق واسع؟"
   },
   "en": {
-   "block": "Trust is low, volumes are huge, and AI makes realistic fakes cheap.",
+   "block": "Trust in experts is often low, and false content spreads in huge volumes.",
    "known": "A 2018 study found that false news spread faster and further than true news on Twitter.",
    "leads": "Content provenance standards, community fact-checking, media literacy.",
    "s": "Misinformation",
    "t": "How can societies tell truth from falsehood at scale?"
   },
   "es": {
-   "block": "La confianza es baja, los volúmenes son enormes y la IA abarata las falsificaciones realistas.",
+   "block": "La confianza en los expertos suele ser baja y los contenidos falsos circulan en volúmenes enormes.",
    "known": "Un estudio de 2018 encontró que las noticias falsas se difundían más rápido y más lejos que las verdaderas en Twitter.",
    "leads": "Estándares de procedencia de contenidos, verificación comunitaria de datos, alfabetización mediática.",
    "s": "Desinformación",
    "t": "¿Cómo pueden las sociedades distinguir la verdad de la falsedad a gran escala?"
   },
   "fr": {
-   "block": "La confiance est faible, les volumes immenses, et l'IA rend les faux réalistes peu coûteux.",
+   "block": "La confiance envers les experts est souvent faible, et les contenus faux circulent en volumes immenses.",
    "known": "Une étude de 2018 a montré que les fausses nouvelles se propageaient plus vite et plus loin que les vraies sur Twitter.",
    "leads": "Normes de traçabilité des contenus, vérification communautaire, éducation aux médias.",
    "s": "Désinformation",
    "t": "Comment une société peut-elle distinguer le vrai du faux à grande échelle ?"
   },
   "hi": {
-   "block": "भरोसा कम है, मात्रा विशाल है, और AI यथार्थ-सा दिखने वाला नकली सामान सस्ता बना देता है।",
+   "block": "विशेषज्ञों पर भरोसा अक्सर कम होता है, और झूठी सामग्री भारी मात्रा में फैलती है।",
    "known": "2018 के एक अध्ययन में पाया गया कि ट्विटर पर झूठी खबरें सच्ची खबरों से अधिक तेज़ी से और दूर तक फैलीं।",
    "leads": "सामग्री की उत्पत्ति के मानक, सामुदायिक तथ्य-जाँच, मीडिया साक्षरता।",
    "s": "भ्रामक सूचना",
    "t": "समाज बड़े पैमाने पर सच और झूठ में अंतर कैसे कर सकते हैं?"
   },
   "pt": {
-   "block": "A confiança é baixa, os volumes são enormes e a IA torna baratas as falsificações realistas.",
+   "block": "A confiança nos especialistas costuma ser baixa, e conteúdos falsos circulam em volumes enormes.",
    "known": "Um estudo de 2018 constatou que notícias falsas se espalharam mais rápido e mais longe que as verdadeiras no Twitter.",
    "leads": "Padrões de procedência de conteúdo, checagem comunitária de fatos, educação midiática.",
    "s": "Desinformação",
    "t": "Como as sociedades podem distinguir verdade de falsidade em grande escala?"
   },
   "zh": {
-   "block": "信任度低,信息量巨大,而AI让逼真的伪造品变得廉价。",
+   "block": "人们对专家的信任往往很低，而虚假内容的传播量巨大。",
    "known": "2018年的一项研究发现,在推特上,假新闻比真新闻传播得更快、更广。",
    "leads": "内容溯源标准,社区事实核查,媒介素养。",
    "s": "虚假信息",
@@ -63,6 +63,40 @@
    "t": "Vosoughi, Roy, Aral, The spread of true and false news online (Science, 2018)",
    "ty": "institution",
    "u": "https://www.media.mit.edu/publications/the-spread-of-true-and-false-news-online/"
+  },
+  {
+   "t": "The Psychological Drivers of Misinformation Belief and its Resistance to Correction",
+   "ty": "reference",
+   "u": "https://core.ac.uk/download/492596514.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل تصمد نتائج الدراسات المخبرية الصغيرة عن المعلومات المضللة على منصات التواصل الاجتماعي الحقيقية وعلى نطاق واسع؟",
+   "en": "Do results from small lab studies on misinformation hold up on real social media platforms at large scale?",
+   "es": "¿Se mantienen los resultados de pequeños estudios de laboratorio sobre desinformación en redes sociales reales a gran escala?",
+   "fr": "Les résultats des petites études en laboratoire sur la désinformation se vérifient-ils sur de vrais réseaux sociaux à grande échelle ?",
+   "hi": "क्या भ्रामक जानकारी पर छोटे प्रयोगशाला अध्ययनों के नतीजे असली सोशल मीडिया प्लेटफ़ॉर्म पर बड़े पैमाने पर भी सही साबित होते हैं?",
+   "pt": "Os resultados de pequenos estudos de laboratório sobre desinformação se confirmam em redes sociais reais e em grande escala?",
+   "zh": "关于虚假信息的小型实验室研究结果，在大规模的真实社交媒体平台上是否依然成立？"
+  },
+  {
+   "ar": "كيف يتفاعل الناس مع المعلومات المضللة التي ليست نصًا مكتوبًا بسيطًا، مثل الصور المضللة أو التلميحات بدلًا من الادعاءات الصريحة؟",
+   "en": "How do people react to misinformation that is not plain written text, such as misleading images or hints rather than explicit claims?",
+   "es": "¿Cómo reacciona la gente ante la desinformación que no es simple texto escrito, como imágenes engañosas o insinuaciones en lugar de afirmaciones explícitas?",
+   "fr": "Comment les gens réagissent-ils à une désinformation qui n'est pas un simple texte écrit, comme des images trompeuses ou des sous-entendus plutôt que des affirmations explicites ?",
+   "hi": "लोग ऐसी भ्रामक जानकारी पर कैसे प्रतिक्रिया देते हैं जो सादा लिखित पाठ नहीं है, जैसे भ्रामक तस्वीरें या स्पष्ट दावों की जगह इशारे?",
+   "pt": "Como as pessoas reagem à desinformação que não é simples texto escrito, como imagens enganosas ou insinuações em vez de afirmações explícitas?",
+   "zh": "面对不是纯文字的虚假信息，例如误导性图片或暗示而非明确的说法，人们会作何反应？"
+  },
+  {
+   "ar": "هل تكون التصحيحات المقدمة على شكل مقاطع فيديو أو رسوم كاريكاتورية أكثر فاعلية من التصحيحات المكتوبة؟",
+   "en": "Do corrections made as videos or cartoons work better than written corrections?",
+   "es": "¿Funcionan mejor las correcciones en forma de vídeos o viñetas que las correcciones escritas?",
+   "fr": "Les corrections sous forme de vidéos ou de dessins sont-elles plus efficaces que les corrections écrites ?",
+   "hi": "क्या वीडियो या कार्टून के रूप में दिए गए सुधार लिखित सुधारों से बेहतर काम करते हैं?",
+   "pt": "Correções feitas em forma de vídeos ou cartuns funcionam melhor do que correções escritas?",
+   "zh": "以视频或漫画形式进行的辟谣，是否比文字辟谣更有效？"
   }
  ]
 }

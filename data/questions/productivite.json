@@ -62,6 +62,31 @@
    "t": "Bloom, Jones, Van Reenen, Webb, Are ideas getting harder to find? (NBER)",
    "ty": "institution",
    "u": "https://www.nber.org/papers/w23782.pdf"
+  },
+  {
+   "t": "Are Ideas Getting Harder to Find?",
+   "ty": "study",
+   "u": "https://www.aeaweb.org/doi/10.1257/aer.20180338"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "لماذا تتطلب كل فكرة جديدة الآن عددًا أكبر من الباحثين: هل تكرر الفرق عمل بعضها، أم أن الاكتشافات تنتقل فائدتها إلى الآخرين أقل من ذي قبل؟",
+   "en": "Why does each new idea now take more researchers: do teams duplicate each other's work, or do discoveries spill over less than before?",
+   "es": "¿Por qué cada nueva idea requiere ahora más investigadores: los equipos duplican el trabajo de otros, o los descubrimientos se difunden menos que antes?",
+   "fr": "Pourquoi chaque nouvelle idée demande-t-elle désormais plus de chercheurs : les équipes font-elles double emploi, ou les découvertes profitent-elles moins aux autres qu'avant ?",
+   "hi": "अब हर नए विचार के लिए ज़्यादा शोधकर्ता क्यों लगते हैं: क्या टीमें एक-दूसरे का काम दोहराती हैं, या खोजों का लाभ पहले की तुलना में कम फैलता है?",
+   "pt": "Por que cada nova ideia agora exige mais pesquisadores: as equipes duplicam o trabalho umas das outras, ou as descobertas se espalham menos do que antes?",
+   "zh": "为什么现在每个新想法需要更多研究人员：是各团队重复了彼此的工作，还是发现的溢出效应比以前小了？"
+  },
+  {
+   "ar": "هل براءات الاختراع وسيلة موثوقة لعدّ الأفكار الجديدة بينما تغيّر عبر العقود ما يمكن تسجيله كبراءة؟",
+   "en": "Are patents a reliable way to count new ideas when what can be patented has changed over the decades?",
+   "es": "¿Son las patentes una forma fiable de contar nuevas ideas cuando lo que se puede patentar ha cambiado con las décadas?",
+   "fr": "Les brevets sont-ils un moyen fiable de compter les nouvelles idées alors que ce qui peut être breveté a changé au fil des décennies ?",
+   "hi": "जब दशकों में यह बदल गया है कि किस चीज़ का पेटेंट हो सकता है, तो क्या पेटेंट नए विचारों को गिनने का भरोसेमंद तरीका हैं?",
+   "pt": "As patentes são uma forma confiável de contar novas ideias, quando o que pode ser patenteado mudou ao longo das décadas?",
+   "zh": "既然可申请专利的范围几十年来已经改变，专利还是统计新想法的可靠方法吗？"
   }
  ]
 }

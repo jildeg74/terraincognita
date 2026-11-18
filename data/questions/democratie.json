@@ -62,6 +62,31 @@
    "t": "The Irish Citizens' Assembly (OECD Observatory of Public Sector Innovation)",
    "ty": "official",
    "u": "https://oecd-opsi.org/innovations/the-irish-citizens-assembly/"
+  },
+  {
+   "t": "‘Systematizing’ constitutional deliberation: the 2016–18 citizens’ assembly in Ireland",
+   "ty": "study",
+   "u": "https://cora.ucc.ie/handle/10468/10038"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن أن تصبح جمعيات المواطنين جزءًا دائمًا وعاديًا من طريقة اتخاذ الدولة لقراراتها، بدلًا من أن تكون أحداثًا لمرة واحدة؟",
+   "en": "How can citizens' assemblies become a lasting, normal part of how a country makes decisions, rather than one-off events?",
+   "es": "¿Cómo pueden las asambleas ciudadanas convertirse en una parte duradera y normal de la forma en que un país toma decisiones, en lugar de eventos aislados?",
+   "fr": "Comment les assemblées citoyennes peuvent-elles devenir une partie durable et normale de la manière dont un pays décide, plutôt que des événements ponctuels ?",
+   "hi": "नागरिक सभाएँ एक बार की घटना होने के बजाय किसी देश के निर्णय लेने के तरीके का स्थायी और सामान्य हिस्सा कैसे बन सकती हैं?",
+   "pt": "Como as assembleias de cidadãos podem se tornar uma parte duradoura e normal da forma como um país toma decisões, em vez de eventos isolados?",
+   "zh": "公民大会如何才能成为一个国家决策方式中持久、常规的一部分，而不是一次性的活动？"
+  },
+  {
+   "ar": "بعد أن تستخدم دولة ما جمعيات المواطنين، هل يصبح من الأسهل على السياسيين استخدامها مرة أخرى؟",
+   "en": "Once a country has used citizens' assemblies, does it become easier for politicians to use them again?",
+   "es": "Una vez que un país ha recurrido a asambleas ciudadanas, ¿les resulta más fácil a los políticos volver a usarlas?",
+   "fr": "Une fois qu'un pays a eu recours à des assemblées citoyennes, devient-il plus facile pour les responsables politiques d'y recourir à nouveau ?",
+   "hi": "जब कोई देश एक बार नागरिक सभाओं का उपयोग कर लेता है, तो क्या नेताओं के लिए उन्हें दोबारा इस्तेमाल करना आसान हो जाता है?",
+   "pt": "Depois que um país usa assembleias de cidadãos, fica mais fácil para os políticos usá-las de novo?",
+   "zh": "一个国家一旦使用过公民大会，政治人物再次使用它是否会变得更容易？"
   }
  ]
 }

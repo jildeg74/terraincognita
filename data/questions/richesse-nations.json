@@ -59,6 +59,22 @@
    "t": "Acemoglu, Johnson and Robinson awarded 2024 Nobel Prize (NBER)",
    "ty": "institution",
    "u": "https://nber.org/news/daron-acemoglu-simon-johnson-and-james-robinson-awarded-2024-nobel-prize"
+  },
+  {
+   "t": "The Colonial Origins of Comparative Development: An Empirical Investigation",
+   "ty": "study",
+   "u": "https://econpapers.repec.org/RePEc:aea:aecrev:v:91:y:2001:i:5:p:1369-1401"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "ما مدى قوة الأدلة التي تربط معدلات وفيات المستوطنين الاستعماريين الأوائل بجودة مؤسسات البلد اليوم؟",
+   "en": "How solid is the evidence linking the death rates of early colonial settlers to the quality of a country's institutions today?",
+   "es": "¿Qué tan sólida es la evidencia que vincula la mortalidad de los primeros colonos con la calidad de las instituciones de un país hoy?",
+   "fr": "Quelle est la solidité des preuves qui relient le taux de mortalité des premiers colons à la qualité des institutions d'un pays aujourd'hui ?",
+   "hi": "शुरुआती औपनिवेशिक बसने वालों की मृत्यु दर को आज किसी देश की संस्थाओं की गुणवत्ता से जोड़ने वाले सबूत कितने पक्के हैं?",
+   "pt": "Quão sólidas são as evidências que ligam a mortalidade dos primeiros colonos à qualidade das instituições de um país hoje?",
+   "zh": "将早期殖民定居者的死亡率与一个国家当今制度质量联系起来的证据有多可靠？"
   }
  ]
 }

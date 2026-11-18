@@ -63,6 +63,40 @@
    "t": "Richerson, Boyd and Henrich, Cultural evolution of human cooperation (2003)",
    "ty": "institution",
    "u": "https://henrich.fas.harvard.edu/sites/scholar.harvard.edu/files/henrich/files/richerson_boyd_henrich_2003.pdf"
+  },
+  {
+   "t": "The Origins and Psychology of Human Cooperation",
+   "ty": "reference",
+   "u": "https://coevolution.fas.harvard.edu/sites/projects.iq.harvard.edu/files/culture_cognition_coevol_lab/files/annurev-psych-081920-042106.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف نمت المجتمعات لتصبح جماعات كبيرة متعاونة، ولماذا تفكك بعضها، في أماكن مختلفة عبر آلاف السنين؟",
+   "en": "How did societies grow into large cooperating groups, and why did some fall apart, in different places over thousands of years?",
+   "es": "¿Cómo crecieron las sociedades hasta formar grandes grupos que cooperan, y por qué algunas se desintegraron, en distintos lugares a lo largo de milenios?",
+   "fr": "Comment des sociétés sont-elles devenues de grands groupes coopératifs, et pourquoi certaines se sont-elles défaites, en divers lieux au fil des millénaires ?",
+   "hi": "हज़ारों वर्षों में अलग-अलग जगहों पर समाज बड़े सहयोगी समूहों में कैसे बढ़े, और कुछ बिखर क्यों गए?",
+   "pt": "Como as sociedades cresceram até formar grandes grupos cooperativos, e por que algumas se desfizeram, em lugares diferentes ao longo de milênios?",
+   "zh": "在数千年间，不同地方的社会是如何发展成大规模合作群体的？为什么有些又瓦解了？"
+  },
+  {
+   "ar": "لماذا تكون المؤسسات القائمة على العائلة والعشيرة أقوى بكثير في بعض أنحاء العالم منها في غيرها؟",
+   "en": "Why are family- and clan-based institutions so much stronger in some parts of the world than in others?",
+   "es": "¿Por qué las instituciones basadas en la familia y el clan son mucho más fuertes en algunas partes del mundo que en otras?",
+   "fr": "Pourquoi les institutions fondées sur la famille et le clan sont-elles bien plus fortes dans certaines régions du monde que dans d'autres ?",
+   "hi": "परिवार और कुल पर आधारित संस्थाएँ दुनिया के कुछ हिस्सों में दूसरों की तुलना में कहीं ज़्यादा मज़बूत क्यों हैं?",
+   "pt": "Por que as instituições baseadas na família e no clã são muito mais fortes em algumas partes do mundo do que em outras?",
+   "zh": "为什么以家族和氏族为基础的制度在世界某些地区比在其他地区强大得多？"
+  },
+  {
+   "ar": "كيف تطورت الاختصارات الذهنية التي نستخدمها لتقليد سلوك الآخرين، ولماذا تبقى مستقرة؟",
+   "en": "How did the mental shortcuts we use to copy others' behaviour evolve, and why do they stay stable?",
+   "es": "¿Cómo evolucionaron los atajos mentales que usamos para copiar el comportamiento de los demás, y por qué se mantienen estables?",
+   "fr": "Comment ont évolué les raccourcis mentaux qui nous font copier le comportement des autres, et pourquoi restent-ils stables ?",
+   "hi": "दूसरों के व्यवहार की नकल करने के लिए हम जिन मानसिक शॉर्टकट का इस्तेमाल करते हैं, वे कैसे विकसित हुए, और वे स्थिर क्यों बने रहते हैं?",
+   "pt": "Como evoluíram os atalhos mentais que usamos para copiar o comportamento dos outros, e por que eles se mantêm estáveis?",
+   "zh": "我们用来模仿他人行为的心理捷径是如何进化而来的？它们为什么能保持稳定？"
   }
  ]
 }

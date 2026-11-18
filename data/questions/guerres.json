@@ -63,5 +63,34 @@
    "ty": "study",
    "u": "https://www.cambridge.org/core/journals/international-organization/article/abs/rationalist-explanations-for-war/E3B716A4034C11ECF8CE8732BC2F80DD"
   }
+ ],
+ "sub": [
+  {
+   "ar": "لماذا يؤدي انهيار التفاوض أحيانًا إلى الحرب، وأحيانًا أخرى إلى احتجاجات أو انقلابات أو إلى لا عنف على الإطلاق؟",
+   "en": "Why does a breakdown in bargaining sometimes lead to war, and other times to protests, coups or no violence at all?",
+   "es": "¿Por qué el fracaso de una negociación lleva a veces a la guerra y otras veces a protestas, golpes de Estado o ninguna violencia?",
+   "fr": "Pourquoi l'échec d'une négociation mène-t-il parfois à la guerre, et d'autres fois à des manifestations, à des coups d'État ou à aucune violence ?",
+   "hi": "सौदेबाज़ी का टूटना कभी युद्ध की ओर क्यों ले जाता है, और कभी विरोध-प्रदर्शनों, तख़्तापलट या बिल्कुल भी हिंसा न होने की ओर?",
+   "pt": "Por que o fracasso de uma negociação às vezes leva à guerra, e outras vezes a protestos, golpes ou a nenhuma violência?",
+   "zh": "为什么谈判破裂有时会导致战争，而有时只导致抗议、政变，甚至根本没有暴力？"
+  },
+  {
+   "ar": "كيف يمكن للباحثين معرفة ما إذا كانت حرب معينة نشأت عن معلومات مخفية أم عن وعود لا يمكن الوثوق بها؟",
+   "en": "How can researchers tell whether a given war came from hidden information or from promises that could not be trusted?",
+   "es": "¿Cómo pueden los investigadores saber si una guerra concreta surgió de información oculta o de promesas en las que no se podía confiar?",
+   "fr": "Comment les chercheurs peuvent-ils savoir si une guerre donnée vient d'informations cachées ou de promesses auxquelles on ne pouvait pas se fier ?",
+   "hi": "शोधकर्ता कैसे पता लगा सकते हैं कि कोई ख़ास युद्ध छिपी जानकारी से शुरू हुआ या ऐसे वादों से जिन पर भरोसा नहीं किया जा सकता था?",
+   "pt": "Como os pesquisadores podem saber se uma determinada guerra veio de informações ocultas ou de promessas em que não se podia confiar?",
+   "zh": "研究人员如何判断某场战争是源于隐藏的信息，还是源于无法信任的承诺？"
+  },
+  {
+   "ar": "هل يمكن للنظرية نفسها التي تفسر سبب اندلاع الحروب أن تفسر أيضًا كيف يُحافَظ على سلام دائم؟",
+   "en": "Can the same theory that explains why wars start also explain how lasting peace is kept?",
+   "es": "¿Puede la misma teoría que explica por qué empiezan las guerras explicar también cómo se mantiene una paz duradera?",
+   "fr": "La théorie qui explique pourquoi les guerres commencent peut-elle aussi expliquer comment on maintient une paix durable ?",
+   "hi": "जो सिद्धांत बताता है कि युद्ध क्यों शुरू होते हैं, क्या वही यह भी समझा सकता है कि स्थायी शांति कैसे बनी रहती है?",
+   "pt": "A mesma teoria que explica por que as guerras começam pode também explicar como se mantém uma paz duradoura?",
+   "zh": "解释战争为何爆发的同一理论，能否也解释持久和平是如何维持的？"
+  }
  ]
 }

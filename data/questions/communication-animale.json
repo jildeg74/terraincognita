@@ -62,6 +62,40 @@
    "t": "Sperm whale phonetic alphabet proposed for the first time (Project CETI, 2024)",
    "ty": "institution",
    "u": "https://www.projectceti.org/blog-posts/sperm-whale-phonetic-alphabet-proposed-for-the-first-time"
+  },
+  {
+   "t": "Toward understanding the communication in sperm whales",
+   "ty": "study",
+   "u": "https://ora.ox.ac.uk/objects/uuid:8d11055e-3731-483c-9b82-39ce7ad38e43"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل تحمل الفروق الصغيرة في صوت كل نقرة معلومات، أم أن التوقيت بين النقرات وحده هو ما يحملها؟",
+   "en": "Do the tiny differences in the sound of each click carry information, or only the timing between clicks?",
+   "es": "¿Las pequeñas diferencias en el sonido de cada clic transmiten información, o solo el tiempo entre clics?",
+   "fr": "Les petites différences dans le son de chaque clic portent-elles une information, ou seulement le rythme entre les clics ?",
+   "hi": "क्या हर क्लिक की आवाज़ में छोटे-छोटे अंतर कोई जानकारी रखते हैं, या केवल क्लिकों के बीच का समय?",
+   "pt": "As pequenas diferenças no som de cada clique carregam informação, ou apenas o intervalo entre os cliques?",
+   "zh": "每一声咔嗒声在音色上的细微差别是否携带信息，还是只有咔嗒声之间的时间间隔才携带信息？"
+  },
+  {
+   "ar": "ما الغرض الفعلي من أنماط النقرات المختلفة (الكودات) لدى حيتان العنبر؟",
+   "en": "What are individual sperm whale click patterns (codas) actually used for?",
+   "es": "¿Para qué sirven realmente los distintos patrones de clics (codas) de los cachalotes?",
+   "fr": "À quoi servent réellement les différents motifs de clics (codas) des cachalots ?",
+   "hi": "स्पर्म व्हेल के अलग-अलग क्लिक पैटर्न (कोडा) असल में किस काम आते हैं?",
+   "pt": "Para que servem de fato os diferentes padrões de cliques (codas) dos cachalotes?",
+   "zh": "抹香鲸的各种咔嗒声模式（“尾声”）究竟有什么用途？"
+  },
+  {
+   "ar": "ما القواعد التي تحدد أي حوت «يتكلم» ومتى أثناء التبادل؟",
+   "en": "What rules decide which whale 'speaks' when during an exchange?",
+   "es": "¿Qué reglas deciden qué ballena «habla» y cuándo durante un intercambio?",
+   "fr": "Quelles règles décident quelle baleine « parle » et à quel moment pendant un échange ?",
+   "hi": "किसी बातचीत के दौरान कौन-सी व्हेल कब 'बोलेगी', यह कौन-से नियम तय करते हैं?",
+   "pt": "Que regras decidem qual baleia «fala» e quando durante uma troca?",
+   "zh": "在一次交流中，由什么规则决定哪头鲸在什么时候“说话”？"
   }
  ]
 }

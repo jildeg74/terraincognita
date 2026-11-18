@@ -3,49 +3,49 @@
  "d": "H",
  "i18n": {
   "ar": {
-   "block": "كان لسياسات الأسرة أثر محدود حتى الآن.",
+   "block": "يمكن لسياسات الأسرة أن ترفع عدد المواليد لفترة، لكن أثرها الطويل الأمد في الخصوبة غالبًا ما يكون محدودًا.",
    "known": "أصبح معدل الخصوبة في أكثر من نصف دول العالم دون مستوى الإحلال.",
    "leads": "دراسات تكاليف السكن، والعمل والحياة الأسرية، وتغير الأعراف.",
    "s": "انخفاض المواليد",
    "t": "لماذا تنخفض معدلات المواليد في كل مكان تقريبًا؟"
   },
   "en": {
-   "block": "Family policies have had limited effect so far.",
+   "block": "Family policies can raise births for a while, but their long-term effect on fertility is often limited.",
    "known": "More than half of the world's countries now have fertility below replacement level.",
    "leads": "Studies of housing costs, work and family life, and changing norms.",
    "s": "Falling birth rates",
    "t": "Why are birth rates falling almost everywhere?"
   },
   "es": {
-   "block": "Las políticas familiares han tenido hasta ahora un efecto limitado.",
+   "block": "Las políticas familiares pueden aumentar los nacimientos durante un tiempo, pero su efecto a largo plazo sobre la fecundidad suele ser limitado.",
    "known": "Más de la mitad de los países del mundo tienen ya una fecundidad inferior al nivel de reemplazo.",
    "leads": "Estudios sobre el coste de la vivienda, el trabajo y la vida familiar, y el cambio de normas.",
    "s": "Caída de la natalidad",
    "t": "¿Por qué baja la natalidad casi en todas partes?"
   },
   "fr": {
-   "block": "Les politiques familiales ont eu jusqu'ici un effet limité.",
+   "block": "Les politiques familiales peuvent augmenter les naissances pendant un temps, mais leur effet à long terme sur la fécondité est souvent limité.",
    "known": "Plus de la moitié des pays du monde ont aujourd'hui une fécondité sous le seuil de renouvellement.",
    "leads": "Études sur le coût du logement, la conciliation travail-famille et l'évolution des normes.",
    "s": "Baisse de la natalité",
    "t": "Pourquoi la natalité baisse-t-elle presque partout ?"
   },
   "hi": {
-   "block": "परिवार संबंधी नीतियों का अब तक सीमित प्रभाव रहा है।",
+   "block": "परिवार संबंधी नीतियाँ कुछ समय के लिए जन्म बढ़ा सकती हैं, लेकिन प्रजनन दर पर उनका दीर्घकालिक प्रभाव अक्सर सीमित रहता है।",
    "known": "दुनिया के आधे से अधिक देशों में अब प्रजनन दर प्रतिस्थापन स्तर से नीचे है।",
    "leads": "आवास की लागत, काम और पारिवारिक जीवन, और बदलते मानदंडों के अध्ययन।",
    "s": "घटती जन्म दर",
    "t": "लगभग हर जगह जन्म दर क्यों गिर रही है?"
   },
   "pt": {
-   "block": "As políticas familiares tiveram, até agora, efeito limitado.",
+   "block": "As políticas familiares podem aumentar os nascimentos por um tempo, mas seu efeito de longo prazo sobre a fecundidade costuma ser limitado.",
    "known": "Mais da metade dos países do mundo tem hoje fecundidade abaixo do nível de reposição.",
    "leads": "Estudos sobre custo de moradia, trabalho e vida familiar, e mudança de normas.",
    "s": "Queda da natalidade",
    "t": "Por que as taxas de natalidade estão caindo quase em toda parte?"
   },
   "zh": {
-   "block": "家庭政策至今效果有限。",
+   "block": "家庭政策可以在一段时间内提高出生数，但其对生育率的长期影响往往有限。",
    "known": "世界上超过一半的国家,生育率现已低于更替水平。",
    "leads": "对住房成本、工作与家庭生活以及观念变化的研究。",
    "s": "生育率下降",
@@ -62,6 +62,27 @@
    "t": "Global population to peak this century: World Population Prospects 2024 (IISD)",
    "ty": "official",
    "u": "https://sdg.iisd.org/news/global-population-to-peak-this-century-world-population-prospects-2024/"
+  },
+  {
+   "t": "Fertility in High-Income Countries: Trends, Patterns, Determinants, and Consequences",
+   "ty": "reference",
+   "u": "https://www.iza.org/publications/dp/16500"
+  },
+  {
+   "t": "Policy responses to low fertility: How effective are they?",
+   "ty": "official",
+   "u": "https://asiapacific.unfpa.org/sites/default/files/pub-pdf/policy_responses_to_low_fertility.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "عندما يقول الناس كم طفلًا يريدون، هل هذا مثلٌ أعلى عام أم خطة حقيقية لحياتهم؟",
+   "en": "When people say how many children they want, is that a general ideal or a real plan for their own lives?",
+   "es": "Cuando la gente dice cuántos hijos quiere, ¿es un ideal general o un plan real para su propia vida?",
+   "fr": "Quand les gens disent combien d'enfants ils veulent, est-ce un idéal général ou un vrai projet pour leur propre vie ?",
+   "hi": "जब लोग बताते हैं कि वे कितने बच्चे चाहते हैं, तो क्या यह एक सामान्य आदर्श होता है या अपने जीवन की असली योजना?",
+   "pt": "Quando as pessoas dizem quantos filhos querem, isso é um ideal geral ou um plano real para a própria vida?",
+   "zh": "当人们说出想要几个孩子时，这只是一种普遍的理想，还是对自己生活的真实计划？"
   }
  ]
 }

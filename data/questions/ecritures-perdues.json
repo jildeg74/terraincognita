@@ -67,6 +67,40 @@
    "t": "AI unravels ancient Roman scroll charred by volcano (Scientific American)",
    "ty": "press",
    "u": "https://www.scientificamerican.com/article/ai-unravels-ancient-roman-scrolls-charred-by-volcano/"
+  },
+  {
+   "t": "Advanced Techniques for the Decipherment of Ancient Scripts",
+   "ty": "study",
+   "u": "https://cris.unibo.it/bitstream/11585/916534/1/1720-9331-38086-3.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل رموز السند والرونغورونغو كتابة حقيقية تدوّن لغة، أم نوع مختلف من أنظمة الرموز؟",
+   "en": "Are the Indus signs and Rongorongo real writing that records a language, or a different kind of symbol system?",
+   "es": "¿Son los signos del Indo y el rongorongo una verdadera escritura que registra una lengua, o un tipo distinto de sistema de símbolos?",
+   "fr": "Les signes de l'Indus et le rongorongo sont-ils une véritable écriture qui note une langue, ou un autre type de système de symboles ?",
+   "hi": "क्या सिंधु के चिह्न और रोंगोरोंगो सचमुच किसी भाषा को दर्ज करने वाली लिपि हैं, या किसी और तरह की प्रतीक-प्रणाली?",
+   "pt": "Os sinais do Indo e o rongorongo são uma escrita verdadeira que registra uma língua, ou um tipo diferente de sistema de símbolos?",
+   "zh": "印度河符号和朗格朗格文字是记录语言的真正文字，还是另一种符号系统？"
+  },
+  {
+   "ar": "كيف يمكن تقسيم الرونغورونغو إلى وحدات لغوية بينما يبدو كثير من رموزه شبه متطابق؟",
+   "en": "How can Rongorongo be split into units of language when many of its signs look almost identical?",
+   "es": "¿Cómo dividir el rongorongo en unidades de lengua cuando muchos de sus signos parecen casi idénticos?",
+   "fr": "Comment découper le rongorongo en unités de langue alors que beaucoup de ses signes se ressemblent presque à l'identique ?",
+   "hi": "जब रोंगोरोंगो के कई चिह्न लगभग एक जैसे दिखते हैं, तो उसे भाषा की इकाइयों में कैसे बाँटा जाए?",
+   "pt": "Como dividir o rongorongo em unidades de língua quando muitos de seus sinais parecem quase idênticos?",
+   "zh": "朗格朗格文字的许多符号看起来几乎一模一样，该如何把它切分成语言单位？"
+  },
+  {
+   "ar": "هل تستطيع الأساليب الحاسوبية فك كتابة مجهولة تمامًا بمفردها، أم يمكنها فقط مساعدة الخبراء من البشر؟",
+   "en": "Can computer methods crack a truly unknown script by themselves, or can they only assist human experts?",
+   "es": "¿Pueden los métodos informáticos descifrar por sí solos una escritura realmente desconocida, o solo pueden ayudar a los expertos humanos?",
+   "fr": "Les méthodes informatiques peuvent-elles déchiffrer seules une écriture vraiment inconnue, ou peuvent-elles seulement aider les experts humains ?",
+   "hi": "क्या कंप्यूटर विधियाँ अपने आप किसी पूरी तरह अज्ञात लिपि को पढ़ सकती हैं, या वे केवल मानव विशेषज्ञों की मदद कर सकती हैं?",
+   "pt": "Os métodos computacionais conseguem decifrar sozinhos uma escrita realmente desconhecida, ou só podem ajudar especialistas humanos?",
+   "zh": "计算机方法能否独立破译一种真正未知的文字，还是只能辅助人类专家？"
   }
  ]
 }

@@ -63,5 +63,34 @@
    "ty": "study",
    "u": "https://dspace.mit.edu/handle/1721.1/88068"
   }
+ ],
+ "sub": [
+  {
+   "ar": "متى ظهرت في أسلافنا الآليات الدماغية الخاصة بالقواعد والمعنى؟",
+   "en": "When did the brain machinery for grammar and meaning appear in our ancestors?",
+   "es": "¿Cuándo apareció en nuestros antepasados la maquinaria cerebral de la gramática y el significado?",
+   "fr": "Quand la machinerie cérébrale de la grammaire et du sens est-elle apparue chez nos ancêtres ?",
+   "hi": "व्याकरण और अर्थ के लिए दिमाग़ की व्यवस्था हमारे पूर्वजों में कब प्रकट हुई?",
+   "pt": "Quando surgiu em nossos ancestrais a maquinaria cerebral da gramática e do significado?",
+   "zh": "负责语法和意义的大脑机制是在我们祖先身上何时出现的？"
+  },
+  {
+   "ar": "كيف تؤدي جينات محددة إلى القدرة على استخدام اللغة؟",
+   "en": "How do specific genes lead to the ability to use language?",
+   "es": "¿Cómo conducen genes concretos a la capacidad de usar el lenguaje?",
+   "fr": "Comment des gènes précis conduisent-ils à la capacité d'utiliser le langage ?",
+   "hi": "विशिष्ट जीन भाषा का उपयोग करने की क्षमता तक कैसे पहुँचाते हैं?",
+   "pt": "Como genes específicos levam à capacidade de usar a linguagem?",
+   "zh": "具体的基因是如何导致使用语言的能力的？"
+  },
+  {
+   "ar": "هل يمتلك أي نظام تواصل حيواني شيئًا يشبه قواعد اللغة البشرية؟",
+   "en": "Does any animal communication system have anything like the grammar of human language?",
+   "es": "¿Tiene algún sistema de comunicación animal algo parecido a la gramática del lenguaje humano?",
+   "fr": "Un système de communication animale possède-t-il quoi que ce soit de comparable à la grammaire du langage humain ?",
+   "hi": "क्या किसी जानवर की संचार प्रणाली में मानव भाषा के व्याकरण जैसा कुछ है?",
+   "pt": "Algum sistema de comunicação animal tem algo parecido com a gramática da linguagem humana?",
+   "zh": "是否有任何动物的交流系统具有类似人类语言语法的东西？"
+  }
  ]
 }

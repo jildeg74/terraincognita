@@ -36,6 +36,166 @@
   {
    "f": "known",
    "q": "previsions-meteo"
+  },
+  {
+   "q": "bonheur",
+   "f": "src"
+  },
+  {
+   "q": "bonheur",
+   "f": "sub"
+  },
+  {
+   "q": "communication-animale",
+   "f": "src"
+  },
+  {
+   "q": "communication-animale",
+   "f": "sub"
+  },
+  {
+   "q": "cooperation",
+   "f": "src"
+  },
+  {
+   "q": "cooperation",
+   "f": "sub"
+  },
+  {
+   "q": "democratie",
+   "f": "src"
+  },
+  {
+   "q": "democratie",
+   "f": "sub"
+  },
+  {
+   "q": "desinformation",
+   "f": "src"
+  },
+  {
+   "q": "desinformation",
+   "f": "sub"
+  },
+  {
+   "q": "desinformation",
+   "f": "block"
+  },
+  {
+   "q": "dispersion-humaine",
+   "f": "sub"
+  },
+  {
+   "q": "ecritures-perdues",
+   "f": "src"
+  },
+  {
+   "q": "ecritures-perdues",
+   "f": "sub"
+  },
+  {
+   "q": "education",
+   "f": "src"
+  },
+  {
+   "q": "education",
+   "f": "sub"
+  },
+  {
+   "q": "effondrement",
+   "f": "src"
+  },
+  {
+   "q": "effondrement",
+   "f": "sub"
+  },
+  {
+   "q": "effondrement",
+   "f": "known"
+  },
+  {
+   "q": "guerres",
+   "f": "sub"
+  },
+  {
+   "q": "inegalites",
+   "f": "src"
+  },
+  {
+   "q": "inegalites",
+   "f": "sub"
+  },
+  {
+   "q": "langage-origine",
+   "f": "sub"
+  },
+  {
+   "q": "moralite",
+   "f": "src"
+  },
+  {
+   "q": "moralite",
+   "f": "sub"
+  },
+  {
+   "q": "natalite",
+   "f": "src"
+  },
+  {
+   "q": "natalite",
+   "f": "sub"
+  },
+  {
+   "q": "natalite",
+   "f": "block"
+  },
+  {
+   "q": "pauvrete-extreme",
+   "f": "src"
+  },
+  {
+   "q": "pauvrete-extreme",
+   "f": "sub"
+  },
+  {
+   "q": "pauvrete-extreme",
+   "f": "known"
+  },
+  {
+   "q": "productivite",
+   "f": "src"
+  },
+  {
+   "q": "productivite",
+   "f": "sub"
+  },
+  {
+   "q": "richesse-nations",
+   "f": "src"
+  },
+  {
+   "q": "richesse-nations",
+   "f": "sub"
+  },
+  {
+   "q": "vieillissement-pop",
+   "f": "src"
+  },
+  {
+   "q": "vieillissement-pop",
+   "f": "sub"
+  },
+  {
+   "q": "vieillissement-pop",
+   "f": "known"
+  },
+  {
+   "q": "vivre-espace",
+   "f": "src"
+  },
+  {
+   "q": "vivre-espace",
+   "f": "sub"
   }
  ]
 }

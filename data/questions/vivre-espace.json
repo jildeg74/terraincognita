@@ -68,6 +68,40 @@
    "t": "ISS marks 25 years of continuous human presence in orbit (AIAA, 2025)",
    "ty": "press",
    "u": "https://aiaa.org/2025/11/05/iss-marks-25-years-of-continuous-human-presence-in-orbit/"
+  },
+  {
+   "t": "Red risks for a journey to the red planet: The highest priority human health risks for a mission to Mars",
+   "ty": "study",
+   "u": "https://ui.adsabs.harvard.edu/abs/2020npjMG...6...33P"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن حماية رواد الفضاء من الإشعاع الفضائي الذي قد يزيد خطر الإصابة بالسرطان وأمراض القلب ومشكلات الذاكرة في رحلة إلى المريخ؟",
+   "en": "How can astronauts be protected from space radiation, which may raise the risk of cancer, heart disease and memory problems on a trip to Mars?",
+   "es": "¿Cómo proteger a los astronautas de la radiación espacial, que puede aumentar el riesgo de cáncer, enfermedades del corazón y problemas de memoria en un viaje a Marte?",
+   "fr": "Comment protéger les astronautes des radiations spatiales, qui pourraient augmenter le risque de cancer, de maladies cardiaques et de troubles de la mémoire lors d'un voyage vers Mars ?",
+   "hi": "मंगल की यात्रा में अंतरिक्ष विकिरण कैंसर, हृदय रोग और याददाश्त की समस्याओं का ख़तरा बढ़ा सकता है; अंतरिक्ष यात्रियों को इससे कैसे बचाया जाए?",
+   "pt": "Como proteger os astronautas da radiação espacial, que pode aumentar o risco de câncer, doenças cardíacas e problemas de memória numa viagem a Marte?",
+   "zh": "在前往火星的旅途中，太空辐射可能增加患癌症、心脏病和记忆问题的风险，如何保护宇航员免受其害？"
+  },
+  {
+   "ar": "لماذا تؤثر رحلات الفضاء الطويلة في عيون رواد الفضاء وبصرهم، وكيف يمكن منع ذلك؟",
+   "en": "Why does long spaceflight affect astronauts' eyes and vision, and how can it be prevented?",
+   "es": "¿Por qué los vuelos espaciales largos afectan a los ojos y la vista de los astronautas, y cómo se puede prevenir?",
+   "fr": "Pourquoi les longs séjours dans l'espace affectent-ils les yeux et la vue des astronautes, et comment l'éviter ?",
+   "hi": "लंबी अंतरिक्ष उड़ान अंतरिक्ष यात्रियों की आँखों और दृष्टि पर असर क्यों डालती है, और इसे कैसे रोका जा सकता है?",
+   "pt": "Por que os voos espaciais longos afetam os olhos e a visão dos astronautas, e como isso pode ser evitado?",
+   "zh": "为什么长期太空飞行会影响宇航员的眼睛和视力？如何预防？"
+  },
+  {
+   "ar": "هل يمكن، بالجمع بين جينات الشخص وكل ما يتعرض له في الفضاء، التنبؤ بكيفية استجابة جسمه كله لمهمة طويلة؟",
+   "en": "Can combining a person's genes with all their exposures in space predict how their whole body will respond to a long mission?",
+   "es": "¿Se puede predecir cómo responderá todo el cuerpo de una persona a una misión larga combinando sus genes con todas sus exposiciones en el espacio?",
+   "fr": "Peut-on, en combinant les gènes d'une personne et toutes ses expositions dans l'espace, prédire comment tout son corps réagira à une longue mission ?",
+   "hi": "क्या किसी व्यक्ति के जीन और अंतरिक्ष में उसके सभी संपर्कों (एक्सपोज़र) को मिलाकर यह अनुमान लगाया जा सकता है कि लंबे मिशन पर उसका पूरा शरीर कैसी प्रतिक्रिया देगा?",
+   "pt": "É possível prever como o corpo inteiro de uma pessoa vai reagir a uma missão longa combinando seus genes com todas as suas exposições no espaço?",
+   "zh": "将一个人的基因与其在太空中的所有暴露因素结合起来，能否预测其整个身体对长期任务的反应？"
   }
  ]
 }

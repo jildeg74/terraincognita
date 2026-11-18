@@ -62,6 +62,31 @@
    "t": "World Inequality Report 2018: executive summary",
    "ty": "institution",
    "u": "https://wir2018.wid.world/executive-summary.html"
+  },
+  {
+   "t": "Global Income Inequality, 1820–2020: the Persistence and Mutation of Extreme Inequality",
+   "ty": "study",
+   "u": "https://www.parisschoolofeconomics.eu/publications-hal/global-income-inequality-1820-2020-the-persistence-and-mutation-of-extreme-inequality"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن قياس دخول الأكثر ثراءً بدقة في حين أن المسوح الأسرية لا تلتقطها جيدًا؟",
+   "en": "How can we measure the incomes of the very richest people accurately when household surveys miss them?",
+   "es": "¿Cómo medir con precisión los ingresos de los más ricos cuando las encuestas de hogares no los captan bien?",
+   "fr": "Comment mesurer avec précision les revenus des plus riches alors que les enquêtes auprès des ménages les saisissent mal ?",
+   "hi": "जब घरेलू सर्वेक्षण सबसे अमीर लोगों को ठीक से नहीं पकड़ पाते, तो उनकी आय को सही-सही कैसे मापा जाए?",
+   "pt": "Como medir com precisão a renda dos mais ricos quando as pesquisas domiciliares não conseguem captá-la bem?",
+   "zh": "既然家庭调查难以覆盖最富有的人，我们该如何准确衡量他们的收入？"
+  },
+  {
+   "ar": "هل يمكن لقواعد جديدة، مثل تقاسم الدول للإيرادات الضريبية، أن تقلل عدم المساواة في العالم بشكل كبير؟",
+   "en": "Could new rules, such as countries sharing tax revenue, substantially reduce inequality across the world?",
+   "es": "¿Podrían nuevas reglas, como que los países compartan ingresos fiscales, reducir de forma sustancial la desigualdad en el mundo?",
+   "fr": "De nouvelles règles, comme le partage des recettes fiscales entre pays, pourraient-elles réduire fortement les inégalités dans le monde ?",
+   "hi": "क्या नए नियम, जैसे देशों के बीच कर-राजस्व का बँटवारा, दुनिया भर में असमानता को काफ़ी हद तक घटा सकते हैं?",
+   "pt": "Novas regras, como a partilha de receitas fiscais entre países, poderiam reduzir substancialmente a desigualdade no mundo?",
+   "zh": "新的规则，例如各国分享税收收入，能否大幅减少全球不平等？"
   }
  ]
 }

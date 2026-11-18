@@ -4,49 +4,49 @@
  "i18n": {
   "ar": {
    "block": "سيعيل عدد أقل من العاملين عددًا أكبر من المتقاعدين.",
-   "known": "تتوقع الأمم المتحدة أنه بحلول عام 2050 سيتجاوز شخص واحد من كل ستة عمر 65 عامًا.",
+   "known": "توقعت الأمم المتحدة عام 2019 أنه بحلول عام 2050 سيتجاوز شخص واحد من كل ستة عمر 65 عامًا.",
    "leads": "شيخوخة أكثر صحة، والأتمتة، والهجرة وإصلاح أنظمة التقاعد.",
    "s": "المجتمعات المسنّة",
    "t": "كيف ستواصل المجتمعات المسنّة الاستمرار؟"
   },
   "en": {
    "block": "Fewer workers will support more retirees.",
-   "known": "The UN projects that by 2050 about one person in six will be over 65.",
+   "known": "In 2019 the UN projected that by 2050 about one person in six will be over 65.",
    "leads": "Healthier aging, automation, migration and pension reform.",
    "s": "Aging societies",
    "t": "How will aging societies sustain themselves?"
   },
   "es": {
    "block": "Menos trabajadores mantendrán a más jubilados.",
-   "known": "La ONU proyecta que en 2050 cerca de una de cada seis personas tendrá más de 65 años.",
+   "known": "En 2019, la ONU proyectó que en 2050 cerca de una de cada seis personas tendría más de 65 años.",
    "leads": "Envejecimiento más saludable, automatización, migración y reforma de las pensiones.",
    "s": "Sociedades envejecidas",
    "t": "¿Cómo se sostendrán las sociedades que envejecen?"
   },
   "fr": {
    "block": "Moins d'actifs devront soutenir plus de retraités.",
-   "known": "L'ONU prévoit qu'en 2050 environ une personne sur six aura plus de 65 ans.",
+   "known": "En 2019, l'ONU prévoyait qu'en 2050 environ une personne sur six aurait plus de 65 ans.",
    "leads": "Vieillir en meilleure santé, automatisation, migrations, réformes des retraites.",
    "s": "Sociétés vieillissantes",
    "t": "Comment les sociétés vieillissantes vont-elles tenir ?"
   },
   "hi": {
    "block": "कम कामगार अधिक सेवानिवृत्त लोगों का भार उठाएँगे।",
-   "known": "संयुक्त राष्ट्र का अनुमान है कि 2050 तक लगभग हर छह में से एक व्यक्ति 65 से अधिक उम्र का होगा।",
+   "known": "2019 में संयुक्त राष्ट्र ने अनुमान लगाया था कि 2050 तक लगभग हर छह में से एक व्यक्ति 65 से अधिक उम्र का होगा।",
    "leads": "अधिक स्वस्थ वृद्धावस्था, स्वचालन, प्रवासन और पेंशन सुधार।",
    "s": "वृद्ध होते समाज",
    "t": "वृद्ध होते समाज खुद को कैसे चलाएँगे?"
   },
   "pt": {
    "block": "Menos trabalhadores sustentarão mais aposentados.",
-   "known": "A ONU projeta que, até 2050, cerca de uma pessoa em cada seis terá mais de 65 anos.",
+   "known": "Em 2019, a ONU projetou que, até 2050, cerca de uma pessoa em cada seis terá mais de 65 anos.",
    "leads": "Envelhecimento mais saudável, automação, migração e reforma da previdência.",
    "s": "Sociedades que envelhecem",
    "t": "Como as sociedades em envelhecimento vão se sustentar?"
   },
   "zh": {
    "block": "更少的劳动者要供养更多的退休者。",
-   "known": "联合国预测,到2050年,约每六个人中就有一人年过65岁。",
+   "known": "联合国在2019年预测，到2050年约每六个人中就有一人年过65岁。",
    "leads": "更健康的衰老,自动化,移民和养老金改革。",
    "s": "老龄化社会",
    "t": "老龄化社会将如何维持下去?"
@@ -63,6 +63,36 @@
    "t": "Global population to peak this century: World Population Prospects 2024 (IISD)",
    "ty": "official",
    "u": "https://sdg.iisd.org/news/global-population-to-peak-this-century-world-population-prospects-2024/"
+  },
+  {
+   "t": "The Effect of Population Aging on Economic Growth, the Labor Force, and Productivity",
+   "ty": "study",
+   "u": "https://www.aeaweb.org/doi/10.1257/mac.20190196"
+  },
+  {
+   "t": "9.7 billion on Earth by 2050, but growth rate slowing, says new UN population report",
+   "ty": "official",
+   "u": "https://news.un.org/en/story/2019/06/1040621"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يستطيع العمال الأكبر سنًا الانتقال إلى قطاعات يمكن فيها للأتمتة أن تعوّض نقص العمال، رغم أن الناس يغيّرون وظائفهم أقل كلما تقدموا في السن؟",
+   "en": "Can older workers move into industries where automation could make up for missing workers, even though people change jobs less as they age?",
+   "es": "¿Pueden los trabajadores mayores pasar a sectores donde la automatización podría compensar la falta de mano de obra, aunque la gente cambia menos de empleo al envejecer?",
+   "fr": "Les travailleurs âgés peuvent-ils passer vers des secteurs où l'automatisation pourrait compenser le manque de main-d'œuvre, alors qu'on change moins d'emploi en vieillissant ?",
+   "hi": "उम्र बढ़ने के साथ लोग कम नौकरियाँ बदलते हैं, फिर भी क्या बुज़ुर्ग कामगार उन उद्योगों में जा सकते हैं जहाँ स्वचालन कामगारों की कमी पूरी कर सकता है?",
+   "pt": "Os trabalhadores mais velhos conseguem mudar para setores em que a automação poderia compensar a falta de mão de obra, mesmo que as pessoas mudem menos de emprego à medida que envelhecem?",
+   "zh": "尽管人们年龄越大越少换工作，年长劳动者能否转入那些自动化可以弥补人手不足的行业？"
+  },
+  {
+   "ar": "حيث لا تساعد الأتمتة كثيرًا، هل يمكن لزيادة الهجرة وارتفاع المشاركة في العمل أن يعوّضا شيخوخة القوى العاملة؟",
+   "en": "Where automation cannot help much, can more immigration and higher work participation make up for an ageing workforce?",
+   "es": "Donde la automatización ayuda poco, ¿pueden más inmigración y una mayor participación laboral compensar el envejecimiento de la fuerza de trabajo?",
+   "fr": "Là où l'automatisation aide peu, davantage d'immigration et une plus forte participation au travail peuvent-elles compenser le vieillissement de la main-d'œuvre ?",
+   "hi": "जहाँ स्वचालन ज़्यादा मदद नहीं कर सकता, क्या ज़्यादा आप्रवासन और काम में ज़्यादा भागीदारी बूढ़ी होती कार्यशक्ति की भरपाई कर सकते हैं?",
+   "pt": "Onde a automação ajuda pouco, mais imigração e maior participação no trabalho podem compensar o envelhecimento da força de trabalho?",
+   "zh": "在自动化帮助有限的地方，更多移民和更高的劳动参与率能否弥补劳动力老龄化？"
   }
  ]
 }

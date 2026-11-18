@@ -4,49 +4,49 @@
  "i18n": {
   "ar": {
    "block": "يتركز الفقر المتبقي في البلدان الهشة والمتضررة من النزاعات.",
-   "known": "انخفضت نسبة الأشخاص في فقر مدقع من أكثر من الثلث عام 1990 إلى أقل من 10%.",
+   "known": "انخفض عدد الأشخاص الذين يعيشون في فقر مدقع من نحو 2.3 مليار عام 1990 إلى نحو 831 مليونًا عام 2025، أي نحو شخص واحد من كل عشرة.",
    "leads": "التحويلات النقدية المباشرة، والنمو، وبيانات أفضل عن هوية الفقراء.",
    "s": "الفقر المدقع",
    "t": "هل يمكن القضاء على الفقر المدقع؟"
   },
   "en": {
    "block": "The remaining poverty is concentrated in fragile and conflict-hit countries.",
-   "known": "The share of people in extreme poverty fell from more than a third in 1990 to under 10%.",
+   "known": "The number of people in extreme poverty fell from about 2.3 billion in 1990 to about 831 million in 2025, about one person in ten.",
    "leads": "Direct cash transfers, growth, better data on who is poor.",
    "s": "Extreme poverty",
    "t": "Can extreme poverty be ended?"
   },
   "es": {
    "block": "La pobreza restante se concentra en países frágiles y afectados por conflictos.",
-   "known": "La proporción de personas en pobreza extrema bajó de más de un tercio en 1990 a menos del 10 %.",
+   "known": "El número de personas en pobreza extrema bajó de unos 2.300 millones en 1990 a unos 831 millones en 2025, alrededor de una de cada diez personas.",
    "leads": "Transferencias directas de dinero, crecimiento, mejores datos sobre quién es pobre.",
    "s": "Pobreza extrema",
    "t": "¿Se puede acabar con la pobreza extrema?"
   },
   "fr": {
    "block": "La pauvreté restante se concentre dans des pays fragiles ou en conflit.",
-   "known": "La part de l'humanité en extrême pauvreté est passée de plus d'un tiers en 1990 à moins de 10 %.",
+   "known": "Le nombre de personnes en extrême pauvreté est passé d'environ 2,3 milliards en 1990 à environ 831 millions en 2025, soit environ une personne sur dix.",
    "leads": "Transferts d'argent directs, croissance, meilleures données sur qui est pauvre.",
    "s": "Extrême pauvreté",
    "t": "Peut-on mettre fin à l'extrême pauvreté ?"
   },
   "hi": {
    "block": "बची हुई गरीबी नाज़ुक और संघर्ष-ग्रस्त देशों में केंद्रित है।",
-   "known": "अत्यधिक गरीबी में रहने वाले लोगों का हिस्सा 1990 में एक-तिहाई से अधिक था, जो घटकर 10% से कम रह गया है।",
+   "known": "अत्यधिक गरीबी में रहने वाले लोगों की संख्या 1990 में लगभग 2.3 अरब से घटकर 2025 में लगभग 83.1 करोड़ रह गई, यानी लगभग हर दस में से एक व्यक्ति।",
    "leads": "सीधे नकद हस्तांतरण, आर्थिक वृद्धि, यह जानने के लिए बेहतर आँकड़े कि कौन गरीब है।",
    "s": "अत्यधिक गरीबी",
    "t": "क्या अत्यधिक गरीबी खत्म की जा सकती है?"
   },
   "pt": {
    "block": "A pobreza restante se concentra em países frágeis e atingidos por conflitos.",
-   "known": "A parcela de pessoas em pobreza extrema caiu de mais de um terço em 1990 para menos de 10%.",
+   "known": "O número de pessoas em pobreza extrema caiu de cerca de 2,3 bilhões em 1990 para cerca de 831 milhões em 2025, cerca de uma pessoa em cada dez.",
    "leads": "Transferências diretas de dinheiro, crescimento econômico, dados melhores sobre quem é pobre.",
    "s": "Pobreza extrema",
    "t": "É possível acabar com a pobreza extrema?"
   },
   "zh": {
    "block": "剩下的贫困集中在脆弱和受冲突影响的国家。",
-   "known": "极端贫困人口的比例已从1990年的三分之一以上降到不足10%。",
+   "known": "极端贫困人口已从1990年的约23亿降至2025年的约8.31亿，约为每十人中有一人。",
    "leads": "直接现金转移支付、经济增长、更准确的贫困人口数据。",
    "s": "极端贫困",
    "t": "极端贫困能被消除吗?"
@@ -63,6 +63,31 @@
    "t": "Poverty and Inequality Update, Fall 2025 (World Bank)",
    "ty": "official",
    "u": "https://thedocs.worldbank.org/en/doc/229ff18129687a785f08af7cfb28e5e1-0350012025/original/WBG-Poverty-and-Inequality-Update-Fall-2025.pdf"
+  },
+  {
+   "t": "General equilibrium effects of cash transfers: experimental evidence from Kenya",
+   "ty": "study",
+   "u": "https://www.econometricsociety.org/publications/econometrica/2022/11/01/General-Equilibrium-Effects-of-Cash-Transfers-Experimental-Evidence-from-Kenya"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل توجد فخاخ فقر لا يكسرها إلا مبلغ كبير بما يكفي من المال، وما حجم هذا المبلغ لمختلف الأسر؟",
+   "en": "Are there poverty traps that only a large enough sum of money can break, and how big would that sum be for different families?",
+   "es": "¿Existen trampas de pobreza que solo una suma de dinero lo bastante grande puede romper, y cuán grande tendría que ser para distintas familias?",
+   "fr": "Existe-t-il des pièges à pauvreté que seule une somme assez importante peut briser, et quelle serait cette somme selon les familles ?",
+   "hi": "क्या ऐसे गरीबी-जाल होते हैं जिन्हें केवल पर्याप्त बड़ी रकम ही तोड़ सकती है, और अलग-अलग परिवारों के लिए वह रकम कितनी बड़ी होगी?",
+   "pt": "Existem armadilhas da pobreza que só uma quantia grande o suficiente de dinheiro consegue romper, e qual seria essa quantia para diferentes famílias?",
+   "zh": "是否存在只有足够大的一笔钱才能打破的贫困陷阱？对于不同家庭，这笔钱需要多大？"
+  },
+  {
+   "ar": "هل تستمر فوائد التحويلات النقدية أكثر من أربع سنوات بعد تلقي المال؟",
+   "en": "Do the benefits of cash transfers last more than four years after the money is received?",
+   "es": "¿Duran los beneficios de las transferencias de dinero más de cuatro años después de recibirlo?",
+   "fr": "Les bienfaits des transferts d'argent durent-ils plus de quatre ans après la réception de l'argent ?",
+   "hi": "क्या नकद हस्तांतरण के फ़ायदे पैसा मिलने के चार साल से ज़्यादा समय तक बने रहते हैं?",
+   "pt": "Os benefícios das transferências de dinheiro duram mais de quatro anos depois de o dinheiro ser recebido?",
+   "zh": "现金转移的好处在收到钱后能否持续四年以上？"
   }
  ]
 }

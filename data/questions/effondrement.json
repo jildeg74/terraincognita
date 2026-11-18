@@ -4,49 +4,49 @@
  "i18n": {
   "ar": {
    "block": "الحالات قليلة وكل منها مختلفة، فيصعب اختبار قوانين عامة.",
-   "known": "تجتمع الأسباب من صدمات مناخية، ونزاعات، وتفاوت، ومؤسسات فاشلة.",
+   "known": "تشير دراسات الأزمات الماضية إلى ضغوط مثل الإفقار الواسع، وتنافس عدد من الطامحين إلى مواقع النخبة يفوق المواقع المتاحة، وضائقة مالية لدى الدولة.",
    "leads": "قواعد بيانات تاريخية كبيرة مثل سيشات، والتاريخ الكمي.",
    "s": "انهيار الحضارات",
    "t": "لماذا تنهار الحضارات؟"
   },
   "en": {
    "block": "There are few cases, each different, so general laws are hard to test.",
-   "known": "Causes combine climate shocks, conflict, inequality and failing institutions.",
+   "known": "Studies of past crises point to pressures such as widespread impoverishment, more people competing for elite positions than there are places, and strained state finances.",
    "leads": "Large historical databases such as Seshat, quantitative history.",
    "s": "Collapse of civilizations",
    "t": "Why do civilizations collapse?"
   },
   "es": {
    "block": "Hay pocos casos, cada uno distinto, así que es difícil poner a prueba leyes generales.",
-   "known": "Las causas combinan crisis climáticas, conflictos, desigualdad e instituciones que fallan.",
+   "known": "Los estudios de crisis pasadas señalan presiones como el empobrecimiento generalizado, más aspirantes a puestos de élite que plazas disponibles y unas finanzas del Estado en apuros.",
    "leads": "Grandes bases de datos históricas como Seshat, historia cuantitativa.",
    "s": "Colapso de civilizaciones",
    "t": "¿Por qué colapsan las civilizaciones?"
   },
   "fr": {
    "block": "Les cas sont rares et tous différents, ce qui rend les lois générales difficiles à tester.",
-   "known": "Les causes combinent chocs climatiques, conflits, inégalités et institutions défaillantes.",
+   "known": "Les études des crises passées pointent des pressions comme l'appauvrissement généralisé, plus de prétendants aux positions d'élite que de places disponibles, et des finances publiques en difficulté.",
    "leads": "Grandes bases de données historiques comme Seshat, histoire quantitative.",
    "s": "Effondrements",
    "t": "Pourquoi les civilisations s'effondrent-elles ?"
   },
   "hi": {
    "block": "मामले कम हैं और हर एक अलग है, इसलिए सामान्य नियमों को परखना कठिन है।",
-   "known": "कारणों में जलवायु आघात, संघर्ष, असमानता और विफल होती संस्थाएँ मिली हुई हैं।",
+   "known": "पिछले संकटों के अध्ययन व्यापक दरिद्रता, उपलब्ध स्थानों से ज़्यादा लोगों की अभिजात पदों के लिए होड़, और राज्य के वित्त पर दबाव जैसे दबावों की ओर इशारा करते हैं।",
    "leads": "सेशैट जैसे बड़े ऐतिहासिक डेटाबेस, मात्रात्मक इतिहास।",
    "s": "सभ्यताओं का पतन",
    "t": "सभ्यताएँ क्यों ढह जाती हैं?"
   },
   "pt": {
    "block": "Há poucos casos, cada um diferente, então leis gerais são difíceis de testar.",
-   "known": "As causas combinam choques climáticos, conflitos, desigualdade e instituições em falência.",
+   "known": "Estudos de crises passadas apontam pressões como o empobrecimento generalizado, mais pessoas disputando posições de elite do que há vagas, e finanças do Estado em dificuldade.",
    "leads": "Grandes bases de dados históricos, como o Seshat, história quantitativa.",
    "s": "Colapso de civilizações",
    "t": "Por que as civilizações entram em colapso?"
   },
   "zh": {
    "block": "案例很少,而且各不相同,因此很难检验一般规律。",
-   "known": "成因包括气候冲击、冲突、不平等和制度失灵的共同作用。",
+   "known": "对过去危机的研究指出了一些压力，例如普遍贫困化、争夺精英地位的人多于可用位置，以及国家财政紧张。",
    "leads": "Seshat等大型历史数据库,定量历史学。",
    "s": "文明崩溃",
    "t": "文明为什么会崩溃?"
@@ -62,6 +62,36 @@
    "t": "Social complexity and collapse (Complexity Science Hub, Seshat)",
    "ty": "institution",
    "u": "https://csh.ac.at/research/research-topic/social-complexity-collapse/"
+  },
+  {
+   "t": "All Crises are Unhappy in Their Own Way: The Role of Societal Instability in Shaping the Past",
+   "ty": "study",
+   "u": "https://www.cambridge.org/core/product/E1D2B51191D90217272192C2F7A173B4/core-reader"
+  },
+  {
+   "t": "When Collapse Wasn't Inevitable: How Some Societies Turned Crisis into Renewal",
+   "ty": "institution",
+   "u": "https://csh.ac.at/news/when-collapse-wasnt-inevitable-how-some-societies-turned-crisis-into-renewal/"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "لماذا تنتهي بعض الأزمات المجتمعية بالانهيار بينما تؤدي أزمات أخرى إلى الإصلاح والتجدد؟",
+   "en": "Why do some societal crises end in collapse while others lead to reform and renewal?",
+   "es": "¿Por qué algunas crisis sociales terminan en colapso mientras que otras conducen a reformas y renovación?",
+   "fr": "Pourquoi certaines crises de société se terminent-elles par un effondrement, alors que d'autres mènent à des réformes et à un renouveau ?",
+   "hi": "कुछ सामाजिक संकट पतन में क्यों ख़त्म होते हैं, जबकि दूसरे सुधार और नवीनीकरण की ओर ले जाते हैं?",
+   "pt": "Por que algumas crises sociais terminam em colapso enquanto outras levam a reformas e renovação?",
+   "zh": "为什么有些社会危机以崩溃告终，而另一些却带来了改革与复兴？"
+  },
+  {
+   "ar": "لماذا لا تميل العواقب المختلفة لأزمة مجتمعية إلى الحدوث معًا؟",
+   "en": "Why do the different consequences of a societal crisis not tend to happen together?",
+   "es": "¿Por qué las distintas consecuencias de una crisis social no suelen darse juntas?",
+   "fr": "Pourquoi les différentes conséquences d'une crise de société n'ont-elles pas tendance à survenir ensemble ?",
+   "hi": "किसी सामाजिक संकट के अलग-अलग परिणाम आम तौर पर एक साथ क्यों नहीं होते?",
+   "pt": "Por que as diferentes consequências de uma crise social não costumam acontecer juntas?",
+   "zh": "为什么一场社会危机的各种后果往往不会同时出现？"
   }
  ]
 }

@@ -62,6 +62,31 @@
    "t": "70% of 10-year-olds now in learning poverty (World Bank, 2022)",
    "ty": "official",
    "u": "https://www.worldbank.org/en/news/press-release/2022/06/23/70-of-10-year-olds-now-in-learning-poverty-unable-to-read-and-understand-a-simple-text"
+  },
+  {
+   "t": "Experimental Evidence on Four Policies to Increase Learning at Scale",
+   "ty": "study",
+   "u": "https://poverty-action.org/sites/default/files/2024-07/ueae003.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن لأدوات التعليم القائمة على التكنولوجيا أن ترفع التعلم بقدر ما تفعله المساعدة الإضافية من مساعدي المعلمين؟",
+   "en": "Can technology-based teaching tools raise learning as much as extra help from teaching assistants?",
+   "es": "¿Pueden las herramientas de enseñanza basadas en tecnología mejorar el aprendizaje tanto como la ayuda adicional de asistentes docentes?",
+   "fr": "Les outils d'enseignement fondés sur la technologie peuvent-ils améliorer l'apprentissage autant que l'aide supplémentaire d'assistants pédagogiques ?",
+   "hi": "क्या तकनीक-आधारित शिक्षण उपकरण सहायक शिक्षकों की अतिरिक्त मदद जितना सीखने में सुधार ला सकते हैं?",
+   "pt": "Ferramentas de ensino baseadas em tecnologia podem melhorar a aprendizagem tanto quanto a ajuda extra de assistentes de ensino?",
+   "zh": "基于技术的教学工具能否像助教的额外帮助一样提高学习成效？"
+  },
+  {
+   "ar": "أي طريقة لتعليم الأطفال وفق مستواهم تحقق أكبر قدر من التعلم مقابل المال المنفق؟",
+   "en": "Which way of teaching children at their level gives the most learning for the money?",
+   "es": "¿Qué forma de enseñar a los niños según su nivel ofrece más aprendizaje por el dinero invertido?",
+   "fr": "Quelle façon d'enseigner aux enfants à leur niveau apporte le plus d'apprentissage pour le même coût ?",
+   "hi": "बच्चों को उनके स्तर के अनुसार पढ़ाने का कौन-सा तरीका खर्च के हिसाब से सबसे ज़्यादा सीख देता है?",
+   "pt": "Qual forma de ensinar as crianças no seu nível traz mais aprendizagem pelo dinheiro investido?",
+   "zh": "按儿童实际水平施教的哪种方式，能以同样的花费带来最多的学习成效？"
   }
  ]
 }

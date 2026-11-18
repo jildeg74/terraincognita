@@ -59,9 +59,34 @@
  "n": 1,
  "src": [
   {
-   "t": "Over nearly 80 years, Harvard study has been showing how to live a healthy and happy life (Harvard Gazette)",
+   "t": "Good genes are nice, but joy is better (Harvard Gazette)",
    "ty": "institution",
    "u": "https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/"
+  },
+  {
+   "t": "Friends make us happy: evidence from three European panel studies",
+   "ty": "study",
+   "u": "https://www.iser.essex.ac.uk/research/publications/publication-588570"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يجعل الأصدقاء الناس أكثر سعادة فعلًا، أم أن الأشخاص الأكثر سعادة يجدون ببساطة سهولة أكبر في تكوين الصداقات؟",
+   "en": "Do friends actually make people happier, or do happier people simply find it easier to make friends?",
+   "es": "¿De verdad los amigos hacen más felices a las personas, o simplemente a las personas más felices les resulta más fácil hacer amigos?",
+   "fr": "Les amis rendent-ils vraiment les gens plus heureux, ou les gens plus heureux se font-ils simplement des amis plus facilement ?",
+   "hi": "क्या दोस्त सचमुच लोगों को ज़्यादा खुश बनाते हैं, या ज़्यादा खुश लोगों के लिए बस दोस्त बनाना आसान होता है?",
+   "pt": "Os amigos realmente deixam as pessoas mais felizes, ou as pessoas mais felizes simplesmente têm mais facilidade em fazer amigos?",
+   "zh": "是朋友真的让人更快乐，还是更快乐的人只是更容易交到朋友？"
+  },
+  {
+   "ar": "لماذا يبدو أن الروابط الاجتماعية تؤثر في الرضا عن الحياة لدى النساء والرجال بشكل مختلف؟",
+   "en": "Why do social ties seem to affect the life satisfaction of women and men differently?",
+   "es": "¿Por qué los lazos sociales parecen influir de forma distinta en la satisfacción con la vida de mujeres y hombres?",
+   "fr": "Pourquoi les liens sociaux semblent-ils influencer différemment la satisfaction de vie des femmes et des hommes ?",
+   "hi": "सामाजिक संबंध महिलाओं और पुरुषों के जीवन-संतोष पर अलग-अलग असर क्यों डालते दिखते हैं?",
+   "pt": "Por que os laços sociais parecem afetar de forma diferente a satisfação com a vida de mulheres e homens?",
+   "zh": "为什么社会关系对女性和男性生活满意度的影响似乎有所不同？"
   }
  ]
 }

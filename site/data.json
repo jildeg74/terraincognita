@@ -553,9 +553,34 @@
    "n": 1,
    "src": [
     {
-     "t": "Over nearly 80 years, Harvard study has been showing how to live a healthy and happy life (Harvard Gazette)",
+     "t": "Good genes are nice, but joy is better (Harvard Gazette)",
      "ty": "institution",
      "u": "https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/"
+    },
+    {
+     "t": "Friends make us happy: evidence from three European panel studies",
+     "ty": "study",
+     "u": "https://www.iser.essex.ac.uk/research/publications/publication-588570"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يجعل الأصدقاء الناس أكثر سعادة فعلًا، أم أن الأشخاص الأكثر سعادة يجدون ببساطة سهولة أكبر في تكوين الصداقات؟",
+     "en": "Do friends actually make people happier, or do happier people simply find it easier to make friends?",
+     "es": "¿De verdad los amigos hacen más felices a las personas, o simplemente a las personas más felices les resulta más fácil hacer amigos?",
+     "fr": "Les amis rendent-ils vraiment les gens plus heureux, ou les gens plus heureux se font-ils simplement des amis plus facilement ?",
+     "hi": "क्या दोस्त सचमुच लोगों को ज़्यादा खुश बनाते हैं, या ज़्यादा खुश लोगों के लिए बस दोस्त बनाना आसान होता है?",
+     "pt": "Os amigos realmente deixam as pessoas mais felizes, ou as pessoas mais felizes simplesmente têm mais facilidade em fazer amigos?",
+     "zh": "是朋友真的让人更快乐，还是更快乐的人只是更容易交到朋友？"
+    },
+    {
+     "ar": "لماذا يبدو أن الروابط الاجتماعية تؤثر في الرضا عن الحياة لدى النساء والرجال بشكل مختلف؟",
+     "en": "Why do social ties seem to affect the life satisfaction of women and men differently?",
+     "es": "¿Por qué los lazos sociales parecen influir de forma distinta en la satisfacción con la vida de mujeres y hombres?",
+     "fr": "Pourquoi les liens sociaux semblent-ils influencer différemment la satisfaction de vie des femmes et des hommes ?",
+     "hi": "सामाजिक संबंध महिलाओं और पुरुषों के जीवन-संतोष पर अलग-अलग असर क्यों डालते दिखते हैं?",
+     "pt": "Por que os laços sociais parecem afetar de forma diferente a satisfação com a vida de mulheres e homens?",
+     "zh": "为什么社会关系对女性和男性生活满意度的影响似乎有所不同？"
     }
    ]
   },
@@ -1052,6 +1077,40 @@
      "t": "Sperm whale phonetic alphabet proposed for the first time (Project CETI, 2024)",
      "ty": "institution",
      "u": "https://www.projectceti.org/blog-posts/sperm-whale-phonetic-alphabet-proposed-for-the-first-time"
+    },
+    {
+     "t": "Toward understanding the communication in sperm whales",
+     "ty": "study",
+     "u": "https://ora.ox.ac.uk/objects/uuid:8d11055e-3731-483c-9b82-39ce7ad38e43"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل تحمل الفروق الصغيرة في صوت كل نقرة معلومات، أم أن التوقيت بين النقرات وحده هو ما يحملها؟",
+     "en": "Do the tiny differences in the sound of each click carry information, or only the timing between clicks?",
+     "es": "¿Las pequeñas diferencias en el sonido de cada clic transmiten información, o solo el tiempo entre clics?",
+     "fr": "Les petites différences dans le son de chaque clic portent-elles une information, ou seulement le rythme entre les clics ?",
+     "hi": "क्या हर क्लिक की आवाज़ में छोटे-छोटे अंतर कोई जानकारी रखते हैं, या केवल क्लिकों के बीच का समय?",
+     "pt": "As pequenas diferenças no som de cada clique carregam informação, ou apenas o intervalo entre os cliques?",
+     "zh": "每一声咔嗒声在音色上的细微差别是否携带信息，还是只有咔嗒声之间的时间间隔才携带信息？"
+    },
+    {
+     "ar": "ما الغرض الفعلي من أنماط النقرات المختلفة (الكودات) لدى حيتان العنبر؟",
+     "en": "What are individual sperm whale click patterns (codas) actually used for?",
+     "es": "¿Para qué sirven realmente los distintos patrones de clics (codas) de los cachalotes?",
+     "fr": "À quoi servent réellement les différents motifs de clics (codas) des cachalots ?",
+     "hi": "स्पर्म व्हेल के अलग-अलग क्लिक पैटर्न (कोडा) असल में किस काम आते हैं?",
+     "pt": "Para que servem de fato os diferentes padrões de cliques (codas) dos cachalotes?",
+     "zh": "抹香鲸的各种咔嗒声模式（“尾声”）究竟有什么用途？"
+    },
+    {
+     "ar": "ما القواعد التي تحدد أي حوت «يتكلم» ومتى أثناء التبادل؟",
+     "en": "What rules decide which whale 'speaks' when during an exchange?",
+     "es": "¿Qué reglas deciden qué ballena «habla» y cuándo durante un intercambio?",
+     "fr": "Quelles règles décident quelle baleine « parle » et à quel moment pendant un échange ?",
+     "hi": "किसी बातचीत के दौरान कौन-सी व्हेल कब 'बोलेगी', यह कौन-से नियम तय करते हैं?",
+     "pt": "Que regras decidem qual baleia «fala» e quando durante uma troca?",
+     "zh": "在一次交流中，由什么规则决定哪头鲸在什么时候“说话”？"
     }
    ]
   },
@@ -1260,6 +1319,40 @@
      "t": "Richerson, Boyd and Henrich, Cultural evolution of human cooperation (2003)",
      "ty": "institution",
      "u": "https://henrich.fas.harvard.edu/sites/scholar.harvard.edu/files/henrich/files/richerson_boyd_henrich_2003.pdf"
+    },
+    {
+     "t": "The Origins and Psychology of Human Cooperation",
+     "ty": "reference",
+     "u": "https://coevolution.fas.harvard.edu/sites/projects.iq.harvard.edu/files/culture_cognition_coevol_lab/files/annurev-psych-081920-042106.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف نمت المجتمعات لتصبح جماعات كبيرة متعاونة، ولماذا تفكك بعضها، في أماكن مختلفة عبر آلاف السنين؟",
+     "en": "How did societies grow into large cooperating groups, and why did some fall apart, in different places over thousands of years?",
+     "es": "¿Cómo crecieron las sociedades hasta formar grandes grupos que cooperan, y por qué algunas se desintegraron, en distintos lugares a lo largo de milenios?",
+     "fr": "Comment des sociétés sont-elles devenues de grands groupes coopératifs, et pourquoi certaines se sont-elles défaites, en divers lieux au fil des millénaires ?",
+     "hi": "हज़ारों वर्षों में अलग-अलग जगहों पर समाज बड़े सहयोगी समूहों में कैसे बढ़े, और कुछ बिखर क्यों गए?",
+     "pt": "Como as sociedades cresceram até formar grandes grupos cooperativos, e por que algumas se desfizeram, em lugares diferentes ao longo de milênios?",
+     "zh": "在数千年间，不同地方的社会是如何发展成大规模合作群体的？为什么有些又瓦解了？"
+    },
+    {
+     "ar": "لماذا تكون المؤسسات القائمة على العائلة والعشيرة أقوى بكثير في بعض أنحاء العالم منها في غيرها؟",
+     "en": "Why are family- and clan-based institutions so much stronger in some parts of the world than in others?",
+     "es": "¿Por qué las instituciones basadas en la familia y el clan son mucho más fuertes en algunas partes del mundo que en otras?",
+     "fr": "Pourquoi les institutions fondées sur la famille et le clan sont-elles bien plus fortes dans certaines régions du monde que dans d'autres ?",
+     "hi": "परिवार और कुल पर आधारित संस्थाएँ दुनिया के कुछ हिस्सों में दूसरों की तुलना में कहीं ज़्यादा मज़बूत क्यों हैं?",
+     "pt": "Por que as instituições baseadas na família e no clã são muito mais fortes em algumas partes do mundo do que em outras?",
+     "zh": "为什么以家族和氏族为基础的制度在世界某些地区比在其他地区强大得多？"
+    },
+    {
+     "ar": "كيف تطورت الاختصارات الذهنية التي نستخدمها لتقليد سلوك الآخرين، ولماذا تبقى مستقرة؟",
+     "en": "How did the mental shortcuts we use to copy others' behaviour evolve, and why do they stay stable?",
+     "es": "¿Cómo evolucionaron los atajos mentales que usamos para copiar el comportamiento de los demás, y por qué se mantienen estables?",
+     "fr": "Comment ont évolué les raccourcis mentaux qui nous font copier le comportement des autres, et pourquoi restent-ils stables ?",
+     "hi": "दूसरों के व्यवहार की नकल करने के लिए हम जिन मानसिक शॉर्टकट का इस्तेमाल करते हैं, वे कैसे विकसित हुए, और वे स्थिर क्यों बने रहते हैं?",
+     "pt": "Como evoluíram os atalhos mentais que usamos para copiar o comportamento dos outros, e por que eles se mantêm estáveis?",
+     "zh": "我们用来模仿他人行为的心理捷径是如何进化而来的？它们为什么能保持稳定？"
     }
    ]
   },
@@ -1328,6 +1421,31 @@
      "t": "The Irish Citizens' Assembly (OECD Observatory of Public Sector Innovation)",
      "ty": "official",
      "u": "https://oecd-opsi.org/innovations/the-irish-citizens-assembly/"
+    },
+    {
+     "t": "‘Systematizing’ constitutional deliberation: the 2016–18 citizens’ assembly in Ireland",
+     "ty": "study",
+     "u": "https://cora.ucc.ie/handle/10468/10038"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن أن تصبح جمعيات المواطنين جزءًا دائمًا وعاديًا من طريقة اتخاذ الدولة لقراراتها، بدلًا من أن تكون أحداثًا لمرة واحدة؟",
+     "en": "How can citizens' assemblies become a lasting, normal part of how a country makes decisions, rather than one-off events?",
+     "es": "¿Cómo pueden las asambleas ciudadanas convertirse en una parte duradera y normal de la forma en que un país toma decisiones, en lugar de eventos aislados?",
+     "fr": "Comment les assemblées citoyennes peuvent-elles devenir une partie durable et normale de la manière dont un pays décide, plutôt que des événements ponctuels ?",
+     "hi": "नागरिक सभाएँ एक बार की घटना होने के बजाय किसी देश के निर्णय लेने के तरीके का स्थायी और सामान्य हिस्सा कैसे बन सकती हैं?",
+     "pt": "Como as assembleias de cidadãos podem se tornar uma parte duradoura e normal da forma como um país toma decisões, em vez de eventos isolados?",
+     "zh": "公民大会如何才能成为一个国家决策方式中持久、常规的一部分，而不是一次性的活动？"
+    },
+    {
+     "ar": "بعد أن تستخدم دولة ما جمعيات المواطنين، هل يصبح من الأسهل على السياسيين استخدامها مرة أخرى؟",
+     "en": "Once a country has used citizens' assemblies, does it become easier for politicians to use them again?",
+     "es": "Una vez que un país ha recurrido a asambleas ciudadanas, ¿les resulta más fácil a los políticos volver a usarlas?",
+     "fr": "Une fois qu'un pays a eu recours à des assemblées citoyennes, devient-il plus facile pour les responsables politiques d'y recourir à nouveau ?",
+     "hi": "जब कोई देश एक बार नागरिक सभाओं का उपयोग कर लेता है, तो क्या नेताओं के लिए उन्हें दोबारा इस्तेमाल करना आसान हो जाता है?",
+     "pt": "Depois que um país usa assembleias de cidadãos, fica mais fácil para os políticos usá-las de novo?",
+     "zh": "一个国家一旦使用过公民大会，政治人物再次使用它是否会变得更容易？"
     }
    ]
   },
@@ -1405,49 +1523,49 @@
    "d": "H",
    "i18n": {
     "ar": {
-     "block": "الثقة منخفضة، والأحجام هائلة، والذكاء الاصطناعي يجعل التزييف الواقعي رخيصًا.",
+     "block": "كثيرًا ما تكون الثقة بالخبراء منخفضة، وينتشر المحتوى الكاذب بكميات هائلة.",
      "known": "وجدت دراسة عام 2018 أن الأخبار الكاذبة انتشرت على تويتر أسرع وأبعد من الأخبار الصحيحة.",
      "leads": "معايير منشأ المحتوى، والتحقق من الحقائق مجتمعيًا، والثقافة الإعلامية.",
      "s": "التضليل الإعلامي",
      "t": "كيف تميّز المجتمعات الحقيقة من الزيف على نطاق واسع؟"
     },
     "en": {
-     "block": "Trust is low, volumes are huge, and AI makes realistic fakes cheap.",
+     "block": "Trust in experts is often low, and false content spreads in huge volumes.",
      "known": "A 2018 study found that false news spread faster and further than true news on Twitter.",
      "leads": "Content provenance standards, community fact-checking, media literacy.",
      "s": "Misinformation",
      "t": "How can societies tell truth from falsehood at scale?"
     },
     "es": {
-     "block": "La confianza es baja, los volúmenes son enormes y la IA abarata las falsificaciones realistas.",
+     "block": "La confianza en los expertos suele ser baja y los contenidos falsos circulan en volúmenes enormes.",
      "known": "Un estudio de 2018 encontró que las noticias falsas se difundían más rápido y más lejos que las verdaderas en Twitter.",
      "leads": "Estándares de procedencia de contenidos, verificación comunitaria de datos, alfabetización mediática.",
      "s": "Desinformación",
      "t": "¿Cómo pueden las sociedades distinguir la verdad de la falsedad a gran escala?"
     },
     "fr": {
-     "block": "La confiance est faible, les volumes immenses, et l'IA rend les faux réalistes peu coûteux.",
+     "block": "La confiance envers les experts est souvent faible, et les contenus faux circulent en volumes immenses.",
      "known": "Une étude de 2018 a montré que les fausses nouvelles se propageaient plus vite et plus loin que les vraies sur Twitter.",
      "leads": "Normes de traçabilité des contenus, vérification communautaire, éducation aux médias.",
      "s": "Désinformation",
      "t": "Comment une société peut-elle distinguer le vrai du faux à grande échelle ?"
     },
     "hi": {
-     "block": "भरोसा कम है, मात्रा विशाल है, और AI यथार्थ-सा दिखने वाला नकली सामान सस्ता बना देता है।",
+     "block": "विशेषज्ञों पर भरोसा अक्सर कम होता है, और झूठी सामग्री भारी मात्रा में फैलती है।",
      "known": "2018 के एक अध्ययन में पाया गया कि ट्विटर पर झूठी खबरें सच्ची खबरों से अधिक तेज़ी से और दूर तक फैलीं।",
      "leads": "सामग्री की उत्पत्ति के मानक, सामुदायिक तथ्य-जाँच, मीडिया साक्षरता।",
      "s": "भ्रामक सूचना",
      "t": "समाज बड़े पैमाने पर सच और झूठ में अंतर कैसे कर सकते हैं?"
     },
     "pt": {
-     "block": "A confiança é baixa, os volumes são enormes e a IA torna baratas as falsificações realistas.",
+     "block": "A confiança nos especialistas costuma ser baixa, e conteúdos falsos circulam em volumes enormes.",
      "known": "Um estudo de 2018 constatou que notícias falsas se espalharam mais rápido e mais longe que as verdadeiras no Twitter.",
      "leads": "Padrões de procedência de conteúdo, checagem comunitária de fatos, educação midiática.",
      "s": "Desinformação",
      "t": "Como as sociedades podem distinguir verdade de falsidade em grande escala?"
     },
     "zh": {
-     "block": "信任度低,信息量巨大,而AI让逼真的伪造品变得廉价。",
+     "block": "人们对专家的信任往往很低，而虚假内容的传播量巨大。",
      "known": "2018年的一项研究发现,在推特上,假新闻比真新闻传播得更快、更广。",
      "leads": "内容溯源标准,社区事实核查,媒介素养。",
      "s": "虚假信息",
@@ -1465,6 +1583,40 @@
      "t": "Vosoughi, Roy, Aral, The spread of true and false news online (Science, 2018)",
      "ty": "institution",
      "u": "https://www.media.mit.edu/publications/the-spread-of-true-and-false-news-online/"
+    },
+    {
+     "t": "The Psychological Drivers of Misinformation Belief and its Resistance to Correction",
+     "ty": "reference",
+     "u": "https://core.ac.uk/download/492596514.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل تصمد نتائج الدراسات المخبرية الصغيرة عن المعلومات المضللة على منصات التواصل الاجتماعي الحقيقية وعلى نطاق واسع؟",
+     "en": "Do results from small lab studies on misinformation hold up on real social media platforms at large scale?",
+     "es": "¿Se mantienen los resultados de pequeños estudios de laboratorio sobre desinformación en redes sociales reales a gran escala?",
+     "fr": "Les résultats des petites études en laboratoire sur la désinformation se vérifient-ils sur de vrais réseaux sociaux à grande échelle ?",
+     "hi": "क्या भ्रामक जानकारी पर छोटे प्रयोगशाला अध्ययनों के नतीजे असली सोशल मीडिया प्लेटफ़ॉर्म पर बड़े पैमाने पर भी सही साबित होते हैं?",
+     "pt": "Os resultados de pequenos estudos de laboratório sobre desinformação se confirmam em redes sociais reais e em grande escala?",
+     "zh": "关于虚假信息的小型实验室研究结果，在大规模的真实社交媒体平台上是否依然成立？"
+    },
+    {
+     "ar": "كيف يتفاعل الناس مع المعلومات المضللة التي ليست نصًا مكتوبًا بسيطًا، مثل الصور المضللة أو التلميحات بدلًا من الادعاءات الصريحة؟",
+     "en": "How do people react to misinformation that is not plain written text, such as misleading images or hints rather than explicit claims?",
+     "es": "¿Cómo reacciona la gente ante la desinformación que no es simple texto escrito, como imágenes engañosas o insinuaciones en lugar de afirmaciones explícitas?",
+     "fr": "Comment les gens réagissent-ils à une désinformation qui n'est pas un simple texte écrit, comme des images trompeuses ou des sous-entendus plutôt que des affirmations explicites ?",
+     "hi": "लोग ऐसी भ्रामक जानकारी पर कैसे प्रतिक्रिया देते हैं जो सादा लिखित पाठ नहीं है, जैसे भ्रामक तस्वीरें या स्पष्ट दावों की जगह इशारे?",
+     "pt": "Como as pessoas reagem à desinformação que não é simples texto escrito, como imagens enganosas ou insinuações em vez de afirmações explícitas?",
+     "zh": "面对不是纯文字的虚假信息，例如误导性图片或暗示而非明确的说法，人们会作何反应？"
+    },
+    {
+     "ar": "هل تكون التصحيحات المقدمة على شكل مقاطع فيديو أو رسوم كاريكاتورية أكثر فاعلية من التصحيحات المكتوبة؟",
+     "en": "Do corrections made as videos or cartoons work better than written corrections?",
+     "es": "¿Funcionan mejor las correcciones en forma de vídeos o viñetas que las correcciones escritas?",
+     "fr": "Les corrections sous forme de vidéos ou de dessins sont-elles plus efficaces que les corrections écrites ?",
+     "hi": "क्या वीडियो या कार्टून के रूप में दिए गए सुधार लिखित सुधारों से बेहतर काम करते हैं?",
+     "pt": "Correções feitas em forma de vídeos ou cartuns funcionam melhor do que correções escritas?",
+     "zh": "以视频或漫画形式进行的辟谣，是否比文字辟谣更有效？"
     }
    ]
   },
@@ -1537,6 +1689,26 @@
      "t": "Discoveries about ancient human evolution win 2022 Nobel Prize (Scientific American)",
      "ty": "press",
      "u": "https://www.scientificamerican.com/article/discoveries-about-ancient-human-evolution-win-2022-nobel-prize-in-physiology-or-medicine/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "متى غادرت جماعات من الإنسان العاقل أفريقيا لأول مرة، كما تشير أحافير من مواقع في إسرائيل واليونان؟",
+     "en": "How early did groups of Homo sapiens first leave Africa, as fossils from sites in Israel and Greece suggest?",
+     "es": "¿Cuán pronto salieron de África por primera vez grupos de Homo sapiens, como sugieren fósiles de yacimientos en Israel y Grecia?",
+     "fr": "À quelle date des groupes d'Homo sapiens ont-ils quitté l'Afrique pour la première fois, comme le suggèrent des fossiles de sites en Israël et en Grèce ?",
+     "hi": "इज़राइल और ग्रीस के स्थलों के जीवाश्म जैसा संकेत देते हैं, होमो सेपियन्स के समूहों ने पहली बार अफ़्रीका कितनी जल्दी छोड़ा था?",
+     "pt": "Quão cedo grupos de Homo sapiens deixaram a África pela primeira vez, como sugerem fósseis de sítios em Israel e na Grécia?",
+     "zh": "正如以色列和希腊遗址的化石所暗示的那样，智人群体最早是在多早的时候离开非洲的？"
+    },
+    {
+     "ar": "أين ومتى وكم مرة تزاوج البشر المعاصرون الأوائل مع جماعات بشرية قديمة داخل أفريقيا نفسها؟",
+     "en": "Where, when and how often did early modern humans interbreed with archaic human groups inside Africa?",
+     "es": "¿Dónde, cuándo y con qué frecuencia se cruzaron los primeros humanos modernos con grupos humanos arcaicos dentro de África?",
+     "fr": "Où, quand et à quelle fréquence les premiers humains modernes se sont-ils croisés avec des groupes humains archaïques en Afrique même ?",
+     "hi": "शुरुआती आधुनिक मानवों ने अफ़्रीका के भीतर ही पुरातन मानव समूहों के साथ कहाँ, कब और कितनी बार संतान पैदा की?",
+     "pt": "Onde, quando e com que frequência os primeiros humanos modernos se cruzaram com grupos humanos arcaicos dentro da própria África?",
+     "zh": "早期现代人在非洲境内于何时、何地、多频繁地与古老人类群体混血？"
     }
    ]
   },
@@ -1746,6 +1918,40 @@
      "t": "AI unravels ancient Roman scroll charred by volcano (Scientific American)",
      "ty": "press",
      "u": "https://www.scientificamerican.com/article/ai-unravels-ancient-roman-scrolls-charred-by-volcano/"
+    },
+    {
+     "t": "Advanced Techniques for the Decipherment of Ancient Scripts",
+     "ty": "study",
+     "u": "https://cris.unibo.it/bitstream/11585/916534/1/1720-9331-38086-3.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل رموز السند والرونغورونغو كتابة حقيقية تدوّن لغة، أم نوع مختلف من أنظمة الرموز؟",
+     "en": "Are the Indus signs and Rongorongo real writing that records a language, or a different kind of symbol system?",
+     "es": "¿Son los signos del Indo y el rongorongo una verdadera escritura que registra una lengua, o un tipo distinto de sistema de símbolos?",
+     "fr": "Les signes de l'Indus et le rongorongo sont-ils une véritable écriture qui note une langue, ou un autre type de système de symboles ?",
+     "hi": "क्या सिंधु के चिह्न और रोंगोरोंगो सचमुच किसी भाषा को दर्ज करने वाली लिपि हैं, या किसी और तरह की प्रतीक-प्रणाली?",
+     "pt": "Os sinais do Indo e o rongorongo são uma escrita verdadeira que registra uma língua, ou um tipo diferente de sistema de símbolos?",
+     "zh": "印度河符号和朗格朗格文字是记录语言的真正文字，还是另一种符号系统？"
+    },
+    {
+     "ar": "كيف يمكن تقسيم الرونغورونغو إلى وحدات لغوية بينما يبدو كثير من رموزه شبه متطابق؟",
+     "en": "How can Rongorongo be split into units of language when many of its signs look almost identical?",
+     "es": "¿Cómo dividir el rongorongo en unidades de lengua cuando muchos de sus signos parecen casi idénticos?",
+     "fr": "Comment découper le rongorongo en unités de langue alors que beaucoup de ses signes se ressemblent presque à l'identique ?",
+     "hi": "जब रोंगोरोंगो के कई चिह्न लगभग एक जैसे दिखते हैं, तो उसे भाषा की इकाइयों में कैसे बाँटा जाए?",
+     "pt": "Como dividir o rongorongo em unidades de língua quando muitos de seus sinais parecem quase idênticos?",
+     "zh": "朗格朗格文字的许多符号看起来几乎一模一样，该如何把它切分成语言单位？"
+    },
+    {
+     "ar": "هل تستطيع الأساليب الحاسوبية فك كتابة مجهولة تمامًا بمفردها، أم يمكنها فقط مساعدة الخبراء من البشر؟",
+     "en": "Can computer methods crack a truly unknown script by themselves, or can they only assist human experts?",
+     "es": "¿Pueden los métodos informáticos descifrar por sí solos una escritura realmente desconocida, o solo pueden ayudar a los expertos humanos?",
+     "fr": "Les méthodes informatiques peuvent-elles déchiffrer seules une écriture vraiment inconnue, ou peuvent-elles seulement aider les experts humains ?",
+     "hi": "क्या कंप्यूटर विधियाँ अपने आप किसी पूरी तरह अज्ञात लिपि को पढ़ सकती हैं, या वे केवल मानव विशेषज्ञों की मदद कर सकती हैं?",
+     "pt": "Os métodos computacionais conseguem decifrar sozinhos uma escrita realmente desconhecida, ou só podem ajudar especialistas humanos?",
+     "zh": "计算机方法能否独立破译一种真正未知的文字，还是只能辅助人类专家？"
     }
    ]
   },
@@ -1814,6 +2020,31 @@
      "t": "70% of 10-year-olds now in learning poverty (World Bank, 2022)",
      "ty": "official",
      "u": "https://www.worldbank.org/en/news/press-release/2022/06/23/70-of-10-year-olds-now-in-learning-poverty-unable-to-read-and-understand-a-simple-text"
+    },
+    {
+     "t": "Experimental Evidence on Four Policies to Increase Learning at Scale",
+     "ty": "study",
+     "u": "https://poverty-action.org/sites/default/files/2024-07/ueae003.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن لأدوات التعليم القائمة على التكنولوجيا أن ترفع التعلم بقدر ما تفعله المساعدة الإضافية من مساعدي المعلمين؟",
+     "en": "Can technology-based teaching tools raise learning as much as extra help from teaching assistants?",
+     "es": "¿Pueden las herramientas de enseñanza basadas en tecnología mejorar el aprendizaje tanto como la ayuda adicional de asistentes docentes?",
+     "fr": "Les outils d'enseignement fondés sur la technologie peuvent-ils améliorer l'apprentissage autant que l'aide supplémentaire d'assistants pédagogiques ?",
+     "hi": "क्या तकनीक-आधारित शिक्षण उपकरण सहायक शिक्षकों की अतिरिक्त मदद जितना सीखने में सुधार ला सकते हैं?",
+     "pt": "Ferramentas de ensino baseadas em tecnologia podem melhorar a aprendizagem tanto quanto a ajuda extra de assistentes de ensino?",
+     "zh": "基于技术的教学工具能否像助教的额外帮助一样提高学习成效？"
+    },
+    {
+     "ar": "أي طريقة لتعليم الأطفال وفق مستواهم تحقق أكبر قدر من التعلم مقابل المال المنفق؟",
+     "en": "Which way of teaching children at their level gives the most learning for the money?",
+     "es": "¿Qué forma de enseñar a los niños según su nivel ofrece más aprendizaje por el dinero invertido?",
+     "fr": "Quelle façon d'enseigner aux enfants à leur niveau apporte le plus d'apprentissage pour le même coût ?",
+     "hi": "बच्चों को उनके स्तर के अनुसार पढ़ाने का कौन-सा तरीका खर्च के हिसाब से सबसे ज़्यादा सीख देता है?",
+     "pt": "Qual forma de ensinar as crianças no seu nível traz mais aprendizagem pelo dinheiro investido?",
+     "zh": "按儿童实际水平施教的哪种方式，能以同样的花费带来最多的学习成效？"
     }
    ]
   },
@@ -1898,49 +2129,49 @@
    "i18n": {
     "ar": {
      "block": "الحالات قليلة وكل منها مختلفة، فيصعب اختبار قوانين عامة.",
-     "known": "تجتمع الأسباب من صدمات مناخية، ونزاعات، وتفاوت، ومؤسسات فاشلة.",
+     "known": "تشير دراسات الأزمات الماضية إلى ضغوط مثل الإفقار الواسع، وتنافس عدد من الطامحين إلى مواقع النخبة يفوق المواقع المتاحة، وضائقة مالية لدى الدولة.",
      "leads": "قواعد بيانات تاريخية كبيرة مثل سيشات، والتاريخ الكمي.",
      "s": "انهيار الحضارات",
      "t": "لماذا تنهار الحضارات؟"
     },
     "en": {
      "block": "There are few cases, each different, so general laws are hard to test.",
-     "known": "Causes combine climate shocks, conflict, inequality and failing institutions.",
+     "known": "Studies of past crises point to pressures such as widespread impoverishment, more people competing for elite positions than there are places, and strained state finances.",
      "leads": "Large historical databases such as Seshat, quantitative history.",
      "s": "Collapse of civilizations",
      "t": "Why do civilizations collapse?"
     },
     "es": {
      "block": "Hay pocos casos, cada uno distinto, así que es difícil poner a prueba leyes generales.",
-     "known": "Las causas combinan crisis climáticas, conflictos, desigualdad e instituciones que fallan.",
+     "known": "Los estudios de crisis pasadas señalan presiones como el empobrecimiento generalizado, más aspirantes a puestos de élite que plazas disponibles y unas finanzas del Estado en apuros.",
      "leads": "Grandes bases de datos históricas como Seshat, historia cuantitativa.",
      "s": "Colapso de civilizaciones",
      "t": "¿Por qué colapsan las civilizaciones?"
     },
     "fr": {
      "block": "Les cas sont rares et tous différents, ce qui rend les lois générales difficiles à tester.",
-     "known": "Les causes combinent chocs climatiques, conflits, inégalités et institutions défaillantes.",
+     "known": "Les études des crises passées pointent des pressions comme l'appauvrissement généralisé, plus de prétendants aux positions d'élite que de places disponibles, et des finances publiques en difficulté.",
      "leads": "Grandes bases de données historiques comme Seshat, histoire quantitative.",
      "s": "Effondrements",
      "t": "Pourquoi les civilisations s'effondrent-elles ?"
     },
     "hi": {
      "block": "मामले कम हैं और हर एक अलग है, इसलिए सामान्य नियमों को परखना कठिन है।",
-     "known": "कारणों में जलवायु आघात, संघर्ष, असमानता और विफल होती संस्थाएँ मिली हुई हैं।",
+     "known": "पिछले संकटों के अध्ययन व्यापक दरिद्रता, उपलब्ध स्थानों से ज़्यादा लोगों की अभिजात पदों के लिए होड़, और राज्य के वित्त पर दबाव जैसे दबावों की ओर इशारा करते हैं।",
      "leads": "सेशैट जैसे बड़े ऐतिहासिक डेटाबेस, मात्रात्मक इतिहास।",
      "s": "सभ्यताओं का पतन",
      "t": "सभ्यताएँ क्यों ढह जाती हैं?"
     },
     "pt": {
      "block": "Há poucos casos, cada um diferente, então leis gerais são difíceis de testar.",
-     "known": "As causas combinam choques climáticos, conflitos, desigualdade e instituições em falência.",
+     "known": "Estudos de crises passadas apontam pressões como o empobrecimento generalizado, mais pessoas disputando posições de elite do que há vagas, e finanças do Estado em dificuldade.",
      "leads": "Grandes bases de dados históricos, como o Seshat, história quantitativa.",
      "s": "Colapso de civilizações",
      "t": "Por que as civilizações entram em colapso?"
     },
     "zh": {
      "block": "案例很少,而且各不相同,因此很难检验一般规律。",
-     "known": "成因包括气候冲击、冲突、不平等和制度失灵的共同作用。",
+     "known": "对过去危机的研究指出了一些压力，例如普遍贫困化、争夺精英地位的人多于可用位置，以及国家财政紧张。",
      "leads": "Seshat等大型历史数据库,定量历史学。",
      "s": "文明崩溃",
      "t": "文明为什么会崩溃?"
@@ -1956,6 +2187,36 @@
      "t": "Social complexity and collapse (Complexity Science Hub, Seshat)",
      "ty": "institution",
      "u": "https://csh.ac.at/research/research-topic/social-complexity-collapse/"
+    },
+    {
+     "t": "All Crises are Unhappy in Their Own Way: The Role of Societal Instability in Shaping the Past",
+     "ty": "study",
+     "u": "https://www.cambridge.org/core/product/E1D2B51191D90217272192C2F7A173B4/core-reader"
+    },
+    {
+     "t": "When Collapse Wasn't Inevitable: How Some Societies Turned Crisis into Renewal",
+     "ty": "institution",
+     "u": "https://csh.ac.at/news/when-collapse-wasnt-inevitable-how-some-societies-turned-crisis-into-renewal/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "لماذا تنتهي بعض الأزمات المجتمعية بالانهيار بينما تؤدي أزمات أخرى إلى الإصلاح والتجدد؟",
+     "en": "Why do some societal crises end in collapse while others lead to reform and renewal?",
+     "es": "¿Por qué algunas crisis sociales terminan en colapso mientras que otras conducen a reformas y renovación?",
+     "fr": "Pourquoi certaines crises de société se terminent-elles par un effondrement, alors que d'autres mènent à des réformes et à un renouveau ?",
+     "hi": "कुछ सामाजिक संकट पतन में क्यों ख़त्म होते हैं, जबकि दूसरे सुधार और नवीनीकरण की ओर ले जाते हैं?",
+     "pt": "Por que algumas crises sociais terminam em colapso enquanto outras levam a reformas e renovação?",
+     "zh": "为什么有些社会危机以崩溃告终，而另一些却带来了改革与复兴？"
+    },
+    {
+     "ar": "لماذا لا تميل العواقب المختلفة لأزمة مجتمعية إلى الحدوث معًا؟",
+     "en": "Why do the different consequences of a societal crisis not tend to happen together?",
+     "es": "¿Por qué las distintas consecuencias de una crisis social no suelen darse juntas?",
+     "fr": "Pourquoi les différentes conséquences d'une crise de société n'ont-elles pas tendance à survenir ensemble ?",
+     "hi": "किसी सामाजिक संकट के अलग-अलग परिणाम आम तौर पर एक साथ क्यों नहीं होते?",
+     "pt": "Por que as diferentes consequências de uma crise social não costumam acontecer juntas?",
+     "zh": "为什么一场社会危机的各种后果往往不会同时出现？"
     }
    ]
   },
@@ -2454,6 +2715,35 @@
      "t": "Fearon, Rationalist explanations for war (International Organization, 1995)",
      "ty": "study",
      "u": "https://www.cambridge.org/core/journals/international-organization/article/abs/rationalist-explanations-for-war/E3B716A4034C11ECF8CE8732BC2F80DD"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "لماذا يؤدي انهيار التفاوض أحيانًا إلى الحرب، وأحيانًا أخرى إلى احتجاجات أو انقلابات أو إلى لا عنف على الإطلاق؟",
+     "en": "Why does a breakdown in bargaining sometimes lead to war, and other times to protests, coups or no violence at all?",
+     "es": "¿Por qué el fracaso de una negociación lleva a veces a la guerra y otras veces a protestas, golpes de Estado o ninguna violencia?",
+     "fr": "Pourquoi l'échec d'une négociation mène-t-il parfois à la guerre, et d'autres fois à des manifestations, à des coups d'État ou à aucune violence ?",
+     "hi": "सौदेबाज़ी का टूटना कभी युद्ध की ओर क्यों ले जाता है, और कभी विरोध-प्रदर्शनों, तख़्तापलट या बिल्कुल भी हिंसा न होने की ओर?",
+     "pt": "Por que o fracasso de uma negociação às vezes leva à guerra, e outras vezes a protestos, golpes ou a nenhuma violência?",
+     "zh": "为什么谈判破裂有时会导致战争，而有时只导致抗议、政变，甚至根本没有暴力？"
+    },
+    {
+     "ar": "كيف يمكن للباحثين معرفة ما إذا كانت حرب معينة نشأت عن معلومات مخفية أم عن وعود لا يمكن الوثوق بها؟",
+     "en": "How can researchers tell whether a given war came from hidden information or from promises that could not be trusted?",
+     "es": "¿Cómo pueden los investigadores saber si una guerra concreta surgió de información oculta o de promesas en las que no se podía confiar?",
+     "fr": "Comment les chercheurs peuvent-ils savoir si une guerre donnée vient d'informations cachées ou de promesses auxquelles on ne pouvait pas se fier ?",
+     "hi": "शोधकर्ता कैसे पता लगा सकते हैं कि कोई ख़ास युद्ध छिपी जानकारी से शुरू हुआ या ऐसे वादों से जिन पर भरोसा नहीं किया जा सकता था?",
+     "pt": "Como os pesquisadores podem saber se uma determinada guerra veio de informações ocultas ou de promessas em que não se podia confiar?",
+     "zh": "研究人员如何判断某场战争是源于隐藏的信息，还是源于无法信任的承诺？"
+    },
+    {
+     "ar": "هل يمكن للنظرية نفسها التي تفسر سبب اندلاع الحروب أن تفسر أيضًا كيف يُحافَظ على سلام دائم؟",
+     "en": "Can the same theory that explains why wars start also explain how lasting peace is kept?",
+     "es": "¿Puede la misma teoría que explica por qué empiezan las guerras explicar también cómo se mantiene una paz duradera?",
+     "fr": "La théorie qui explique pourquoi les guerres commencent peut-elle aussi expliquer comment on maintient une paix durable ?",
+     "hi": "जो सिद्धांत बताता है कि युद्ध क्यों शुरू होते हैं, क्या वही यह भी समझा सकता है कि स्थायी शांति कैसे बनी रहती है?",
+     "pt": "A mesma teoria que explica por que as guerras começam pode também explicar como se mantém uma paz duradoura?",
+     "zh": "解释战争为何爆发的同一理论，能否也解释持久和平是如何维持的？"
     }
    ]
   },
@@ -3154,6 +3444,31 @@
      "t": "World Inequality Report 2018: executive summary",
      "ty": "institution",
      "u": "https://wir2018.wid.world/executive-summary.html"
+    },
+    {
+     "t": "Global Income Inequality, 1820–2020: the Persistence and Mutation of Extreme Inequality",
+     "ty": "study",
+     "u": "https://www.parisschoolofeconomics.eu/publications-hal/global-income-inequality-1820-2020-the-persistence-and-mutation-of-extreme-inequality"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن قياس دخول الأكثر ثراءً بدقة في حين أن المسوح الأسرية لا تلتقطها جيدًا؟",
+     "en": "How can we measure the incomes of the very richest people accurately when household surveys miss them?",
+     "es": "¿Cómo medir con precisión los ingresos de los más ricos cuando las encuestas de hogares no los captan bien?",
+     "fr": "Comment mesurer avec précision les revenus des plus riches alors que les enquêtes auprès des ménages les saisissent mal ?",
+     "hi": "जब घरेलू सर्वेक्षण सबसे अमीर लोगों को ठीक से नहीं पकड़ पाते, तो उनकी आय को सही-सही कैसे मापा जाए?",
+     "pt": "Como medir com precisão a renda dos mais ricos quando as pesquisas domiciliares não conseguem captá-la bem?",
+     "zh": "既然家庭调查难以覆盖最富有的人，我们该如何准确衡量他们的收入？"
+    },
+    {
+     "ar": "هل يمكن لقواعد جديدة، مثل تقاسم الدول للإيرادات الضريبية، أن تقلل عدم المساواة في العالم بشكل كبير؟",
+     "en": "Could new rules, such as countries sharing tax revenue, substantially reduce inequality across the world?",
+     "es": "¿Podrían nuevas reglas, como que los países compartan ingresos fiscales, reducir de forma sustancial la desigualdad en el mundo?",
+     "fr": "De nouvelles règles, comme le partage des recettes fiscales entre pays, pourraient-elles réduire fortement les inégalités dans le monde ?",
+     "hi": "क्या नए नियम, जैसे देशों के बीच कर-राजस्व का बँटवारा, दुनिया भर में असमानता को काफ़ी हद तक घटा सकते हैं?",
+     "pt": "Novas regras, como a partilha de receitas fiscais entre países, poderiam reduzir substancialmente a desigualdade no mundo?",
+     "zh": "新的规则，例如各国分享税收收入，能否大幅减少全球不平等？"
     }
    ]
   },
@@ -3432,6 +3747,35 @@
      "t": "Hauser et al., The mystery of language evolution (Frontiers in Psychology, 2014)",
      "ty": "study",
      "u": "https://dspace.mit.edu/handle/1721.1/88068"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "متى ظهرت في أسلافنا الآليات الدماغية الخاصة بالقواعد والمعنى؟",
+     "en": "When did the brain machinery for grammar and meaning appear in our ancestors?",
+     "es": "¿Cuándo apareció en nuestros antepasados la maquinaria cerebral de la gramática y el significado?",
+     "fr": "Quand la machinerie cérébrale de la grammaire et du sens est-elle apparue chez nos ancêtres ?",
+     "hi": "व्याकरण और अर्थ के लिए दिमाग़ की व्यवस्था हमारे पूर्वजों में कब प्रकट हुई?",
+     "pt": "Quando surgiu em nossos ancestrais a maquinaria cerebral da gramática e do significado?",
+     "zh": "负责语法和意义的大脑机制是在我们祖先身上何时出现的？"
+    },
+    {
+     "ar": "كيف تؤدي جينات محددة إلى القدرة على استخدام اللغة؟",
+     "en": "How do specific genes lead to the ability to use language?",
+     "es": "¿Cómo conducen genes concretos a la capacidad de usar el lenguaje?",
+     "fr": "Comment des gènes précis conduisent-ils à la capacité d'utiliser le langage ?",
+     "hi": "विशिष्ट जीन भाषा का उपयोग करने की क्षमता तक कैसे पहुँचाते हैं?",
+     "pt": "Como genes específicos levam à capacidade de usar a linguagem?",
+     "zh": "具体的基因是如何导致使用语言的能力的？"
+    },
+    {
+     "ar": "هل يمتلك أي نظام تواصل حيواني شيئًا يشبه قواعد اللغة البشرية؟",
+     "en": "Does any animal communication system have anything like the grammar of human language?",
+     "es": "¿Tiene algún sistema de comunicación animal algo parecido a la gramática del lenguaje humano?",
+     "fr": "Un système de communication animale possède-t-il quoi que ce soit de comparable à la grammaire du langage humain ?",
+     "hi": "क्या किसी जानवर की संचार प्रणाली में मानव भाषा के व्याकरण जैसा कुछ है?",
+     "pt": "Algum sistema de comunicação animal tem algo parecido com a gramática da linguagem humana?",
+     "zh": "是否有任何动物的交流系统具有类似人类语言语法的东西？"
     }
    ]
   },
@@ -4070,6 +4414,45 @@
      "t": "Awad et al., The Moral Machine experiment (Nature, 2018)",
      "ty": "study",
      "u": "https://dspace.mit.edu/handle/1721.1/125065"
+    },
+    {
+     "t": "Do infants have a sense of fairness?",
+     "ty": "study",
+     "u": "https://experts.illinois.edu/en/publications/do-infants-have-a-sense-of-fairness/"
+    },
+    {
+     "t": "Seven Moral Rules Found All Around the World",
+     "ty": "study",
+     "u": "https://www.jubileecentre.ac.uk/wp-content/uploads/2023/07/Curry.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "لماذا ترتب المجتمعات القيم الأخلاقية نفسها بشكل مختلف، مثل تقديم العائلة على الجماعة الأوسع أو العكس؟",
+     "en": "Why do societies rank the same moral values differently, for example putting family above the wider group or the reverse?",
+     "es": "¿Por qué las sociedades ordenan de forma distinta los mismos valores morales, por ejemplo poniendo a la familia por encima del grupo más amplio o al revés?",
+     "fr": "Pourquoi les sociétés classent-elles différemment les mêmes valeurs morales, par exemple en plaçant la famille au-dessus du groupe plus large, ou l'inverse ?",
+     "hi": "समाज एक ही नैतिक मूल्यों को अलग-अलग क्रम में क्यों रखते हैं, जैसे कहीं परिवार को बड़े समूह से ऊपर रखना और कहीं इसका उलटा?",
+     "pt": "Por que as sociedades ordenam de forma diferente os mesmos valores morais, por exemplo colocando a família acima do grupo mais amplo ou o contrário?",
+     "zh": "为什么不同社会对相同道德价值的排序不同，例如有的把家庭置于更大群体之上，有的则相反？"
+    },
+    {
+     "ar": "كيف ترتبط القيم الأخلاقية لمجتمع ما بحجمه ومدى تنقّل أفراده ودرجة عدم المساواة فيه؟",
+     "en": "How are a society's moral values linked to its size, how much people move around, and how unequal it is?",
+     "es": "¿Qué relación hay entre los valores morales de una sociedad y su tamaño, cuánto se desplaza su gente y su nivel de desigualdad?",
+     "fr": "Quels liens y a-t-il entre les valeurs morales d'une société et sa taille, la mobilité de ses membres et son niveau d'inégalité ?",
+     "hi": "किसी समाज के नैतिक मूल्य उसके आकार, लोगों के कितना आने-जाने और उसमें कितनी असमानता है, इनसे कैसे जुड़े हैं?",
+     "pt": "Como os valores morais de uma sociedade se relacionam com o seu tamanho, com o quanto as pessoas se deslocam e com o seu nível de desigualdade?",
+     "zh": "一个社会的道德价值与其规模、人们的流动程度以及不平等程度有何关联？"
+    },
+    {
+     "ar": "هل يمكن تفسير القواعد الأخلاقية المتعلقة بالجنس والدين والسياسة أيضًا على أنها وسائل لمساعدة الناس على التعاون؟",
+     "en": "Can moral rules about sex, religion and politics also be explained as ways of helping people cooperate?",
+     "es": "¿Pueden las normas morales sobre sexo, religión y política explicarse también como formas de ayudar a las personas a cooperar?",
+     "fr": "Les règles morales sur la sexualité, la religion et la politique peuvent-elles aussi s'expliquer comme des moyens d'aider les gens à coopérer ?",
+     "hi": "क्या यौन संबंध, धर्म और राजनीति से जुड़े नैतिक नियमों को भी लोगों के बीच सहयोग में मदद करने के तरीक़ों के रूप में समझाया जा सकता है?",
+     "pt": "As regras morais sobre sexo, religião e política também podem ser explicadas como formas de ajudar as pessoas a cooperar?",
+     "zh": "关于性、宗教和政治的道德规范，是否也能被解释为帮助人们合作的方式？"
     }
    ]
   },
@@ -4147,49 +4530,49 @@
    "d": "H",
    "i18n": {
     "ar": {
-     "block": "كان لسياسات الأسرة أثر محدود حتى الآن.",
+     "block": "يمكن لسياسات الأسرة أن ترفع عدد المواليد لفترة، لكن أثرها الطويل الأمد في الخصوبة غالبًا ما يكون محدودًا.",
      "known": "أصبح معدل الخصوبة في أكثر من نصف دول العالم دون مستوى الإحلال.",
      "leads": "دراسات تكاليف السكن، والعمل والحياة الأسرية، وتغير الأعراف.",
      "s": "انخفاض المواليد",
      "t": "لماذا تنخفض معدلات المواليد في كل مكان تقريبًا؟"
     },
     "en": {
-     "block": "Family policies have had limited effect so far.",
+     "block": "Family policies can raise births for a while, but their long-term effect on fertility is often limited.",
      "known": "More than half of the world's countries now have fertility below replacement level.",
      "leads": "Studies of housing costs, work and family life, and changing norms.",
      "s": "Falling birth rates",
      "t": "Why are birth rates falling almost everywhere?"
     },
     "es": {
-     "block": "Las políticas familiares han tenido hasta ahora un efecto limitado.",
+     "block": "Las políticas familiares pueden aumentar los nacimientos durante un tiempo, pero su efecto a largo plazo sobre la fecundidad suele ser limitado.",
      "known": "Más de la mitad de los países del mundo tienen ya una fecundidad inferior al nivel de reemplazo.",
      "leads": "Estudios sobre el coste de la vivienda, el trabajo y la vida familiar, y el cambio de normas.",
      "s": "Caída de la natalidad",
      "t": "¿Por qué baja la natalidad casi en todas partes?"
     },
     "fr": {
-     "block": "Les politiques familiales ont eu jusqu'ici un effet limité.",
+     "block": "Les politiques familiales peuvent augmenter les naissances pendant un temps, mais leur effet à long terme sur la fécondité est souvent limité.",
      "known": "Plus de la moitié des pays du monde ont aujourd'hui une fécondité sous le seuil de renouvellement.",
      "leads": "Études sur le coût du logement, la conciliation travail-famille et l'évolution des normes.",
      "s": "Baisse de la natalité",
      "t": "Pourquoi la natalité baisse-t-elle presque partout ?"
     },
     "hi": {
-     "block": "परिवार संबंधी नीतियों का अब तक सीमित प्रभाव रहा है।",
+     "block": "परिवार संबंधी नीतियाँ कुछ समय के लिए जन्म बढ़ा सकती हैं, लेकिन प्रजनन दर पर उनका दीर्घकालिक प्रभाव अक्सर सीमित रहता है।",
      "known": "दुनिया के आधे से अधिक देशों में अब प्रजनन दर प्रतिस्थापन स्तर से नीचे है।",
      "leads": "आवास की लागत, काम और पारिवारिक जीवन, और बदलते मानदंडों के अध्ययन।",
      "s": "घटती जन्म दर",
      "t": "लगभग हर जगह जन्म दर क्यों गिर रही है?"
     },
     "pt": {
-     "block": "As políticas familiares tiveram, até agora, efeito limitado.",
+     "block": "As políticas familiares podem aumentar os nascimentos por um tempo, mas seu efeito de longo prazo sobre a fecundidade costuma ser limitado.",
      "known": "Mais da metade dos países do mundo tem hoje fecundidade abaixo do nível de reposição.",
      "leads": "Estudos sobre custo de moradia, trabalho e vida familiar, e mudança de normas.",
      "s": "Queda da natalidade",
      "t": "Por que as taxas de natalidade estão caindo quase em toda parte?"
     },
     "zh": {
-     "block": "家庭政策至今效果有限。",
+     "block": "家庭政策可以在一段时间内提高出生数，但其对生育率的长期影响往往有限。",
      "known": "世界上超过一半的国家,生育率现已低于更替水平。",
      "leads": "对住房成本、工作与家庭生活以及观念变化的研究。",
      "s": "生育率下降",
@@ -4206,6 +4589,27 @@
      "t": "Global population to peak this century: World Population Prospects 2024 (IISD)",
      "ty": "official",
      "u": "https://sdg.iisd.org/news/global-population-to-peak-this-century-world-population-prospects-2024/"
+    },
+    {
+     "t": "Fertility in High-Income Countries: Trends, Patterns, Determinants, and Consequences",
+     "ty": "reference",
+     "u": "https://www.iza.org/publications/dp/16500"
+    },
+    {
+     "t": "Policy responses to low fertility: How effective are they?",
+     "ty": "official",
+     "u": "https://asiapacific.unfpa.org/sites/default/files/pub-pdf/policy_responses_to_low_fertility.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "عندما يقول الناس كم طفلًا يريدون، هل هذا مثلٌ أعلى عام أم خطة حقيقية لحياتهم؟",
+     "en": "When people say how many children they want, is that a general ideal or a real plan for their own lives?",
+     "es": "Cuando la gente dice cuántos hijos quiere, ¿es un ideal general o un plan real para su propia vida?",
+     "fr": "Quand les gens disent combien d'enfants ils veulent, est-ce un idéal général ou un vrai projet pour leur propre vie ?",
+     "hi": "जब लोग बताते हैं कि वे कितने बच्चे चाहते हैं, तो क्या यह एक सामान्य आदर्श होता है या अपने जीवन की असली योजना?",
+     "pt": "Quando as pessoas dizem quantos filhos querem, isso é um ideal geral ou um plano real para a própria vida?",
+     "zh": "当人们说出想要几个孩子时，这只是一种普遍的理想，还是对自己生活的真实计划？"
     }
    ]
   },
@@ -5212,49 +5616,49 @@
    "i18n": {
     "ar": {
      "block": "يتركز الفقر المتبقي في البلدان الهشة والمتضررة من النزاعات.",
-     "known": "انخفضت نسبة الأشخاص في فقر مدقع من أكثر من الثلث عام 1990 إلى أقل من 10%.",
+     "known": "انخفض عدد الأشخاص الذين يعيشون في فقر مدقع من نحو 2.3 مليار عام 1990 إلى نحو 831 مليونًا عام 2025، أي نحو شخص واحد من كل عشرة.",
      "leads": "التحويلات النقدية المباشرة، والنمو، وبيانات أفضل عن هوية الفقراء.",
      "s": "الفقر المدقع",
      "t": "هل يمكن القضاء على الفقر المدقع؟"
     },
     "en": {
      "block": "The remaining poverty is concentrated in fragile and conflict-hit countries.",
-     "known": "The share of people in extreme poverty fell from more than a third in 1990 to under 10%.",
+     "known": "The number of people in extreme poverty fell from about 2.3 billion in 1990 to about 831 million in 2025, about one person in ten.",
      "leads": "Direct cash transfers, growth, better data on who is poor.",
      "s": "Extreme poverty",
      "t": "Can extreme poverty be ended?"
     },
     "es": {
      "block": "La pobreza restante se concentra en países frágiles y afectados por conflictos.",
-     "known": "La proporción de personas en pobreza extrema bajó de más de un tercio en 1990 a menos del 10 %.",
+     "known": "El número de personas en pobreza extrema bajó de unos 2.300 millones en 1990 a unos 831 millones en 2025, alrededor de una de cada diez personas.",
      "leads": "Transferencias directas de dinero, crecimiento, mejores datos sobre quién es pobre.",
      "s": "Pobreza extrema",
      "t": "¿Se puede acabar con la pobreza extrema?"
     },
     "fr": {
      "block": "La pauvreté restante se concentre dans des pays fragiles ou en conflit.",
-     "known": "La part de l'humanité en extrême pauvreté est passée de plus d'un tiers en 1990 à moins de 10 %.",
+     "known": "Le nombre de personnes en extrême pauvreté est passé d'environ 2,3 milliards en 1990 à environ 831 millions en 2025, soit environ une personne sur dix.",
      "leads": "Transferts d'argent directs, croissance, meilleures données sur qui est pauvre.",
      "s": "Extrême pauvreté",
      "t": "Peut-on mettre fin à l'extrême pauvreté ?"
     },
     "hi": {
      "block": "बची हुई गरीबी नाज़ुक और संघर्ष-ग्रस्त देशों में केंद्रित है।",
-     "known": "अत्यधिक गरीबी में रहने वाले लोगों का हिस्सा 1990 में एक-तिहाई से अधिक था, जो घटकर 10% से कम रह गया है।",
+     "known": "अत्यधिक गरीबी में रहने वाले लोगों की संख्या 1990 में लगभग 2.3 अरब से घटकर 2025 में लगभग 83.1 करोड़ रह गई, यानी लगभग हर दस में से एक व्यक्ति।",
      "leads": "सीधे नकद हस्तांतरण, आर्थिक वृद्धि, यह जानने के लिए बेहतर आँकड़े कि कौन गरीब है।",
      "s": "अत्यधिक गरीबी",
      "t": "क्या अत्यधिक गरीबी खत्म की जा सकती है?"
     },
     "pt": {
      "block": "A pobreza restante se concentra em países frágeis e atingidos por conflitos.",
-     "known": "A parcela de pessoas em pobreza extrema caiu de mais de um terço em 1990 para menos de 10%.",
+     "known": "O número de pessoas em pobreza extrema caiu de cerca de 2,3 bilhões em 1990 para cerca de 831 milhões em 2025, cerca de uma pessoa em cada dez.",
      "leads": "Transferências diretas de dinheiro, crescimento econômico, dados melhores sobre quem é pobre.",
      "s": "Pobreza extrema",
      "t": "É possível acabar com a pobreza extrema?"
     },
     "zh": {
      "block": "剩下的贫困集中在脆弱和受冲突影响的国家。",
-     "known": "极端贫困人口的比例已从1990年的三分之一以上降到不足10%。",
+     "known": "极端贫困人口已从1990年的约23亿降至2025年的约8.31亿，约为每十人中有一人。",
      "leads": "直接现金转移支付、经济增长、更准确的贫困人口数据。",
      "s": "极端贫困",
      "t": "极端贫困能被消除吗?"
@@ -5271,6 +5675,31 @@
      "t": "Poverty and Inequality Update, Fall 2025 (World Bank)",
      "ty": "official",
      "u": "https://thedocs.worldbank.org/en/doc/229ff18129687a785f08af7cfb28e5e1-0350012025/original/WBG-Poverty-and-Inequality-Update-Fall-2025.pdf"
+    },
+    {
+     "t": "General equilibrium effects of cash transfers: experimental evidence from Kenya",
+     "ty": "study",
+     "u": "https://www.econometricsociety.org/publications/econometrica/2022/11/01/General-Equilibrium-Effects-of-Cash-Transfers-Experimental-Evidence-from-Kenya"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل توجد فخاخ فقر لا يكسرها إلا مبلغ كبير بما يكفي من المال، وما حجم هذا المبلغ لمختلف الأسر؟",
+     "en": "Are there poverty traps that only a large enough sum of money can break, and how big would that sum be for different families?",
+     "es": "¿Existen trampas de pobreza que solo una suma de dinero lo bastante grande puede romper, y cuán grande tendría que ser para distintas familias?",
+     "fr": "Existe-t-il des pièges à pauvreté que seule une somme assez importante peut briser, et quelle serait cette somme selon les familles ?",
+     "hi": "क्या ऐसे गरीबी-जाल होते हैं जिन्हें केवल पर्याप्त बड़ी रकम ही तोड़ सकती है, और अलग-अलग परिवारों के लिए वह रकम कितनी बड़ी होगी?",
+     "pt": "Existem armadilhas da pobreza que só uma quantia grande o suficiente de dinheiro consegue romper, e qual seria essa quantia para diferentes famílias?",
+     "zh": "是否存在只有足够大的一笔钱才能打破的贫困陷阱？对于不同家庭，这笔钱需要多大？"
+    },
+    {
+     "ar": "هل تستمر فوائد التحويلات النقدية أكثر من أربع سنوات بعد تلقي المال؟",
+     "en": "Do the benefits of cash transfers last more than four years after the money is received?",
+     "es": "¿Duran los beneficios de las transferencias de dinero más de cuatro años después de recibirlo?",
+     "fr": "Les bienfaits des transferts d'argent durent-ils plus de quatre ans après la réception de l'argent ?",
+     "hi": "क्या नकद हस्तांतरण के फ़ायदे पैसा मिलने के चार साल से ज़्यादा समय तक बने रहते हैं?",
+     "pt": "Os benefícios das transferências de dinheiro duram mais de quatro anos depois de o dinheiro ser recebido?",
+     "zh": "现金转移的好处在收到钱后能否持续四年以上？"
     }
    ]
   },
@@ -5626,6 +6055,31 @@
      "t": "Bloom, Jones, Van Reenen, Webb, Are ideas getting harder to find? (NBER)",
      "ty": "institution",
      "u": "https://www.nber.org/papers/w23782.pdf"
+    },
+    {
+     "t": "Are Ideas Getting Harder to Find?",
+     "ty": "study",
+     "u": "https://www.aeaweb.org/doi/10.1257/aer.20180338"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "لماذا تتطلب كل فكرة جديدة الآن عددًا أكبر من الباحثين: هل تكرر الفرق عمل بعضها، أم أن الاكتشافات تنتقل فائدتها إلى الآخرين أقل من ذي قبل؟",
+     "en": "Why does each new idea now take more researchers: do teams duplicate each other's work, or do discoveries spill over less than before?",
+     "es": "¿Por qué cada nueva idea requiere ahora más investigadores: los equipos duplican el trabajo de otros, o los descubrimientos se difunden menos que antes?",
+     "fr": "Pourquoi chaque nouvelle idée demande-t-elle désormais plus de chercheurs : les équipes font-elles double emploi, ou les découvertes profitent-elles moins aux autres qu'avant ?",
+     "hi": "अब हर नए विचार के लिए ज़्यादा शोधकर्ता क्यों लगते हैं: क्या टीमें एक-दूसरे का काम दोहराती हैं, या खोजों का लाभ पहले की तुलना में कम फैलता है?",
+     "pt": "Por que cada nova ideia agora exige mais pesquisadores: as equipes duplicam o trabalho umas das outras, ou as descobertas se espalham menos do que antes?",
+     "zh": "为什么现在每个新想法需要更多研究人员：是各团队重复了彼此的工作，还是发现的溢出效应比以前小了？"
+    },
+    {
+     "ar": "هل براءات الاختراع وسيلة موثوقة لعدّ الأفكار الجديدة بينما تغيّر عبر العقود ما يمكن تسجيله كبراءة؟",
+     "en": "Are patents a reliable way to count new ideas when what can be patented has changed over the decades?",
+     "es": "¿Son las patentes una forma fiable de contar nuevas ideas cuando lo que se puede patentar ha cambiado con las décadas?",
+     "fr": "Les brevets sont-ils un moyen fiable de compter les nouvelles idées alors que ce qui peut être breveté a changé au fil des décennies ?",
+     "hi": "जब दशकों में यह बदल गया है कि किस चीज़ का पेटेंट हो सकता है, तो क्या पेटेंट नए विचारों को गिनने का भरोसेमंद तरीका हैं?",
+     "pt": "As patentes são uma forma confiável de contar novas ideias, quando o que pode ser patenteado mudou ao longo das décadas?",
+     "zh": "既然可申请专利的范围几十年来已经改变，专利还是统计新想法的可靠方法吗？"
     }
    ]
   },
@@ -5908,6 +6362,22 @@
      "t": "Acemoglu, Johnson and Robinson awarded 2024 Nobel Prize (NBER)",
      "ty": "institution",
      "u": "https://nber.org/news/daron-acemoglu-simon-johnson-and-james-robinson-awarded-2024-nobel-prize"
+    },
+    {
+     "t": "The Colonial Origins of Comparative Development: An Empirical Investigation",
+     "ty": "study",
+     "u": "https://econpapers.repec.org/RePEc:aea:aecrev:v:91:y:2001:i:5:p:1369-1401"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "ما مدى قوة الأدلة التي تربط معدلات وفيات المستوطنين الاستعماريين الأوائل بجودة مؤسسات البلد اليوم؟",
+     "en": "How solid is the evidence linking the death rates of early colonial settlers to the quality of a country's institutions today?",
+     "es": "¿Qué tan sólida es la evidencia que vincula la mortalidad de los primeros colonos con la calidad de las instituciones de un país hoy?",
+     "fr": "Quelle est la solidité des preuves qui relient le taux de mortalité des premiers colons à la qualité des institutions d'un pays aujourd'hui ?",
+     "hi": "शुरुआती औपनिवेशिक बसने वालों की मृत्यु दर को आज किसी देश की संस्थाओं की गुणवत्ता से जोड़ने वाले सबूत कितने पक्के हैं?",
+     "pt": "Quão sólidas são as evidências que ligam a mortalidade dos primeiros colonos à qualidade das instituições de um país hoje?",
+     "zh": "将早期殖民定居者的死亡率与一个国家当今制度质量联系起来的证据有多可靠？"
     }
    ]
   },
@@ -6685,49 +7155,49 @@
    "i18n": {
     "ar": {
      "block": "سيعيل عدد أقل من العاملين عددًا أكبر من المتقاعدين.",
-     "known": "تتوقع الأمم المتحدة أنه بحلول عام 2050 سيتجاوز شخص واحد من كل ستة عمر 65 عامًا.",
+     "known": "توقعت الأمم المتحدة عام 2019 أنه بحلول عام 2050 سيتجاوز شخص واحد من كل ستة عمر 65 عامًا.",
      "leads": "شيخوخة أكثر صحة، والأتمتة، والهجرة وإصلاح أنظمة التقاعد.",
      "s": "المجتمعات المسنّة",
      "t": "كيف ستواصل المجتمعات المسنّة الاستمرار؟"
     },
     "en": {
      "block": "Fewer workers will support more retirees.",
-     "known": "The UN projects that by 2050 about one person in six will be over 65.",
+     "known": "In 2019 the UN projected that by 2050 about one person in six will be over 65.",
      "leads": "Healthier aging, automation, migration and pension reform.",
      "s": "Aging societies",
      "t": "How will aging societies sustain themselves?"
     },
     "es": {
      "block": "Menos trabajadores mantendrán a más jubilados.",
-     "known": "La ONU proyecta que en 2050 cerca de una de cada seis personas tendrá más de 65 años.",
+     "known": "En 2019, la ONU proyectó que en 2050 cerca de una de cada seis personas tendría más de 65 años.",
      "leads": "Envejecimiento más saludable, automatización, migración y reforma de las pensiones.",
      "s": "Sociedades envejecidas",
      "t": "¿Cómo se sostendrán las sociedades que envejecen?"
     },
     "fr": {
      "block": "Moins d'actifs devront soutenir plus de retraités.",
-     "known": "L'ONU prévoit qu'en 2050 environ une personne sur six aura plus de 65 ans.",
+     "known": "En 2019, l'ONU prévoyait qu'en 2050 environ une personne sur six aurait plus de 65 ans.",
      "leads": "Vieillir en meilleure santé, automatisation, migrations, réformes des retraites.",
      "s": "Sociétés vieillissantes",
      "t": "Comment les sociétés vieillissantes vont-elles tenir ?"
     },
     "hi": {
      "block": "कम कामगार अधिक सेवानिवृत्त लोगों का भार उठाएँगे।",
-     "known": "संयुक्त राष्ट्र का अनुमान है कि 2050 तक लगभग हर छह में से एक व्यक्ति 65 से अधिक उम्र का होगा।",
+     "known": "2019 में संयुक्त राष्ट्र ने अनुमान लगाया था कि 2050 तक लगभग हर छह में से एक व्यक्ति 65 से अधिक उम्र का होगा।",
      "leads": "अधिक स्वस्थ वृद्धावस्था, स्वचालन, प्रवासन और पेंशन सुधार।",
      "s": "वृद्ध होते समाज",
      "t": "वृद्ध होते समाज खुद को कैसे चलाएँगे?"
     },
     "pt": {
      "block": "Menos trabalhadores sustentarão mais aposentados.",
-     "known": "A ONU projeta que, até 2050, cerca de uma pessoa em cada seis terá mais de 65 anos.",
+     "known": "Em 2019, a ONU projetou que, até 2050, cerca de uma pessoa em cada seis terá mais de 65 anos.",
      "leads": "Envelhecimento mais saudável, automação, migração e reforma da previdência.",
      "s": "Sociedades que envelhecem",
      "t": "Como as sociedades em envelhecimento vão se sustentar?"
     },
     "zh": {
      "block": "更少的劳动者要供养更多的退休者。",
-     "known": "联合国预测,到2050年,约每六个人中就有一人年过65岁。",
+     "known": "联合国在2019年预测，到2050年约每六个人中就有一人年过65岁。",
      "leads": "更健康的衰老,自动化,移民和养老金改革。",
      "s": "老龄化社会",
      "t": "老龄化社会将如何维持下去?"
@@ -6744,6 +7214,36 @@
      "t": "Global population to peak this century: World Population Prospects 2024 (IISD)",
      "ty": "official",
      "u": "https://sdg.iisd.org/news/global-population-to-peak-this-century-world-population-prospects-2024/"
+    },
+    {
+     "t": "The Effect of Population Aging on Economic Growth, the Labor Force, and Productivity",
+     "ty": "study",
+     "u": "https://www.aeaweb.org/doi/10.1257/mac.20190196"
+    },
+    {
+     "t": "9.7 billion on Earth by 2050, but growth rate slowing, says new UN population report",
+     "ty": "official",
+     "u": "https://news.un.org/en/story/2019/06/1040621"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يستطيع العمال الأكبر سنًا الانتقال إلى قطاعات يمكن فيها للأتمتة أن تعوّض نقص العمال، رغم أن الناس يغيّرون وظائفهم أقل كلما تقدموا في السن؟",
+     "en": "Can older workers move into industries where automation could make up for missing workers, even though people change jobs less as they age?",
+     "es": "¿Pueden los trabajadores mayores pasar a sectores donde la automatización podría compensar la falta de mano de obra, aunque la gente cambia menos de empleo al envejecer?",
+     "fr": "Les travailleurs âgés peuvent-ils passer vers des secteurs où l'automatisation pourrait compenser le manque de main-d'œuvre, alors qu'on change moins d'emploi en vieillissant ?",
+     "hi": "उम्र बढ़ने के साथ लोग कम नौकरियाँ बदलते हैं, फिर भी क्या बुज़ुर्ग कामगार उन उद्योगों में जा सकते हैं जहाँ स्वचालन कामगारों की कमी पूरी कर सकता है?",
+     "pt": "Os trabalhadores mais velhos conseguem mudar para setores em que a automação poderia compensar a falta de mão de obra, mesmo que as pessoas mudem menos de emprego à medida que envelhecem?",
+     "zh": "尽管人们年龄越大越少换工作，年长劳动者能否转入那些自动化可以弥补人手不足的行业？"
+    },
+    {
+     "ar": "حيث لا تساعد الأتمتة كثيرًا، هل يمكن لزيادة الهجرة وارتفاع المشاركة في العمل أن يعوّضا شيخوخة القوى العاملة؟",
+     "en": "Where automation cannot help much, can more immigration and higher work participation make up for an ageing workforce?",
+     "es": "Donde la automatización ayuda poco, ¿pueden más inmigración y una mayor participación laboral compensar el envejecimiento de la fuerza de trabajo?",
+     "fr": "Là où l'automatisation aide peu, davantage d'immigration et une plus forte participation au travail peuvent-elles compenser le vieillissement de la main-d'œuvre ?",
+     "hi": "जहाँ स्वचालन ज़्यादा मदद नहीं कर सकता, क्या ज़्यादा आप्रवासन और काम में ज़्यादा भागीदारी बूढ़ी होती कार्यशक्ति की भरपाई कर सकते हैं?",
+     "pt": "Onde a automação ajuda pouco, mais imigração e maior participação no trabalho podem compensar o envelhecimento da força de trabalho?",
+     "zh": "在自动化帮助有限的地方，更多移民和更高的劳动参与率能否弥补劳动力老龄化？"
     }
    ]
   },
@@ -6892,6 +7392,40 @@
      "t": "ISS marks 25 years of continuous human presence in orbit (AIAA, 2025)",
      "ty": "press",
      "u": "https://aiaa.org/2025/11/05/iss-marks-25-years-of-continuous-human-presence-in-orbit/"
+    },
+    {
+     "t": "Red risks for a journey to the red planet: The highest priority human health risks for a mission to Mars",
+     "ty": "study",
+     "u": "https://ui.adsabs.harvard.edu/abs/2020npjMG...6...33P"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن حماية رواد الفضاء من الإشعاع الفضائي الذي قد يزيد خطر الإصابة بالسرطان وأمراض القلب ومشكلات الذاكرة في رحلة إلى المريخ؟",
+     "en": "How can astronauts be protected from space radiation, which may raise the risk of cancer, heart disease and memory problems on a trip to Mars?",
+     "es": "¿Cómo proteger a los astronautas de la radiación espacial, que puede aumentar el riesgo de cáncer, enfermedades del corazón y problemas de memoria en un viaje a Marte?",
+     "fr": "Comment protéger les astronautes des radiations spatiales, qui pourraient augmenter le risque de cancer, de maladies cardiaques et de troubles de la mémoire lors d'un voyage vers Mars ?",
+     "hi": "मंगल की यात्रा में अंतरिक्ष विकिरण कैंसर, हृदय रोग और याददाश्त की समस्याओं का ख़तरा बढ़ा सकता है; अंतरिक्ष यात्रियों को इससे कैसे बचाया जाए?",
+     "pt": "Como proteger os astronautas da radiação espacial, que pode aumentar o risco de câncer, doenças cardíacas e problemas de memória numa viagem a Marte?",
+     "zh": "在前往火星的旅途中，太空辐射可能增加患癌症、心脏病和记忆问题的风险，如何保护宇航员免受其害？"
+    },
+    {
+     "ar": "لماذا تؤثر رحلات الفضاء الطويلة في عيون رواد الفضاء وبصرهم، وكيف يمكن منع ذلك؟",
+     "en": "Why does long spaceflight affect astronauts' eyes and vision, and how can it be prevented?",
+     "es": "¿Por qué los vuelos espaciales largos afectan a los ojos y la vista de los astronautas, y cómo se puede prevenir?",
+     "fr": "Pourquoi les longs séjours dans l'espace affectent-ils les yeux et la vue des astronautes, et comment l'éviter ?",
+     "hi": "लंबी अंतरिक्ष उड़ान अंतरिक्ष यात्रियों की आँखों और दृष्टि पर असर क्यों डालती है, और इसे कैसे रोका जा सकता है?",
+     "pt": "Por que os voos espaciais longos afetam os olhos e a visão dos astronautas, e como isso pode ser evitado?",
+     "zh": "为什么长期太空飞行会影响宇航员的眼睛和视力？如何预防？"
+    },
+    {
+     "ar": "هل يمكن، بالجمع بين جينات الشخص وكل ما يتعرض له في الفضاء، التنبؤ بكيفية استجابة جسمه كله لمهمة طويلة؟",
+     "en": "Can combining a person's genes with all their exposures in space predict how their whole body will respond to a long mission?",
+     "es": "¿Se puede predecir cómo responderá todo el cuerpo de una persona a una misión larga combinando sus genes con todas sus exposiciones en el espacio?",
+     "fr": "Peut-on, en combinant les gènes d'une personne et toutes ses expositions dans l'espace, prédire comment tout son corps réagira à une longue mission ?",
+     "hi": "क्या किसी व्यक्ति के जीन और अंतरिक्ष में उसके सभी संपर्कों (एक्सपोज़र) को मिलाकर यह अनुमान लगाया जा सकता है कि लंबे मिशन पर उसका पूरा शरीर कैसी प्रतिक्रिया देगा?",
+     "pt": "É possível prever como o corpo inteiro de uma pessoa vai reagir a uma missão longa combinando seus genes com todas as suas exposições no espaço?",
+     "zh": "将一个人的基因与其在太空中的所有暴露因素结合起来，能否预测其整个身体对长期任务的反应？"
     }
    ]
   },
@@ -7070,6 +7604,166 @@
     {
      "f": "known",
      "q": "previsions-meteo"
+    },
+    {
+     "q": "bonheur",
+     "f": "src"
+    },
+    {
+     "q": "bonheur",
+     "f": "sub"
+    },
+    {
+     "q": "communication-animale",
+     "f": "src"
+    },
+    {
+     "q": "communication-animale",
+     "f": "sub"
+    },
+    {
+     "q": "cooperation",
+     "f": "src"
+    },
+    {
+     "q": "cooperation",
+     "f": "sub"
+    },
+    {
+     "q": "democratie",
+     "f": "src"
+    },
+    {
+     "q": "democratie",
+     "f": "sub"
+    },
+    {
+     "q": "desinformation",
+     "f": "src"
+    },
+    {
+     "q": "desinformation",
+     "f": "sub"
+    },
+    {
+     "q": "desinformation",
+     "f": "block"
+    },
+    {
+     "q": "dispersion-humaine",
+     "f": "sub"
+    },
+    {
+     "q": "ecritures-perdues",
+     "f": "src"
+    },
+    {
+     "q": "ecritures-perdues",
+     "f": "sub"
+    },
+    {
+     "q": "education",
+     "f": "src"
+    },
+    {
+     "q": "education",
+     "f": "sub"
+    },
+    {
+     "q": "effondrement",
+     "f": "src"
+    },
+    {
+     "q": "effondrement",
+     "f": "sub"
+    },
+    {
+     "q": "effondrement",
+     "f": "known"
+    },
+    {
+     "q": "guerres",
+     "f": "sub"
+    },
+    {
+     "q": "inegalites",
+     "f": "src"
+    },
+    {
+     "q": "inegalites",
+     "f": "sub"
+    },
+    {
+     "q": "langage-origine",
+     "f": "sub"
+    },
+    {
+     "q": "moralite",
+     "f": "src"
+    },
+    {
+     "q": "moralite",
+     "f": "sub"
+    },
+    {
+     "q": "natalite",
+     "f": "src"
+    },
+    {
+     "q": "natalite",
+     "f": "sub"
+    },
+    {
+     "q": "natalite",
+     "f": "block"
+    },
+    {
+     "q": "pauvrete-extreme",
+     "f": "src"
+    },
+    {
+     "q": "pauvrete-extreme",
+     "f": "sub"
+    },
+    {
+     "q": "pauvrete-extreme",
+     "f": "known"
+    },
+    {
+     "q": "productivite",
+     "f": "src"
+    },
+    {
+     "q": "productivite",
+     "f": "sub"
+    },
+    {
+     "q": "richesse-nations",
+     "f": "src"
+    },
+    {
+     "q": "richesse-nations",
+     "f": "sub"
+    },
+    {
+     "q": "vieillissement-pop",
+     "f": "src"
+    },
+    {
+     "q": "vieillissement-pop",
+     "f": "sub"
+    },
+    {
+     "q": "vieillissement-pop",
+     "f": "known"
+    },
+    {
+     "q": "vivre-espace",
+     "f": "src"
+    },
+    {
+     "q": "vivre-espace",
+     "f": "sub"
     }
    ]
   }

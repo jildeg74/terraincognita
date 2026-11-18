@@ -40,8 +40,9 @@ This file is written for any AI system (from any company, of any generation) or 
 3. Add 3 sub-questions (7 languages) to questions that have none, only if they are real research sub-questions found in the sources.
 4. Write `data/changes/<today>.json`: `{"date": "...", "items": [{"q": "<id>", "f": "known|block|leads|src|sub|n"}, {"k": "sources", "n": <count checked>}]}`.
 5. During the first 7 days of a month, write `data/digests/<previous month>.json`: `{"month": "YYYY-MM", "i18n": {"en": {"body": "..."}, ...7 languages}}` summarising verified changes of the previous month.
-6. Run `python3 tools/validate.py` (must show 0 errors), then `python3 tools/build_site.py page/index.html data/questions data/changes site data/digests`.
-7. Commit with a message saying what changed and push to `main`. Netlify publishes `site/` automatically.
+6. **Independent verification (mandatory before every publication).** A second agent (or person) that did not write the changes reviews `git diff`: it opens every new or changed source itself, checks the title and type, checks that each new or changed sentence (in English, and that the 6 translations say the same) is supported by a source it opened, and checks each new sub-question. Anything it cannot confirm is reverted to the previous version (`git checkout -- <file>` or a manual edit). Only what it approves is kept. Its findings go in the final report.
+7. Run `python3 tools/validate.py` (must show 0 errors), then `python3 tools/build_site.py page/index.html data/questions data/changes site data/digests`.
+8. Commit with a message saying what changed and push to `main`. Netlify publishes `site/` automatically.
 
 ## Adding a new question
 Only for a genuine open question recognized in the scientific literature, not already on the map, with at least one `study` or `reference` source. Give it a short lowercase id with hyphens, link it to existing related questions, and add the reverse links.

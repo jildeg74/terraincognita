@@ -35,6 +35,7 @@ This file is written for any AI system (from any company, of any generation) or 
 - A source cannot carry a claim it does not contain. Recent results announced only by preprint or press must be described as such ("a 2026 preprint reports…").
 
 ## Update session (weekly by default)
+0. First read `OPEN_ISSUES.md` and settle as many listed items as possible (source or remove), then update that file.
 1. Pick the questions to check. Default: the quarter whose index (alphabetical order of ids) satisfies `index % 4 == ISO week % 4`. As the map grows, check fast-moving fields (AI, medicine, climate) more often and stable ones (pure maths) less often; record this choice in the change log.
 2. For each: search for important developments since `checked`, open and read the sources, update text in 7 languages only if a verified fact changed, improve sources, set `checked` to today.
 3. Add 3 sub-questions (7 languages) to questions that have none, only if they are real research sub-questions found in the sources.

@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "E",
+ "i18n": {
+  "ar": {
+   "block": "لا توجد آلية دماغية واضحة ولا اختبار حيوي.",
+   "known": "وراثته قوية، وتشارك فيه مئات المتغيرات الجينية. وأُقرّ عام 2024 صنف جديد من الأدوية يعمل على مستقبلات المسكارين.",
+   "leads": "فرضية التقليم المشبكي، ودراسات جينية ضخمة جدًا.",
+   "s": "الفصام",
+   "t": "ما سبب الفصام؟"
+  },
+  "en": {
+   "block": "There is no clear brain mechanism and no biological test.",
+   "known": "It is strongly heritable, involving hundreds of gene variants. A new class of drug acting on muscarinic receptors was approved in 2024.",
+   "leads": "The synaptic pruning hypothesis, very large genetic studies.",
+   "s": "Schizophrenia",
+   "t": "What causes schizophrenia?"
+  },
+  "es": {
+   "block": "No hay un mecanismo cerebral claro ni una prueba biológica.",
+   "known": "Es muy hereditaria e implica cientos de variantes genéticas. En 2024 se aprobó una nueva clase de fármaco que actúa sobre los receptores muscarínicos.",
+   "leads": "La hipótesis de la poda sináptica, estudios genéticos de muy gran tamaño.",
+   "s": "Esquizofrenia",
+   "t": "¿Qué causa la esquizofrenia?"
+  },
+  "fr": {
+   "block": "Aucun mécanisme cérébral clair, aucun test biologique.",
+   "known": "Elle est fortement héréditaire et implique des centaines de variants génétiques. Une nouvelle classe de médicaments agissant sur les récepteurs muscariniques a été approuvée en 2024.",
+   "leads": "Hypothèse de l'élagage excessif des synapses, très grandes études génétiques.",
+   "s": "Schizophrénie",
+   "t": "Qu'est-ce qui cause la schizophrénie ?"
+  },
+  "hi": {
+   "block": "मस्तिष्क की कोई स्पष्ट क्रियाविधि नहीं है और कोई जैविक जाँच भी नहीं है।",
+   "known": "यह अत्यधिक आनुवंशिक है, जिसमें सैकड़ों जीन वेरिएंट शामिल हैं। मस्कारिनिक रिसेप्टरों पर काम करने वाली एक नई श्रेणी की दवा को 2024 में मंज़ूरी मिली।",
+   "leads": "सिनैप्टिक छँटाई की परिकल्पना, बहुत बड़े आनुवंशिक अध्ययन।",
+   "s": "सिज़ोफ्रेनिया",
+   "t": "सिज़ोफ्रेनिया का कारण क्या है?"
+  },
+  "pt": {
+   "block": "Não há um mecanismo cerebral claro nem exame biológico.",
+   "known": "É fortemente hereditária, envolvendo centenas de variantes genéticas. Uma nova classe de medicamento que atua nos receptores muscarínicos foi aprovada em 2024.",
+   "leads": "A hipótese da poda sináptica, estudos genéticos de enorme escala.",
+   "s": "Esquizofrenia",
+   "t": "O que causa a esquizofrenia?"
+  },
+  "zh": {
+   "block": "没有明确的脑机制,也没有生物学检测方法。",
+   "known": "它有很强的遗传性,涉及数百个基因变异。2024年批准了一类作用于毒蕈碱受体的新药。",
+   "leads": "突触修剪假说,超大规模的遗传学研究。",
+   "s": "精神分裂症",
+   "t": "精神分裂症的成因是什么?"
+  }
+ },
+ "links": [
+  "depression",
+  "memoire"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "FDA approves drug with new mechanism of action for treatment of schizophrenia (U.S. FDA, 2024)",
+   "ty": "official",
+   "u": "https://www.fda.gov/news-events/press-announcements/fda-approves-drug-new-mechanism-action-treatment-schizophrenia"
+  }
+ ]
+}

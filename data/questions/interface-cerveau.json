@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "E",
+ "i18n": {
+  "ar": {
+   "block": "سلامة الزرعات على المدى الطويل وكمية المعلومات التي يمكن قراءتها لا تزالان محدودتين.",
+   "known": "أتاحت الزرعات لأشخاص مشلولين تحريك مؤشر وإنتاج الكلام من إشارات أدمغتهم.",
+   "leads": "أقطاب عالية الكثافة، وتصاميم أقل تدخلًا.",
+   "s": "واجهات الدماغ والحاسوب",
+   "t": "هل يمكن لواجهات الدماغ والحاسوب أن تعيد القدرات المفقودة؟"
+  },
+  "en": {
+   "block": "Long-term implant safety and the amount of information that can be read remain limited.",
+   "known": "Implants have let paralyzed people move a cursor and produce speech from their brain signals.",
+   "leads": "High-density electrodes, less invasive designs.",
+   "s": "Brain–computer interfaces",
+   "t": "Can brain–computer interfaces restore lost abilities?"
+  },
+  "es": {
+   "block": "La seguridad de los implantes a largo plazo y la cantidad de información que se puede leer siguen siendo limitadas.",
+   "known": "Los implantes han permitido a personas paralizadas mover un cursor y producir habla a partir de sus señales cerebrales.",
+   "leads": "Electrodos de alta densidad, diseños menos invasivos.",
+   "s": "Interfaces cerebro-computadora",
+   "t": "¿Pueden las interfaces cerebro-computadora devolver capacidades perdidas?"
+  },
+  "fr": {
+   "block": "La sécurité à long terme des implants et la quantité d'information lisible restent limitées.",
+   "known": "Des implants ont permis à des personnes paralysées de déplacer un curseur et de parler à partir de leurs signaux cérébraux.",
+   "leads": "Électrodes à haute densité, dispositifs moins invasifs.",
+   "s": "Interfaces cerveau-machine",
+   "t": "Les interfaces cerveau-machine peuvent-elles rendre des capacités perdues ?"
+  },
+  "hi": {
+   "block": "इम्प्लांट की दीर्घकालिक सुरक्षा और पढ़ी जा सकने वाली जानकारी की मात्रा अब भी सीमित है।",
+   "known": "इम्प्लांट ने लकवाग्रस्त लोगों को कर्सर हिलाने और अपने मस्तिष्क संकेतों से बोली उत्पन्न करने में सक्षम बनाया है।",
+   "leads": "उच्च-घनत्व इलेक्ट्रोड, कम आक्रामक डिज़ाइन।",
+   "s": "ब्रेन–कंप्यूटर इंटरफ़ेस",
+   "t": "क्या ब्रेन–कंप्यूटर इंटरफ़ेस खोई हुई क्षमताएँ लौटा सकते हैं?"
+  },
+  "pt": {
+   "block": "A segurança dos implantes a longo prazo e a quantidade de informação que pode ser lida continuam limitadas.",
+   "known": "Implantes permitiram que pessoas paralisadas movessem um cursor e produzissem fala a partir de seus sinais cerebrais.",
+   "leads": "Eletrodos de alta densidade, projetos menos invasivos.",
+   "s": "Interfaces cérebro–computador",
+   "t": "As interfaces cérebro–computador podem restaurar capacidades perdidas?"
+  },
+  "zh": {
+   "block": "植入物的长期安全性以及可读取的信息量,仍然有限。",
+   "known": "植入物已使瘫痪者能够移动光标,并根据脑信号发出语音。",
+   "leads": "高密度电极,侵入性更小的设计。",
+   "s": "脑机接口",
+   "t": "脑机接口能恢复失去的能力吗?"
+  }
+ },
+ "links": [
+  "connectome",
+  "memoire"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "An accurate and rapidly calibrating speech neuroprosthesis (NEJM, 2024)",
+   "ty": "study",
+   "u": "https://pubmed.ncbi.nlm.nih.gov/39141853/"
+  }
+ ]
+}

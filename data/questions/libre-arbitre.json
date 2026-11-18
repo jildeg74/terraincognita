@@ -1,0 +1,71 @@
+{
+ "checked": "2026-11-18",
+ "d": "E",
+ "i18n": {
+  "ar": {
+   "block": "ما تدل عليه هذه التجارب موضع خلاف، والمفهوم نفسه محل جدل.",
+   "known": "يمكن قياس النشاط الدماغي قبل أن يعلن الشخص أنه قرّر التصرف.",
+   "leads": "علم الأعصاب الخاص باتخاذ القرار، وعمل مشترك بين الفلاسفة وعلماء الأعصاب.",
+   "s": "الإرادة الحرة",
+   "t": "هل نملك إرادة حرة؟"
+  },
+  "en": {
+   "block": "What these experiments show is disputed, and the concept itself is debated.",
+   "known": "Brain activity can be measured before a person reports deciding to act.",
+   "leads": "Neuroscience of decision-making, joint work between philosophers and neuroscientists.",
+   "s": "Free will",
+   "t": "Do we have free will?"
+  },
+  "es": {
+   "block": "Lo que muestran estos experimentos es objeto de disputa, y el propio concepto es debatido.",
+   "known": "Se puede medir actividad cerebral antes de que una persona diga que ha decidido actuar.",
+   "leads": "Neurociencia de la toma de decisiones, trabajo conjunto entre filósofos y neurocientíficos.",
+   "s": "Libre albedrío",
+   "t": "¿Tenemos libre albedrío?"
+  },
+  "fr": {
+   "block": "Ce que montrent ces expériences est contesté, et la notion elle-même fait débat.",
+   "known": "On peut mesurer une activité cérébrale avant qu'une personne dise avoir décidé d'agir.",
+   "leads": "Neurosciences de la décision, travail commun entre philosophes et neuroscientifiques.",
+   "s": "Libre arbitre",
+   "t": "Avons-nous un libre arbitre ?"
+  },
+  "hi": {
+   "block": "ये प्रयोग क्या दिखाते हैं, इस पर विवाद है, और इस अवधारणा पर भी बहस है।",
+   "known": "किसी व्यक्ति के यह बताने से पहले कि उसने कार्य करने का निर्णय लिया है, मस्तिष्क की गतिविधि मापी जा सकती है।",
+   "leads": "निर्णय लेने का तंत्रिका-विज्ञान, दार्शनिकों और तंत्रिका-वैज्ञानिकों का संयुक्त काम।",
+   "s": "स्वतंत्र इच्छा",
+   "t": "क्या हमारे पास स्वतंत्र इच्छा है?"
+  },
+  "pt": {
+   "block": "O que esses experimentos mostram é contestado, e o próprio conceito é debatido.",
+   "known": "A atividade cerebral pode ser medida antes de a pessoa relatar que decidiu agir.",
+   "leads": "Neurociência da tomada de decisão, trabalho conjunto entre filósofos e neurocientistas.",
+   "s": "Livre-arbítrio",
+   "t": "Temos livre-arbítrio?"
+  },
+  "zh": {
+   "block": "这些实验说明什么尚有争议,这个概念本身也存在争论。",
+   "known": "在人报告自己做出决定之前,就能测到大脑的活动。",
+   "leads": "决策神经科学,哲学家与神经科学家的合作研究。",
+   "s": "自由意志",
+   "t": "我们有自由意志吗?"
+  }
+ },
+ "links": [
+  "conscience"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Libet and free will revisited (Discover)",
+   "ty": "press",
+   "u": "https://www.discovermagazine.com/mind/libet-and-free-will-revisited"
+  },
+  {
+   "t": "Free Will (Stanford Encyclopedia of Philosophy)",
+   "ty": "reference",
+   "u": "https://plato.stanford.edu/entries/freewill/"
+  }
+ ]
+}

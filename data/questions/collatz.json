@@ -1,0 +1,71 @@
+{
+ "checked": "2026-11-18",
+ "d": "M",
+ "i18n": {
+  "ar": {
+   "block": "ربما تفتقر الرياضيات إلى الأدوات؛ فهي قاعدة بسيطة لا بنية معروفة يمكن استغلالها.",
+   "known": "جرى التحقق منها لأعداد هائلة، وفي عام 2019 أثبت تيرينس تاو أن معظم قيم البداية تصبح صغيرة جدًا.",
+   "leads": "الطرائق الاحتمالية، والبراهين بمساعدة الحاسوب.",
+   "s": "تخمينة كولاتز",
+   "t": "هل تنتهي متتالية كولاتز دائمًا عند 1؟"
+  },
+  "en": {
+   "block": "Mathematics may lack the tools; it is a simple rule with no known structure to exploit.",
+   "known": "It has been checked for enormous numbers, and in 2019 Terence Tao showed that almost all starting values get very small.",
+   "leads": "Probabilistic methods, computer-assisted proofs.",
+   "s": "Collatz conjecture",
+   "t": "Does the Collatz sequence always end at 1?"
+  },
+  "es": {
+   "block": "Quizá a las matemáticas les faltan las herramientas; es una regla simple sin estructura conocida que aprovechar.",
+   "known": "Se ha comprobado para números enormes, y en 2019 Terence Tao demostró que casi todos los valores iniciales llegan a ser muy pequeños.",
+   "leads": "Métodos probabilísticos, demostraciones asistidas por ordenador.",
+   "s": "Conjetura de Collatz",
+   "t": "¿Termina siempre en 1 la sucesión de Collatz?"
+  },
+  "fr": {
+   "block": "Les mathématiques manquent peut-être d'outils : la règle est simple, sans structure connue à exploiter.",
+   "known": "Vérifiée pour des nombres énormes ; en 2019, Terence Tao a montré que presque toutes les valeurs de départ deviennent très petites.",
+   "leads": "Méthodes probabilistes, preuves assistées par ordinateur.",
+   "s": "Conjecture de Collatz",
+   "t": "La suite de Collatz finit-elle toujours par 1 ?"
+  },
+  "hi": {
+   "block": "हो सकता है गणित के पास उपकरण न हों; यह एक सरल नियम है जिसमें कोई ज्ञात संरचना नहीं जिसका लाभ उठाया जा सके।",
+   "known": "इसे विशाल संख्याओं के लिए जाँचा जा चुका है, और 2019 में टेरेंस ताओ ने दिखाया कि लगभग सभी आरंभिक मान बहुत छोटे हो जाते हैं।",
+   "leads": "प्रायिकतात्मक विधियाँ, कंप्यूटर-सहायता प्राप्त प्रमाण।",
+   "s": "कोलाट्ज़ अनुमान",
+   "t": "क्या कोलाट्ज़ अनुक्रम हमेशा 1 पर समाप्त होता है?"
+  },
+  "pt": {
+   "block": "Talvez falte ferramenta à matemática; é uma regra simples sem estrutura conhecida a explorar.",
+   "known": "Ela foi verificada para números enormes, e em 2019 Terence Tao mostrou que quase todos os valores iniciais chegam a números bem pequenos.",
+   "leads": "Métodos probabilísticos, demonstrações assistidas por computador.",
+   "s": "Conjectura de Collatz",
+   "t": "A sequência de Collatz sempre termina em 1?"
+  },
+  "zh": {
+   "block": "数学可能还缺少工具;它是一条简单的规则,没有已知的结构可供利用。",
+   "known": "它已对极大的数验证过,2019年陶哲轩证明,几乎所有起始值都会变得很小。",
+   "leads": "概率方法,计算机辅助证明。",
+   "s": "考拉兹猜想",
+   "t": "考拉兹数列总会以1结束吗?"
+  }
+ },
+ "links": [
+  "maths-ia"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Mathematician proves huge result on 'dangerous' problem (Quanta, 2019)",
+   "ty": "press",
+   "u": "https://quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211"
+  },
+  {
+   "t": "Tao, Almost all orbits of the Collatz map attain almost bounded values (arXiv)",
+   "ty": "preprint",
+   "u": "https://arxiv.org/abs/1909.03562v5"
+  }
+ ]
+}

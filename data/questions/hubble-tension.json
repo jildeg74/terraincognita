@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "P",
+ "i18n": {
+  "ar": {
+   "block": "لم يعثر أي من الطرفين على خطأ يفسّر الفجوة.",
+   "known": "تعطي القياسات من الكون القريب معدل تمدد قرب 73 كم/ث/ميغابارسك؛ بينما تعطي القياسات من الكون المبكر نحو 67.",
+   "leads": "فحوص مستقلة للمسافات بتلسكوب جيمس ويب، وفيزياء جديدة محتملة في الكون المبكر.",
+   "s": "توتر هابل",
+   "t": "لماذا تتباين قياسات معدل تمدد الكون؟"
+  },
+  "en": {
+   "block": "Neither side has found an error that would explain the gap.",
+   "known": "Measurements from the nearby universe give an expansion rate near 73 km/s/Mpc; those from the early universe give about 67.",
+   "leads": "Independent distance checks with the James Webb telescope, possible new physics in the early universe.",
+   "s": "Hubble tension",
+   "t": "Why do measurements of the universe's expansion rate disagree?"
+  },
+  "es": {
+   "block": "Ninguna de las dos partes ha encontrado un error que explique la diferencia.",
+   "known": "Las mediciones del universo cercano dan una tasa de expansión de unos 73 km/s/Mpc; las del universo primitivo dan cerca de 67.",
+   "leads": "Comprobaciones independientes de distancias con el telescopio James Webb, posible física nueva en el universo primitivo.",
+   "s": "Tensión de Hubble",
+   "t": "¿Por qué no coinciden las mediciones de la tasa de expansión del universo?"
+  },
+  "fr": {
+   "block": "Aucun des deux camps n'a trouvé d'erreur qui expliquerait l'écart.",
+   "known": "Les mesures dans l'univers proche donnent une expansion d'environ 73 km/s/Mpc ; celles de l'univers primordial, environ 67.",
+   "leads": "Contrôles indépendants des distances avec le télescope James Webb, nouvelle physique possible dans l'univers primordial.",
+   "s": "Tension de Hubble",
+   "t": "Pourquoi les mesures de la vitesse d'expansion de l'univers ne concordent-elles pas ?"
+  },
+  "hi": {
+   "block": "किसी भी पक्ष को ऐसी त्रुटि नहीं मिली है जो इस अंतर को समझा सके।",
+   "known": "निकट के ब्रह्मांड के मापन से विस्तार दर लगभग 73 km/s/Mpc मिलती है; प्रारंभिक ब्रह्मांड से लगभग 67।",
+   "leads": "जेम्स वेब दूरबीन से स्वतंत्र दूरी जाँच, प्रारंभिक ब्रह्मांड में संभावित नई भौतिकी।",
+   "s": "हबल तनाव",
+   "t": "ब्रह्मांड की विस्तार दर के मापन आपस में क्यों मेल नहीं खाते?"
+  },
+  "pt": {
+   "block": "Nenhum dos lados encontrou um erro que explique a diferença.",
+   "known": "Medições do universo próximo dão uma taxa de expansão perto de 73 km/s/Mpc; as do universo primordial dão cerca de 67.",
+   "leads": "Verificações independentes de distância com o telescópio James Webb, possível física nova no universo primordial.",
+   "s": "Tensão de Hubble",
+   "t": "Por que as medições da taxa de expansão do universo discordam?"
+  },
+  "zh": {
+   "block": "双方都没有找到能解释这一差距的误差。",
+   "known": "对近邻宇宙的测量给出的膨胀率约为73公里/秒/百万秒差距;对早期宇宙的测量则约为67。",
+   "leads": "用詹姆斯·韦布望远镜独立核查距离,早期宇宙中可能存在的新物理。",
+   "s": "哈勃张力",
+   "t": "为什么对宇宙膨胀速率的测量结果不一致?"
+  }
+ },
+ "links": [
+  "energie-sombre",
+  "origine-univers"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Riess et al., JWST observations reject unrecognized crowding of Cepheid photometry as an explanation for the Hubble tension (Astrophysical Journal Letters, 2024)",
+   "ty": "study",
+   "u": "https://doi.org/10.3847/2041-8213/ad1ddd"
+  },
+  {
+   "t": "JWST complicates expanding universe paradox by checking Hubble's work (Space.com)",
+   "ty": "press",
+   "u": "https://space.com/james-webb-space-telescope-hubble-tension-universe-expansion-study"
+  }
+ ]
+}

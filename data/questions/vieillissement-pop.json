@@ -1,0 +1,68 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "سيعيل عدد أقل من العاملين عددًا أكبر من المتقاعدين.",
+   "known": "تتوقع الأمم المتحدة أنه بحلول عام 2050 سيتجاوز شخص واحد من كل ستة عمر 65 عامًا.",
+   "leads": "شيخوخة أكثر صحة، والأتمتة، والهجرة وإصلاح أنظمة التقاعد.",
+   "s": "المجتمعات المسنّة",
+   "t": "كيف ستواصل المجتمعات المسنّة الاستمرار؟"
+  },
+  "en": {
+   "block": "Fewer workers will support more retirees.",
+   "known": "The UN projects that by 2050 about one person in six will be over 65.",
+   "leads": "Healthier aging, automation, migration and pension reform.",
+   "s": "Aging societies",
+   "t": "How will aging societies sustain themselves?"
+  },
+  "es": {
+   "block": "Menos trabajadores mantendrán a más jubilados.",
+   "known": "La ONU proyecta que en 2050 cerca de una de cada seis personas tendrá más de 65 años.",
+   "leads": "Envejecimiento más saludable, automatización, migración y reforma de las pensiones.",
+   "s": "Sociedades envejecidas",
+   "t": "¿Cómo se sostendrán las sociedades que envejecen?"
+  },
+  "fr": {
+   "block": "Moins d'actifs devront soutenir plus de retraités.",
+   "known": "L'ONU prévoit qu'en 2050 environ une personne sur six aura plus de 65 ans.",
+   "leads": "Vieillir en meilleure santé, automatisation, migrations, réformes des retraites.",
+   "s": "Sociétés vieillissantes",
+   "t": "Comment les sociétés vieillissantes vont-elles tenir ?"
+  },
+  "hi": {
+   "block": "कम कामगार अधिक सेवानिवृत्त लोगों का भार उठाएँगे।",
+   "known": "संयुक्त राष्ट्र का अनुमान है कि 2050 तक लगभग हर छह में से एक व्यक्ति 65 से अधिक उम्र का होगा।",
+   "leads": "अधिक स्वस्थ वृद्धावस्था, स्वचालन, प्रवासन और पेंशन सुधार।",
+   "s": "वृद्ध होते समाज",
+   "t": "वृद्ध होते समाज खुद को कैसे चलाएँगे?"
+  },
+  "pt": {
+   "block": "Menos trabalhadores sustentarão mais aposentados.",
+   "known": "A ONU projeta que, até 2050, cerca de uma pessoa em cada seis terá mais de 65 anos.",
+   "leads": "Envelhecimento mais saudável, automação, migração e reforma da previdência.",
+   "s": "Sociedades que envelhecem",
+   "t": "Como as sociedades em envelhecimento vão se sustentar?"
+  },
+  "zh": {
+   "block": "更少的劳动者要供养更多的退休者。",
+   "known": "联合国预测,到2050年,约每六个人中就有一人年过65岁。",
+   "leads": "更健康的衰老,自动化,移民和养老金改革。",
+   "s": "老龄化社会",
+   "t": "老龄化社会将如何维持下去?"
+  }
+ },
+ "links": [
+  "natalite",
+  "vieillissement",
+  "ia-economie"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Global population to peak this century: World Population Prospects 2024 (IISD)",
+   "ty": "official",
+   "u": "https://sdg.iisd.org/news/global-population-to-peak-this-century-world-population-prospects-2024/"
+  }
+ ]
+}

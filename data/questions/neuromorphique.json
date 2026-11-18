@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "I",
+ "i18n": {
+  "ar": {
+   "block": "يعمل الدماغ البشري بنحو 20 واط.",
+   "known": "تفصل الرقائق اليوم بين الذاكرة والحساب، مما يهدر الطاقة.",
+   "leads": "رقائق عصبية الشكل، وحوسبة تناظرية وضوئية.",
+   "s": "حوسبة شبيهة بالدماغ",
+   "t": "هل يمكن للحواسيب أن تصبح بكفاءة الدماغ في استهلاك الطاقة؟"
+  },
+  "en": {
+   "block": "Today's chips separate memory and computation, which wastes energy.",
+   "known": "The human brain runs on about 20 watts.",
+   "leads": "Neuromorphic chips, analog and optical computing.",
+   "s": "Brain-like computing",
+   "t": "Can computers become as energy-efficient as the brain?"
+  },
+  "es": {
+   "block": "Los chips actuales separan la memoria y el cálculo, lo que desperdicia energía.",
+   "known": "El cerebro humano funciona con unos 20 vatios.",
+   "leads": "Chips neuromórficos, computación analógica y óptica.",
+   "s": "Computación como el cerebro",
+   "t": "¿Pueden los ordenadores llegar a ser tan eficientes energéticamente como el cerebro?"
+  },
+  "fr": {
+   "block": "Les puces actuelles séparent mémoire et calcul, ce qui gaspille de l'énergie.",
+   "known": "Le cerveau humain fonctionne avec environ 20 watts.",
+   "leads": "Puces neuromorphiques, calcul analogique et optique.",
+   "s": "Calcul neuromorphique",
+   "t": "Les ordinateurs peuvent-ils devenir aussi sobres que le cerveau ?"
+  },
+  "hi": {
+   "block": "आज की चिप्स स्मृति और गणना को अलग रखती हैं, जिससे ऊर्जा बर्बाद होती है।",
+   "known": "मानव मस्तिष्क लगभग 20 वाट पर चलता है।",
+   "leads": "न्यूरोमॉर्फिक चिप्स, एनालॉग और प्रकाशीय कंप्यूटिंग।",
+   "s": "मस्तिष्क-जैसी कंप्यूटिंग",
+   "t": "क्या कंप्यूटर मस्तिष्क जितने ऊर्जा-कुशल बन सकते हैं?"
+  },
+  "pt": {
+   "block": "Os chips atuais separam memória e computação, o que desperdiça energia.",
+   "known": "O cérebro humano funciona com cerca de 20 watts.",
+   "leads": "Chips neuromórficos, computação analógica e óptica.",
+   "s": "Computação como o cérebro",
+   "t": "Os computadores podem se tornar tão eficientes em energia quanto o cérebro?"
+  },
+  "zh": {
+   "block": "如今的芯片把存储和计算分开,这会浪费能量。",
+   "known": "人脑只需约20瓦的功率就能运转。",
+   "leads": "类脑芯片,模拟计算和光计算。",
+   "s": "类脑计算",
+   "t": "计算机能变得和大脑一样节能吗?"
+  }
+ },
+ "links": [
+  "ia-energie",
+  "connectome"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Davies et al., Loihi: a neuromorphic manycore processor with on-chip learning (IEEE Micro, 2018)",
+   "ty": "study",
+   "u": "https://doi.org/10.1109/MM.2018.112130359"
+  },
+  {
+   "t": "Intel unveils largest-ever neuromorphic computer, Hala Point (Live Science, 2024)",
+   "ty": "press",
+   "u": "https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain"
+  }
+ ]
+}

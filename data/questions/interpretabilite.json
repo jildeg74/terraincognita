@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "I",
+ "i18n": {
+  "ar": {
+   "block": "النماذج ضخمة، وكل خلية عصبية تمزج عدة مفاهيم.",
+   "known": "يمكننا عزل المفاهيم والدارات الداخلية في النماذج اللغوية الكبيرة.",
+   "leads": "قواميس الميزات، وتتبع الدارات، وأدوات التحليل الآلي.",
+   "s": "قابلية التفسير",
+   "t": "هل يمكننا فهم ما يجري داخل شبكة عصبية؟"
+  },
+  "en": {
+   "block": "Models are huge, and each neuron mixes several concepts.",
+   "known": "We can isolate internal concepts and circuits in large language models.",
+   "leads": "Feature dictionaries, circuit tracing, automated analysis tools.",
+   "s": "Interpretability",
+   "t": "Can we understand what happens inside a neural network?"
+  },
+  "es": {
+   "block": "Los modelos son enormes, y cada neurona mezcla varios conceptos.",
+   "known": "Podemos aislar conceptos y circuitos internos en los grandes modelos de lenguaje.",
+   "leads": "Diccionarios de rasgos, trazado de circuitos, herramientas de análisis automatizado.",
+   "s": "Interpretabilidad",
+   "t": "¿Podemos entender lo que ocurre dentro de una red neuronal?"
+  },
+  "fr": {
+   "block": "Les modèles sont immenses et chaque neurone mélange plusieurs concepts.",
+   "known": "On sait isoler des concepts et des circuits internes dans de grands modèles de langage.",
+   "leads": "Dictionnaires de caractéristiques, traçage de circuits, outils automatisés d'analyse.",
+   "s": "Interprétabilité",
+   "t": "Peut-on comprendre ce qui se passe à l'intérieur d'un réseau de neurones ?"
+  },
+  "hi": {
+   "block": "मॉडल विशाल हैं, और हर न्यूरॉन कई अवधारणाओं को मिलाता है।",
+   "known": "हम बड़े भाषा मॉडलों के भीतर की अवधारणाओं और परिपथों को अलग कर सकते हैं।",
+   "leads": "फ़ीचर शब्दकोश, परिपथ-अनुरेखण, स्वचालित विश्लेषण उपकरण।",
+   "s": "व्याख्येयता",
+   "t": "क्या हम समझ सकते हैं कि न्यूरल नेटवर्क के अंदर क्या होता है?"
+  },
+  "pt": {
+   "block": "Os modelos são enormes, e cada neurônio mistura vários conceitos.",
+   "known": "Conseguimos isolar conceitos e circuitos internos em grandes modelos de linguagem.",
+   "leads": "Dicionários de características, rastreamento de circuitos, ferramentas de análise automatizada.",
+   "s": "Interpretabilidade",
+   "t": "Podemos entender o que acontece dentro de uma rede neural?"
+  },
+  "zh": {
+   "block": "模型规模巨大,而且每个神经元都混杂着多个概念。",
+   "known": "我们能在大型语言模型中分离出内部的概念和回路。",
+   "leads": "特征词典,回路追踪,自动化分析工具。",
+   "s": "可解释性",
+   "t": "我们能理解神经网络内部发生了什么吗?"
+  }
+ },
+ "links": [
+  "ia-generale",
+  "memoire"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Cunningham et al., Sparse autoencoders find highly interpretable features in language models (arXiv, 2023)",
+   "ty": "preprint",
+   "u": "https://arxiv.org/abs/2309.08600v3"
+  },
+  {
+   "t": "Open-sourcing circuit tracing tools (Anthropic)",
+   "ty": "company",
+   "u": "https://anthropic.com/research/open-source-circuit-tracing"
+  }
+ ]
+}

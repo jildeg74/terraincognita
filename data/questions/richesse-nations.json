@@ -1,0 +1,64 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "لا يمكننا إجراء تجارب على دول بأكملها.",
+   "known": "للمؤسسات أهمية كبيرة، كما أقرّت جائزة نوبل في الاقتصاد لعام 2024.",
+   "leads": "التجارب الطبيعية، وبيانات الأقمار الصناعية عن أضواء الليل، والتجارب المضبوطة صغيرة النطاق.",
+   "s": "ثروة الأمم",
+   "t": "لماذا تصبح بعض الدول غنية وبعضها لا؟"
+  },
+  "en": {
+   "block": "We can't run experiments on whole countries.",
+   "known": "Institutions matter a lot, as the 2024 Nobel Prize in economics recognized.",
+   "leads": "Natural experiments, satellite data on night-time lights, small-scale controlled trials.",
+   "s": "Wealth of nations",
+   "t": "Why do some nations become rich and others not?"
+  },
+  "es": {
+   "block": "No podemos hacer experimentos con países enteros.",
+   "known": "Las instituciones importan mucho, como reconoció el Premio Nobel de Economía de 2024.",
+   "leads": "Experimentos naturales, datos satelitales de luces nocturnas, ensayos controlados a pequeña escala.",
+   "s": "Riqueza de las naciones",
+   "t": "¿Por qué algunas naciones se hacen ricas y otras no?"
+  },
+  "fr": {
+   "block": "On ne peut pas faire d'expériences sur des pays entiers.",
+   "known": "Les institutions comptent beaucoup, ce qu'a récompensé le prix Nobel d'économie 2024.",
+   "leads": "Expériences naturelles, données satellites de luminosité nocturne, essais contrôlés à petite échelle.",
+   "s": "Richesse des nations",
+   "t": "Pourquoi certaines nations deviennent riches et d'autres non ?"
+  },
+  "hi": {
+   "block": "हम पूरे देशों पर प्रयोग नहीं कर सकते।",
+   "known": "संस्थाएँ बहुत मायने रखती हैं, जैसा कि 2024 के अर्थशास्त्र के नोबेल पुरस्कार ने माना।",
+   "leads": "प्राकृतिक प्रयोग, रात की रोशनी पर उपग्रह आँकड़े, छोटे पैमाने के नियंत्रित परीक्षण।",
+   "s": "राष्ट्रों की संपन्नता",
+   "t": "कुछ राष्ट्र अमीर क्यों बन जाते हैं और कुछ नहीं?"
+  },
+  "pt": {
+   "block": "Não podemos fazer experimentos com países inteiros.",
+   "known": "As instituições importam muito, como reconheceu o Prêmio Nobel de economia de 2024.",
+   "leads": "Experimentos naturais, dados de satélite sobre luzes noturnas, ensaios controlados em pequena escala.",
+   "s": "Riqueza das nações",
+   "t": "Por que algumas nações enriquecem e outras não?"
+  },
+  "zh": {
+   "block": "我们无法对整个国家做实验。",
+   "known": "制度非常重要,2024年诺贝尔经济学奖就肯定了这一点。",
+   "leads": "自然实验,夜间灯光卫星数据,小规模对照试验。",
+   "s": "国家的财富",
+   "t": "为什么有些国家富裕,有些国家不富裕?"
+  }
+ },
+ "links": [],
+ "n": 1,
+ "src": [
+  {
+   "t": "Acemoglu, Johnson and Robinson awarded 2024 Nobel Prize (NBER)",
+   "ty": "institution",
+   "u": "https://nber.org/news/daron-acemoglu-simon-johnson-and-james-robinson-awarded-2024-nobel-prize"
+  }
+ ]
+}

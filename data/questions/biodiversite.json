@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "T",
+ "i18n": {
+  "ar": {
+   "block": "معظم الأنواع، وخاصة الحشرات والكائنات الدقيقة، ما زال مجهولًا.",
+   "known": "وُصف نحو مليوني نوع، وتصل التقديرات إلى ملايين كثيرة أخرى.",
+   "leads": "الحمض النووي البيئي، والتعرّف على الأنواع بمساعدة الذكاء الاصطناعي.",
+   "s": "عدد الأنواع",
+   "t": "كم عدد الأنواع التي تعيش على الأرض؟"
+  },
+  "en": {
+   "block": "Most species, especially insects and microbes, are still unknown.",
+   "known": "About 2 million species have been described; estimates run to many millions more.",
+   "leads": "Environmental DNA, AI-assisted identification.",
+   "s": "Species count",
+   "t": "How many species live on Earth?"
+  },
+  "es": {
+   "block": "La mayoría de las especies, sobre todo insectos y microbios, siguen sin conocerse.",
+   "known": "Se han descrito unos 2 millones de especies; las estimaciones llegan a muchos millones más.",
+   "leads": "ADN ambiental, identificación asistida por IA.",
+   "s": "Número de especies",
+   "t": "¿Cuántas especies viven en la Tierra?"
+  },
+  "fr": {
+   "block": "La plupart des espèces, surtout insectes et microbes, restent inconnues.",
+   "known": "Environ 2 millions d'espèces ont été décrites ; les estimations en ajoutent plusieurs millions.",
+   "leads": "ADN environnemental, identification assistée par IA.",
+   "s": "Nombre d'espèces",
+   "t": "Combien d'espèces vivent sur Terre ?"
+  },
+  "hi": {
+   "block": "अधिकांश प्रजातियाँ, खासकर कीट और सूक्ष्मजीव, अभी अज्ञात हैं।",
+   "known": "लगभग 20 लाख प्रजातियों का वर्णन हो चुका है; अनुमान है कि इनसे कई लाख और हैं।",
+   "leads": "पर्यावरणीय DNA, AI की मदद से पहचान।",
+   "s": "प्रजातियों की संख्या",
+   "t": "पृथ्वी पर कितनी प्रजातियाँ रहती हैं?"
+  },
+  "pt": {
+   "block": "A maioria das espécies, sobretudo insetos e micróbios, ainda é desconhecida.",
+   "known": "Cerca de 2 milhões de espécies foram descritas; as estimativas chegam a muitos milhões a mais.",
+   "leads": "DNA ambiental, identificação assistida por IA.",
+   "s": "Número de espécies",
+   "t": "Quantas espécies vivem na Terra?"
+  },
+  "zh": {
+   "block": "大多数物种,尤其是昆虫和微生物,仍然未知。",
+   "known": "已被描述的物种约有200万种;估计还有数百万种。",
+   "leads": "环境DNA,人工智能辅助识别。",
+   "s": "物种数量",
+   "t": "地球上有多少物种?"
+  }
+ },
+ "links": [
+  "ocean-profond",
+  "points-bascule"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Mora et al., How many species are there on Earth and in the ocean? (PLOS Biology, 2011)",
+   "ty": "study",
+   "u": "https://journals.plos.org/plosbiology/article/info:doi/10.1371/journal.pbio.1001127"
+  }
+ ]
+}

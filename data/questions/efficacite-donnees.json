@@ -1,0 +1,73 @@
+{
+ "checked": "2026-11-18",
+ "d": "I",
+ "i18n": {
+  "ar": {
+   "block": "لا نعرف أي القدرات المدمجة هي التي تتيح للأطفال التعلم بهذه السرعة.",
+   "known": "يسمع الطفل عشرات الملايين من الكلمات؛ بينما تتدرب النماذج اللغوية الكبيرة على تريليونات.",
+   "leads": "التدريب على بيانات بحجم ما يتلقاه الطفل، والتعلم عبر التفاعل مع العالم.",
+   "s": "كفاءة البيانات",
+   "t": "لماذا تحتاج أنظمة الذكاء الاصطناعي إلى بيانات أكثر بكثير من الأطفال لتتعلم؟"
+  },
+  "en": {
+   "block": "We don't know which built-in abilities let children learn so fast.",
+   "known": "A child hears tens of millions of words; large language models train on trillions.",
+   "leads": "Training on child-scale data, learning through interaction with the world.",
+   "s": "Data efficiency",
+   "t": "Why do AIs need so much more data than children to learn?"
+  },
+  "es": {
+   "block": "No sabemos qué capacidades innatas permiten a los niños aprender tan rápido.",
+   "known": "Un niño oye decenas de millones de palabras; los grandes modelos de lenguaje se entrenan con billones.",
+   "leads": "Entrenamiento con datos a escala infantil, aprendizaje mediante la interacción con el mundo.",
+   "s": "Eficiencia de datos",
+   "t": "¿Por qué las IA necesitan muchos más datos que los niños para aprender?"
+  },
+  "fr": {
+   "block": "On ignore quelles capacités innées permettent aux enfants d'apprendre si vite.",
+   "known": "Un enfant entend des dizaines de millions de mots ; les grands modèles de langage s'entraînent sur des milliers de milliards.",
+   "leads": "Entraînement sur des données à l'échelle d'un enfant, apprentissage par interaction avec le monde.",
+   "s": "Efficacité des données",
+   "t": "Pourquoi les IA ont-elles besoin de bien plus de données qu'un enfant pour apprendre ?"
+  },
+  "hi": {
+   "block": "हम नहीं जानते कि कौन-सी अंतर्निहित क्षमताएँ बच्चों को इतनी तेज़ी से सीखने देती हैं।",
+   "known": "एक बच्चा करोड़ों शब्द सुनता है; बड़े भाषा मॉडल खरबों पर प्रशिक्षित होते हैं।",
+   "leads": "बच्चे के पैमाने के डेटा पर प्रशिक्षण, दुनिया से अंतःक्रिया के ज़रिए सीखना।",
+   "s": "डेटा दक्षता",
+   "t": "AI को सीखने के लिए बच्चों से इतना अधिक डेटा क्यों चाहिए?"
+  },
+  "pt": {
+   "block": "Não sabemos quais capacidades inatas permitem que as crianças aprendam tão rápido.",
+   "known": "Uma criança ouve dezenas de milhões de palavras; os grandes modelos de linguagem treinam com trilhões.",
+   "leads": "Treinamento com dados na escala de uma criança, aprendizado por interação com o mundo.",
+   "s": "Eficiência de dados",
+   "t": "Por que as IAs precisam de muito mais dados que as crianças para aprender?"
+  },
+  "zh": {
+   "block": "我们不知道是哪些与生俱来的能力让孩子学得这么快。",
+   "known": "一个孩子听到的词有几千万个;大型语言模型则用数万亿个词来训练。",
+   "leads": "用儿童规模的数据训练,通过与世界互动来学习。",
+   "s": "数据效率",
+   "t": "为什么AI学习所需的数据比儿童多得多?"
+  }
+ },
+ "links": [
+  "langage-origine",
+  "intelligence-bio",
+  "robotique"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Findings of the BabyLM Challenge (arXiv, 2025)",
+   "ty": "preprint",
+   "u": "https://arxiv.org/html/2504.08165v1"
+  },
+  {
+   "t": "The BabyLM challenge: researchers look to infants (The Transmitter)",
+   "ty": "press",
+   "u": "https://www.thetransmitter.org/neuroai/the-babylm-challenge-in-search-of-more-efficient-learning-algorithms-researchers-look-to-infants/"
+  }
+ ]
+}

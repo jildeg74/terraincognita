@@ -1,0 +1,68 @@
+{
+ "checked": "2026-11-18",
+ "d": "E",
+ "i18n": {
+  "ar": {
+   "block": "لا توجد وظيفة متفق عليها للحلم.",
+   "known": "تحدث الأحلام الحية في معظمها خلال نوم حركة العين السريعة.",
+   "leads": "إعادة تشغيل الذاكرة، والتدرب على التهديدات، وحالمون واعون يستطيعون الإشارة من داخل الحلم.",
+   "s": "الأحلام",
+   "t": "ما وظيفة الأحلام؟"
+  },
+  "en": {
+   "block": "There is no agreed function for dreaming.",
+   "known": "Vivid dreams occur mostly during REM sleep.",
+   "leads": "Memory replay, rehearsal of threats, lucid dreamers who can signal from inside a dream.",
+   "s": "Dreams",
+   "t": "What are dreams for?"
+  },
+  "es": {
+   "block": "No hay una función acordada para soñar.",
+   "known": "Los sueños vívidos ocurren sobre todo durante el sueño REM.",
+   "leads": "Repetición de recuerdos, ensayo de amenazas, soñadores lúcidos que pueden enviar señales desde dentro de un sueño.",
+   "s": "Sueños",
+   "t": "¿Para qué sirven los sueños?"
+  },
+  "fr": {
+   "block": "Aucune fonction du rêve ne fait consensus.",
+   "known": "Les rêves les plus vifs surviennent surtout pendant le sommeil paradoxal.",
+   "leads": "Rejeu de la mémoire, répétition des menaces, rêveurs lucides capables d'envoyer des signaux depuis leur rêve.",
+   "s": "Rêves",
+   "t": "À quoi servent les rêves ?"
+  },
+  "hi": {
+   "block": "सपने देखने का कोई सर्वसम्मत कार्य नहीं है।",
+   "known": "जीवंत सपने अधिकतर REM नींद के दौरान आते हैं।",
+   "leads": "स्मृति का पुनःप्रसारण, खतरों का पूर्वाभ्यास, स्पष्ट सपने देखने वाले जो सपने के भीतर से संकेत दे सकते हैं।",
+   "s": "सपने",
+   "t": "सपने किस लिए होते हैं?"
+  },
+  "pt": {
+   "block": "Não há uma função consensual para o sonho.",
+   "known": "Os sonhos vívidos ocorrem principalmente durante o sono REM.",
+   "leads": "Repetição de memórias, ensaio de ameaças, sonhadores lúcidos que conseguem enviar sinais de dentro do sonho.",
+   "s": "Sonhos",
+   "t": "Para que servem os sonhos?"
+  },
+  "zh": {
+   "block": "对做梦的功能,目前没有公认的说法。",
+   "known": "生动的梦主要出现在快速眼动(REM)睡眠期间。",
+   "leads": "记忆重放,对威胁的预演,能在梦中发出信号的清醒梦者。",
+   "s": "梦",
+   "t": "梦有什么用?"
+  }
+ },
+ "links": [
+  "sommeil",
+  "conscience",
+  "memoire"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Konkoly et al., Real-time dialogue between experimenters and dreamers during REM sleep (Current Biology, 2021)",
+   "ty": "study",
+   "u": "https://hal.sorbonne-universite.fr/hal-03154112"
+  }
+ ]
+}

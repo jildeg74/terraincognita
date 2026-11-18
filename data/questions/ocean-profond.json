@@ -1,0 +1,78 @@
+{
+ "checked": "2026-11-18",
+ "d": "T",
+ "i18n": {
+  "ar": {
+   "block": "بلوغ الأعماق بطيء ومكلف.",
+   "known": "لم يُستكشف معظم قاع البحر العميق قط، وتواصل البعثات العثور على أنواع جديدة.",
+   "leads": "روبوتات مستقلة تحت الماء، وحمض نووي بيئي يُجمع من مياه البحر.",
+   "s": "حياة أعماق المحيط",
+   "t": "ما الذي يعيش في أعماق المحيط؟"
+  },
+  "en": {
+   "block": "Reaching the depths is slow and expensive.",
+   "known": "Most of the deep seafloor has never been explored, and expeditions keep finding new species.",
+   "leads": "Autonomous underwater robots, environmental DNA collected from seawater.",
+   "s": "Deep ocean life",
+   "t": "What lives in the deep ocean?"
+  },
+  "es": {
+   "block": "Llegar a las profundidades es lento y caro.",
+   "known": "La mayor parte del fondo marino profundo nunca se ha explorado, y las expediciones siguen encontrando especies nuevas.",
+   "leads": "Robots submarinos autónomos, ADN ambiental recogido del agua de mar.",
+   "s": "Vida en el océano profundo",
+   "t": "¿Qué vive en el océano profundo?"
+  },
+  "fr": {
+   "block": "Atteindre les profondeurs est lent et coûteux.",
+   "known": "La majeure partie des grands fonds n'a jamais été explorée, et chaque expédition découvre de nouvelles espèces.",
+   "leads": "Robots sous-marins autonomes, ADN environnemental prélevé dans l'eau de mer.",
+   "s": "Océan profond",
+   "t": "Qu'est-ce qui vit dans les profondeurs de l'océan ?"
+  },
+  "hi": {
+   "block": "गहराइयों तक पहुँचना धीमा और महँगा है।",
+   "known": "गहरे समुद्र तल के अधिकांश हिस्से की कभी खोज नहीं हुई है, और अभियानों में नई प्रजातियाँ मिलती रहती हैं।",
+   "leads": "स्वायत्त पानी के नीचे चलने वाले रोबोट, समुद्री जल से एकत्र पर्यावरणीय DNA।",
+   "s": "गहरे सागर का जीवन",
+   "t": "गहरे महासागर में क्या रहता है?"
+  },
+  "pt": {
+   "block": "Chegar às profundezas é lento e caro.",
+   "known": "A maior parte do fundo marinho profundo nunca foi explorada, e as expedições continuam encontrando espécies novas.",
+   "leads": "Robôs submarinos autônomos, DNA ambiental coletado da água do mar.",
+   "s": "Vida no oceano profundo",
+   "t": "O que vive no oceano profundo?"
+  },
+  "zh": {
+   "block": "抵达深处既缓慢又昂贵。",
+   "known": "大部分深海海底从未被探索过,考察不断发现新物种。",
+   "leads": "自主水下机器人,从海水中采集的环境DNA。",
+   "s": "深海生物",
+   "t": "深海里生活着什么?"
+  }
+ },
+ "links": [
+  "origine-vie",
+  "vie-ailleurs",
+  "biodiversite"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Ocean Census reveals more than 1,100 new species (Scientific American)",
+   "ty": "press",
+   "u": "https://www.scientificamerican.com/article/ocean-census-reveals-more-than-1-100-new-species/"
+  },
+  {
+   "t": "Only 0.001% of the deep seafloor visually observed in seventy years (EurekAlert, study in Science Advances, 2025)",
+   "ty": "press",
+   "u": "https://www.eurekalert.org/news-releases/1082535"
+  },
+  {
+   "t": "Bell et al., study of how much of the deep seafloor has been visually observed (Science Advances, 2025): repository record",
+   "ty": "institution",
+   "u": "https://marineinfo.org/doc/publication/408357"
+  }
+ ]
+}

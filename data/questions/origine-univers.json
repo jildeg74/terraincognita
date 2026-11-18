@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "P",
+ "i18n": {
+  "ar": {
+   "block": "عمر الكون المرصود 13.8 مليار سنة؛ ومن المرجّح وجود مرحلة تضخم وجيزة جدًا.",
+   "known": "تنهار الفيزياء المعروفة عند الزمن صفر، ولم يُؤكَّد التضخم الكوني بعد.",
+   "leads": "البحث عن موجات الجاذبية البدائية في الخلفية الكونية الميكروية (LiteBIRD ومرصد سيمونز).",
+   "s": "أصل الكون",
+   "t": "ماذا حدث في بداية الكون؟"
+  },
+  "en": {
+   "block": "Known physics breaks down at time zero, and inflation is not yet confirmed.",
+   "known": "The observable universe is 13.8 billion years old; a very brief phase of inflation is likely.",
+   "leads": "Searching for primordial gravitational waves in the cosmic microwave background (LiteBIRD, Simons Observatory).",
+   "s": "Origin of the universe",
+   "t": "What happened at the very beginning of the universe?"
+  },
+  "es": {
+   "block": "La física conocida deja de funcionar en el tiempo cero, y la inflación aún no está confirmada.",
+   "known": "El universo observable tiene 13,8 mil millones de años; es probable una fase muy breve de inflación.",
+   "leads": "Búsqueda de ondas gravitacionales primordiales en el fondo cósmico de microondas (LiteBIRD, Observatorio Simons).",
+   "s": "Origen del universo",
+   "t": "¿Qué ocurrió al comienzo mismo del universo?"
+  },
+  "fr": {
+   "block": "La physique connue s'effondre à l'instant zéro, et l'inflation n'est pas encore confirmée.",
+   "known": "L'univers observable a 13,8 milliards d'années ; une phase d'inflation très brève est probable.",
+   "leads": "Chercher les ondes gravitationnelles primordiales dans le fond diffus cosmologique (LiteBIRD, observatoire Simons).",
+   "s": "Origine de l'univers",
+   "t": "Que s'est-il passé au tout début de l'univers ?"
+  },
+  "hi": {
+   "block": "ज्ञात भौतिकी शून्य समय पर टूट जाती है, और स्फीति की अभी पुष्टि नहीं हुई है।",
+   "known": "दृश्य ब्रह्मांड 13.8 अरब वर्ष पुराना है; स्फीति (इन्फ्लेशन) का एक बहुत संक्षिप्त चरण संभव है।",
+   "leads": "कॉस्मिक माइक्रोवेव पृष्ठभूमि में आदिम गुरुत्वीय तरंगों की खोज (LiteBIRD, साइमंस ऑब्ज़र्वेटरी)।",
+   "s": "ब्रह्मांड की उत्पत्ति",
+   "t": "ब्रह्मांड की बिल्कुल शुरुआत में क्या हुआ?"
+  },
+  "pt": {
+   "block": "A física conhecida falha no tempo zero, e a inflação ainda não foi confirmada.",
+   "known": "O universo observável tem 13,8 bilhões de anos; uma fase muito breve de inflação é provável.",
+   "leads": "Busca de ondas gravitacionais primordiais na radiação cósmica de fundo em micro-ondas (LiteBIRD, Simons Observatory).",
+   "s": "Origem do universo",
+   "t": "O que aconteceu no início do universo?"
+  },
+  "zh": {
+   "block": "已知的物理学在时间零点失效,暴胀也尚未得到证实。",
+   "known": "可观测宇宙的年龄是138亿年;很可能经历了一个极短暂的暴胀阶段。",
+   "leads": "在宇宙微波背景中寻找原初引力波(LiteBIRD、西蒙斯天文台)。",
+   "s": "宇宙起源",
+   "t": "宇宙最初发生了什么?"
+  }
+ },
+ "links": [
+  "gravite-quantique",
+  "matiere-antimatiere"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "LiteBIRD Collaboration (Campeti et al.), LiteBIRD science goals and forecasts: origin of primordial gravitational waves (arXiv, 2023)",
+   "ty": "preprint",
+   "u": "https://arxiv.org/html/2312.00717v2"
+  }
+ ]
+}

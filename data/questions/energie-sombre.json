@@ -1,0 +1,73 @@
+{
+ "checked": "2026-11-18",
+ "d": "P",
+ "i18n": {
+  "ar": {
+   "block": "يتسارع تمدد الكون. وسببه، المسمى الطاقة المظلمة، يشكّل نحو 70% من محتواه من الطاقة.",
+   "known": "القيمة التي تتنبأ بها الفيزياء الكمومية تخطئ بنحو 120 رتبة قدر، وهو أسوأ تباين في الفيزياء كلها.",
+   "leads": "تلمّح مسوح DESI إلى أنها قد تتغير مع الزمن؛ ويُتوقع أن يحسم الأمر تلسكوب إقليدس ومرصد روبن.",
+   "s": "الطاقة المظلمة",
+   "t": "ما الطاقة المظلمة؟"
+  },
+  "en": {
+   "block": "The value predicted by quantum physics is off by about 120 orders of magnitude, the worst mismatch in all of physics.",
+   "known": "The expansion of the universe is accelerating. The cause, called dark energy, makes up about 70% of its energy content.",
+   "leads": "DESI surveys hint that it may change over time; Euclid and the Rubin Observatory should settle it.",
+   "s": "Dark energy",
+   "t": "What is dark energy?"
+  },
+  "es": {
+   "block": "El valor que predice la física cuántica se equivoca en unos 120 órdenes de magnitud, la peor discrepancia de toda la física.",
+   "known": "La expansión del universo se está acelerando. La causa, llamada energía oscura, constituye cerca del 70 % de su contenido energético.",
+   "leads": "Los estudios de DESI sugieren que podría cambiar con el tiempo; Euclid y el Observatorio Rubin deberían resolverlo.",
+   "s": "Energía oscura",
+   "t": "¿Qué es la energía oscura?"
+  },
+  "fr": {
+   "block": "La valeur prédite par la physique quantique est fausse d'environ 120 ordres de grandeur, le pire écart de toute la physique.",
+   "known": "L'expansion de l'univers accélère. La cause, appelée énergie sombre, représente environ 70 % de son contenu énergétique.",
+   "leads": "Les relevés DESI suggèrent qu'elle pourrait varier dans le temps ; Euclid et l'observatoire Rubin vont trancher.",
+   "s": "Énergie sombre",
+   "t": "Qu'est-ce que l'énergie sombre ?"
+  },
+  "hi": {
+   "block": "ब्रह्मांड का विस्तार तेज़ हो रहा है। इसका कारण, जिसे डार्क एनर्जी कहते हैं, इसकी ऊर्जा का लगभग 70% हिस्सा है।",
+   "known": "क्वांटम भौतिकी द्वारा अनुमानित मान लगभग 120 कोटि परिमाण (ऑर्डर ऑफ मैग्नीट्यूड) गलत है, जो पूरी भौतिकी का सबसे बड़ा बेमेल है।",
+   "leads": "DESI सर्वेक्षण संकेत देते हैं कि यह समय के साथ बदल सकती है; Euclid और रुबिन वेधशाला इसे सुलझा सकेंगे।",
+   "s": "डार्क एनर्जी",
+   "t": "डार्क एनर्जी क्या है?"
+  },
+  "pt": {
+   "block": "O valor previsto pela física quântica erra por cerca de 120 ordens de grandeza, a pior discrepância de toda a física.",
+   "known": "A expansão do universo está se acelerando. A causa, chamada energia escura, responde por cerca de 70% do seu conteúdo energético.",
+   "leads": "Os levantamentos do DESI sugerem que ela pode mudar com o tempo; o Euclid e o Observatório Rubin devem esclarecer a questão.",
+   "s": "Energia escura",
+   "t": "O que é a energia escura?"
+  },
+  "zh": {
+   "block": "量子物理预言的数值偏差约达120个数量级,是物理学中最严重的不符。",
+   "known": "宇宙的膨胀正在加速。其成因被称为暗能量,约占宇宙能量总量的70%。",
+   "leads": "DESI巡天暗示它可能随时间变化;欧几里得望远镜和鲁宾天文台有望给出定论。",
+   "s": "暗能量",
+   "t": "暗能量是什么?"
+  }
+ },
+ "links": [
+  "matiere-noire",
+  "gravite-quantique",
+  "origine-univers"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "DESI results suggest dark energy may evolve over time (UKRI)",
+   "ty": "official",
+   "u": "https://ukri.org/news/desi-results-suggest-dark-energy-may-evolve-over-time"
+  },
+  {
+   "t": "New DESI results strengthen hints that dark energy may evolve (Symmetry)",
+   "ty": "press",
+   "u": "https://symmetrymagazine.org/article/new-desi-results-strengthen-hints-that-dark-energy-may-evolve"
+  }
+ ]
+}

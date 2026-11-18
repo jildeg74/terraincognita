@@ -1,0 +1,70 @@
+{
+ "checked": "2026-11-18",
+ "d": "E",
+ "i18n": {
+  "ar": {
+   "block": "لا نعرف لماذا ينتج النشاط الفيزيائي تجربة، وليس لدينا مقياس موضوعي للوعي.",
+   "known": "حُدّدت مناطق وإيقاعات دماغية ترتبط بالتجربة الواعية.",
+   "leads": "تختبر فرق متنافسة نظرياتها (المعلومات المتكاملة، والفضاء العالمي) معًا في تجارب مشتركة.",
+   "s": "الوعي",
+   "t": "كيف ينشأ الوعي من الدماغ؟"
+  },
+  "en": {
+   "block": "We don't know why physical activity produces experience, and we have no objective measure of consciousness.",
+   "known": "Brain areas and rhythms associated with conscious experience have been identified.",
+   "leads": "Rival teams test their theories (integrated information, global workspace) together in shared experiments.",
+   "s": "Consciousness",
+   "t": "How does consciousness arise from the brain?"
+  },
+  "es": {
+   "block": "No sabemos por qué la actividad física produce experiencia, y no tenemos ninguna medida objetiva de la conciencia.",
+   "known": "Se han identificado áreas y ritmos cerebrales asociados con la experiencia consciente.",
+   "leads": "Equipos rivales ponen a prueba juntos sus teorías (información integrada, espacio de trabajo global) en experimentos compartidos.",
+   "s": "Conciencia",
+   "t": "¿Cómo surge la conciencia a partir del cerebro?"
+  },
+  "fr": {
+   "block": "On ne sait pas pourquoi une activité physique produit un vécu, et on n'a aucune mesure objective de la conscience.",
+   "known": "On a repéré des zones et des rythmes cérébraux associés à l'expérience consciente.",
+   "leads": "Des équipes rivales testent ensemble leurs théories (information intégrée, espace de travail global) dans des expériences communes.",
+   "s": "Conscience",
+   "t": "Comment la conscience naît-elle du cerveau ?"
+  },
+  "hi": {
+   "block": "हम नहीं जानते कि भौतिक गतिविधि से अनुभव क्यों पैदा होता है, और चेतना का कोई वस्तुनिष्ठ माप हमारे पास नहीं है।",
+   "known": "चेतन अनुभव से जुड़े मस्तिष्क क्षेत्रों और लयों की पहचान हो चुकी है।",
+   "leads": "प्रतिद्वंद्वी टीमें अपने सिद्धांतों (एकीकृत सूचना, वैश्विक कार्यक्षेत्र) को साझा प्रयोगों में एक साथ परखती हैं।",
+   "s": "चेतना",
+   "t": "मस्तिष्क से चेतना कैसे उत्पन्न होती है?"
+  },
+  "pt": {
+   "block": "Não sabemos por que a atividade física produz experiência, e não temos uma medida objetiva da consciência.",
+   "known": "Foram identificadas áreas e ritmos cerebrais associados à experiência consciente.",
+   "leads": "Equipes rivais testam juntas suas teorias (informação integrada, espaço de trabalho global) em experimentos compartilhados.",
+   "s": "Consciência",
+   "t": "Como a consciência surge do cérebro?"
+  },
+  "zh": {
+   "block": "我们不知道为什么物理活动会产生体验,也没有客观的意识测量手段。",
+   "known": "已经确认了与有意识体验相关的脑区和脑节律。",
+   "leads": "相互竞争的团队在共同的实验中一起检验各自的理论(整合信息理论、全局工作空间理论)。",
+   "s": "意识",
+   "t": "意识是如何从大脑中产生的?"
+  }
+ },
+ "links": [
+  "ia-conscience",
+  "sommeil",
+  "memoire",
+  "connectome",
+  "langage-origine"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Adversarial testing of global neuronal workspace and integrated information theories of consciousness (Nature, 2025)",
+   "ty": "study",
+   "u": "https://pubmed.ncbi.nlm.nih.gov/40307561/"
+  }
+ ]
+}

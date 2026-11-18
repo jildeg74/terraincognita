@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "كان لسياسات الأسرة أثر محدود حتى الآن.",
+   "known": "أصبح معدل الخصوبة في أكثر من نصف دول العالم دون مستوى الإحلال.",
+   "leads": "دراسات تكاليف السكن، والعمل والحياة الأسرية، وتغير الأعراف.",
+   "s": "انخفاض المواليد",
+   "t": "لماذا تنخفض معدلات المواليد في كل مكان تقريبًا؟"
+  },
+  "en": {
+   "block": "Family policies have had limited effect so far.",
+   "known": "More than half of the world's countries now have fertility below replacement level.",
+   "leads": "Studies of housing costs, work and family life, and changing norms.",
+   "s": "Falling birth rates",
+   "t": "Why are birth rates falling almost everywhere?"
+  },
+  "es": {
+   "block": "Las políticas familiares han tenido hasta ahora un efecto limitado.",
+   "known": "Más de la mitad de los países del mundo tienen ya una fecundidad inferior al nivel de reemplazo.",
+   "leads": "Estudios sobre el coste de la vivienda, el trabajo y la vida familiar, y el cambio de normas.",
+   "s": "Caída de la natalidad",
+   "t": "¿Por qué baja la natalidad casi en todas partes?"
+  },
+  "fr": {
+   "block": "Les politiques familiales ont eu jusqu'ici un effet limité.",
+   "known": "Plus de la moitié des pays du monde ont aujourd'hui une fécondité sous le seuil de renouvellement.",
+   "leads": "Études sur le coût du logement, la conciliation travail-famille et l'évolution des normes.",
+   "s": "Baisse de la natalité",
+   "t": "Pourquoi la natalité baisse-t-elle presque partout ?"
+  },
+  "hi": {
+   "block": "परिवार संबंधी नीतियों का अब तक सीमित प्रभाव रहा है।",
+   "known": "दुनिया के आधे से अधिक देशों में अब प्रजनन दर प्रतिस्थापन स्तर से नीचे है।",
+   "leads": "आवास की लागत, काम और पारिवारिक जीवन, और बदलते मानदंडों के अध्ययन।",
+   "s": "घटती जन्म दर",
+   "t": "लगभग हर जगह जन्म दर क्यों गिर रही है?"
+  },
+  "pt": {
+   "block": "As políticas familiares tiveram, até agora, efeito limitado.",
+   "known": "Mais da metade dos países do mundo tem hoje fecundidade abaixo do nível de reposição.",
+   "leads": "Estudos sobre custo de moradia, trabalho e vida familiar, e mudança de normas.",
+   "s": "Queda da natalidade",
+   "t": "Por que as taxas de natalidade estão caindo quase em toda parte?"
+  },
+  "zh": {
+   "block": "家庭政策至今效果有限。",
+   "known": "世界上超过一半的国家,生育率现已低于更替水平。",
+   "leads": "对住房成本、工作与家庭生活以及观念变化的研究。",
+   "s": "生育率下降",
+   "t": "为什么几乎所有地方的生育率都在下降?"
+  }
+ },
+ "links": [
+  "productivite",
+  "vieillissement-pop"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Global population to peak this century: World Population Prospects 2024 (IISD)",
+   "ty": "official",
+   "u": "https://sdg.iisd.org/news/global-population-to-peak-this-century-world-population-prospects-2024/"
+  }
+ ]
+}

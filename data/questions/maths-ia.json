@@ -1,0 +1,74 @@
+{
+ "checked": "2026-11-18",
+ "d": "M",
+ "i18n": {
+  "ar": {
+   "block": "يحتاج البحث إلى مفاهيم جديدة، لا مجرد حل مسائل طرحها غيرك.",
+   "known": "في عام 2025، بلغت أنظمة الذكاء الاصطناعي مستوى الميدالية الذهبية في الأولمبياد الدولي للرياضيات.",
+   "leads": "البراهين الصورية في مساعد البراهين Lean، والتعاون بين الرياضيين والذكاء الاصطناعي.",
+   "s": "رياضيات الذكاء الاصطناعي",
+   "t": "هل يستطيع الذكاء الاصطناعي اكتشاف نتائج رياضية كبرى بمفرده؟"
+  },
+  "en": {
+   "block": "Research needs new concepts, not just solving problems someone else posed.",
+   "known": "In 2025, AI systems reached gold-medal level at the International Mathematical Olympiad.",
+   "leads": "Formal proofs in the Lean proof assistant, collaboration between mathematicians and AI.",
+   "s": "AI mathematics",
+   "t": "Can AI discover major mathematical results on its own?"
+  },
+  "es": {
+   "block": "La investigación necesita conceptos nuevos, no solo resolver problemas planteados por otros.",
+   "known": "En 2025, sistemas de IA alcanzaron el nivel de medalla de oro en la Olimpiada Internacional de Matemáticas.",
+   "leads": "Demostraciones formales en el asistente de pruebas Lean, colaboración entre matemáticos e IA.",
+   "s": "Matemáticas con IA",
+   "t": "¿Puede la IA descubrir por sí sola grandes resultados matemáticos?"
+  },
+  "fr": {
+   "block": "La recherche demande des concepts nouveaux, pas seulement résoudre des problèmes posés.",
+   "known": "En 2025, des IA ont atteint le niveau médaille d'or aux Olympiades internationales de mathématiques.",
+   "leads": "Preuves formelles dans l'assistant Lean, collaboration entre mathématiciens et IA.",
+   "s": "Mathématiques par IA",
+   "t": "L'IA peut-elle découvrir seule des résultats mathématiques majeurs ?"
+  },
+  "hi": {
+   "block": "शोध के लिए नई अवधारणाएँ चाहिए, केवल किसी और की पूछी समस्याएँ हल करना काफ़ी नहीं।",
+   "known": "2025 में AI प्रणालियाँ अंतर्राष्ट्रीय गणित ओलंपियाड में स्वर्ण-पदक स्तर तक पहुँचीं।",
+   "leads": "Lean प्रूफ़ असिस्टेंट में औपचारिक प्रमाण, गणितज्ञों और AI के बीच सहयोग।",
+   "s": "AI गणित",
+   "t": "क्या AI अपने आप प्रमुख गणितीय परिणाम खोज सकता है?"
+  },
+  "pt": {
+   "block": "A pesquisa exige novos conceitos, não apenas resolver problemas propostos por outras pessoas.",
+   "known": "Em 2025, sistemas de IA atingiram o nível de medalha de ouro na Olimpíada Internacional de Matemática.",
+   "leads": "Demonstrações formais no assistente de provas Lean, colaboração entre matemáticos e IA.",
+   "s": "Matemática com IA",
+   "t": "A IA pode descobrir sozinha grandes resultados matemáticos?"
+  },
+  "zh": {
+   "block": "研究需要新的概念,而不只是解决别人提出的问题。",
+   "known": "2025年,AI系统在国际数学奥林匹克竞赛中达到了金牌水平。",
+   "leads": "在Lean证明助手中进行形式化证明,数学家与AI的合作。",
+   "s": "AI数学",
+   "t": "人工智能能自己发现重大的数学成果吗?"
+  }
+ },
+ "links": [
+  "riemann",
+  "p-np",
+  "navier-stokes",
+  "ia-generale"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "Olympiad-level formal mathematical reasoning with reinforcement learning (Nature, 2025)",
+   "ty": "study",
+   "u": "https://www.nature.com/articles/s41586-025-09833-y"
+  },
+  {
+   "t": "Google DeepMind achieves gold-level Math Olympiad performance, matching OpenAI (TechRepublic, 2025)",
+   "ty": "press",
+   "u": "https://www.techrepublic.com/article/news-google-deepmind-math-olympiad/"
+  }
+ ]
+}

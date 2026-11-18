@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "من الصعب الفصل بين السبب والارتباط، ومراعاة الثقافة.",
+   "known": "تجد دراسات طويلة الأمد، بدأت إحداها عام 1938، أن العلاقات الوثيقة تتنبأ بقوة بالرفاه.",
+   "leads": "دراسات الأفواج طويلة الأمد، وتجارب عشوائية عن الرفاه.",
+   "s": "الرفاه",
+   "t": "ما الذي يسعد الناس على مدى العمر؟"
+  },
+  "en": {
+   "block": "Separating cause from correlation, and accounting for culture, is hard.",
+   "known": "Long-running studies, one begun in 1938, find that close relationships strongly predict well-being.",
+   "leads": "Long-term cohort studies, randomized experiments on well-being.",
+   "s": "Well-being",
+   "t": "What makes people happy over a lifetime?"
+  },
+  "es": {
+   "block": "Separar la causa de la correlación y tener en cuenta la cultura es difícil.",
+   "known": "Estudios de larga duración, uno iniciado en 1938, encuentran que las relaciones cercanas predicen con fuerza el bienestar.",
+   "leads": "Estudios de cohortes a largo plazo, experimentos aleatorizados sobre el bienestar.",
+   "s": "Bienestar",
+   "t": "¿Qué hace felices a las personas a lo largo de la vida?"
+  },
+  "fr": {
+   "block": "Séparer cause et corrélation, et tenir compte des cultures, est difficile.",
+   "known": "Des études au long cours, dont une commencée en 1938, montrent que les relations proches prédisent fortement le bien-être.",
+   "leads": "Études de cohortes sur le long terme, expériences contrôlées sur le bien-être.",
+   "s": "Bien-être",
+   "t": "Qu'est-ce qui rend les gens heureux au long d'une vie ?"
+  },
+  "hi": {
+   "block": "कारण को सहसंबंध से अलग करना और संस्कृति का ध्यान रखना कठिन है।",
+   "known": "लंबे समय से चल रहे अध्ययन, जिनमें एक 1938 में शुरू हुआ था, पाते हैं कि घनिष्ठ संबंध खुशहाली का मज़बूत पूर्वानुमान देते हैं।",
+   "leads": "दीर्घकालिक समूह अध्ययन, खुशहाली पर यादृच्छिक प्रयोग।",
+   "s": "खुशहाली",
+   "t": "जीवन भर लोगों को क्या खुश रखता है?"
+  },
+  "pt": {
+   "block": "Separar causa de correlação e levar em conta a cultura é difícil.",
+   "known": "Estudos de longa duração, um deles iniciado em 1938, constatam que relacionamentos próximos são um forte preditor de bem-estar.",
+   "leads": "Estudos de coorte de longo prazo, experimentos randomizados sobre bem-estar.",
+   "s": "Bem-estar",
+   "t": "O que faz as pessoas felizes ao longo da vida?"
+  },
+  "zh": {
+   "block": "区分因果与相关,并考虑文化的影响,都很困难。",
+   "known": "一些长期追踪研究(其中一项始于1938年)发现,亲密关系是预测幸福感的有力因素。",
+   "leads": "长期队列研究,关于幸福感的随机实验。",
+   "s": "幸福感",
+   "t": "是什么让人一生幸福?"
+  }
+ },
+ "links": [
+  "depression",
+  "cooperation"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Over nearly 80 years, Harvard study has been showing how to live a healthy and happy life (Harvard Gazette)",
+   "ty": "institution",
+   "u": "https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/"
+  }
+ ]
+}

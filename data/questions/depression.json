@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "E",
+ "i18n": {
+  "ar": {
+   "block": "على الأرجح أنه عدة أمراض تحت اسم واحد، دون مؤشر حيوي موثوق.",
+   "known": "تُراجَع الآن فكرة النقص البسيط في السيروتونين.",
+   "leads": "المهلوسات تحت إشراف، والكيتامين، وتحفيز دماغي موجَّه ومخصص.",
+   "s": "الاكتئاب",
+   "t": "ما السبب الحقيقي للاكتئاب؟"
+  },
+  "en": {
+   "block": "It is probably several illnesses under one name, with no reliable biological marker.",
+   "known": "The idea of a simple serotonin shortage is now being challenged.",
+   "leads": "Supervised psychedelics, ketamine, targeted and personalized brain stimulation.",
+   "s": "Depression",
+   "t": "What really causes depression?"
+  },
+  "es": {
+   "block": "Probablemente son varias enfermedades bajo un mismo nombre, sin un marcador biológico fiable.",
+   "known": "La idea de una simple carencia de serotonina se cuestiona hoy.",
+   "leads": "Psicodélicos supervisados, ketamina, estimulación cerebral dirigida y personalizada.",
+   "s": "Depresión",
+   "t": "¿Cuál es realmente la causa de la depresión?"
+  },
+  "fr": {
+   "block": "C'est probablement plusieurs maladies sous un même nom, sans marqueur biologique fiable.",
+   "known": "L'idée d'un simple manque de sérotonine est aujourd'hui remise en cause.",
+   "leads": "Psychédéliques encadrés, kétamine, stimulation cérébrale ciblée et personnalisée.",
+   "s": "Dépression",
+   "t": "Qu'est-ce qui cause vraiment la dépression ?"
+  },
+  "hi": {
+   "block": "संभवतः यह एक नाम के नीचे कई बीमारियाँ हैं, और कोई भरोसेमंद जैविक संकेतक नहीं है।",
+   "known": "सेरोटोनिन की सरल कमी का विचार अब चुनौती के दायरे में है।",
+   "leads": "निगरानी में साइकेडेलिक्स, केटामाइन, लक्षित और व्यक्तिगत मस्तिष्क उत्तेजना।",
+   "s": "अवसाद",
+   "t": "अवसाद का वास्तविक कारण क्या है?"
+  },
+  "pt": {
+   "block": "Provavelmente são várias doenças sob um só nome, sem marcador biológico confiável.",
+   "known": "A ideia de uma simples falta de serotonina está sendo contestada hoje.",
+   "leads": "Psicodélicos supervisionados, cetamina, estimulação cerebral direcionada e personalizada.",
+   "s": "Depressão",
+   "t": "O que realmente causa a depressão?"
+  },
+  "zh": {
+   "block": "它很可能是同一名称下的多种疾病,并且没有可靠的生物学标志。",
+   "known": "简单的血清素不足这一观点,如今正受到质疑。",
+   "leads": "在监督下使用迷幻药,氯胺酮,靶向的个性化脑刺激。",
+   "s": "抑郁症",
+   "t": "抑郁症的真正成因是什么?"
+  }
+ },
+ "links": [
+  "microbiome",
+  "sommeil"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "No evidence that depression is caused by low serotonin levels (UCL, 2022)",
+   "ty": "institution",
+   "u": "https://www.ucl.ac.uk/news/2022/jul/no-evidence-depression-caused-low-serotonin-levels-finds-comprehensive-review"
+  }
+ ]
+}

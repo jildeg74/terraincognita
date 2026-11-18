@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "P",
+ "i18n": {
+  "ar": {
+   "block": "لا توجد نظرية تتنبأ بالموصلات الفائقة عالية الحرارة مثل الكوبرات.",
+   "known": "تتصف بعض الهيدريدات بالتوصيل الفائق قرب درجة حرارة الغرفة، لكن فقط تحت ضغوط شديدة.",
+   "leads": "اكتشاف المواد بمساعدة الذكاء الاصطناعي، والنيكلات، والمسح المخبري الآلي.",
+   "s": "موصل فائق بحرارة الغرفة",
+   "t": "هل يوجد موصل فائق في درجة حرارة الغرفة وتحت الضغط العادي؟"
+  },
+  "en": {
+   "block": "No theory predicts high-temperature superconductors such as the cuprates.",
+   "known": "Some hydrides superconduct near room temperature, but only under extreme pressures.",
+   "leads": "AI-assisted materials discovery, nickelates, automated lab screening.",
+   "s": "Room-temperature superconductor",
+   "t": "Is there a superconductor at room temperature and normal pressure?"
+  },
+  "es": {
+   "block": "Ninguna teoría predice los superconductores de alta temperatura, como los cupratos.",
+   "known": "Algunos hidruros son superconductores casi a temperatura ambiente, pero solo a presiones extremas.",
+   "leads": "Descubrimiento de materiales asistido por IA, niquelatos, cribado automatizado en laboratorio.",
+   "s": "Superconductor a temperatura ambiente",
+   "t": "¿Existe un superconductor a temperatura ambiente y presión normal?"
+  },
+  "fr": {
+   "block": "Il n'existe pas de théorie qui prédise les supraconducteurs à haute température, comme les cuprates.",
+   "known": "Certains hydrures supraconduisent presque à température ambiante, mais sous des pressions extrêmes.",
+   "leads": "Découverte de matériaux assistée par l'IA, nickelates, criblage automatisé en laboratoire.",
+   "s": "Supraconducteur ambiant",
+   "t": "Existe-t-il un supraconducteur à température ambiante et pression normale ?"
+  },
+  "hi": {
+   "block": "क्यूप्रेट जैसे उच्च-तापमान अतिचालकों का पूर्वानुमान कोई सिद्धांत नहीं देता।",
+   "known": "कुछ हाइड्राइड कमरे के तापमान के निकट अतिचालक होते हैं, पर केवल अत्यधिक दबाव में।",
+   "leads": "AI की मदद से पदार्थों की खोज, निकेलेट, स्वचालित प्रयोगशाला स्क्रीनिंग।",
+   "s": "कमरे के तापमान का अतिचालक",
+   "t": "क्या कमरे के तापमान और सामान्य दबाव पर कोई अतिचालक है?"
+  },
+  "pt": {
+   "block": "Nenhuma teoria prevê os supercondutores de alta temperatura, como os cupratos.",
+   "known": "Alguns hidretos são supercondutores perto da temperatura ambiente, mas só sob pressões extremas.",
+   "leads": "Descoberta de materiais assistida por IA, niquelatos, triagem automatizada em laboratório.",
+   "s": "Supercondutor ambiente",
+   "t": "Existe um supercondutor à temperatura ambiente e pressão normal?"
+  },
+  "zh": {
+   "block": "没有任何理论能预测铜氧化物等高温超导体。",
+   "known": "一些氢化物在接近室温时出现超导,但只在极端高压下。",
+   "leads": "AI辅助的材料发现,镍氧化物,自动化实验室筛选。",
+   "s": "常温超导体",
+   "t": "存在常温常压下的超导体吗?"
+  }
+ },
+ "links": [
+  "fusion",
+  "ordinateur-quantique"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Superconductivity at 250 K in lanthanum hydride under high pressures (Nature, 2019)",
+   "ty": "institution",
+   "u": "https://www.osti.gov/biblio/1594454-superconductivity-lanthanum-hydride-under-high-pressures"
+  },
+  {
+   "t": "Could high-pressure hydrides be high-temperature superconductors? (Physics World)",
+   "ty": "press",
+   "u": "https://physicsworld.com/a/could-high-pressure-hydrides-be-high-temperature-superconductors/"
+  }
+ ]
+}

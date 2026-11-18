@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-18",
+ "items": [
+  {
+   "k": "sources",
+   "n": 100
+  },
+  {
+   "f": "block",
+   "q": "matiere-noire"
+  },
+  {
+   "f": "known",
+   "q": "vie-ailleurs"
+  },
+  {
+   "f": "known",
+   "q": "cellule-virtuelle"
+  },
+  {
+   "f": "known",
+   "q": "douleur-chronique"
+  },
+  {
+   "f": "known",
+   "q": "premiers-jumeaux"
+  },
+  {
+   "f": "known",
+   "q": "multiplication-matrices"
+  },
+  {
+   "f": "known",
+   "q": "points-bascule"
+  },
+  {
+   "f": "known",
+   "q": "previsions-meteo"
+  }
+ ]
+}

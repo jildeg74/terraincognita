@@ -1,0 +1,73 @@
+{
+ "checked": "2026-11-18",
+ "d": "V",
+ "i18n": {
+  "ar": {
+   "block": "ما مقدار ما يؤدي وظيفة في الباقي لا يزال موضع جدل حاد.",
+   "known": "نحو 1–2% فقط من الجينوم البشري يشفّر البروتينات.",
+   "leads": "مسوح وظيفية واسعة النطاق، ونماذج ذكاء اصطناعي مدرَّبة على جينومات كاملة.",
+   "s": "وظيفة الجينوم",
+   "t": "ما الذي يفعله معظم حمضنا النووي فعلًا؟"
+  },
+  "en": {
+   "block": "How much of the rest has a function is still hotly debated.",
+   "known": "Only about 1–2% of the human genome codes for proteins.",
+   "leads": "Large-scale functional screens, AI models trained on whole genomes.",
+   "s": "Genome function",
+   "t": "What does most of our DNA actually do?"
+  },
+  "es": {
+   "block": "Cuánto del resto tiene una función sigue siendo muy debatido.",
+   "known": "Solo alrededor del 1–2 % del genoma humano codifica proteínas.",
+   "leads": "Cribados funcionales a gran escala, modelos de IA entrenados con genomas completos.",
+   "s": "Función del genoma",
+   "t": "¿Qué hace en realidad la mayor parte de nuestro ADN?"
+  },
+  "fr": {
+   "block": "La part du reste qui a une fonction fait encore débat.",
+   "known": "Seulement 1 à 2 % du génome humain code des protéines.",
+   "leads": "Criblages fonctionnels à grande échelle, modèles d'IA entraînés sur des génomes entiers.",
+   "s": "Fonction du génome",
+   "t": "À quoi sert vraiment la majeure partie de notre ADN ?"
+  },
+  "hi": {
+   "block": "बाकी का कितना हिस्सा कोई कार्य करता है, इस पर अब भी तीखी बहस है।",
+   "known": "मानव जीनोम का केवल लगभग 1–2% प्रोटीन के लिए कोड करता है।",
+   "leads": "बड़े पैमाने की कार्यात्मक स्क्रीनिंग, पूरे जीनोम पर प्रशिक्षित AI मॉडल।",
+   "s": "जीनोम का कार्य",
+   "t": "हमारा अधिकांश DNA वास्तव में क्या करता है?"
+  },
+  "pt": {
+   "block": "O quanto do restante tem função ainda é muito debatido.",
+   "known": "Apenas cerca de 1–2% do genoma humano codifica proteínas.",
+   "leads": "Triagens funcionais em larga escala, modelos de IA treinados com genomas inteiros.",
+   "s": "Função do genoma",
+   "t": "O que a maior parte do nosso DNA realmente faz?"
+  },
+  "zh": {
+   "block": "其余部分有多少具有功能,仍然争论激烈。",
+   "known": "人类基因组中只有约1%到2%编码蛋白质。",
+   "leads": "大规模功能筛选,用全基因组训练的AI模型。",
+   "s": "基因组功能",
+   "t": "我们的DNA大部分到底在做什么?"
+  }
+ },
+ "links": [
+  "cellule-virtuelle",
+  "proteines",
+  "vieillissement"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "ENCODE Project Consortium, An integrated encyclopedia of DNA elements in the human genome (Nature, 2012)",
+   "ty": "study",
+   "u": "https://www.encodeproject.org/publications/1398930d-c330-4f92-8aa7-5b92b62d8941/"
+  },
+  {
+   "t": "Hidden treasures in junk DNA (Scientific American)",
+   "ty": "press",
+   "u": "https://www.scientificamerican.com/article/hidden-treasures-in-junk-dna/"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "checked": "2026-11-18",
+ "d": "P",
+ "i18n": {
+  "ar": {
+   "block": "من المرجّح أن يلزم مئات الآلاف إلى ملايين الكيوبتات الفيزيائية الموثوقة.",
+   "known": "أُثبتت في المختبر كيوبتات منطقية محمية بتصحيح الأخطاء.",
+   "leads": "الشفرات السطحية، والذرات المحايدة، والأيونات المحبوسة، والكيوبتات الطوبولوجية.",
+   "s": "الحاسوب الكمومي",
+   "t": "هل يمكننا بناء حاسوب كمومي مفيد ومقاوم للأعطال؟"
+  },
+  "en": {
+   "block": "It will likely take hundreds of thousands to millions of reliable physical qubits.",
+   "known": "Logical qubits protected by error correction have been demonstrated in the lab.",
+   "leads": "Surface codes, neutral atoms, trapped ions, topological qubits.",
+   "s": "Quantum computer",
+   "t": "Can we build a useful, fault-tolerant quantum computer?"
+  },
+  "es": {
+   "block": "Probablemente harán falta cientos de miles a millones de cúbits físicos fiables.",
+   "known": "En el laboratorio se han demostrado cúbits lógicos protegidos por corrección de errores.",
+   "leads": "Códigos de superficie, átomos neutros, iones atrapados, cúbits topológicos.",
+   "s": "Ordenador cuántico",
+   "t": "¿Podemos construir un ordenador cuántico útil y tolerante a fallos?"
+  },
+  "fr": {
+   "block": "Il faudra probablement des centaines de milliers à des millions de qubits physiques fiables.",
+   "known": "Des qubits logiques protégés par correction d'erreurs ont été démontrés en laboratoire.",
+   "leads": "Codes de surface, atomes neutres, ions piégés, qubits topologiques.",
+   "s": "Ordinateur quantique",
+   "t": "Peut-on construire un ordinateur quantique utile et tolérant aux erreurs ?"
+  },
+  "hi": {
+   "block": "इसके लिए संभवतः सैकड़ों हज़ार से लेकर लाखों भरोसेमंद भौतिक क्यूबिट चाहिए होंगे।",
+   "known": "त्रुटि सुधार से सुरक्षित लॉजिकल क्यूबिट प्रयोगशाला में दिखाए जा चुके हैं।",
+   "leads": "सरफ़ेस कोड, न्यूट्रल परमाणु, फंसे हुए आयन, टोपोलॉजिकल क्यूबिट।",
+   "s": "क्वांटम कंप्यूटर",
+   "t": "क्या हम एक उपयोगी, दोष-सहिष्णु क्वांटम कंप्यूटर बना सकते हैं?"
+  },
+  "pt": {
+   "block": "Provavelmente serão necessários de centenas de milhares a milhões de qubits físicos confiáveis.",
+   "known": "Qubits lógicos protegidos por correção de erros já foram demonstrados em laboratório.",
+   "leads": "Códigos de superfície, átomos neutros, íons aprisionados, qubits topológicos.",
+   "s": "Computador quântico",
+   "t": "Podemos construir um computador quântico útil e tolerante a falhas?"
+  },
+  "zh": {
+   "block": "很可能需要数十万到数百万个可靠的物理量子比特。",
+   "known": "受纠错保护的逻辑量子比特已在实验室中得到演示。",
+   "leads": "表面码,中性原子,囚禁离子,拓扑量子比特。",
+   "s": "量子计算机",
+   "t": "我们能造出有用的容错量子计算机吗?"
+  }
+ },
+ "links": [
+  "supraconducteur",
+  "p-np",
+  "proteines"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "Google Quantum AI, Quantum error correction below the surface code threshold (Nature, 2024)",
+   "ty": "study",
+   "u": "https://pubmed.ncbi.nlm.nih.gov/39653125/"
+  },
+  {
+   "t": "Meet Willow, our state-of-the-art quantum chip (Google)",
+   "ty": "company",
+   "u": "https://blog.google/technology/research/google-willow-quantum-chip/"
+  }
+ ]
+}

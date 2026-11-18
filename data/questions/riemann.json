@@ -1,0 +1,66 @@
+{
+ "checked": "2026-11-18",
+ "d": "M",
+ "i18n": {
+  "ar": {
+   "block": "لم ينجح أي نهج منذ عام 1859.",
+   "known": "جرى التحقق منها حاسوبيًا في تريليونات الحالات. وهي تتحكم في توزّع الأعداد الأولية.",
+   "leads": "الروابط مع فيزياء المصفوفات العشوائية، والبراهين الصورية المتحقَّق منها حاسوبيًا.",
+   "s": "فرضية ريمان",
+   "t": "هل فرضية ريمان صحيحة؟"
+  },
+  "en": {
+   "block": "No approach has succeeded since 1859.",
+   "known": "Checked by computer for trillions of cases. It governs how prime numbers are distributed.",
+   "leads": "Links with random-matrix physics, computer-verified formal proofs.",
+   "s": "Riemann hypothesis",
+   "t": "Is the Riemann hypothesis true?"
+  },
+  "es": {
+   "block": "Ningún enfoque ha tenido éxito desde 1859.",
+   "known": "Se ha comprobado por ordenador en billones de casos. Rige cómo se distribuyen los números primos.",
+   "leads": "Vínculos con la física de matrices aleatorias, demostraciones formales verificadas por ordenador.",
+   "s": "Hipótesis de Riemann",
+   "t": "¿Es cierta la hipótesis de Riemann?"
+  },
+  "fr": {
+   "block": "Aucune approche n'a abouti depuis 1859.",
+   "known": "Vérifiée par ordinateur pour des milliers de milliards de cas. Elle gouverne la répartition des nombres premiers.",
+   "leads": "Liens avec la physique des matrices aléatoires, preuves formelles vérifiées par ordinateur.",
+   "s": "Hypothèse de Riemann",
+   "t": "L'hypothèse de Riemann est-elle vraie ?"
+  },
+  "hi": {
+   "block": "1859 से अब तक कोई तरीका सफल नहीं हुआ है।",
+   "known": "कंप्यूटर से खरबों मामलों में जाँची जा चुकी है। यह तय करती है कि अभाज्य संख्याएँ कैसे वितरित होती हैं।",
+   "leads": "रैंडम-मैट्रिक्स भौतिकी से संबंध, कंप्यूटर द्वारा सत्यापित औपचारिक प्रमाण।",
+   "s": "रीमान परिकल्पना",
+   "t": "क्या रीमान परिकल्पना सत्य है?"
+  },
+  "pt": {
+   "block": "Nenhuma abordagem teve sucesso desde 1859.",
+   "known": "Foi verificada por computador para trilhões de casos. Ela rege como os números primos se distribuem.",
+   "leads": "Ligações com a física das matrizes aleatórias, demonstrações formais verificadas por computador.",
+   "s": "Hipótese de Riemann",
+   "t": "A hipótese de Riemann é verdadeira?"
+  },
+  "zh": {
+   "block": "自1859年以来,没有任何方法取得成功。",
+   "known": "已用计算机验证了数万亿个情形。它决定着素数的分布方式。",
+   "leads": "与随机矩阵物理的联系,经计算机验证的形式化证明。",
+   "s": "黎曼猜想",
+   "t": "黎曼猜想成立吗?"
+  }
+ },
+ "links": [
+  "maths-ia"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+   "ty": "reference",
+   "u": "https://www.claymath.org/millennium-problems"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "V",
+ "i18n": {
+  "ar": {
+   "block": "لا يزال ما يطلق الهجوم أصلًا غير واضح.",
+   "known": "للجينات والبيئة دور كلاهما. وأدى العلاج بخلايا CAR-T إلى هدأة دائمة لدى بعض مرضى الذئبة.",
+   "leads": "إعادة ضبط الجهاز المناعي بخلايا CAR-T، ولقاحات تعلّم التحمّل.",
+   "s": "أمراض المناعة الذاتية",
+   "t": "لماذا يهاجم الجهاز المناعي جسمه؟"
+  },
+  "en": {
+   "block": "What triggers the attack in the first place remains unclear.",
+   "known": "Genes and environment both play a role. CAR-T cell therapy has put some lupus patients into lasting remission.",
+   "leads": "Resetting the immune system with CAR-T cells, vaccines that teach tolerance.",
+   "s": "Autoimmune disease",
+   "t": "Why does the immune system attack its own body?"
+  },
+  "es": {
+   "block": "Sigue sin estar claro qué desencadena el ataque en primer lugar.",
+   "known": "Los genes y el entorno influyen ambos. La terapia con células CAR-T ha llevado a algunos pacientes con lupus a una remisión duradera.",
+   "leads": "Reiniciar el sistema inmunitario con células CAR-T, vacunas que enseñan tolerancia.",
+   "s": "Enfermedad autoinmune",
+   "t": "¿Por qué el sistema inmunitario ataca al propio cuerpo?"
+  },
+  "fr": {
+   "block": "On ignore encore ce qui déclenche l'attaque au départ.",
+   "known": "Les gènes et l'environnement jouent tous deux un rôle. Les cellules CAR-T ont mis certains malades du lupus en rémission durable.",
+   "leads": "« Réinitialiser » le système immunitaire avec des CAR-T, vaccins qui enseignent la tolérance.",
+   "s": "Maladies auto-immunes",
+   "t": "Pourquoi le système immunitaire attaque-t-il son propre corps ?"
+  },
+  "hi": {
+   "block": "सबसे पहले हमले को क्या शुरू करता है, यह अब भी अस्पष्ट है।",
+   "known": "जीन और पर्यावरण दोनों की भूमिका होती है। CAR-T कोशिका चिकित्सा ने ल्यूपस के कुछ रोगियों को स्थायी राहत दिलाई है।",
+   "leads": "CAR-T कोशिकाओं से प्रतिरक्षा तंत्र को रीसेट करना, सहनशीलता सिखाने वाले टीके।",
+   "s": "स्वप्रतिरक्षी रोग",
+   "t": "प्रतिरक्षा तंत्र अपने ही शरीर पर हमला क्यों करता है?"
+  },
+  "pt": {
+   "block": "O que desencadeia o ataque em primeiro lugar continua incerto.",
+   "known": "Genes e ambiente têm um papel. A terapia com células CAR-T levou alguns pacientes com lúpus a uma remissão duradoura.",
+   "leads": "Reiniciar o sistema imunológico com células CAR-T, vacinas que ensinam tolerância.",
+   "s": "Doença autoimune",
+   "t": "Por que o sistema imunológico ataca o próprio corpo?"
+  },
+  "zh": {
+   "block": "最初是什么引发了这种攻击,仍不清楚。",
+   "known": "基因和环境都起作用。CAR-T细胞疗法已使一些红斑狼疮患者获得持久缓解。",
+   "leads": "用CAR-T细胞重置免疫系统,教会免疫耐受的疫苗。",
+   "s": "自身免疫病",
+   "t": "免疫系统为什么会攻击自己的身体?"
+  }
+ },
+ "links": [
+  "microbiome",
+  "cancer"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Müller et al., CD19 CAR T-cell therapy in autoimmune disease: a case series with follow-up (NEJM, 2024)",
+   "ty": "study",
+   "u": "https://cris.fau.de/publications/318785330?lang=en_GB"
+  },
+  {
+   "t": "5 people with lupus are in remission after CAR-T cell treatment (Science News)",
+   "ty": "press",
+   "u": "https://www.sciencenews.org/article/lupus-car-t-cell-therapy-remission-autoimmune-disease"
+  }
+ ]
+}

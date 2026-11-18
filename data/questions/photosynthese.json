@@ -1,0 +1,68 @@
+{
+ "checked": "2026-11-18",
+ "d": "T",
+ "i18n": {
+  "ar": {
+   "block": "الإنزيم الرئيسي، روبيسكو، بطيء ويلتقط الأكسجين بالخطأ في كثير من الأحيان.",
+   "known": "تحوّل المحاصيل نسبة صغيرة فقط من ضوء الشمس إلى كتلة حيوية. ونمت نباتات مهندَسة بمسار التفافي للتفاعلات المهدِرة نموًا أكبر بكثير في التجارب الحقلية.",
+   "leads": "هندسة المسارات الأيضية الالتفافية، وروبيسكو محسَّن، والتمثيل الضوئي الاصطناعي.",
+   "s": "تمثيل ضوئي أفضل",
+   "t": "هل يمكن جعل التمثيل الضوئي أكثر كفاءة؟"
+  },
+  "en": {
+   "block": "The key enzyme, Rubisco, is slow and often grabs oxygen by mistake.",
+   "known": "Crops turn only a small percentage of sunlight into biomass. Engineered plants with a bypass for wasteful reactions grew much more in field trials.",
+   "leads": "Engineering metabolic bypasses, improved Rubisco, artificial photosynthesis.",
+   "s": "Better photosynthesis",
+   "t": "Can photosynthesis be made more efficient?"
+  },
+  "es": {
+   "block": "La enzima clave, la Rubisco, es lenta y a menudo captura oxígeno por error.",
+   "known": "Los cultivos convierten en biomasa solo un pequeño porcentaje de la luz solar. Plantas modificadas con una vía alternativa para las reacciones derrochadoras crecieron mucho más en ensayos de campo.",
+   "leads": "Ingeniería de vías metabólicas alternativas, Rubisco mejorada, fotosíntesis artificial.",
+   "s": "Mejor fotosíntesis",
+   "t": "¿Se puede hacer más eficiente la fotosíntesis?"
+  },
+  "fr": {
+   "block": "L'enzyme clé, la Rubisco, est lente et capte souvent l'oxygène par erreur.",
+   "known": "Les cultures ne transforment qu'un petit pourcentage de la lumière en biomasse. Des plantes dotées d'un circuit qui contourne des réactions inutiles ont nettement plus poussé en essais au champ.",
+   "leads": "Circuits métaboliques de contournement, Rubisco améliorée, photosynthèse artificielle.",
+   "s": "Meilleure photosynthèse",
+   "t": "Peut-on rendre la photosynthèse plus efficace ?"
+  },
+  "hi": {
+   "block": "मुख्य एंज़ाइम रुबिस्को धीमा है और अक्सर गलती से ऑक्सीजन पकड़ लेता है।",
+   "known": "फसलें सूर्य के प्रकाश का केवल थोड़ा-सा प्रतिशत जैवद्रव्यमान में बदलती हैं। व्यर्थ अभिक्रियाओं के लिए बायपास वाले इंजीनियर्ड पौधे खेत परीक्षणों में काफ़ी अधिक बढ़े।",
+   "leads": "चयापचय के वैकल्पिक मार्गों का इंजीनियरिंग, बेहतर रुबिस्को, कृत्रिम प्रकाश संश्लेषण।",
+   "s": "बेहतर प्रकाश संश्लेषण",
+   "t": "क्या प्रकाश संश्लेषण को अधिक कुशल बनाया जा सकता है?"
+  },
+  "pt": {
+   "block": "A enzima-chave, a Rubisco, é lenta e muitas vezes captura oxigênio por engano.",
+   "known": "As lavouras transformam apenas uma pequena porcentagem da luz solar em biomassa. Plantas modificadas com um desvio para reações desperdiçadoras cresceram muito mais em testes de campo.",
+   "leads": "Engenharia de desvios metabólicos, Rubisco aprimorada, fotossíntese artificial.",
+   "s": "Fotossíntese melhor",
+   "t": "A fotossíntese pode se tornar mais eficiente?"
+  },
+  "zh": {
+   "block": "关键酶Rubisco速度慢,还常常错误地结合氧气。",
+   "known": "农作物只把百分之几的阳光转化为生物量。为浪费性反应设置了旁路的工程改造植物,在田间试验中长得多得多。",
+   "leads": "改造代谢旁路,改良Rubisco,人工光合作用。",
+   "s": "改进光合作用",
+   "t": "光合作用能变得更高效吗?"
+  }
+ },
+ "links": [
+  "nourrir-10-milliards",
+  "capture-carbone",
+  "proteines"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Scientists engineer shortcut for photosynthetic glitch (University of Illinois, Science 2019)",
+   "ty": "institution",
+   "u": "https://las.illinois.edu/news/2019-01-03/scientists-engineer-shortcut-photosynthetic-glitch"
+  }
+ ]
+}

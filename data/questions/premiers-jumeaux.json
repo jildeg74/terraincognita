@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "M",
+ "i18n": {
+  "ar": {
+   "block": "يبدو أن خفض الفرق إلى 2 يحتاج إلى أفكار جديدة جذريًا.",
+   "known": "منذ عام 2013 نعلم بوجود عدد لا نهائي من أزواج الأعداد الأولية التي يفصل بينها فارق محدود؛ كان الحد 246، وخفّضته ورقة أولية عام 2026 إلى 240.",
+   "leads": "تحسينات على طرائق الغربال.",
+   "s": "الأعداد الأولية التوأم",
+   "t": "هل يوجد عدد لا نهائي من الأعداد الأولية التوأم؟"
+  },
+  "en": {
+   "block": "Bringing the gap down to 2 seems to need fundamentally new ideas.",
+   "known": "Since 2013 we know there are infinitely many pairs of primes separated by a bounded gap; the bound was 246, and a 2026 preprint lowers it to 240.",
+   "leads": "Refinements of sieve methods.",
+   "s": "Twin primes",
+   "t": "Are there infinitely many twin primes?"
+  },
+  "es": {
+   "block": "Reducir la distancia a 2 parece requerir ideas radicalmente nuevas.",
+   "known": "Desde 2013 sabemos que hay infinitos pares de primos separados por una distancia acotada; la cota era 246 y una prepublicación de 2026 la reduce a 240.",
+   "leads": "Refinamientos de los métodos de criba.",
+   "s": "Primos gemelos",
+   "t": "¿Hay infinitos primos gemelos?"
+  },
+  "fr": {
+   "block": "Descendre l'écart jusqu'à 2 semble demander des idées fondamentalement nouvelles.",
+   "known": "Depuis 2013, on sait qu'il existe une infinité de paires de nombres premiers séparés par un écart borné ; la borne était de 246, et une prépublication de 2026 l'abaisse à 240.",
+   "leads": "Raffinements des méthodes de crible.",
+   "s": "Premiers jumeaux",
+   "t": "Existe-t-il une infinité de nombres premiers jumeaux ?"
+  },
+  "hi": {
+   "block": "अंतर को 2 तक लाने के लिए मूलभूत रूप से नए विचार चाहिए लगते हैं।",
+   "known": "2013 से हम जानते हैं कि सीमित अंतर वाले अभाज्य संख्याओं के अनंत जोड़े हैं; यह सीमा 246 थी, और 2026 का एक प्रीप्रिंट इसे घटाकर 240 करता है।",
+   "leads": "छलनी विधियों का परिष्कार।",
+   "s": "जुड़वाँ अभाज्य",
+   "t": "क्या जुड़वाँ अभाज्य संख्याएँ अनंत हैं?"
+  },
+  "pt": {
+   "block": "Reduzir essa distância para 2 parece exigir ideias fundamentalmente novas.",
+   "known": "Desde 2013 sabemos que há infinitos pares de primos separados por uma distância limitada; o limite era 246, e um preprint de 2026 o reduz para 240.",
+   "leads": "Refinamentos dos métodos de crivo.",
+   "s": "Primos gêmeos",
+   "t": "Existem infinitos primos gêmeos?"
+  },
+  "zh": {
+   "block": "要把间距降到2,似乎需要全新的思想。",
+   "known": "自2013年起,我们知道存在无穷多对间距有界的素数;这个界原为246,2026年的一篇预印本将其降至240。",
+   "leads": "筛法的改进。",
+   "s": "孪生素数",
+   "t": "孪生素数有无穷多对吗?"
+  }
+ },
+ "links": [
+  "goldbach",
+  "riemann"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "The bounded gaps between primes Polymath project: a retrospective (arXiv)",
+   "ty": "preprint",
+   "u": "https://arxiv.org/abs/1409.8361"
+  },
+  {
+   "t": "Stadlmann, Bounded gaps between primes (arXiv, 2026)",
+   "ty": "preprint",
+   "u": "https://arxiv.org/pdf/2608.31126"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "checked": "2026-11-18",
+ "d": "I",
+ "i18n": {
+  "ar": {
+   "block": "لا يزال ابتكار أسئلة جديدة حقًا والتحقق من النتائج صعبًا.",
+   "known": "ساعد الذكاء الاصطناعي في التنبؤ ببنى البروتينات واكتشاف المواد والمضادات الحيوية، وتبني الشركات مختبرات آلية.",
+   "leads": "مختبرات ذاتية القيادة، ووكلاء ذكاء اصطناعي يصممون التجارب وينفذونها.",
+   "s": "علماء الذكاء الاصطناعي",
+   "t": "هل تستطيع أنظمة الذكاء الاصطناعي إجراء البحث العلمي بمفردها؟"
+  },
+  "en": {
+   "block": "Coming up with truly new questions and checking results remain hard.",
+   "known": "AI has helped predict protein structures and discover materials and antibiotics, and companies are building automated labs.",
+   "leads": "Self-driving labs, AI agents that design and run experiments.",
+   "s": "AI scientists",
+   "t": "Can AI systems carry out scientific research on their own?"
+  },
+  "es": {
+   "block": "Plantear preguntas verdaderamente nuevas y comprobar los resultados siguen siendo difíciles.",
+   "known": "La IA ha ayudado a predecir estructuras de proteínas y a descubrir materiales y antibióticos, y hay empresas que construyen laboratorios automatizados.",
+   "leads": "Laboratorios autónomos, agentes de IA que diseñan y ejecutan experimentos.",
+   "s": "IA científicas",
+   "t": "¿Pueden los sistemas de IA hacer investigación científica por sí solos?"
+  },
+  "fr": {
+   "block": "Formuler des questions vraiment nouvelles et vérifier les résultats reste difficile.",
+   "known": "L'IA a aidé à prédire la forme des protéines et à découvrir des matériaux et des antibiotiques ; des entreprises construisent des labos automatisés.",
+   "leads": "Laboratoires autonomes, agents IA qui conçoivent et lancent des expériences.",
+   "s": "Scientifiques IA",
+   "t": "Des IA peuvent-elles mener seules des recherches scientifiques ?"
+  },
+  "hi": {
+   "block": "वास्तव में नए प्रश्न सोचना और परिणामों की जाँच करना अब भी कठिन है।",
+   "known": "AI ने प्रोटीन संरचनाओं का पूर्वानुमान लगाने और पदार्थों व एंटीबायोटिकों की खोज में मदद की है, और कंपनियाँ स्वचालित प्रयोगशालाएँ बना रही हैं।",
+   "leads": "स्वचालित प्रयोगशालाएँ, AI एजेंट जो प्रयोग डिज़ाइन करते और चलाते हैं।",
+   "s": "AI वैज्ञानिक",
+   "t": "क्या AI प्रणालियाँ अपने आप वैज्ञानिक शोध कर सकती हैं?"
+  },
+  "pt": {
+   "block": "Formular perguntas realmente novas e verificar resultados continuam difíceis.",
+   "known": "A IA ajudou a prever estruturas de proteínas e a descobrir materiais e antibióticos, e empresas estão construindo laboratórios automatizados.",
+   "leads": "Laboratórios autônomos, agentes de IA que projetam e executam experimentos.",
+   "s": "Cientistas de IA",
+   "t": "Sistemas de IA podem fazer pesquisa científica por conta própria?"
+  },
+  "zh": {
+   "block": "提出真正全新的问题以及验证结果,仍然很难。",
+   "known": "AI已帮助预测蛋白质结构,发现材料和抗生素,公司也在建设自动化实验室。",
+   "leads": "自动驾驶实验室,能设计并开展实验的AI智能体。",
+   "s": "AI科学家",
+   "t": "人工智能系统能自主开展科学研究吗?"
+  }
+ },
+ "links": [
+  "maths-ia",
+  "proteines",
+  "supraconducteur"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Stokes et al., A deep learning approach to antibiotic discovery (Cell, 2020)",
+   "ty": "study",
+   "u": "https://pubmed.ncbi.nlm.nih.gov/32084340/"
+  },
+  {
+   "t": "Autoscience builds automated research lab (SiliconANGLE, 2026)",
+   "ty": "press",
+   "u": "https://siliconangle.com/2026/03/19/autoscience-builds-automated-research-lab-machine-learning-models-14m/"
+  }
+ ]
+}

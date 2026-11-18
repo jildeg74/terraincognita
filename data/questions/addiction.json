@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "E",
+ "i18n": {
+  "ar": {
+   "block": "الانتكاس شائع، والتفاعل بين الجينات والبيئة والصدمات النفسية غير مفهوم جيدًا.",
+   "known": "يعيد الإدمان تشكيل دارات المكافأة في الدماغ، وتفسّر الجينات جزءًا من الخطر.",
+   "leads": "أدوية GLP-1 التي يبدو أنها تقلل الاشتهاء، والتحفيز الدماغي الموجَّه.",
+   "s": "الإدمان",
+   "t": "لماذا يدمن بعض الناس ولا يدمن غيرهم؟"
+  },
+  "en": {
+   "block": "Relapse is common, and the interplay of genes, environment and trauma is poorly understood.",
+   "known": "Addiction rewires the brain's reward circuits, and genes explain part of the risk.",
+   "leads": "GLP-1 drugs that seem to reduce cravings, targeted brain stimulation.",
+   "s": "Addiction",
+   "t": "Why do some people become addicted and others not?"
+  },
+  "es": {
+   "block": "La recaída es frecuente, y la interacción entre genes, entorno y trauma se entiende mal.",
+   "known": "La adicción reconfigura los circuitos de recompensa del cerebro, y los genes explican parte del riesgo.",
+   "leads": "Fármacos GLP-1 que parecen reducir los antojos, estimulación cerebral dirigida.",
+   "s": "Adicción",
+   "t": "¿Por qué algunas personas se vuelven adictas y otras no?"
+  },
+  "fr": {
+   "block": "Les rechutes sont fréquentes, et l'interaction entre gènes, environnement et traumatismes est mal comprise.",
+   "known": "La dépendance reprogramme les circuits de la récompense, et les gènes expliquent une partie du risque.",
+   "leads": "Médicaments GLP-1 qui semblent réduire l'envie, stimulation cérébrale ciblée.",
+   "s": "Dépendance",
+   "t": "Pourquoi certaines personnes deviennent-elles dépendantes et d'autres non ?"
+  },
+  "hi": {
+   "block": "दोबारा लत लग जाना आम है, और जीन, परिवेश और आघात के आपसी संबंध को कम समझा गया है।",
+   "known": "लत मस्तिष्क के पुरस्कार-परिपथों को नए सिरे से जोड़ देती है, और जोखिम का एक हिस्सा जीन से तय होता है।",
+   "leads": "GLP-1 दवाएँ जो तलब कम करती दिखती हैं, लक्षित मस्तिष्क उत्तेजना।",
+   "s": "लत",
+   "t": "कुछ लोग लत के शिकार क्यों हो जाते हैं और कुछ नहीं?"
+  },
+  "pt": {
+   "block": "A recaída é comum, e a interação entre genes, ambiente e trauma é pouco compreendida.",
+   "known": "A dependência reconfigura os circuitos de recompensa do cérebro, e os genes explicam parte do risco.",
+   "leads": "Medicamentos GLP-1 que parecem reduzir a fissura, estimulação cerebral direcionada.",
+   "s": "Dependência",
+   "t": "Por que algumas pessoas se tornam dependentes e outras não?"
+  },
+  "zh": {
+   "block": "复发很常见,基因、环境与创伤之间的相互作用还不太清楚。",
+   "known": "成瘾会改变大脑奖赏回路的连接,基因可以解释一部分风险。",
+   "leads": "似乎能减少渴求的GLP-1类药物,靶向脑刺激。",
+   "s": "成瘾",
+   "t": "为什么有些人会成瘾,有些人不会?"
+  }
+ },
+ "links": [
+  "depression",
+  "obesite"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "USC: weight-loss drug semaglutide shows promise in reducing alcohol cravings (on a 2025 JAMA Psychiatry trial)",
+   "ty": "institution",
+   "u": "https://today.usc.edu/popular-weight-loss-diabetes-drug-shows-promise-in-reducing-cravings-for-alcohol/"
+  }
+ ]
+}

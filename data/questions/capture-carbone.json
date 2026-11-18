@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "T",
+ "i18n": {
+  "ar": {
+   "block": "يستهلك طاقة كبيرة، وستلزم مليارات الأطنان سنويًا.",
+   "known": "يعمل الالتقاط المباشر من الهواء لكنه لا يزال يكلف مئات الدولارات للطن.",
+   "leads": "تمعدن ثاني أكسيد الكربون، والتجوية المعززة للصخور، ومواد التقاط جديدة.",
+   "s": "إزالة الكربون",
+   "t": "هل يمكننا إزالة ثاني أكسيد الكربون من الهواء على نطاق واسع وبكلفة منخفضة؟"
+  },
+  "en": {
+   "block": "It uses a lot of energy, and billions of tons per year would be needed.",
+   "known": "Direct air capture works but still costs hundreds of dollars per ton.",
+   "leads": "CO2 mineralization, enhanced rock weathering, new capture materials.",
+   "s": "Carbon removal",
+   "t": "Can we remove CO2 from the air at scale and at low cost?"
+  },
+  "es": {
+   "block": "Consume mucha energía, y se necesitarían miles de millones de toneladas al año.",
+   "known": "La captura directa del aire funciona, pero aún cuesta cientos de dólares por tonelada.",
+   "leads": "Mineralización del CO2, meteorización mejorada de rocas, nuevos materiales de captura.",
+   "s": "Eliminación de carbono",
+   "t": "¿Podemos eliminar CO2 del aire a gran escala y a bajo coste?"
+  },
+  "fr": {
+   "block": "Elle demande beaucoup d'énergie, et il faudrait des milliards de tonnes par an.",
+   "known": "La capture directe dans l'air fonctionne, mais coûte encore des centaines de dollars par tonne.",
+   "leads": "Minéralisation du CO2, altération accélérée des roches, nouveaux matériaux capteurs.",
+   "s": "Capture du carbone",
+   "t": "Peut-on retirer le CO2 de l'air à grande échelle et à bas coût ?"
+  },
+  "hi": {
+   "block": "इसमें बहुत ऊर्जा लगती है, और प्रति वर्ष अरबों टन की ज़रूरत होगी।",
+   "known": "सीधे हवा से कैप्चर काम करता है, पर अब भी प्रति टन सैकड़ों डॉलर की लागत आती है।",
+   "leads": "CO2 का खनिजीकरण, उन्नत शैल अपक्षय, कैप्चर की नई सामग्रियाँ।",
+   "s": "कार्बन निष्कासन",
+   "t": "क्या हम बड़े पैमाने पर और कम लागत पर हवा से CO2 हटा सकते हैं?"
+  },
+  "pt": {
+   "block": "Ela consome muita energia, e seriam necessários bilhões de toneladas por ano.",
+   "known": "A captura direta do ar funciona, mas ainda custa centenas de dólares por tonelada.",
+   "leads": "Mineralização de CO2, intemperismo acelerado de rochas, novos materiais de captura.",
+   "s": "Remoção de carbono",
+   "t": "Podemos remover CO2 do ar em grande escala e a baixo custo?"
+  },
+  "zh": {
+   "block": "它耗能很大,而且每年需要处理数十亿吨。",
+   "known": "直接空气捕集可行,但每吨仍要花费数百美元。",
+   "leads": "二氧化碳矿化,强化岩石风化,新型捕集材料。",
+   "s": "碳移除",
+   "t": "我们能大规模、低成本地从空气中去除二氧化碳吗?"
+  }
+ },
+ "links": [
+  "climat-sensibilite",
+  "fusion"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Direct Air Capture: executive summary (IEA)",
+   "ty": "official",
+   "u": "https://www.iea.org/reports/direct-air-capture-3/executive-summary"
+  }
+ ]
+}

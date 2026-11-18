@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "P",
+ "i18n": {
+  "ar": {
+   "block": "لا نعرف كتلتها الدقيقة ولا إن كانت هي نفسها مضادّ جسيمها.",
+   "known": "للنيوترينوات كتلة ضئيلة، بينما تنبأ النموذج المعياري بأنها صفر.",
+   "leads": "يقيس KATRIN الكتلة؛ وتسعى تجارب الاضمحلال بيتا المزدوج بلا نيوترينوات إلى حل السؤال الثاني.",
+   "s": "كتلة النيوترينو",
+   "t": "من أين تأتي كتلة النيوترينوات؟"
+  },
+  "en": {
+   "block": "We don't know their exact mass or whether they are their own antiparticle.",
+   "known": "Neutrinos have a tiny mass, while the Standard Model predicted zero.",
+   "leads": "KATRIN measures the mass; neutrinoless double beta decay experiments chase the second question.",
+   "s": "Neutrino mass",
+   "t": "Where does the mass of neutrinos come from?"
+  },
+  "es": {
+   "block": "No conocemos su masa exacta ni si son su propia antipartícula.",
+   "known": "Los neutrinos tienen una masa diminuta, mientras que el Modelo Estándar predecía cero.",
+   "leads": "KATRIN mide la masa; los experimentos de desintegración beta doble sin neutrinos persiguen la segunda cuestión.",
+   "s": "Masa del neutrino",
+   "t": "¿De dónde viene la masa de los neutrinos?"
+  },
+  "fr": {
+   "block": "On ignore leur masse exacte et s'ils sont leur propre antiparticule.",
+   "known": "Les neutrinos ont une masse minuscule, alors que le Modèle standard prévoyait zéro.",
+   "leads": "KATRIN mesure la masse ; les expériences de double désintégration bêta sans neutrino cherchent la réponse à la seconde question.",
+   "s": "Masse des neutrinos",
+   "t": "D'où vient la masse des neutrinos ?"
+  },
+  "hi": {
+   "block": "हमें उनका सटीक द्रव्यमान नहीं पता, और यह भी नहीं कि वे स्वयं अपने प्रति-कण हैं या नहीं।",
+   "known": "न्यूट्रिनो का द्रव्यमान बहुत छोटा होता है, जबकि मानक मॉडल ने इसे शून्य बताया था।",
+   "leads": "KATRIN द्रव्यमान मापता है; न्यूट्रिनोरहित द्वि-बीटा क्षय के प्रयोग दूसरे प्रश्न का पीछा करते हैं।",
+   "s": "न्यूट्रिनो द्रव्यमान",
+   "t": "न्यूट्रिनो का द्रव्यमान कहाँ से आता है?"
+  },
+  "pt": {
+   "block": "Não sabemos sua massa exata nem se são sua própria antipartícula.",
+   "known": "Os neutrinos têm uma massa minúscula, enquanto o Modelo Padrão previa zero.",
+   "leads": "O KATRIN mede a massa; experimentos de decaimento beta duplo sem neutrinos buscam responder à segunda questão.",
+   "s": "Massa do neutrino",
+   "t": "De onde vem a massa dos neutrinos?"
+  },
+  "zh": {
+   "block": "我们不知道它们的确切质量,也不知道它们是否就是自己的反粒子。",
+   "known": "中微子有极小的质量,而标准模型曾预言为零。",
+   "leads": "KATRIN实验测量质量;无中微子双贝塔衰变实验则探寻第二个问题。",
+   "s": "中微子质量",
+   "t": "中微子的质量从何而来?"
+  }
+ },
+ "links": [
+  "matiere-antimatiere",
+  "matiere-noire"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "New KATRIN results (KIT)",
+   "ty": "institution",
+   "u": "https://www.katrin.kit.edu/1271.php"
+  },
+  {
+   "t": "Direct neutrino-mass measurement based on 259 days of KATRIN data (Science, 2025)",
+   "ty": "study",
+   "u": "https://pubmed.ncbi.nlm.nih.gov/40208982/"
+  }
+ ]
+}

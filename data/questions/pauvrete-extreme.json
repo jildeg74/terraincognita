@@ -1,0 +1,68 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "يتركز الفقر المتبقي في البلدان الهشة والمتضررة من النزاعات.",
+   "known": "انخفضت نسبة الأشخاص في فقر مدقع من أكثر من الثلث عام 1990 إلى أقل من 10%.",
+   "leads": "التحويلات النقدية المباشرة، والنمو، وبيانات أفضل عن هوية الفقراء.",
+   "s": "الفقر المدقع",
+   "t": "هل يمكن القضاء على الفقر المدقع؟"
+  },
+  "en": {
+   "block": "The remaining poverty is concentrated in fragile and conflict-hit countries.",
+   "known": "The share of people in extreme poverty fell from more than a third in 1990 to under 10%.",
+   "leads": "Direct cash transfers, growth, better data on who is poor.",
+   "s": "Extreme poverty",
+   "t": "Can extreme poverty be ended?"
+  },
+  "es": {
+   "block": "La pobreza restante se concentra en países frágiles y afectados por conflictos.",
+   "known": "La proporción de personas en pobreza extrema bajó de más de un tercio en 1990 a menos del 10 %.",
+   "leads": "Transferencias directas de dinero, crecimiento, mejores datos sobre quién es pobre.",
+   "s": "Pobreza extrema",
+   "t": "¿Se puede acabar con la pobreza extrema?"
+  },
+  "fr": {
+   "block": "La pauvreté restante se concentre dans des pays fragiles ou en conflit.",
+   "known": "La part de l'humanité en extrême pauvreté est passée de plus d'un tiers en 1990 à moins de 10 %.",
+   "leads": "Transferts d'argent directs, croissance, meilleures données sur qui est pauvre.",
+   "s": "Extrême pauvreté",
+   "t": "Peut-on mettre fin à l'extrême pauvreté ?"
+  },
+  "hi": {
+   "block": "बची हुई गरीबी नाज़ुक और संघर्ष-ग्रस्त देशों में केंद्रित है।",
+   "known": "अत्यधिक गरीबी में रहने वाले लोगों का हिस्सा 1990 में एक-तिहाई से अधिक था, जो घटकर 10% से कम रह गया है।",
+   "leads": "सीधे नकद हस्तांतरण, आर्थिक वृद्धि, यह जानने के लिए बेहतर आँकड़े कि कौन गरीब है।",
+   "s": "अत्यधिक गरीबी",
+   "t": "क्या अत्यधिक गरीबी खत्म की जा सकती है?"
+  },
+  "pt": {
+   "block": "A pobreza restante se concentra em países frágeis e atingidos por conflitos.",
+   "known": "A parcela de pessoas em pobreza extrema caiu de mais de um terço em 1990 para menos de 10%.",
+   "leads": "Transferências diretas de dinheiro, crescimento econômico, dados melhores sobre quem é pobre.",
+   "s": "Pobreza extrema",
+   "t": "É possível acabar com a pobreza extrema?"
+  },
+  "zh": {
+   "block": "剩下的贫困集中在脆弱和受冲突影响的国家。",
+   "known": "极端贫困人口的比例已从1990年的三分之一以上降到不足10%。",
+   "leads": "直接现金转移支付、经济增长、更准确的贫困人口数据。",
+   "s": "极端贫困",
+   "t": "极端贫困能被消除吗?"
+  }
+ },
+ "links": [
+  "richesse-nations",
+  "education",
+  "inegalites"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Poverty and Inequality Update, Fall 2025 (World Bank)",
+   "ty": "official",
+   "u": "https://thedocs.worldbank.org/en/doc/229ff18129687a785f08af7cfb28e5e1-0350012025/original/WBG-Poverty-and-Inequality-Update-Fall-2025.pdf"
+  }
+ ]
+}

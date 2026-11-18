@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "من دون معرفة ما يشير إليه الصوت، لا يمكننا ترجمته.",
+   "known": "لنقرات حوت العنبر بنية تركيبية تذكّر بالأبجدية الصوتية.",
+   "leads": "مشروع CETI، ونماذج ذكاء اصطناعي مدرَّبة على تسجيلات الحيوانات.",
+   "s": "لغة الحيوان",
+   "t": "هل يمكننا فهم ما تقوله الحيوانات لبعضها؟"
+  },
+  "en": {
+   "block": "Without knowing what a sound refers to, we can't translate it.",
+   "known": "Sperm whale clicks have a combinatorial structure reminiscent of a phonetic alphabet.",
+   "leads": "Project CETI, AI models trained on animal recordings.",
+   "s": "Animal language",
+   "t": "Can we understand what animals say to each other?"
+  },
+  "es": {
+   "block": "Sin saber a qué se refiere un sonido, no podemos traducirlo.",
+   "known": "Los clics de los cachalotes tienen una estructura combinatoria que recuerda a un alfabeto fonético.",
+   "leads": "Proyecto CETI, modelos de IA entrenados con grabaciones de animales.",
+   "s": "Lenguaje animal",
+   "t": "¿Podemos entender lo que se dicen los animales entre sí?"
+  },
+  "fr": {
+   "block": "Sans savoir à quoi un son se rapporte, on ne peut pas le traduire.",
+   "known": "Les clics des cachalots ont une structure combinatoire rappelant un alphabet sonore.",
+   "leads": "Projet CETI, modèles d'IA entraînés sur des enregistrements d'animaux.",
+   "s": "Langage animal",
+   "t": "Peut-on comprendre ce que se disent les animaux ?"
+  },
+  "hi": {
+   "block": "जब तक यह न पता हो कि कोई ध्वनि किसकी ओर संकेत करती है, हम उसका अनुवाद नहीं कर सकते।",
+   "known": "स्पर्म व्हेल की क्लिक ध्वनियों की संरचना संयोजनात्मक है, जो ध्वन्यात्मक वर्णमाला की याद दिलाती है।",
+   "leads": "प्रोजेक्ट CETI, पशुओं की रिकॉर्डिंग पर प्रशिक्षित AI मॉडल।",
+   "s": "पशु भाषा",
+   "t": "क्या हम समझ सकते हैं कि जानवर आपस में क्या कहते हैं?"
+  },
+  "pt": {
+   "block": "Sem saber ao que um som se refere, não conseguimos traduzi-lo.",
+   "known": "Os cliques dos cachalotes têm uma estrutura combinatória que lembra um alfabeto fonético.",
+   "leads": "Projeto CETI, modelos de IA treinados com gravações de animais.",
+   "s": "Linguagem animal",
+   "t": "Podemos entender o que os animais dizem uns aos outros?"
+  },
+  "zh": {
+   "block": "不知道一种声音指代什么,我们就无法翻译它。",
+   "known": "抹香鲸的咔嗒声具有组合结构,让人联想到语音字母表。",
+   "leads": "CETI项目,用动物录音训练的人工智能模型。",
+   "s": "动物语言",
+   "t": "我们能听懂动物彼此在说什么吗?"
+  }
+ },
+ "links": [
+  "langage-origine",
+  "vie-ailleurs"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Sperm whale phonetic alphabet proposed for the first time (Project CETI, 2024)",
+   "ty": "institution",
+   "u": "https://www.projectceti.org/blog-posts/sperm-whale-phonetic-alphabet-proposed-for-the-first-time"
+  }
+ ]
+}

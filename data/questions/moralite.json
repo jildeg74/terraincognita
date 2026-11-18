@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "من الصعب الفصل بين ما هو فطري وما هو ثقافي.",
+   "known": "تظهر بعض الحدوس الأخلاقية، مثل الإنصاف، عبر الثقافات وحتى لدى الرضّع.",
+   "leads": "استطلاعات واسعة عابرة للثقافات، ودراسات على الأطفال الصغار.",
+   "s": "أصول الأخلاق",
+   "t": "من أين تأتي قيمنا الأخلاقية؟"
+  },
+  "en": {
+   "block": "Separating what is innate from what is cultural is hard.",
+   "known": "Some moral intuitions, such as fairness, appear across cultures and even in infants.",
+   "leads": "Large cross-cultural surveys, studies with young children.",
+   "s": "Origins of morality",
+   "t": "Where do our moral values come from?"
+  },
+  "es": {
+   "block": "Separar lo innato de lo cultural es difícil.",
+   "known": "Algunas intuiciones morales, como la equidad, aparecen en todas las culturas e incluso en los bebés.",
+   "leads": "Grandes encuestas transculturales, estudios con niños pequeños.",
+   "s": "Origen de la moral",
+   "t": "¿De dónde vienen nuestros valores morales?"
+  },
+  "fr": {
+   "block": "Séparer l'inné du culturel est difficile.",
+   "known": "Certaines intuitions morales, comme l'équité, se retrouvent dans toutes les cultures et même chez les nourrissons.",
+   "leads": "Grandes enquêtes interculturelles, études auprès de jeunes enfants.",
+   "s": "Origine de la morale",
+   "t": "D'où viennent nos valeurs morales ?"
+  },
+  "hi": {
+   "block": "जन्मजात और सांस्कृतिक को अलग करना कठिन है।",
+   "known": "निष्पक्षता जैसी कुछ नैतिक सहज प्रवृत्तियाँ संस्कृतियों में, यहाँ तक कि शिशुओं में भी, दिखाई देती हैं।",
+   "leads": "बड़े अंतर-सांस्कृतिक सर्वेक्षण, छोटे बच्चों के साथ अध्ययन।",
+   "s": "नैतिकता की उत्पत्ति",
+   "t": "हमारे नैतिक मूल्य कहाँ से आते हैं?"
+  },
+  "pt": {
+   "block": "Separar o que é inato do que é cultural é difícil.",
+   "known": "Algumas intuições morais, como a justiça, aparecem em todas as culturas e até em bebês.",
+   "leads": "Grandes pesquisas transculturais, estudos com crianças pequenas.",
+   "s": "Origens da moral",
+   "t": "De onde vêm nossos valores morais?"
+  },
+  "zh": {
+   "block": "区分先天的与文化的很困难。",
+   "known": "一些道德直觉,如公平,在不同文化中乃至婴儿身上都有出现。",
+   "leads": "大规模跨文化调查,对幼儿的研究。",
+   "s": "道德的起源",
+   "t": "我们的道德价值观从何而来?"
+  }
+ },
+ "links": [
+  "cooperation",
+  "ia-valeurs"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Awad et al., The Moral Machine experiment (Nature, 2018)",
+   "ty": "study",
+   "u": "https://dspace.mit.edu/handle/1721.1/125065"
+  }
+ ]
+}

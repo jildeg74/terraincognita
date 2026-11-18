@@ -1,0 +1,73 @@
+{
+ "checked": "2026-11-18",
+ "d": "T",
+ "i18n": {
+  "ar": {
+   "block": "تهيمن السحب، الأصغر من أن تلتقطها النماذج الحالية، على عدم اليقين.",
+   "known": "يضع الفريق الحكومي الدولي المعني بتغير المناخ الإجابة المرجّحة بين 2.5 و4 درجات مئوية.",
+   "leads": "نماذج مناخية بدقة كيلومترية، ومحاكيات مناخية بالذكاء الاصطناعي.",
+   "s": "حساسية المناخ",
+   "t": "بكم سترتفع حرارة الأرض إذا تضاعف ثاني أكسيد الكربون؟"
+  },
+  "en": {
+   "block": "Clouds, too small for current models, dominate the uncertainty.",
+   "known": "The IPCC puts the likely answer between 2.5 and 4 °C.",
+   "leads": "Kilometer-scale climate models, AI climate emulators.",
+   "s": "Climate sensitivity",
+   "t": "How much will Earth warm if CO2 doubles?"
+  },
+  "es": {
+   "block": "Las nubes, demasiado pequeñas para los modelos actuales, dominan la incertidumbre.",
+   "known": "El IPCC sitúa la respuesta probable entre 2,5 y 4 °C.",
+   "leads": "Modelos climáticos a escala de kilómetros, emuladores climáticos de IA.",
+   "s": "Sensibilidad climática",
+   "t": "¿Cuánto se calentará la Tierra si se duplica el CO2?"
+  },
+  "fr": {
+   "block": "Les nuages, trop petits pour les modèles actuels, dominent l'incertitude.",
+   "known": "Le GIEC estime la réponse probable entre 2,5 et 4 °C.",
+   "leads": "Modèles climatiques à résolution kilométrique, émulateurs climatiques par IA.",
+   "s": "Sensibilité climatique",
+   "t": "De combien la Terre se réchauffera-t-elle si on double le CO2 ?"
+  },
+  "hi": {
+   "block": "बादल, जो मौजूदा मॉडलों के लिए बहुत छोटे हैं, अनिश्चितता पर हावी हैं।",
+   "known": "IPCC के अनुसार संभावित उत्तर 2.5 से 4 °C के बीच है।",
+   "leads": "किलोमीटर-पैमाने के जलवायु मॉडल, AI जलवायु अनुकारक।",
+   "s": "जलवायु संवेदनशीलता",
+   "t": "CO2 दोगुनी होने पर पृथ्वी कितनी गर्म होगी?"
+  },
+  "pt": {
+   "block": "As nuvens, pequenas demais para os modelos atuais, dominam a incerteza.",
+   "known": "O IPCC situa a resposta provável entre 2,5 e 4 °C.",
+   "leads": "Modelos climáticos em escala de quilômetros, emuladores climáticos de IA.",
+   "s": "Sensibilidade climática",
+   "t": "Quanto a Terra vai esquentar se o CO2 dobrar?"
+  },
+  "zh": {
+   "block": "云太小,现有模型无法分辨,它们是不确定性的主要来源。",
+   "known": "政府间气候变化专门委员会(IPCC)认为,可能的答案在2.5到4摄氏度之间。",
+   "leads": "公里尺度的气候模型,AI气候模拟器。",
+   "s": "气候敏感度",
+   "t": "二氧化碳翻倍后地球会升温多少?"
+  }
+ },
+ "links": [
+  "points-bascule",
+  "navier-stokes",
+  "capture-carbone"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Global warming unlikely to be small: new study (Met Office, 2020)",
+   "ty": "official",
+   "u": "https://www.metoffice.gov.uk/research/news/2020/new-science-shows-global-warming-unlikely-to-be-small"
+  },
+  {
+   "t": "IPCC AR6 Working Group I, Chapter 1",
+   "ty": "official",
+   "u": "https://adaptecca.es/sites/default/files/ipcc_ar6_wgi_chapter_01.pdf"
+  }
+ ]
+}

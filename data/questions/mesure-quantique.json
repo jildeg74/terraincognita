@@ -1,0 +1,68 @@
+{
+ "checked": "2026-11-18",
+ "d": "P",
+ "i18n": {
+  "ar": {
+   "block": "التفسيرات المتنافسة (العوالم المتعددة، وانهيار الدالة الموجية، وغيرها) تعطي التنبؤات نفسها، لذا يصعب على التجارب التمييز بينها.",
+   "known": "تتنبأ ميكانيكا الكم باحتمالات النتائج بدقة استثنائية.",
+   "leads": "اختبارات الانهيار الموضوعي باستخدام أجسام أكبر فأكبر في حالة تراكب كمومي.",
+   "s": "مسألة القياس",
+   "t": "ما الذي يحدث فعلًا عند قياس نظام كمومي؟"
+  },
+  "en": {
+   "block": "Rival interpretations (many worlds, wave-function collapse and others) make the same predictions, so experiments can't easily separate them.",
+   "known": "Quantum mechanics predicts the probabilities of results with extraordinary precision.",
+   "leads": "Tests of objective collapse using ever larger objects in quantum superposition.",
+   "s": "Measurement problem",
+   "t": "What really happens when a quantum system is measured?"
+  },
+  "es": {
+   "block": "Las interpretaciones rivales (muchos mundos, colapso de la función de onda y otras) hacen las mismas predicciones, por lo que los experimentos difícilmente pueden distinguirlas.",
+   "known": "La mecánica cuántica predice las probabilidades de los resultados con una precisión extraordinaria.",
+   "leads": "Pruebas del colapso objetivo con objetos cada vez mayores en superposición cuántica.",
+   "s": "Problema de la medida",
+   "t": "¿Qué ocurre realmente cuando se mide un sistema cuántico?"
+  },
+  "fr": {
+   "block": "Les interprétations rivales (mondes multiples, effondrement de la fonction d'onde, etc.) font les mêmes prédictions et sont difficiles à départager.",
+   "known": "La mécanique quantique prédit les probabilités des résultats avec une précision extraordinaire.",
+   "leads": "Tests de l'effondrement objectif avec des objets de plus en plus gros mis en superposition.",
+   "s": "Problème de la mesure",
+   "t": "Que se passe-t-il vraiment quand on mesure un système quantique ?"
+  },
+  "hi": {
+   "block": "प्रतिद्वंद्वी व्याख्याएँ (अनेक संसार, तरंग-फलन पतन और अन्य) समान पूर्वानुमान देती हैं, इसलिए प्रयोगों से उन्हें अलग करना आसान नहीं है।",
+   "known": "क्वांटम यांत्रिकी परिणामों की प्रायिकताओं का असाधारण सटीकता से पूर्वानुमान लगाती है।",
+   "leads": "क्वांटम अध्यारोपण में लगातार बड़ी वस्तुओं का उपयोग कर वस्तुनिष्ठ पतन के परीक्षण।",
+   "s": "मापन समस्या",
+   "t": "जब किसी क्वांटम प्रणाली को मापा जाता है तो वास्तव में क्या होता है?"
+  },
+  "pt": {
+   "block": "Interpretações rivais (muitos mundos, colapso da função de onda e outras) fazem as mesmas previsões, então os experimentos não conseguem separá-las com facilidade.",
+   "known": "A mecânica quântica prevê as probabilidades dos resultados com precisão extraordinária.",
+   "leads": "Testes de colapso objetivo com objetos cada vez maiores em superposição quântica.",
+   "s": "Problema da medição",
+   "t": "O que realmente acontece quando um sistema quântico é medido?"
+  },
+  "zh": {
+   "block": "相互竞争的诠释(多世界、波函数坍缩等)给出相同的预言,因此实验很难将它们区分开。",
+   "known": "量子力学能极其精确地预测结果的概率。",
+   "leads": "用处于量子叠加态的越来越大的物体检验客观坍缩。",
+   "s": "测量问题",
+   "t": "测量一个量子系统时到底发生了什么?"
+  }
+ },
+ "links": [
+  "gravite-quantique",
+  "conscience",
+  "fleche-temps"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Measurement in Quantum Theory (Stanford Encyclopedia of Philosophy)",
+   "ty": "reference",
+   "u": "https://plato.stanford.edu/entries/qt-measurement/"
+  }
+ ]
+}

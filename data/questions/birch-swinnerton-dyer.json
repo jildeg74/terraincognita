@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "M",
+ "i18n": {
+  "ar": {
+   "block": "الحالة العامة إحدى مسائل جائزة الألفية.",
+   "known": "تربط التخمينة هذا العدد بسلوك دالة خاصة، وهي مثبتة في بعض الحالات البسيطة.",
+   "leads": "الروابط مع برنامج لانغلاندز، وقواعد بيانات حاسوبية ضخمة للمنحنيات.",
+   "s": "بيرتش–سوينرتون-داير",
+   "t": "كم عدد الحلول النسبية للمنحنى الإهليلجي؟"
+  },
+  "en": {
+   "block": "The general case is one of the Millennium Prize Problems.",
+   "known": "The conjecture links this count to the behavior of a special function, and it is proven in some simple cases.",
+   "leads": "Links with the Langlands program, massive computer databases of curves.",
+   "s": "Birch–Swinnerton-Dyer",
+   "t": "How many rational solutions does an elliptic curve have?"
+  },
+  "es": {
+   "block": "El caso general es uno de los Problemas del Milenio.",
+   "known": "La conjetura vincula este recuento con el comportamiento de una función especial, y está demostrada en algunos casos sencillos.",
+   "leads": "Vínculos con el programa de Langlands, grandes bases de datos informáticas de curvas.",
+   "s": "Birch–Swinnerton-Dyer",
+   "t": "¿Cuántas soluciones racionales tiene una curva elíptica?"
+  },
+  "fr": {
+   "block": "Le cas général fait partie des problèmes du prix du millénaire.",
+   "known": "La conjecture relie ce nombre au comportement d'une fonction spéciale ; elle est démontrée dans certains cas simples.",
+   "leads": "Liens avec le programme de Langlands, immenses bases de données de courbes calculées par ordinateur.",
+   "s": "Birch et Swinnerton-Dyer",
+   "t": "Combien de solutions rationnelles possède une courbe elliptique ?"
+  },
+  "hi": {
+   "block": "सामान्य मामला मिलेनियम पुरस्कार समस्याओं में से एक है।",
+   "known": "यह अनुमान इस गिनती को एक विशेष फलन के व्यवहार से जोड़ता है, और कुछ सरल मामलों में सिद्ध हो चुका है।",
+   "leads": "लैंगलैंड्स कार्यक्रम से संबंध, वक्रों के विशाल कंप्यूटर डेटाबेस।",
+   "s": "बर्च–स्विनर्टन-डायर",
+   "t": "एक अंडाकार वक्र (एलिप्टिक कर्व) के कितने परिमेय हल होते हैं?"
+  },
+  "pt": {
+   "block": "O caso geral é um dos Problemas do Milênio.",
+   "known": "A conjectura liga essa contagem ao comportamento de uma função especial, e está demonstrada em alguns casos simples.",
+   "leads": "Ligações com o programa de Langlands, enormes bases de dados de curvas feitas por computador.",
+   "s": "Birch–Swinnerton-Dyer",
+   "t": "Quantas soluções racionais tem uma curva elíptica?"
+  },
+  "zh": {
+   "block": "一般情形是千禧年大奖难题之一。",
+   "known": "这个猜想把解的个数与一个特殊函数的行为联系起来,它在一些简单情形下已被证明。",
+   "leads": "与朗兰兹纲领的联系,庞大的曲线计算机数据库。",
+   "s": "BSD猜想",
+   "t": "椭圆曲线有多少个有理数解?"
+  }
+ },
+ "links": [
+  "langlands",
+  "riemann"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+   "ty": "reference",
+   "u": "https://www.claymath.org/millennium-problems"
+  }
+ ]
+}

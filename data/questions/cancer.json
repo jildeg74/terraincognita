@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "V",
+ "i18n": {
+  "ar": {
+   "block": "كل ورم متنوع ويتطور ليقاوم العلاج.",
+   "known": "تشفي العلاجات المناعية والعلاجات الموجَّهة اليوم بعض أنواع السرطان التي كانت قاتلة.",
+   "leads": "لقاحات mRNA المخصصة، وخلايا CAR-T للأورام الصلبة، والكشف المبكر بفحص دم.",
+   "s": "السرطان",
+   "t": "هل يمكننا شفاء معظم أنواع السرطان؟"
+  },
+  "en": {
+   "block": "Every tumor is diverse and evolves to resist treatment.",
+   "known": "Immunotherapies and targeted therapies now cure some cancers that used to be fatal.",
+   "leads": "Personalized mRNA vaccines, CAR-T cells for solid tumors, early detection from a blood test.",
+   "s": "Cancer",
+   "t": "Can we cure most cancers?"
+  },
+  "es": {
+   "block": "Cada tumor es diverso y evoluciona para resistir al tratamiento.",
+   "known": "Las inmunoterapias y las terapias dirigidas curan hoy algunos cánceres que antes eran mortales.",
+   "leads": "Vacunas personalizadas de ARNm, células CAR-T para tumores sólidos, detección temprana con un análisis de sangre.",
+   "s": "Cáncer",
+   "t": "¿Podemos curar la mayoría de los cánceres?"
+  },
+  "fr": {
+   "block": "Chaque tumeur est diverse et évolue pour résister aux traitements.",
+   "known": "Les immunothérapies et les thérapies ciblées guérissent désormais certains cancers autrefois mortels.",
+   "leads": "Vaccins à ARNm personnalisés, cellules CAR-T pour les tumeurs solides, dépistage précoce par prise de sang.",
+   "s": "Cancer",
+   "t": "Peut-on guérir la plupart des cancers ?"
+  },
+  "hi": {
+   "block": "हर ट्यूमर अलग होता है और इलाज का प्रतिरोध करने के लिए विकसित होता रहता है।",
+   "known": "इम्यूनोथेरेपी और लक्षित उपचार अब कुछ ऐसे कैंसर ठीक कर देते हैं जो पहले जानलेवा थे।",
+   "leads": "व्यक्तिगत mRNA टीके, ठोस ट्यूमर के लिए CAR-T कोशिकाएँ, रक्त जाँच से शुरुआती पहचान।",
+   "s": "कैंसर",
+   "t": "क्या हम अधिकांश कैंसर ठीक कर सकते हैं?"
+  },
+  "pt": {
+   "block": "Cada tumor é diverso e evolui para resistir ao tratamento.",
+   "known": "Imunoterapias e terapias direcionadas hoje curam alguns cânceres que antes eram fatais.",
+   "leads": "Vacinas personalizadas de mRNA, células CAR-T para tumores sólidos, detecção precoce por exame de sangue.",
+   "s": "Câncer",
+   "t": "Podemos curar a maioria dos cânceres?"
+  },
+  "zh": {
+   "block": "每个肿瘤都各不相同,并会演化出抗药性。",
+   "known": "免疫疗法和靶向疗法如今已能治愈一些曾经致命的癌症。",
+   "leads": "个性化mRNA疫苗,针对实体瘤的CAR-T细胞,通过血液检测早期发现。",
+   "s": "癌症",
+   "t": "我们能治愈大多数癌症吗?"
+  }
+ },
+ "links": [
+  "vieillissement",
+  "proteines"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "Weber et al., Individualised neoantigen therapy mRNA-4157 plus pembrolizumab in resected melanoma, KEYNOTE-942 (The Lancet, 2024)",
+   "ty": "study",
+   "u": "https://pubmed.ncbi.nlm.nih.gov/38246194/"
+  },
+  {
+   "t": "Moderna cancer vaccine results (Boston Globe, 2026)",
+   "ty": "press",
+   "u": "https://www.bostonglobe.com/2026/08/19/business/moderna-cancer-vaccine-results/"
+  }
+ ]
+}

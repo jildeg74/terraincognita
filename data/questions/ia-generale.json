@@ -1,0 +1,68 @@
+{
+ "checked": "2026-11-18",
+ "d": "I",
+ "i18n": {
+  "ar": {
+   "block": "لا نستطيع بعد التحقق مما يحاول النموذج فعله حقًا، ولا ضمان سلوكه.",
+   "known": "النماذج الحالية شديدة القدرة وتتحسن بسرعة.",
+   "leads": "قابلية التفسير، والإشراف القابل للتوسع، وتقييم القدرات الخطرة.",
+   "s": "ذكاء اصطناعي عام متوافق",
+   "t": "كيف نبني ذكاءً اصطناعيًا عامًا موثوقًا ومتوافقًا مع مصالحنا؟"
+  },
+  "en": {
+   "block": "We can't yet verify what a model is really trying to do, or guarantee its behavior.",
+   "known": "Current models are highly capable and improving fast.",
+   "leads": "Interpretability, scalable oversight, evaluations of dangerous capabilities.",
+   "s": "Aligned general AI",
+   "t": "How do we build general AI that is reliable and aligned with our interests?"
+  },
+  "es": {
+   "block": "Todavía no podemos verificar lo que un modelo intenta realmente hacer, ni garantizar su comportamiento.",
+   "known": "Los modelos actuales son muy capaces y mejoran rápidamente.",
+   "leads": "Interpretabilidad, supervisión escalable, evaluaciones de capacidades peligrosas.",
+   "s": "IA general alineada",
+   "t": "¿Cómo construimos una IA general fiable y alineada con nuestros intereses?"
+  },
+  "fr": {
+   "block": "On ne sait pas encore vérifier ce qu'un modèle cherche vraiment à faire, ni garantir son comportement.",
+   "known": "Les modèles actuels sont très capables et progressent vite.",
+   "leads": "Interprétabilité, supervision à grande échelle, évaluations des capacités dangereuses.",
+   "s": "IA générale alignée",
+   "t": "Comment construire une IA générale fiable et alignée sur nos intérêts ?"
+  },
+  "hi": {
+   "block": "हम अभी यह सत्यापित नहीं कर सकते कि कोई मॉडल वास्तव में क्या करने की कोशिश कर रहा है, या उसके व्यवहार की गारंटी नहीं दे सकते।",
+   "known": "मौजूदा मॉडल अत्यधिक सक्षम हैं और तेज़ी से बेहतर हो रहे हैं।",
+   "leads": "व्याख्येयता, स्केलेबल निरीक्षण, खतरनाक क्षमताओं के मूल्यांकन।",
+   "s": "संरेखित सामान्य AI",
+   "t": "हम ऐसा सामान्य AI कैसे बनाएँ जो भरोसेमंद हो और हमारे हितों के अनुरूप हो?"
+  },
+  "pt": {
+   "block": "Ainda não conseguimos verificar o que um modelo realmente busca fazer, nem garantir seu comportamento.",
+   "known": "Os modelos atuais são muito capazes e melhoram rapidamente.",
+   "leads": "Interpretabilidade, supervisão escalável, avaliações de capacidades perigosas.",
+   "s": "IA geral alinhada",
+   "t": "Como construir uma IA geral confiável e alinhada aos nossos interesses?"
+  },
+  "zh": {
+   "block": "我们还无法验证模型真正想做什么,也无法保证它的行为。",
+   "known": "当前的模型能力很强,而且进步很快。",
+   "leads": "可解释性,可扩展监督,对危险能力的评估。",
+   "s": "对齐的通用AI",
+   "t": "我们如何构建可靠且符合我们利益的通用人工智能?"
+  }
+ },
+ "links": [
+  "interpretabilite",
+  "ia-conscience",
+  "maths-ia"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "International AI Safety Report 2025 (UK Government)",
+   "ty": "official",
+   "u": "https://www.gov.uk/government/publications/international-ai-safety-report-2025"
+  }
+ ]
+}

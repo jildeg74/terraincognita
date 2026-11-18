@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "النصوص الباقية قليلة وقصيرة، واللغات الكامنة وراءها مجهولة.",
+   "known": "لا تزال كتابة وادي السند والخطية أ والرونغورونغو غير مفكوكة. وساعد الذكاء الاصطناعي في قراءة لفائف متفحمة بفعل بركان فيزوف.",
+   "leads": "التحليل الإحصائي وتحليل الأنماط بالذكاء الاصطناعي، واكتشافات أثرية جديدة.",
+   "s": "كتابات مفقودة",
+   "t": "هل يمكننا فك رموز أنظمة الكتابة المفقودة مثل كتابة وادي السند؟"
+  },
+  "en": {
+   "block": "Surviving texts are few and short, and the languages behind them are unknown.",
+   "known": "The Indus script, Linear A and Rongorongo are still undeciphered. AI helped read scrolls carbonized by Vesuvius.",
+   "leads": "Statistical and AI pattern analysis, new archaeological finds.",
+   "s": "Lost scripts",
+   "t": "Can we decipher lost writing systems such as the Indus script?"
+  },
+  "es": {
+   "block": "Los textos que se conservan son pocos y breves, y se desconocen las lenguas que hay detrás.",
+   "known": "La escritura del Indo, el lineal A y el rongorongo siguen sin descifrar. La IA ayudó a leer rollos carbonizados por el Vesubio.",
+   "leads": "Análisis estadístico y de patrones con IA, nuevos hallazgos arqueológicos.",
+   "s": "Escrituras perdidas",
+   "t": "¿Podemos descifrar sistemas de escritura perdidos como la escritura del Indo?"
+  },
+  "fr": {
+   "block": "Les textes conservés sont rares et courts, et les langues qu'ils notent sont inconnues.",
+   "known": "L'écriture de l'Indus, le linéaire A et le rongorongo ne sont toujours pas déchiffrés. L'IA a aidé à lire des rouleaux carbonisés par le Vésuve.",
+   "leads": "Analyse statistique et par IA des motifs, nouvelles découvertes archéologiques.",
+   "s": "Écritures perdues",
+   "t": "Peut-on déchiffrer les écritures perdues, comme celle de l'Indus ?"
+  },
+  "hi": {
+   "block": "बचे हुए पाठ कम और छोटे हैं, और उनके पीछे की भाषाएँ अज्ञात हैं।",
+   "known": "सिंधु लिपि, लीनियर A और रोंगोरोंगो अब भी अपठित हैं। AI ने वेसुवियस से कार्बनीकृत हुए स्क्रॉल पढ़ने में मदद की।",
+   "leads": "सांख्यिकीय और AI पैटर्न विश्लेषण, नई पुरातात्विक खोजें।",
+   "s": "लुप्त लिपियाँ",
+   "t": "क्या हम सिंधु लिपि जैसी लुप्त लेखन प्रणालियों को पढ़ सकते हैं?"
+  },
+  "pt": {
+   "block": "Os textos que sobreviveram são poucos e curtos, e as línguas por trás deles são desconhecidas.",
+   "known": "A escrita do Indo, o Linear A e o Rongorongo continuam sem decifração. A IA ajudou a ler rolos carbonizados pelo Vesúvio.",
+   "leads": "Análise estatística e de padrões por IA, novas descobertas arqueológicas.",
+   "s": "Escritas perdidas",
+   "t": "Podemos decifrar sistemas de escrita perdidos, como a escrita do Indo?"
+  },
+  "zh": {
+   "block": "留存下来的文本又少又短,其背后的语言也不为人知。",
+   "known": "印度河文字、线性文字A和朗格朗格文字仍未破译。人工智能帮助读出了被维苏威火山碳化的卷轴。",
+   "leads": "统计和AI模式分析,新的考古发现。",
+   "s": "失传文字",
+   "t": "我们能破译印度河文字等失传的文字吗?"
+  }
+ },
+ "links": [
+  "langage-origine",
+  "communication-animale"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Grand prize discovery made in 2,000-year-old Herculaneum scrolls (University of Kentucky, 2024)",
+   "ty": "institution",
+   "u": "https://research.uky.edu/news/grand-prize-discovery-made-2000-year-old-herculaneum-scrolls"
+  },
+  {
+   "t": "AI unravels ancient Roman scroll charred by volcano (Scientific American)",
+   "ty": "press",
+   "u": "https://www.scientificamerican.com/article/ai-unravels-ancient-roman-scrolls-charred-by-volcano/"
+  }
+ ]
+}

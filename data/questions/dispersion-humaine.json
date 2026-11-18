@@ -1,0 +1,71 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "لا تزال تواريخ وطرق كثير من الهجرات موضع خلاف.",
+   "known": "يُظهر الحمض النووي القديم أن أسلافنا تزاوجوا مع النياندرتال والدينيسوفان.",
+   "leads": "الحمض النووي القديم من العظام وحتى من رواسب الكهوف.",
+   "s": "انتشار البشر",
+   "t": "كيف انتشر الإنسان العاقل في أنحاء العالم؟"
+  },
+  "en": {
+   "block": "The dates and routes of many migrations are still disputed.",
+   "known": "Ancient DNA shows our ancestors interbred with Neanderthals and Denisovans.",
+   "leads": "Ancient DNA from bones and even from cave sediments.",
+   "s": "Human dispersal",
+   "t": "How did Homo sapiens spread across the world?"
+  },
+  "es": {
+   "block": "Las fechas y las rutas de muchas migraciones siguen en disputa.",
+   "known": "El ADN antiguo muestra que nuestros antepasados se cruzaron con neandertales y denisovanos.",
+   "leads": "ADN antiguo de huesos e incluso de sedimentos de cuevas.",
+   "s": "Dispersión humana",
+   "t": "¿Cómo se extendió el Homo sapiens por el mundo?"
+  },
+  "fr": {
+   "block": "Les dates et les routes de nombreuses migrations restent discutées.",
+   "known": "L'ADN ancien montre que nos ancêtres se sont mêlés aux Néandertaliens et aux Dénisoviens.",
+   "leads": "ADN ancien extrait d'ossements et même de sédiments de grottes.",
+   "s": "Expansion humaine",
+   "t": "Comment Homo sapiens s'est-il répandu sur la planète ?"
+  },
+  "hi": {
+   "block": "कई प्रवासों की तिथियाँ और मार्ग अब भी विवादित हैं।",
+   "known": "प्राचीन DNA दिखाता है कि हमारे पूर्वजों ने निएंडरथल और डेनिसोवन से संतान पैदा की।",
+   "leads": "हड्डियों से और गुफाओं की तलछट से भी प्राचीन DNA।",
+   "s": "मानव प्रसार",
+   "t": "होमो सेपियंस दुनिया भर में कैसे फैले?"
+  },
+  "pt": {
+   "block": "As datas e as rotas de muitas migrações ainda são disputadas.",
+   "known": "O DNA antigo mostra que nossos ancestrais se cruzaram com neandertais e denisovanos.",
+   "leads": "DNA antigo extraído de ossos e até de sedimentos de cavernas.",
+   "s": "Dispersão humana",
+   "t": "Como o Homo sapiens se espalhou pelo mundo?"
+  },
+  "zh": {
+   "block": "许多迁徙的时间和路线仍有争议。",
+   "known": "古DNA显示,我们的祖先与尼安德特人和丹尼索瓦人有过杂交。",
+   "leads": "来自骨骼乃至洞穴沉积物的古DNA。",
+   "s": "人类扩散",
+   "t": "智人是如何扩散到世界各地的?"
+  }
+ },
+ "links": [
+  "langage-origine"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "The Nobel Prize in Physiology or Medicine 2022: press release (Nobel Prize)",
+   "ty": "reference",
+   "u": "https://www.nobelprize.org/prizes/medicine/2022/press-release/"
+  },
+  {
+   "t": "Discoveries about ancient human evolution win 2022 Nobel Prize (Scientific American)",
+   "ty": "press",
+   "u": "https://www.scientificamerican.com/article/discoveries-about-ancient-human-evolution-win-2022-nobel-prize-in-physiology-or-medicine/"
+  }
+ ]
+}

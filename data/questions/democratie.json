@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "الاستقطاب وتعقيد القضايا الحديثة.",
+   "known": "أنتجت الجمعيات المواطنية، كما في أيرلندا، قرارات مقبولة على نطاق واسع في قضايا خلافية.",
+   "leads": "منصات المداولة عبر الإنترنت، وذكاء اصطناعي يساعد المجموعات على إيجاد أرضية مشتركة.",
+   "s": "القرارات الجماعية",
+   "t": "هل تستطيع المجتمعات الكبيرة اتخاذ قرارات جماعية جيدة في القضايا المعقدة؟"
+  },
+  "en": {
+   "block": "Polarization and the complexity of modern issues.",
+   "known": "Citizens' assemblies, as in Ireland, have produced broadly accepted decisions on divisive issues.",
+   "leads": "Online deliberation platforms, AI that helps groups find common ground.",
+   "s": "Collective decisions",
+   "t": "Can large societies make good collective decisions on complex issues?"
+  },
+  "es": {
+   "block": "La polarización y la complejidad de los problemas modernos.",
+   "known": "Las asambleas ciudadanas, como en Irlanda, han producido decisiones ampliamente aceptadas sobre temas que dividen.",
+   "leads": "Plataformas de deliberación en línea, IA que ayuda a los grupos a encontrar puntos en común.",
+   "s": "Decisiones colectivas",
+   "t": "¿Pueden las grandes sociedades tomar buenas decisiones colectivas sobre asuntos complejos?"
+  },
+  "fr": {
+   "block": "La polarisation et la complexité des sujets modernes.",
+   "known": "Des assemblées citoyennes, comme en Irlande, ont abouti à des décisions largement acceptées sur des sujets qui divisaient.",
+   "leads": "Plateformes de délibération en ligne, IA qui aide des groupes à trouver un terrain d'entente.",
+   "s": "Décisions collectives",
+   "t": "Les grandes sociétés peuvent-elles prendre de bonnes décisions collectives sur des sujets complexes ?"
+  },
+  "hi": {
+   "block": "ध्रुवीकरण और आधुनिक मुद्दों की जटिलता।",
+   "known": "आयरलैंड जैसी नागरिक सभाओं ने विभाजनकारी मुद्दों पर व्यापक रूप से स्वीकृत निर्णय दिए हैं।",
+   "leads": "ऑनलाइन विचार-विमर्श मंच, AI जो समूहों को साझा आधार खोजने में मदद करता है।",
+   "s": "सामूहिक निर्णय",
+   "t": "क्या बड़े समाज जटिल मुद्दों पर अच्छे सामूहिक निर्णय ले सकते हैं?"
+  },
+  "pt": {
+   "block": "Polarização e a complexidade das questões modernas.",
+   "known": "Assembleias de cidadãos, como na Irlanda, produziram decisões amplamente aceitas sobre temas divisivos.",
+   "leads": "Plataformas de deliberação on-line, IA que ajuda grupos a encontrar pontos em comum.",
+   "s": "Decisões coletivas",
+   "t": "Sociedades grandes podem tomar boas decisões coletivas sobre questões complexas?"
+  },
+  "zh": {
+   "block": "两极分化,以及现代议题的复杂性。",
+   "known": "像爱尔兰那样的公民大会,已就有争议的问题作出了被广泛接受的决定。",
+   "leads": "在线协商平台,帮助群体找到共识的AI。",
+   "s": "集体决策",
+   "t": "大型社会能对复杂议题做出好的集体决策吗?"
+  }
+ },
+ "links": [
+  "desinformation",
+  "ia-valeurs"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "The Irish Citizens' Assembly (OECD Observatory of Public Sector Innovation)",
+   "ty": "official",
+   "u": "https://oecd-opsi.org/innovations/the-irish-citizens-assembly/"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "I",
+ "i18n": {
+  "ar": {
+   "block": "تعتمد الإجابة على مسألة الوعي البشري التي لم تُحل بعد.",
+   "known": "لا توجد طريقة معترف بها لاختبار الوعي في نظام اصطناعي.",
+   "leads": "قوائم مؤشرات مستمدة من النظريات العلمية للوعي.",
+   "s": "وعي الذكاء الاصطناعي",
+   "t": "هل يمكن للذكاء الاصطناعي أن يكون واعيًا؟"
+  },
+  "en": {
+   "block": "The answer depends on the unsolved question of human consciousness.",
+   "known": "There is no recognized method to test consciousness in an artificial system.",
+   "leads": "Indicator checklists drawn from scientific theories of consciousness.",
+   "s": "AI consciousness",
+   "t": "Can an AI be conscious?"
+  },
+  "es": {
+   "block": "La respuesta depende de la cuestión sin resolver de la conciencia humana.",
+   "known": "No existe ningún método reconocido para comprobar si un sistema artificial es consciente.",
+   "leads": "Listas de indicadores extraídas de las teorías científicas de la conciencia.",
+   "s": "Conciencia de la IA",
+   "t": "¿Puede una IA ser consciente?"
+  },
+  "fr": {
+   "block": "La réponse dépend de la question non résolue de la conscience humaine.",
+   "known": "Il n'existe aucune méthode reconnue pour tester la conscience d'un système artificiel.",
+   "leads": "Grilles d'indicateurs tirées des théories scientifiques de la conscience.",
+   "s": "Conscience des IA",
+   "t": "Une IA peut-elle être consciente ?"
+  },
+  "hi": {
+   "block": "उत्तर मानव चेतना के अनसुलझे प्रश्न पर निर्भर करता है।",
+   "known": "किसी कृत्रिम प्रणाली में चेतना परखने की कोई मान्य विधि नहीं है।",
+   "leads": "चेतना के वैज्ञानिक सिद्धांतों से बनाई गई संकेतक सूचियाँ।",
+   "s": "AI की चेतना",
+   "t": "क्या कोई AI चेतन हो सकता है?"
+  },
+  "pt": {
+   "block": "A resposta depende da questão ainda não resolvida da consciência humana.",
+   "known": "Não existe um método reconhecido para testar a consciência em um sistema artificial.",
+   "leads": "Listas de indicadores extraídas de teorias científicas da consciência.",
+   "s": "Consciência da IA",
+   "t": "Uma IA pode ser consciente?"
+  },
+  "zh": {
+   "block": "答案取决于人类意识这一尚未解决的问题。",
+   "known": "目前没有公认的方法来检测人工系统是否有意识。",
+   "leads": "依据各种意识科学理论列出的指标清单。",
+   "s": "AI意识",
+   "t": "人工智能能有意识吗?"
+  }
+ },
+ "links": [
+  "conscience",
+  "ia-generale"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Butlin, Long et al., Consciousness in artificial intelligence: insights from the science of consciousness (arXiv)",
+   "ty": "preprint",
+   "u": "https://arxiv.org/pdf/2308.08708v2"
+  }
+ ]
+}

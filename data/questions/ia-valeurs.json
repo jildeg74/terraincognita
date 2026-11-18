@@ -1,0 +1,73 @@
+{
+ "checked": "2026-11-18",
+ "d": "I",
+ "i18n": {
+  "ar": {
+   "block": "يختلف الناس والثقافات، ولا توجد طريقة مقبولة للجمع بين آرائهم.",
+   "known": "تُدرَّب النماذج بمبادئ مكتوبة وبملاحظات بشرية.",
+   "leads": "عمليات استطلاع آراء الجمهور، ودساتير منشورة لنماذج الذكاء الاصطناعي.",
+   "s": "قيم الذكاء الاصطناعي",
+   "t": "قيم من ينبغي أن يتبعها الذكاء الاصطناعي؟"
+  },
+  "en": {
+   "block": "People and cultures disagree, and there is no accepted way to combine their views.",
+   "known": "Models are trained with written principles and human feedback.",
+   "leads": "Public input processes, published constitutions for AI models.",
+   "s": "AI values",
+   "t": "Whose values should AI follow?"
+  },
+  "es": {
+   "block": "Las personas y las culturas discrepan, y no hay una forma aceptada de combinar sus puntos de vista.",
+   "known": "Los modelos se entrenan con principios escritos y retroalimentación humana.",
+   "leads": "Procesos de consulta pública, constituciones publicadas para modelos de IA.",
+   "s": "Valores de la IA",
+   "t": "¿Qué valores debería seguir la IA?"
+  },
+  "fr": {
+   "block": "Les personnes et les cultures divergent, et aucune méthode reconnue ne combine leurs points de vue.",
+   "known": "Les modèles sont entraînés avec des principes écrits et des retours humains.",
+   "leads": "Processus de consultation publique, constitutions publiées pour les modèles.",
+   "s": "Valeurs de l'IA",
+   "t": "Les valeurs de qui l'IA doit-elle suivre ?"
+  },
+  "hi": {
+   "block": "लोगों और संस्कृतियों में मतभेद है, और उनके विचारों को मिलाने का कोई स्वीकृत तरीका नहीं है।",
+   "known": "मॉडलों को लिखित सिद्धांतों और मानवीय प्रतिक्रिया से प्रशिक्षित किया जाता है।",
+   "leads": "जन-सहभागिता की प्रक्रियाएँ, AI मॉडलों के लिए प्रकाशित संविधान।",
+   "s": "AI के मूल्य",
+   "t": "AI को किसके मूल्यों का पालन करना चाहिए?"
+  },
+  "pt": {
+   "block": "As pessoas e as culturas divergem, e não há uma forma aceita de combinar seus pontos de vista.",
+   "known": "Os modelos são treinados com princípios escritos e com feedback humano.",
+   "leads": "Processos de consulta pública, constituições publicadas para modelos de IA.",
+   "s": "Valores da IA",
+   "t": "Os valores de quem a IA deve seguir?"
+  },
+  "zh": {
+   "block": "人与文化之间存在分歧,也没有公认的方法来综合各方的观点。",
+   "known": "模型是通过书面原则和人类反馈来训练的。",
+   "leads": "公众参与机制,为AI模型公布的行为准则(宪法)。",
+   "s": "AI价值观",
+   "t": "人工智能应该遵循谁的价值观?"
+  }
+ },
+ "links": [
+  "ia-generale",
+  "cooperation",
+  "moralite"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Huang et al., Collective Constitutional AI: aligning a language model with public input (arXiv, 2024)",
+   "ty": "preprint",
+   "u": "https://arxiv.org/abs/2406.07814"
+  },
+  {
+   "t": "Collective Constitutional AI: aligning a language model with public input (Anthropic)",
+   "ty": "company",
+   "u": "https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "V",
+ "i18n": {
+  "ar": {
+   "block": "معظم الروابط ارتباطات، ومن الصعب إثبات السببية.",
+   "known": "ترتبط بكتيريا الأمعاء بالسمنة والمناعة وربما بالمزاج.",
+   "leads": "تجارب مضبوطة لزراعة البراز، وبكتيريا علاجية موجَّهة.",
+   "s": "الميكروبيوم",
+   "t": "ما الدور الدقيق للميكروبيوم في صحتنا؟"
+  },
+  "en": {
+   "block": "Most links are correlations; proving cause is hard.",
+   "known": "Gut bacteria are linked to obesity, immunity and perhaps mood.",
+   "leads": "Controlled trials of fecal transplants, targeted therapeutic bacteria.",
+   "s": "Microbiome",
+   "t": "What exact role does the microbiome play in our health?"
+  },
+  "es": {
+   "block": "La mayoría de los vínculos son correlaciones; demostrar la causa es difícil.",
+   "known": "Las bacterias intestinales se relacionan con la obesidad, la inmunidad y quizá el estado de ánimo.",
+   "leads": "Ensayos controlados de trasplantes fecales, bacterias terapéuticas dirigidas.",
+   "s": "Microbioma",
+   "t": "¿Qué papel exacto desempeña el microbioma en nuestra salud?"
+  },
+  "fr": {
+   "block": "La plupart des liens sont des corrélations ; prouver la cause est difficile.",
+   "known": "Les bactéries de l'intestin sont liées à l'obésité, à l'immunité et peut-être à l'humeur.",
+   "leads": "Essais contrôlés de transplantation fécale, bactéries thérapeutiques ciblées.",
+   "s": "Microbiome",
+   "t": "Quel rôle exact joue le microbiome dans notre santé ?"
+  },
+  "hi": {
+   "block": "अधिकतर संबंध सहसंबंध हैं; कारण साबित करना कठिन है।",
+   "known": "आँत के बैक्टीरिया का संबंध मोटापे, प्रतिरक्षा और शायद मनोदशा से बताया गया है।",
+   "leads": "मल प्रत्यारोपण के नियंत्रित परीक्षण, लक्षित चिकित्सीय बैक्टीरिया।",
+   "s": "माइक्रोबायोम",
+   "t": "हमारे स्वास्थ्य में माइक्रोबायोम की ठीक क्या भूमिका है?"
+  },
+  "pt": {
+   "block": "A maioria das ligações são correlações; provar a causa é difícil.",
+   "known": "As bactérias intestinais estão associadas à obesidade, à imunidade e talvez ao humor.",
+   "leads": "Ensaios controlados de transplante fecal, bactérias terapêuticas direcionadas.",
+   "s": "Microbioma",
+   "t": "Que papel exato o microbioma desempenha em nossa saúde?"
+  },
+  "zh": {
+   "block": "多数联系只是相关性,要证明因果很难。",
+   "known": "肠道细菌与肥胖、免疫甚至情绪都有关联。",
+   "leads": "粪菌移植的对照试验,靶向的治疗性细菌。",
+   "s": "微生物组",
+   "t": "微生物组在我们的健康中究竟起什么作用?"
+  }
+ },
+ "links": [
+  "depression",
+  "antibioresistance"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Papenburg et al., Causal role of the gut microbiome in certain human diseases: a narrative review (eGastroenterology, 2024)",
+   "ty": "study",
+   "u": "https://doi.org/10.1136/egastro-2024-100086"
+  }
+ ]
+}

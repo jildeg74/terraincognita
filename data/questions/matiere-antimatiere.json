@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "P",
+ "i18n": {
+  "ar": {
+   "block": "اللاتناظرات المعروفة بينهما أضعف بكثير من أن تفسّر وجودنا.",
+   "known": "كان ينبغي أن ينتج الانفجار العظيم كميات متساوية من المادة والمادة المضادة، فتفني إحداهما الأخرى.",
+   "leads": "تذبذبات النيوترينو (DUNE وهايبر-كاميوكاندي) وقياسات العزم ثنائي القطب الكهربائي.",
+   "s": "المادة والمادة المضادة",
+   "t": "لماذا توجد مادة أكثر من المادة المضادة؟"
+  },
+  "en": {
+   "block": "The known asymmetries between them are far too weak to explain our existence.",
+   "known": "The Big Bang should have produced equal amounts of matter and antimatter, which would have annihilated.",
+   "leads": "Neutrino oscillations (DUNE, Hyper-Kamiokande) and measurements of the electric dipole moment.",
+   "s": "Matter vs antimatter",
+   "t": "Why is there more matter than antimatter?"
+  },
+  "es": {
+   "block": "Las asimetrías conocidas entre ellas son demasiado débiles para explicar nuestra existencia.",
+   "known": "El Big Bang debería haber producido cantidades iguales de materia y antimateria, que se habrían aniquilado.",
+   "leads": "Oscilaciones de neutrinos (DUNE, Hyper-Kamiokande) y mediciones del momento dipolar eléctrico.",
+   "s": "Materia y antimateria",
+   "t": "¿Por qué hay más materia que antimateria?"
+  },
+  "fr": {
+   "block": "Les asymétries connues entre les deux sont bien trop faibles pour expliquer notre existence.",
+   "known": "Le Big Bang aurait dû produire autant de matière que d'antimatière, qui se seraient annihilées.",
+   "leads": "Les oscillations des neutrinos (DUNE, Hyper-Kamiokande) et la mesure du moment dipolaire électrique.",
+   "s": "Matière et antimatière",
+   "t": "Pourquoi y a-t-il plus de matière que d'antimatière ?"
+  },
+  "hi": {
+   "block": "उनके बीच की ज्ञात विषमताएँ हमारे अस्तित्व को समझाने के लिए बहुत कमज़ोर हैं।",
+   "known": "बिग बैंग को पदार्थ और प्रति-पदार्थ बराबर मात्रा में बनाना चाहिए था, जो एक-दूसरे को नष्ट कर देते।",
+   "leads": "न्यूट्रिनो दोलन (DUNE, हाइपर-कामियोकांडे) और विद्युत द्विध्रुव आघूर्ण के मापन।",
+   "s": "पदार्थ बनाम प्रति-पदार्थ",
+   "t": "प्रति-पदार्थ से अधिक पदार्थ क्यों है?"
+  },
+  "pt": {
+   "block": "As assimetrias conhecidas entre elas são fracas demais para explicar a nossa existência.",
+   "known": "O Big Bang deveria ter produzido quantidades iguais de matéria e antimatéria, que teriam se aniquilado.",
+   "leads": "Oscilações de neutrinos (DUNE, Hyper-Kamiokande) e medições do momento de dipolo elétrico.",
+   "s": "Matéria e antimatéria",
+   "t": "Por que há mais matéria do que antimatéria?"
+  },
+  "zh": {
+   "block": "已知的两者之间的不对称性太弱,远不足以解释我们的存在。",
+   "known": "大爆炸本应产生等量的物质和反物质,它们会彼此湮灭。",
+   "leads": "中微子振荡(DUNE、Hyper-Kamiokande)以及电偶极矩的测量。",
+   "s": "物质与反物质",
+   "t": "为什么物质比反物质多?"
+  }
+ },
+ "links": [
+  "neutrinos-masse",
+  "origine-univers"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Optimisation of the search for CP violation at DUNE (OSTI)",
+   "ty": "institution",
+   "u": "https://www.osti.gov/biblio/1998949"
+  }
+ ]
+}

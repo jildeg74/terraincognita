@@ -1,0 +1,71 @@
+{
+ "checked": "2026-11-18",
+ "d": "T",
+ "i18n": {
+  "ar": {
+   "block": "العتبات الدقيقة غير مؤكدة، وقد نكتشفها بعد فوات الأوان.",
+   "known": "حُددت أنظمة هشة: تيارات الأطلسي والصفائح الجليدية وغابات الأمازون. وفي عام 2025 خلص العلماء إلى أن الشعاب المرجانية في المياه الدافئة تجاوزت نقطة تحولها بالفعل.",
+   "leads": "إشارات الإنذار المبكر في بيانات الرصد.",
+   "s": "نقاط التحول",
+   "t": "أين تقع نقاط التحول في المناخ؟"
+  },
+  "en": {
+   "block": "The exact thresholds are uncertain, and we may find them too late.",
+   "known": "Fragile systems have been identified: Atlantic currents, ice sheets, the Amazon. In 2025, scientists concluded that warm-water coral reefs have already crossed theirs.",
+   "leads": "Early-warning signals in observational data.",
+   "s": "Tipping points",
+   "t": "Where are the climate's tipping points?"
+  },
+  "es": {
+   "block": "Los umbrales exactos son inciertos, y podríamos descubrirlos demasiado tarde.",
+   "known": "Se han identificado sistemas frágiles: las corrientes del Atlántico, los mantos de hielo, la Amazonía. En 2025, los científicos concluyeron que los arrecifes de coral de aguas cálidas ya cruzaron el suyo.",
+   "leads": "Señales de alerta temprana en los datos de observación.",
+   "s": "Puntos de inflexión",
+   "t": "¿Dónde están los puntos de inflexión del clima?"
+  },
+  "fr": {
+   "block": "Les seuils exacts sont incertains, et on risque de les découvrir trop tard.",
+   "known": "Des systèmes fragiles ont été identifiés : courants de l'Atlantique, calottes glaciaires, Amazonie. En 2025, des scientifiques ont conclu que les récifs coralliens d'eau chaude ont déjà franchi le leur.",
+   "leads": "Signaux d'alerte précoce dans les données d'observation.",
+   "s": "Points de bascule",
+   "t": "Où sont les points de bascule du climat ?"
+  },
+  "hi": {
+   "block": "सटीक सीमाएँ अनिश्चित हैं, और हो सकता है कि हम उन्हें बहुत देर से जानें।",
+   "known": "नाज़ुक प्रणालियों की पहचान हो चुकी है: अटलांटिक धाराएँ, हिम-चादरें, अमेज़न वर्षावन। 2025 में वैज्ञानिकों ने निष्कर्ष निकाला कि गर्म पानी की प्रवाल भित्तियाँ अपना टिपिंग पॉइंट पार कर चुकी हैं।",
+   "leads": "अवलोकन आँकड़ों में पूर्व-चेतावनी के संकेत।",
+   "s": "जलवायु के निर्णायक मोड़",
+   "t": "जलवायु के निर्णायक मोड़ (टिपिंग पॉइंट) कहाँ हैं?"
+  },
+  "pt": {
+   "block": "Os limiares exatos são incertos, e podemos descobri-los tarde demais.",
+   "known": "Sistemas frágeis já foram identificados: as correntes do Atlântico, os mantos de gelo, a Amazônia. Em 2025, cientistas concluíram que os recifes de coral de águas quentes já ultrapassaram o seu.",
+   "leads": "Sinais de alerta precoce nos dados de observação.",
+   "s": "Pontos de inflexão",
+   "t": "Onde estão os pontos de inflexão do clima?"
+  },
+  "zh": {
+   "block": "确切的阈值并不确定,我们可能发现得太晚。",
+   "known": "已确定一些脆弱系统:大西洋洋流、冰盖、亚马孙雨林。2025年,科学家认为温水珊瑚礁已经越过了它们的临界点。",
+   "leads": "从观测数据中寻找预警信号。",
+   "s": "临界点",
+   "t": "气候的临界点在哪里?"
+  }
+ },
+ "links": [
+  "climat-sensibilite"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Global Tipping Points Report 2025 reveals first Earth system tipping point reached (NOC)",
+   "ty": "official",
+   "u": "https://www.noc.ac.uk/news/global-tipping-points-report-2025-reveals-first-earth-system-tipping-point-reached"
+  },
+  {
+   "t": "Earth system tipping point risks (Global Tipping Points Report)",
+   "ty": "official",
+   "u": "https://global-tipping-points.org/summary-report/section-1/"
+  }
+ ]
+}

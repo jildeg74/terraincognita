@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "V",
+ "i18n": {
+  "ar": {
+   "block": "تحقق المضادات الحيوية الجديدة أرباحًا ضئيلة، لذا تطوّرها شركات قليلة.",
+   "known": "ترتبط البكتيريا المقاومة بملايين الوفيات سنويًا في العالم.",
+   "leads": "مضادات حيوية اكتُشفت بالذكاء الاصطناعي مثل الهاليسين، وفيروسات تقتل البكتيريا (العاثيات).",
+   "s": "مقاومة المضادات الحيوية",
+   "t": "كيف يمكننا هزيمة مقاومة المضادات الحيوية؟"
+  },
+  "en": {
+   "block": "New antibiotics earn little, so few companies develop them.",
+   "known": "Resistant bacteria are associated with millions of deaths a year worldwide.",
+   "leads": "AI-discovered antibiotics such as halicin, and bacteria-killing viruses (phages).",
+   "s": "Antibiotic resistance",
+   "t": "How can we defeat antibiotic resistance?"
+  },
+  "es": {
+   "block": "Los nuevos antibióticos dan poca ganancia, así que pocas empresas los desarrollan.",
+   "known": "Las bacterias resistentes se asocian a millones de muertes al año en todo el mundo.",
+   "leads": "Antibióticos descubiertos por IA, como la halicina, y virus que matan bacterias (fagos).",
+   "s": "Resistencia a antibióticos",
+   "t": "¿Cómo podemos vencer la resistencia a los antibióticos?"
+  },
+  "fr": {
+   "block": "Les nouveaux antibiotiques rapportent peu, donc peu d'entreprises en développent.",
+   "known": "Les bactéries résistantes sont associées à des millions de décès par an dans le monde.",
+   "leads": "Antibiotiques découverts par IA, comme l'halicine, et virus tueurs de bactéries (phages).",
+   "s": "Antibiorésistance",
+   "t": "Comment vaincre la résistance aux antibiotiques ?"
+  },
+  "hi": {
+   "block": "नए एंटीबायोटिक से कमाई कम होती है, इसलिए कम कंपनियाँ उन्हें विकसित करती हैं।",
+   "known": "प्रतिरोधी बैक्टीरिया दुनिया भर में हर साल लाखों मौतों से जुड़े हैं।",
+   "leads": "हैलिसिन जैसे AI द्वारा खोजे गए एंटीबायोटिक, और बैक्टीरिया को मारने वाले वायरस (फेज)।",
+   "s": "एंटीबायोटिक प्रतिरोध",
+   "t": "हम एंटीबायोटिक प्रतिरोध को कैसे हरा सकते हैं?"
+  },
+  "pt": {
+   "block": "Novos antibióticos dão pouco lucro, por isso poucas empresas os desenvolvem.",
+   "known": "Bactérias resistentes estão associadas a milhões de mortes por ano no mundo.",
+   "leads": "Antibióticos descobertos por IA, como a halicina, e vírus que matam bactérias (fagos).",
+   "s": "Resistência a antibióticos",
+   "t": "Como podemos vencer a resistência aos antibióticos?"
+  },
+  "zh": {
+   "block": "新抗生素利润很低,所以很少有公司研发。",
+   "known": "耐药细菌与全球每年数百万人的死亡有关。",
+   "leads": "AI发现的抗生素(如halicin),以及杀死细菌的病毒(噬菌体)。",
+   "s": "抗生素耐药",
+   "t": "如何战胜抗生素耐药性?"
+  }
+ },
+ "links": [
+  "microbiome",
+  "proteines"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "Global burden of bacterial antimicrobial resistance 1990–2021 (IHME / The Lancet)",
+   "ty": "institution",
+   "u": "https://healthdata.org/node/12105"
+  }
+ ]
+}

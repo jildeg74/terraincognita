@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "M",
+ "i18n": {
+  "ar": {
+   "block": "لا يوجد برهان لجميع الأعداد الزوجية، رغم نحو ثلاثة قرون من الجهد.",
+   "known": "جرى التحقق منها حاسوبيًا حتى 4 × 10^18. وأُثبتت نسخة أضعف للأعداد الفردية عام 2013.",
+   "leads": "نظرية الأعداد التحليلية وطرائق الغربال.",
+   "s": "تخمينة غولدباخ",
+   "t": "هل كل عدد زوجي أكبر من 2 هو مجموع عددين أوليين؟"
+  },
+  "en": {
+   "block": "No proof for all even numbers, despite almost three centuries of effort.",
+   "known": "Checked by computer up to 4 × 10^18. A weaker version for odd numbers was proven in 2013.",
+   "leads": "Analytic number theory and sieve methods.",
+   "s": "Goldbach conjecture",
+   "t": "Is every even number greater than 2 the sum of two primes?"
+  },
+  "es": {
+   "block": "No hay demostración para todos los pares, pese a casi tres siglos de esfuerzo.",
+   "known": "Comprobada por ordenador hasta 4 × 10^18. En 2013 se demostró una versión más débil para números impares.",
+   "leads": "Teoría analítica de números y métodos de criba.",
+   "s": "Conjetura de Goldbach",
+   "t": "¿Es todo número par mayor que 2 la suma de dos primos?"
+  },
+  "fr": {
+   "block": "Aucune preuve pour tous les nombres pairs malgré près de trois siècles d'efforts.",
+   "known": "Vérifiée par ordinateur jusqu'à 4 × 10^18. Une version faible pour les nombres impairs a été démontrée en 2013.",
+   "leads": "Théorie analytique des nombres et méthodes de crible.",
+   "s": "Conjecture de Goldbach",
+   "t": "Tout nombre pair supérieur à 2 est-il la somme de deux nombres premiers ?"
+  },
+  "hi": {
+   "block": "लगभग तीन शताब्दियों के प्रयास के बावजूद सभी सम संख्याओं के लिए कोई प्रमाण नहीं।",
+   "known": "कंप्यूटर से 4 × 10^18 तक जाँचा गया है। विषम संख्याओं के लिए एक कमज़ोर रूप 2013 में सिद्ध हुआ।",
+   "leads": "विश्लेषणात्मक संख्या सिद्धांत और छलनी विधियाँ।",
+   "s": "गोल्डबाख अनुमान",
+   "t": "क्या 2 से बड़ी हर सम संख्या दो अभाज्य संख्याओं का योग है?"
+  },
+  "pt": {
+   "block": "Não há demonstração para todos os números pares, apesar de quase três séculos de esforço.",
+   "known": "Verificada por computador até 4 × 10^18. Uma versão mais fraca, para números ímpares, foi demonstrada em 2013.",
+   "leads": "Teoria analítica dos números e métodos de crivo.",
+   "s": "Conjectura de Goldbach",
+   "t": "Todo número par maior que 2 é a soma de dois primos?"
+  },
+  "zh": {
+   "block": "尽管努力了近三个世纪,仍没有对所有偶数的证明。",
+   "known": "已用计算机验证到4 × 10^18。针对奇数的较弱版本于2013年被证明。",
+   "leads": "解析数论和筛法。",
+   "s": "哥德巴赫猜想",
+   "t": "大于2的每个偶数都是两个素数之和吗?"
+  }
+ },
+ "links": [
+  "riemann",
+  "premiers-jumeaux"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Oliveira e Silva, Herzog, Pardi, Empirical verification of the even Goldbach conjecture and computation of prime gaps up to 4·10^18 (Mathematics of Computation, 2014)",
+   "ty": "study",
+   "u": "https://www.ams.org/journals/mcom/2014-83-288/S0025-5718-2013-02787-1"
+  }
+ ]
+}

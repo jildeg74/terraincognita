@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "كل نزاع فريد، والتنبؤ بها صعب جدًا.",
+   "known": "معظم التنافسات لا تتحول قط إلى حروب؛ وغالبًا ما تنشأ الحروب من فشل المساومة وانعدام الثقة.",
+   "leads": "نماذج الإنذار المبكر، وأبحاث الوساطة والردع.",
+   "s": "أسباب الحرب",
+   "t": "لماذا تندلع الحروب، وكيف يمكن منعها؟"
+  },
+  "en": {
+   "block": "Each conflict is unique, and predicting them is very hard.",
+   "known": "Most rivalries never become wars; wars often come from failed bargaining and mistrust.",
+   "leads": "Early-warning models, research on mediation and deterrence.",
+   "s": "Causes of war",
+   "t": "Why do wars start, and how can they be prevented?"
+  },
+  "es": {
+   "block": "Cada conflicto es único, y predecirlos es muy difícil.",
+   "known": "La mayoría de las rivalidades nunca llegan a guerra; las guerras suelen nacer de negociaciones fallidas y desconfianza.",
+   "leads": "Modelos de alerta temprana, investigación sobre mediación y disuasión.",
+   "s": "Causas de la guerra",
+   "t": "¿Por qué empiezan las guerras y cómo se pueden prevenir?"
+  },
+  "fr": {
+   "block": "Chaque conflit est unique, et les prévoir est très difficile.",
+   "known": "La plupart des rivalités ne deviennent jamais des guerres ; celles-ci naissent souvent d'échecs de négociation et de méfiance.",
+   "leads": "Modèles d'alerte précoce, recherche sur la médiation et la dissuasion.",
+   "s": "Causes des guerres",
+   "t": "Pourquoi les guerres éclatent-elles, et comment les éviter ?"
+  },
+  "hi": {
+   "block": "हर संघर्ष अनोखा है, और उनका पूर्वानुमान लगाना बहुत कठिन है।",
+   "known": "अधिकांश प्रतिद्वंद्विताएँ कभी युद्ध नहीं बनतीं; युद्ध अक्सर विफल वार्ता और अविश्वास से आते हैं।",
+   "leads": "पूर्व-चेतावनी मॉडल, मध्यस्थता और निवारण पर शोध।",
+   "s": "युद्धों के कारण",
+   "t": "युद्ध क्यों शुरू होते हैं, और उन्हें कैसे रोका जा सकता है?"
+  },
+  "pt": {
+   "block": "Cada conflito é único, e prevê-los é muito difícil.",
+   "known": "A maioria das rivalidades nunca vira guerra; as guerras costumam nascer de negociações fracassadas e de desconfiança.",
+   "leads": "Modelos de alerta precoce, pesquisas sobre mediação e dissuasão.",
+   "s": "Causas da guerra",
+   "t": "Por que as guerras começam, e como podem ser evitadas?"
+  },
+  "zh": {
+   "block": "每场冲突都是独一无二的,预测它们非常困难。",
+   "known": "大多数敌对关系从未演变成战争;战争往往源于谈判破裂和互不信任。",
+   "leads": "预警模型,调解与威慑研究。",
+   "s": "战争的成因",
+   "t": "战争为什么会爆发,又如何预防?"
+  }
+ },
+ "links": [
+  "cooperation",
+  "effondrement"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Fearon, Rationalist explanations for war (International Organization, 1995)",
+   "ty": "study",
+   "u": "https://www.cambridge.org/core/journals/international-organization/article/abs/rationalist-explanations-for-war/E3B716A4034C11ECF8CE8732BC2F80DD"
+  }
+ ]
+}

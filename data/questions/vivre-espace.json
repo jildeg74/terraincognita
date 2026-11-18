@@ -1,0 +1,73 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "الإشعاع، والجاذبية المنخفضة، وأنظمة دعم الحياة المغلقة تمامًا.",
+   "known": "يعيش البشر في محطة الفضاء الدولية باستمرار منذ عام 2000، وقد خفّضت الصواريخ القابلة لإعادة الاستخدام كلفة الإطلاق.",
+   "leads": "قواعد قمرية، واستخدام المواد المحلية على القمر والمريخ.",
+   "s": "العيش في الفضاء",
+   "t": "هل يمكن للبشر العيش الدائم خارج الأرض؟"
+  },
+  "en": {
+   "block": "Radiation, low gravity and fully closed life-support systems.",
+   "known": "People have lived on the International Space Station continuously since 2000, and reusable rockets have cut launch costs.",
+   "leads": "Lunar bases, using local materials on the Moon and Mars.",
+   "s": "Living in space",
+   "t": "Can humans live permanently beyond Earth?"
+  },
+  "es": {
+   "block": "Radiación, gravedad baja y sistemas de soporte vital totalmente cerrados.",
+   "known": "Hay personas viviendo en la Estación Espacial Internacional de forma continua desde el año 2000, y los cohetes reutilizables han reducido los costes de lanzamiento.",
+   "leads": "Bases lunares, uso de materiales locales en la Luna y Marte.",
+   "s": "Vivir en el espacio",
+   "t": "¿Pueden los humanos vivir de forma permanente fuera de la Tierra?"
+  },
+  "fr": {
+   "block": "Radiations, faible gravité, systèmes de survie entièrement fermés.",
+   "known": "Des humains vivent en permanence dans la Station spatiale internationale depuis 2000, et les fusées réutilisables ont fait baisser le coût des lancements.",
+   "leads": "Bases lunaires, utilisation des matériaux locaux sur la Lune et Mars.",
+   "s": "Vivre dans l'espace",
+   "t": "L'humain peut-il vivre durablement hors de la Terre ?"
+  },
+  "hi": {
+   "block": "विकिरण, कम गुरुत्व और पूरी तरह बंद जीवन-रक्षक प्रणालियाँ।",
+   "known": "2000 से अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर लोग लगातार रह रहे हैं, और दोबारा इस्तेमाल होने वाले रॉकेटों ने प्रक्षेपण की लागत घटाई है।",
+   "leads": "चंद्र अड्डे, चंद्रमा और मंगल पर स्थानीय सामग्री का उपयोग।",
+   "s": "अंतरिक्ष में जीवन",
+   "t": "क्या मनुष्य पृथ्वी से परे स्थायी रूप से रह सकते हैं?"
+  },
+  "pt": {
+   "block": "Radiação, gravidade baixa e sistemas de suporte à vida totalmente fechados.",
+   "known": "Pessoas vivem continuamente na Estação Espacial Internacional desde 2000, e os foguetes reutilizáveis reduziram os custos de lançamento.",
+   "leads": "Bases lunares, uso de materiais locais na Lua e em Marte.",
+   "s": "Viver no espaço",
+   "t": "Os humanos podem viver permanentemente fora da Terra?"
+  },
+  "zh": {
+   "block": "辐射、低重力,以及完全封闭的生命保障系统。",
+   "known": "自2000年起,人类一直不间断地生活在国际空间站上,可重复使用的火箭也降低了发射成本。",
+   "leads": "月球基地,利用月球和火星上的当地材料。",
+   "s": "太空生活",
+   "t": "人类能在地球之外长期生活吗?"
+  }
+ },
+ "links": [
+  "vie-ailleurs",
+  "fusion",
+  "regeneration"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "International Space Station (NASA)",
+   "ty": "official",
+   "u": "https://www.nasa.gov/international-space-station/"
+  },
+  {
+   "t": "ISS marks 25 years of continuous human presence in orbit (AIAA, 2025)",
+   "ty": "press",
+   "u": "https://aiaa.org/2025/11/05/iss-marks-25-years-of-continuous-human-presence-in-orbit/"
+  }
+ ]
+}

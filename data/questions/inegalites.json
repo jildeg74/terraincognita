@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "التكنولوجيا والتجارة والضرائب والسياسة متشابكة معًا.",
+   "known": "انخفض التفاوت بين الدول في العقود الأخيرة، بينما ارتفع داخل كثير من الدول.",
+   "leads": "بيانات أفضل عن الضرائب والدخل، وتجارب طبيعية.",
+   "s": "التفاوت",
+   "t": "ما الذي يجعل التفاوت يرتفع أو ينخفض؟"
+  },
+  "en": {
+   "block": "Technology, trade, taxes and politics are tangled together.",
+   "known": "Inequality between countries has fallen in recent decades, while within many countries it has risen.",
+   "leads": "Better tax and income data, natural experiments.",
+   "s": "Inequality",
+   "t": "What makes inequality rise or fall?"
+  },
+  "es": {
+   "block": "La tecnología, el comercio, los impuestos y la política están entrelazados.",
+   "known": "La desigualdad entre países ha disminuido en las últimas décadas, mientras que dentro de muchos países ha aumentado.",
+   "leads": "Mejores datos de impuestos e ingresos, experimentos naturales.",
+   "s": "Desigualdad",
+   "t": "¿Qué hace que aumente o disminuya la desigualdad?"
+  },
+  "fr": {
+   "block": "Technologie, commerce, fiscalité et politique sont entremêlés.",
+   "known": "Les inégalités entre pays ont baissé ces dernières décennies, mais elles ont augmenté dans beaucoup de pays.",
+   "leads": "Meilleures données fiscales et de revenus, expériences naturelles.",
+   "s": "Inégalités",
+   "t": "Qu'est-ce qui fait monter ou baisser les inégalités ?"
+  },
+  "hi": {
+   "block": "प्रौद्योगिकी, व्यापार, कर और राजनीति आपस में उलझे हुए हैं।",
+   "known": "हाल के दशकों में देशों के बीच असमानता घटी है, जबकि कई देशों के भीतर बढ़ी है।",
+   "leads": "बेहतर कर और आय आँकड़े, प्राकृतिक प्रयोग।",
+   "s": "असमानता",
+   "t": "असमानता के बढ़ने या घटने का कारण क्या है?"
+  },
+  "pt": {
+   "block": "Tecnologia, comércio, impostos e política estão entrelaçados.",
+   "known": "A desigualdade entre países diminuiu nas últimas décadas, enquanto dentro de muitos países aumentou.",
+   "leads": "Dados melhores sobre impostos e renda, experimentos naturais.",
+   "s": "Desigualdade",
+   "t": "O que faz a desigualdade subir ou cair?"
+  },
+  "zh": {
+   "block": "技术、贸易、税收和政治彼此交织在一起。",
+   "known": "国家之间的不平等近几十年有所下降,而许多国家内部的不平等却在上升。",
+   "leads": "更好的税收和收入数据,自然实验。",
+   "s": "不平等",
+   "t": "是什么让不平等加剧或缓解?"
+  }
+ },
+ "links": [
+  "richesse-nations",
+  "pauvrete-extreme"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "World Inequality Report 2018: executive summary",
+   "ty": "institution",
+   "u": "https://wir2018.wid.world/executive-summary.html"
+  }
+ ]
+}

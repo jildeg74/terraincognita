@@ -1,0 +1,68 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "الثقة منخفضة، والأحجام هائلة، والذكاء الاصطناعي يجعل التزييف الواقعي رخيصًا.",
+   "known": "وجدت دراسة عام 2018 أن الأخبار الكاذبة انتشرت على تويتر أسرع وأبعد من الأخبار الصحيحة.",
+   "leads": "معايير منشأ المحتوى، والتحقق من الحقائق مجتمعيًا، والثقافة الإعلامية.",
+   "s": "التضليل الإعلامي",
+   "t": "كيف تميّز المجتمعات الحقيقة من الزيف على نطاق واسع؟"
+  },
+  "en": {
+   "block": "Trust is low, volumes are huge, and AI makes realistic fakes cheap.",
+   "known": "A 2018 study found that false news spread faster and further than true news on Twitter.",
+   "leads": "Content provenance standards, community fact-checking, media literacy.",
+   "s": "Misinformation",
+   "t": "How can societies tell truth from falsehood at scale?"
+  },
+  "es": {
+   "block": "La confianza es baja, los volúmenes son enormes y la IA abarata las falsificaciones realistas.",
+   "known": "Un estudio de 2018 encontró que las noticias falsas se difundían más rápido y más lejos que las verdaderas en Twitter.",
+   "leads": "Estándares de procedencia de contenidos, verificación comunitaria de datos, alfabetización mediática.",
+   "s": "Desinformación",
+   "t": "¿Cómo pueden las sociedades distinguir la verdad de la falsedad a gran escala?"
+  },
+  "fr": {
+   "block": "La confiance est faible, les volumes immenses, et l'IA rend les faux réalistes peu coûteux.",
+   "known": "Une étude de 2018 a montré que les fausses nouvelles se propageaient plus vite et plus loin que les vraies sur Twitter.",
+   "leads": "Normes de traçabilité des contenus, vérification communautaire, éducation aux médias.",
+   "s": "Désinformation",
+   "t": "Comment une société peut-elle distinguer le vrai du faux à grande échelle ?"
+  },
+  "hi": {
+   "block": "भरोसा कम है, मात्रा विशाल है, और AI यथार्थ-सा दिखने वाला नकली सामान सस्ता बना देता है।",
+   "known": "2018 के एक अध्ययन में पाया गया कि ट्विटर पर झूठी खबरें सच्ची खबरों से अधिक तेज़ी से और दूर तक फैलीं।",
+   "leads": "सामग्री की उत्पत्ति के मानक, सामुदायिक तथ्य-जाँच, मीडिया साक्षरता।",
+   "s": "भ्रामक सूचना",
+   "t": "समाज बड़े पैमाने पर सच और झूठ में अंतर कैसे कर सकते हैं?"
+  },
+  "pt": {
+   "block": "A confiança é baixa, os volumes são enormes e a IA torna baratas as falsificações realistas.",
+   "known": "Um estudo de 2018 constatou que notícias falsas se espalharam mais rápido e mais longe que as verdadeiras no Twitter.",
+   "leads": "Padrões de procedência de conteúdo, checagem comunitária de fatos, educação midiática.",
+   "s": "Desinformação",
+   "t": "Como as sociedades podem distinguir verdade de falsidade em grande escala?"
+  },
+  "zh": {
+   "block": "信任度低,信息量巨大,而AI让逼真的伪造品变得廉价。",
+   "known": "2018年的一项研究发现,在推特上,假新闻比真新闻传播得更快、更广。",
+   "leads": "内容溯源标准,社区事实核查,媒介素养。",
+   "s": "虚假信息",
+   "t": "社会如何大规模地分辨真假?"
+  }
+ },
+ "links": [
+  "ia-valeurs",
+  "cooperation",
+  "democratie"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Vosoughi, Roy, Aral, The spread of true and false news online (Science, 2018)",
+   "ty": "institution",
+   "u": "https://www.media.mit.edu/publications/the-spread-of-true-and-false-news-online/"
+  }
+ ]
+}

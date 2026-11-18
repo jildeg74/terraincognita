@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "M",
+ "i18n": {
+  "ar": {
+   "block": "لا نستطيع إثبات أنها لا تنفجر أبدًا إلى قيم لانهائية، ولا تزال الاضطرابات غير مفهومة جيدًا.",
+   "known": "تصف هذه المعادلات الماء والهواء والطقس، وتُستخدم في كل مكان في الهندسة.",
+   "leads": "بحث بمساعدة الذكاء الاصطناعي عن التفردات، وبراهين متحقَّق منها حاسوبيًا.",
+   "s": "نافييه–ستوكس",
+   "t": "هل لمعادلات الموائع حل سلس دائمًا؟"
+  },
+  "en": {
+   "block": "We can't prove they never blow up to infinite values, and turbulence remains poorly understood.",
+   "known": "These equations describe water, air and weather, and are used everywhere in engineering.",
+   "leads": "AI-assisted search for singularities and computer-verified proofs.",
+   "s": "Navier–Stokes",
+   "t": "Do the equations of fluids always have a smooth solution?"
+  },
+  "es": {
+   "block": "No podemos demostrar que nunca divergen a valores infinitos, y la turbulencia sigue entendiéndose mal.",
+   "known": "Estas ecuaciones describen el agua, el aire y el tiempo atmosférico, y se usan en todas partes en ingeniería.",
+   "leads": "Búsqueda de singularidades asistida por IA y demostraciones verificadas por ordenador.",
+   "s": "Navier–Stokes",
+   "t": "¿Tienen siempre una solución suave las ecuaciones de los fluidos?"
+  },
+  "fr": {
+   "block": "On ne sait pas prouver qu'elles ne produisent jamais de valeurs infinies, et la turbulence reste mal comprise.",
+   "known": "Ces équations décrivent l'eau, l'air et la météo, et on les utilise partout en ingénierie.",
+   "leads": "Recherche de singularités assistée par IA et preuves vérifiées par ordinateur.",
+   "s": "Navier-Stokes",
+   "t": "Les équations des fluides ont-elles toujours une solution régulière ?"
+  },
+  "hi": {
+   "block": "हम यह सिद्ध नहीं कर सकते कि वे कभी अनंत मानों तक नहीं फूटते, और विक्षोभ (टर्बुलेंस) अब भी कम समझा गया है।",
+   "known": "ये समीकरण पानी, हवा और मौसम का वर्णन करते हैं और इंजीनियरिंग में हर जगह इस्तेमाल होते हैं।",
+   "leads": "विलक्षणताओं की AI-सहायता से खोज और कंप्यूटर द्वारा सत्यापित प्रमाण।",
+   "s": "नेवियर-स्टोक्स",
+   "t": "क्या तरल पदार्थों के समीकरणों का हमेशा एक सहज हल होता है?"
+  },
+  "pt": {
+   "block": "Não conseguimos provar que elas nunca explodem para valores infinitos, e a turbulência continua mal compreendida.",
+   "known": "Essas equações descrevem a água, o ar e o clima, e são usadas em toda a engenharia.",
+   "leads": "Busca de singularidades assistida por IA e demonstrações verificadas por computador.",
+   "s": "Navier–Stokes",
+   "t": "As equações dos fluidos sempre têm uma solução suave?"
+  },
+  "zh": {
+   "block": "我们无法证明它们不会爆破成无穷大的值,湍流也仍然没有被很好地理解。",
+   "known": "这些方程描述水、空气和天气,在工程中被广泛使用。",
+   "leads": "借助AI搜寻奇点,经计算机验证的证明。",
+   "s": "纳维-斯托克斯",
+   "t": "流体方程总是有光滑解吗?"
+  }
+ },
+ "links": [
+  "climat-sensibilite",
+  "maths-ia"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+   "ty": "reference",
+   "u": "https://www.claymath.org/millennium-problems"
+  }
+ ]
+}

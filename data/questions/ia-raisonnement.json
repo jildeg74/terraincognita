@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "I",
+ "i18n": {
+  "ar": {
+   "block": "لا تزال تقول أشياء خاطئة بثقة وتخطئ في تقدير عدم يقينها.",
+   "known": "تحسنت نماذج الاستدلال تحسنًا حادًا في الرياضيات والبرمجة.",
+   "leads": "التحقق الآلي من الإجابات، والتدريب على نتائج مدققة، وثقة معايَرة.",
+   "s": "استدلال موثوق",
+   "t": "هل يمكن للذكاء الاصطناعي أن يستدل بموثوقية ويعرف متى يخطئ؟"
+  },
+  "en": {
+   "block": "They still state false things confidently and misjudge their own uncertainty.",
+   "known": "Reasoning models have improved sharply on mathematics and code.",
+   "leads": "Automatic verification of answers, training on checked results, calibrated confidence.",
+   "s": "Reliable reasoning",
+   "t": "Can AI reason reliably and know when it is wrong?"
+  },
+  "es": {
+   "block": "Todavía afirman cosas falsas con seguridad y juzgan mal su propia incertidumbre.",
+   "known": "Los modelos de razonamiento han mejorado mucho en matemáticas y programación.",
+   "leads": "Verificación automática de respuestas, entrenamiento con resultados comprobados, confianza calibrada.",
+   "s": "Razonamiento fiable",
+   "t": "¿Puede la IA razonar de forma fiable y saber cuándo se equivoca?"
+  },
+  "fr": {
+   "block": "Ils affirment encore des faussetés avec assurance et évaluent mal leur propre incertitude.",
+   "known": "Les modèles de raisonnement ont fortement progressé en mathématiques et en code.",
+   "leads": "Vérification automatique des réponses, entraînement sur des résultats vérifiés, confiance calibrée.",
+   "s": "Raisonnement fiable",
+   "t": "L'IA peut-elle raisonner de façon fiable et savoir quand elle se trompe ?"
+  },
+  "hi": {
+   "block": "वे अब भी गलत बातें पूरे विश्वास से कहते हैं और अपनी अनिश्चितता का गलत आकलन करते हैं।",
+   "known": "तर्क करने वाले मॉडलों में गणित और कोड में तेज़ सुधार हुआ है।",
+   "leads": "उत्तरों का स्वचालित सत्यापन, जाँचे हुए परिणामों पर प्रशिक्षण, अंशांकित आत्मविश्वास।",
+   "s": "भरोसेमंद तर्क",
+   "t": "क्या AI भरोसेमंद ढंग से तर्क कर सकता है और जान सकता है कि वह कब गलत है?"
+  },
+  "pt": {
+   "block": "Eles ainda afirmam coisas falsas com confiança e avaliam mal a própria incerteza.",
+   "known": "Os modelos de raciocínio melhoraram muito em matemática e programação.",
+   "leads": "Verificação automática das respostas, treinamento com resultados checados, confiança calibrada.",
+   "s": "Raciocínio confiável",
+   "t": "A IA pode raciocinar de forma confiável e saber quando está errada?"
+  },
+  "zh": {
+   "block": "它们仍会信心十足地陈述错误内容,并错误判断自己的不确定性。",
+   "known": "推理模型在数学和代码方面已有显著进步。",
+   "leads": "答案的自动验证,用经过核对的结果训练,校准置信度。",
+   "s": "可靠推理",
+   "t": "人工智能能可靠地推理并知道自己何时出错吗?"
+  }
+ },
+ "links": [
+  "ia-generale",
+  "maths-ia"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "Kalai et al., Why language models hallucinate (arXiv, 2025)",
+   "ty": "preprint",
+   "u": "https://arxiv.org/html/2509.04664v1"
+  }
+ ]
+}

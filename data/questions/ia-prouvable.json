@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "I",
+ "i18n": {
+  "ar": {
+   "block": "الشبكات العصبية أكبر وأكثر غموضًا من أن تصلح لها طرائق البرهان الحالية.",
+   "known": "يثبت التحقق الصوري بالفعل صحة بعض البرمجيات الحرجة.",
+   "leads": "التحقق من أجزاء صغيرة أو من المخرجات، وذكاء اصطناعي يكتب براهينه القابلة للتحقق.",
+   "s": "ذكاء اصطناعي آمن بالبرهان",
+   "t": "هل يمكننا إثبات رياضيًا أن نظام ذكاء اصطناعي آمن؟"
+  },
+  "en": {
+   "block": "Neural networks are far too large and opaque for current proof methods.",
+   "known": "Formal verification already proves the correctness of some critical software.",
+   "leads": "Verifying small parts or outputs, AI that writes its own checkable proofs.",
+   "s": "Provably safe AI",
+   "t": "Can we mathematically prove that an AI system is safe?"
+  },
+  "es": {
+   "block": "Las redes neuronales son demasiado grandes y opacas para los métodos de demostración actuales.",
+   "known": "La verificación formal ya demuestra la corrección de algunos programas críticos.",
+   "leads": "Verificar partes pequeñas o resultados, IA que escribe sus propias demostraciones comprobables.",
+   "s": "IA demostrablemente segura",
+   "t": "¿Podemos demostrar matemáticamente que un sistema de IA es seguro?"
+  },
+  "fr": {
+   "block": "Les réseaux de neurones sont bien trop grands et opaques pour les méthodes actuelles.",
+   "known": "La vérification formelle prouve déjà l'exactitude de certains logiciels critiques.",
+   "leads": "Vérifier des parties ou des sorties, IA qui rédige ses propres preuves vérifiables.",
+   "s": "IA prouvablement sûre",
+   "t": "Peut-on prouver mathématiquement qu'une IA est sûre ?"
+  },
+  "hi": {
+   "block": "न्यूरल नेटवर्क मौजूदा प्रमाण विधियों के लिए बहुत विशाल और अपारदर्शी हैं।",
+   "known": "औपचारिक सत्यापन पहले से कुछ महत्वपूर्ण सॉफ़्टवेयर की शुद्धता सिद्ध करता है।",
+   "leads": "छोटे हिस्सों या आउटपुट का सत्यापन, AI जो अपने जाँचे जा सकने वाले प्रमाण खुद लिखे।",
+   "s": "प्रमाणित सुरक्षित AI",
+   "t": "क्या हम गणितीय रूप से सिद्ध कर सकते हैं कि कोई AI प्रणाली सुरक्षित है?"
+  },
+  "pt": {
+   "block": "As redes neurais são grandes e opacas demais para os métodos de prova atuais.",
+   "known": "A verificação formal já prova a correção de alguns softwares críticos.",
+   "leads": "Verificar partes pequenas ou saídas, IA que escreve suas próprias provas verificáveis.",
+   "s": "IA comprovadamente segura",
+   "t": "Podemos provar matematicamente que um sistema de IA é seguro?"
+  },
+  "zh": {
+   "block": "神经网络太庞大、太不透明,现有的证明方法无法应对。",
+   "known": "形式化验证已经证明了一些关键软件的正确性。",
+   "leads": "验证小的部分或输出,能自己写出可检验证明的AI。",
+   "s": "可证明安全的AI",
+   "t": "我们能用数学方法证明一个AI系统是安全的吗?"
+  }
+ },
+ "links": [
+  "interpretabilite",
+  "p-np"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Towards Guaranteed Safe AI: a framework for robust and reliable AI systems (arXiv, 2024)",
+   "ty": "preprint",
+   "u": "https://arxiv.org/html/2405.06624v2"
+  }
+ ]
+}

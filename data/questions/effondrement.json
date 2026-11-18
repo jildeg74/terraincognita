@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "الحالات قليلة وكل منها مختلفة، فيصعب اختبار قوانين عامة.",
+   "known": "تجتمع الأسباب من صدمات مناخية، ونزاعات، وتفاوت، ومؤسسات فاشلة.",
+   "leads": "قواعد بيانات تاريخية كبيرة مثل سيشات، والتاريخ الكمي.",
+   "s": "انهيار الحضارات",
+   "t": "لماذا تنهار الحضارات؟"
+  },
+  "en": {
+   "block": "There are few cases, each different, so general laws are hard to test.",
+   "known": "Causes combine climate shocks, conflict, inequality and failing institutions.",
+   "leads": "Large historical databases such as Seshat, quantitative history.",
+   "s": "Collapse of civilizations",
+   "t": "Why do civilizations collapse?"
+  },
+  "es": {
+   "block": "Hay pocos casos, cada uno distinto, así que es difícil poner a prueba leyes generales.",
+   "known": "Las causas combinan crisis climáticas, conflictos, desigualdad e instituciones que fallan.",
+   "leads": "Grandes bases de datos históricas como Seshat, historia cuantitativa.",
+   "s": "Colapso de civilizaciones",
+   "t": "¿Por qué colapsan las civilizaciones?"
+  },
+  "fr": {
+   "block": "Les cas sont rares et tous différents, ce qui rend les lois générales difficiles à tester.",
+   "known": "Les causes combinent chocs climatiques, conflits, inégalités et institutions défaillantes.",
+   "leads": "Grandes bases de données historiques comme Seshat, histoire quantitative.",
+   "s": "Effondrements",
+   "t": "Pourquoi les civilisations s'effondrent-elles ?"
+  },
+  "hi": {
+   "block": "मामले कम हैं और हर एक अलग है, इसलिए सामान्य नियमों को परखना कठिन है।",
+   "known": "कारणों में जलवायु आघात, संघर्ष, असमानता और विफल होती संस्थाएँ मिली हुई हैं।",
+   "leads": "सेशैट जैसे बड़े ऐतिहासिक डेटाबेस, मात्रात्मक इतिहास।",
+   "s": "सभ्यताओं का पतन",
+   "t": "सभ्यताएँ क्यों ढह जाती हैं?"
+  },
+  "pt": {
+   "block": "Há poucos casos, cada um diferente, então leis gerais são difíceis de testar.",
+   "known": "As causas combinam choques climáticos, conflitos, desigualdade e instituições em falência.",
+   "leads": "Grandes bases de dados históricos, como o Seshat, história quantitativa.",
+   "s": "Colapso de civilizações",
+   "t": "Por que as civilizações entram em colapso?"
+  },
+  "zh": {
+   "block": "案例很少,而且各不相同,因此很难检验一般规律。",
+   "known": "成因包括气候冲击、冲突、不平等和制度失灵的共同作用。",
+   "leads": "Seshat等大型历史数据库,定量历史学。",
+   "s": "文明崩溃",
+   "t": "文明为什么会崩溃?"
+  }
+ },
+ "links": [
+  "cooperation",
+  "points-bascule"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Social complexity and collapse (Complexity Science Hub, Seshat)",
+   "ty": "institution",
+   "u": "https://csh.ac.at/research/research-topic/social-complexity-collapse/"
+  }
+ ]
+}

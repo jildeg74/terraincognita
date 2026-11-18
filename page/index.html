@@ -1,0 +1,415 @@
+<title>Terra Incognita</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: carte marine — un graphe de questions ouvertes sur une mer d'encre, fiche de lecture à côté */
+:root{
+  --bg:#0d1a26; --bg2:#13263a; --line:#2a425b; --fg:#e6edf2; --muted:#8fa6b8; --accent:#f2b45a;
+  --d-P:#7fb8ff; --d-V:#6fd3a0; --d-E:#e58fd6; --d-M:#f2b45a; --d-I:#b6a3ff; --d-T:#5fd0d6; --d-H:#ff9478;
+  --f-display:"IM Fell English SC", Georgia, serif;
+  --f-body:"Inter", system-ui, "Noto Sans", "Segoe UI", sans-serif;
+  --f-mono:"JetBrains Mono", ui-monospace, monospace;
+  color-scheme:dark;
+}
+@media (prefers-color-scheme: light){ :root:not([data-theme="dark"]){
+  --bg:#eef2f4; --bg2:#ffffff; --line:#c6d2da; --fg:#13212d; --muted:#5a6f7f; --accent:#b06d0b;
+  --d-P:#2a6fc9; --d-V:#1f8a57; --d-E:#a23d92; --d-M:#b06d0b; --d-I:#6a52d1; --d-T:#14868c; --d-H:#c9472a;
+  color-scheme:light } }
+:root[data-theme="light"]{
+  --bg:#eef2f4; --bg2:#ffffff; --line:#c6d2da; --fg:#13212d; --muted:#5a6f7f; --accent:#b06d0b;
+  --d-P:#2a6fc9; --d-V:#1f8a57; --d-E:#a23d92; --d-M:#b06d0b; --d-I:#6a52d1; --d-T:#14868c; --d-H:#c9472a;
+  color-scheme:light }
+html,body{height:100%}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15px;line-height:1.55;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px}
+.wrap{max-width:1280px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px}
+h1{font-family:var(--f-display);font-weight:400;font-size:clamp(30px,5vw,46px);margin:0;line-height:1;letter-spacing:.02em}
+.sub{color:var(--muted);margin:6px 0 0;max-width:62ch}
+.right{display:flex;flex-direction:column;align-items:flex-end;gap:8px}
+.count{font-family:var(--f-mono);font-size:12px;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+select{font:500 13px var(--f-body);background:var(--bg2);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:6px 8px}
+.tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{font:500 12.5px var(--f-body);border:1px solid var(--line);background:transparent;color:var(--fg);border-radius:999px;padding:5px 11px;cursor:pointer;display:inline-flex;gap:7px;align-items:center}
+.chip i{width:9px;height:9px;border-radius:50%;background:var(--c)}
+.chip[aria-pressed="false"]{opacity:.42}
+.chip:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+#q{font:14px var(--f-body);background:var(--bg2);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:7px 10px;min-width:0;flex:1 1 180px;max-width:280px}
+.main{display:grid;grid-template-columns:minmax(0,1fr) 380px;gap:16px;align-items:start}
+@media (max-width:860px){.main{grid-template-columns:1fr}}
+.sea{position:relative;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:
+  radial-gradient(circle at 1px 1px, color-mix(in srgb,var(--line) 70%,transparent) 1px, transparent 0) 0 0/22px 22px, var(--bg)}
+canvas{display:block;width:100%;height:clamp(420px,70vh,760px);cursor:grab;touch-action:none}
+.status{position:absolute;inset:0;display:grid;place-items:center;text-align:center;color:var(--muted);padding:24px;pointer-events:none}
+.legend{position:absolute;inset-inline-start:12px;bottom:10px;font:11px var(--f-body);color:var(--muted);display:flex;gap:14px;flex-wrap:wrap;pointer-events:none}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend b{display:inline-block;width:12px;height:12px;border-radius:50%;border:1.5px solid var(--muted)}
+.legend b.d1{border-style:dashed}.legend b.d0{border-style:dotted}
+aside{background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:20px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.dom{font:500 11px var(--f-mono);letter-spacing:.1em;text-transform:uppercase;color:var(--c)}
+aside h2{font-family:var(--f-display);font-weight:400;font-size:26px;line-height:1.15;margin:0;text-wrap:balance}
+.nonlatin aside h2{font-family:var(--f-body);font-weight:600;font-size:22px}
+.near{align-self:flex-start;font:500 12px var(--f-body);padding:3px 9px;border-radius:6px;border:1px solid var(--line);color:var(--fg)}
+.near[data-n="2"]{border-color:var(--accent);color:var(--accent)}
+.fallback{font-size:12px;color:var(--muted);border-inline-start:2px solid var(--accent);padding-inline-start:8px;margin:0}
+section h3{font:600 11px var(--f-body);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 4px}
+section p{margin:0}
+.links{display:flex;flex-wrap:wrap;gap:6px}
+.links button{font:13px var(--f-body);text-align:start;background:transparent;border:1px solid var(--line);color:var(--fg);border-radius:8px;padding:5px 9px;cursor:pointer}
+.links button:hover{border-color:var(--accent)}
+footer{color:var(--muted);font-size:12.5px}
+.srcs{margin:0;padding-inline-start:18px;display:flex;flex-direction:column;gap:6px;font-size:13px}
+.srcs a{color:var(--accent);overflow-wrap:anywhere}
+.srcs a:hover{text-decoration:underline}
+.srcty{display:inline-block;margin-inline-start:6px;font:500 10.5px var(--f-body);color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:0 7px;vertical-align:1px;white-space:nowrap}
+.srcty.strong{color:var(--accent);border-color:var(--accent)}
+.extra{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;align-items:start}
+@media (max-width:860px){.extra{grid-template-columns:1fr}}
+.card{background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:20px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.card h2{font-family:var(--f-display);font-weight:400;font-size:24px;margin:0}
+.nonlatin .card h2{font-family:var(--f-body);font-weight:600;font-size:20px}
+#newsList{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:14px}
+#newsList time{font:500 11px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+#newsList ul{margin:4px 0 0;padding-inline-start:18px;display:flex;flex-direction:column;gap:4px;font-size:14px}
+#newsList button{font:inherit;color:var(--accent);background:none;border:0;padding:0;cursor:pointer;text-align:start}
+#newsList button:hover{text-decoration:underline}
+#propForm{display:flex;flex-direction:column;gap:6px}
+#propForm label{font:600 11px var(--f-body);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-top:6px}
+#propForm textarea,#propForm input{font:14px var(--f-body);background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:8px 10px;min-width:0;width:100%}
+#propForm button{align-self:flex-start;margin-top:8px;font:600 14px var(--f-body);background:var(--accent);color:var(--bg);border:0;border-radius:8px;padding:9px 16px;cursor:pointer}
+#pMsg{margin:0;font-size:13px;color:var(--muted)}
+footer a{color:var(--accent)}
+.sublist{margin:0;padding-inline-start:18px;display:flex;flex-direction:column;gap:4px;font-size:14px}
+.rev{margin:0;font-size:13px}.rev.none{color:var(--muted)}
+#digest{grid-column:1/-1}
+.digest-body p{margin:0 0 10px;max-width:72ch}
+.digest-head{display:flex;flex-wrap:wrap;gap:8px;align-items:baseline;justify-content:space-between}
+.months{display:flex;flex-wrap:wrap;gap:6px}
+.months button{font:12px var(--f-mono);background:transparent;border:1px solid var(--line);color:var(--fg);border-radius:999px;padding:3px 10px;cursor:pointer}
+.months button[aria-pressed="true"]{border-color:var(--accent);color:var(--accent)}
+#nlForm{display:flex;flex-wrap:wrap;gap:8px;align-items:center;border-top:1px solid var(--line);padding-top:12px}
+#nlForm label{font-size:14px;flex:1 1 100%}
+#nlForm input{font:14px var(--f-body);background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:8px 10px;flex:1 1 220px;min-width:0}
+#nlForm button{font:600 14px var(--f-body);background:var(--accent);color:var(--bg);border:0;border-radius:8px;padding:9px 16px;cursor:pointer}
+#nlMsg{margin:0;font-size:13px;color:var(--muted);flex:1 1 100%}
+#propForm select{font:14px var(--f-body);background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:8px 10px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Terra Incognita</h1>
+      <p class="sub" id="sub"></p>
+    </div>
+    <div class="right">
+      <select id="lang" aria-label="Language"></select>
+      <div class="count" id="count">—</div>
+    </div>
+  </header>
+  <div class="tools" id="filters"></div>
+  <div class="main">
+    <div class="sea">
+      <canvas id="cv" role="img"></canvas>
+      <div class="status" id="status"></div>
+      <div class="legend" id="legend"></div>
+    </div>
+    <aside id="panel" aria-live="polite"></aside>
+  </div>
+  <div class="extra">
+    <section class="card" id="digest" aria-labelledby="digT">
+      <div class="digest-head"><h2 id="digT"></h2><div class="months" id="months"></div></div>
+      <div class="digest-body" id="digBody"></div>
+      <form name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field" id="nlForm" hidden>
+        <input type="hidden" name="form-name" value="newsletter">
+        <p hidden><label>Leave empty <input name="bot-field"></label></p>
+        <label for="nlE" id="nlL"></label>
+        <input id="nlE" name="email" type="email" required maxlength="200" autocomplete="email">
+        <input type="hidden" name="lang" id="nlLang" value="en">
+        <button type="submit" id="nlBtn"></button><p id="nlMsg" role="status"></p>
+      </form>
+    </section>
+    <section class="card" id="news" aria-labelledby="newsT"><h2 id="newsT"></h2><ol id="newsList"></ol></section>
+    <section class="card" id="propose" aria-labelledby="propT" hidden><h2 id="propT"></h2>
+      <form name="propose" method="POST" data-netlify="true" netlify-honeypot="bot-field" id="propForm">
+        <input type="hidden" name="form-name" value="propose">
+        <p hidden><label>Leave empty <input name="bot-field"></label></p>
+        <label for="pk" id="pkL"></label><select id="pk" name="kind"><option value="question" id="pk0"></option><option value="correction" id="pk1"></option><option value="reviewer" id="pk2"></option></select>
+        <label for="pq" id="pqL"></label><textarea id="pq" name="message" rows="4" required maxlength="3000"></textarea>
+        <label for="ps" id="psL"></label><input id="ps" name="source" type="url" maxlength="500">
+        <label for="pe" id="peL"></label><input id="pe" name="email" type="email" maxlength="200">
+        <button type="submit" id="pBtn"></button><p id="pMsg" role="status"></p>
+      </form>
+    </section>
+  </div>
+  <footer><span id="foot"></span> <a id="dataLink" href="data.json" hidden></a></footer>
+</div>
+
+<script>
+const LANGS={en:"English",zh:"中文",es:"Español",hi:"हिन्दी",ar:"العربية",fr:"Français",pt:"Português"};
+const UI={
+en:{sub:"A map of what humanity does not know yet. Each point is a great open question; each line links questions where answering one would advance the other.",
+ dom:{P:"Physics & cosmos",V:"Life & medicine",E:"Mind & brain",M:"Mathematics",I:"Artificial intelligence",T:"Earth & climate",H:"Humanity"},
+ near:["Distant horizon","Serious leads","Breakthrough in sight"],known:"What we know",block:"What blocks us",leads:"Current leads",rel:"Related questions",src:"Sources",
+ count:(a,b)=>`${a} / ${b} open questions`,search:"Search a question…",loading:"Loading the map…",empty:"The map is still blank. The first open questions will appear here as soon as they are added.",
+ slow:"The map is not responding yet. Try again in a moment.",err:"The map can't be loaded right now.",signin:"Sign in to Claude to see the map.",
+ pick:"Pick a question on the map to see what we know, what blocks us and the current leads.",fb:"Not yet translated into this language. Showing English.",
+ foot:"Survey by Claude: each question checked against the sources shown, November 2026. Not yet reviewed by specialists. Drag to move the map; scroll or pinch to zoom.",news:"What's new",newsEmpty:"No updates yet.",srcAll:"Sources added to {n} questions",upd:"updated",prop:"Suggest a question or a correction",propQ:"Your question or correction",propS:"Source (link, optional)",propE:"Email (optional, if you want a reply)",send:"Send",sent:"Thank you, it has been sent.",failed:"Sending failed. Please try again later.",data:"Download the data (CC BY 4.0)",subq:"Sub-questions",revBy:"Reviewed by",notRev:"Not yet reviewed by a specialist.",dig:"What moved at the frontier this month",digEmpty:"The first monthly report will appear here at the start of next month.",nl:"Get the monthly report by email",nlBtn:"Subscribe",nlOk:"Thank you, you're subscribed.",kind:"Type",k0:"New question",k1:"Correction",k2:"I'm a researcher and want to review a field",ty:{"study": "Peer-reviewed study", "preprint": "Preprint (not yet peer-reviewed)", "official": "Official body", "institution": "Research institution", "reference": "Academic reference", "press": "Press", "company": "Company (interested party)", "encyclopedia": "Encyclopedia"},map:"Map of open questions"},
+fr:{sub:"La carte de ce que l'humanité ne sait pas encore. Chaque point est une grande question ouverte ; chaque trait relie des questions dont la réponse de l'une ferait avancer l'autre.",
+ dom:{P:"Physique & cosmos",V:"Vie & médecine",E:"Esprit & cerveau",M:"Mathématiques",I:"Intelligence artificielle",T:"Terre & climat",H:"Humanité"},
+ near:["Horizon lointain","Pistes sérieuses","Percée en vue"],known:"Ce qu'on sait",block:"Ce qui bloque",leads:"Pistes en cours",rel:"Questions liées",src:"Sources",
+ count:(a,b)=>`${a} / ${b} questions ouvertes`,search:"Chercher une question…",loading:"Chargement de la carte…",empty:"La carte est encore vierge. Les premières questions ouvertes y apparaîtront dès qu'elles seront ajoutées.",
+ slow:"La carte ne répond pas encore. Réessaie dans un instant.",err:"Impossible de charger la carte pour le moment.",signin:"Connecte-toi à Claude pour afficher la carte.",
+ pick:"Choisis une question sur la carte pour voir ce qu'on sait, ce qui bloque et les pistes en cours.",fb:"Pas encore traduit dans cette langue. Affichage en anglais.",
+ foot:"Relevé réalisé par Claude : chaque question vérifiée à partir des sources indiquées, novembre 2026. Pas encore relu par des spécialistes. Fais glisser la carte pour la déplacer, molette ou pincement pour zoomer.",news:"Quoi de neuf",newsEmpty:"Pas encore de mise à jour.",srcAll:"Sources ajoutées à {n} questions",upd:"mis à jour",prop:"Proposer une question ou une correction",propQ:"Ta question ou ta correction",propS:"Source (lien, facultatif)",propE:"Courriel (facultatif, pour une réponse)",send:"Envoyer",sent:"Merci, c'est envoyé.",failed:"L'envoi a échoué. Réessaie plus tard.",data:"Télécharger les données (CC BY 4.0)",subq:"Sous-questions",revBy:"Relu par",notRev:"Pas encore relu par un spécialiste.",dig:"Ce qui a bougé ce mois-ci à la frontière du savoir",digEmpty:"Le premier bilan mensuel paraîtra ici au début du mois prochain.",nl:"Recevoir le bilan mensuel par courriel",nlBtn:"S'abonner",nlOk:"Merci, c'est noté.",kind:"Type",k0:"Nouvelle question",k1:"Correction",k2:"Je suis chercheur et je veux relire un domaine",ty:{"study": "Étude relue par des pairs", "preprint": "Prépublication (pas encore relue)", "official": "Organisme officiel", "institution": "Institution de recherche", "reference": "Référence académique", "press": "Presse", "company": "Entreprise (partie intéressée)", "encyclopedia": "Encyclopédie"},map:"Carte des questions ouvertes"},
+es:{sub:"Un mapa de lo que la humanidad aún no sabe. Cada punto es una gran pregunta abierta; cada línea une preguntas cuya respuesta haría avanzar a la otra.",
+ dom:{P:"Física y cosmos",V:"Vida y medicina",E:"Mente y cerebro",M:"Matemáticas",I:"Inteligencia artificial",T:"Tierra y clima",H:"Humanidad"},
+ near:["Horizonte lejano","Pistas serias","Avance a la vista"],known:"Lo que sabemos",block:"Lo que nos frena",leads:"Pistas actuales",rel:"Preguntas relacionadas",src:"Fuentes",
+ count:(a,b)=>`${a} / ${b} preguntas abiertas`,search:"Buscar una pregunta…",loading:"Cargando el mapa…",empty:"El mapa aún está en blanco. Las primeras preguntas abiertas aparecerán aquí en cuanto se añadan.",
+ slow:"El mapa aún no responde. Inténtalo de nuevo en un momento.",err:"No se puede cargar el mapa en este momento.",signin:"Inicia sesión en Claude para ver el mapa.",
+ pick:"Elige una pregunta en el mapa para ver lo que sabemos, lo que nos frena y las pistas actuales.",fb:"Aún no traducido a este idioma. Se muestra en inglés.",
+ foot:"Relevamiento hecho por Claude: cada pregunta verificada con las fuentes indicadas, noviembre de 2026. Aún sin revisión de especialistas. Arrastra para mover el mapa; rueda o pellizca para hacer zoom.",news:"Novedades",newsEmpty:"Aún no hay actualizaciones.",srcAll:"Fuentes añadidas a {n} preguntas",upd:"actualizado",prop:"Proponer una pregunta o una corrección",propQ:"Tu pregunta o corrección",propS:"Fuente (enlace, opcional)",propE:"Correo (opcional, si quieres respuesta)",send:"Enviar",sent:"Gracias, se ha enviado.",failed:"El envío falló. Inténtalo más tarde.",data:"Descargar los datos (CC BY 4.0)",subq:"Subpreguntas",revBy:"Revisado por",notRev:"Aún no revisado por un especialista.",dig:"Lo que se movió este mes en la frontera del conocimiento",digEmpty:"El primer informe mensual aparecerá aquí a comienzos del próximo mes.",nl:"Recibir el informe mensual por correo",nlBtn:"Suscribirse",nlOk:"Gracias, quedas suscrito.",kind:"Tipo",k0:"Nueva pregunta",k1:"Corrección",k2:"Soy investigador y quiero revisar un campo",ty:{"study": "Estudio revisado por pares", "preprint": "Prepublicación (sin revisión por pares)", "official": "Organismo oficial", "institution": "Institución de investigación", "reference": "Referencia académica", "press": "Prensa", "company": "Empresa (parte interesada)", "encyclopedia": "Enciclopedia"},map:"Mapa de preguntas abiertas"},
+pt:{sub:"Um mapa do que a humanidade ainda não sabe. Cada ponto é uma grande pergunta em aberto; cada linha liga perguntas em que responder uma faria avançar a outra.",
+ dom:{P:"Física e cosmos",V:"Vida e medicina",E:"Mente e cérebro",M:"Matemática",I:"Inteligência artificial",T:"Terra e clima",H:"Humanidade"},
+ near:["Horizonte distante","Pistas sérias","Avanço à vista"],known:"O que sabemos",block:"O que nos trava",leads:"Pistas atuais",rel:"Perguntas relacionadas",src:"Fontes",
+ count:(a,b)=>`${a} / ${b} perguntas em aberto`,search:"Buscar uma pergunta…",loading:"Carregando o mapa…",empty:"O mapa ainda está em branco. As primeiras perguntas em aberto aparecerão aqui assim que forem adicionadas.",
+ slow:"O mapa ainda não responde. Tente de novo em instantes.",err:"Não é possível carregar o mapa agora.",signin:"Entre no Claude para ver o mapa.",
+ pick:"Escolha uma pergunta no mapa para ver o que sabemos, o que nos trava e as pistas atuais.",fb:"Ainda não traduzido para este idioma. Exibindo em inglês.",
+ foot:"Levantamento feito pelo Claude: cada pergunta verificada com as fontes indicadas, novembro de 2026. Ainda sem revisão de especialistas. Arraste para mover o mapa; role ou faça pinça para dar zoom.",news:"Novidades",newsEmpty:"Ainda não há atualizações.",srcAll:"Fontes adicionadas a {n} perguntas",upd:"atualizado",prop:"Sugerir uma pergunta ou uma correção",propQ:"Sua pergunta ou correção",propS:"Fonte (link, opcional)",propE:"E-mail (opcional, se quiser resposta)",send:"Enviar",sent:"Obrigado, foi enviado.",failed:"O envio falhou. Tente novamente mais tarde.",data:"Baixar os dados (CC BY 4.0)",subq:"Subperguntas",revBy:"Revisado por",notRev:"Ainda não revisado por um especialista.",dig:"O que mudou este mês na fronteira do conhecimento",digEmpty:"O primeiro relatório mensal aparecerá aqui no início do próximo mês.",nl:"Receber o relatório mensal por e-mail",nlBtn:"Assinar",nlOk:"Obrigado, inscrição feita.",kind:"Tipo",k0:"Nova pergunta",k1:"Correção",k2:"Sou pesquisador e quero revisar uma área",ty:{"study": "Estudo revisado por pares", "preprint": "Preprint (ainda sem revisão por pares)", "official": "Órgão oficial", "institution": "Instituição de pesquisa", "reference": "Referência acadêmica", "press": "Imprensa", "company": "Empresa (parte interessada)", "encyclopedia": "Enciclopédia"},map:"Mapa de perguntas em aberto"},
+zh:{sub:"一张人类尚未知晓之事的地图。每个点都是一个重大的开放问题；每条线连接着相互关联的问题——解答其一，便能推动其二。",
+ dom:{P:"物理与宇宙",V:"生命与医学",E:"心智与大脑",M:"数学",I:"人工智能",T:"地球与气候",H:"人类社会"},
+ near:["遥远的地平线","已有可靠线索","突破在望"],known:"我们已知",block:"阻碍所在",leads:"当前线索",rel:"相关问题",src:"来源",
+ count:(a,b)=>`${a} / ${b} 个开放问题`,search:"搜索问题…",loading:"正在加载地图…",empty:"地图仍是空白。首批开放问题一经添加便会显示在这里。",
+ slow:"地图暂未响应，请稍后再试。",err:"暂时无法加载地图。",signin:"请登录 Claude 查看地图。",
+ pick:"在地图上选择一个问题，查看我们已知的内容、阻碍所在和当前线索。",fb:"尚未翻译为此语言，现显示英文。",
+ foot:"由 Claude 整理:每个问题均已依据所列来源核实(2026年11月),尚未经专家审阅。拖动可移动地图,滚轮或双指缩放。",news:"最新动态",newsEmpty:"暂无更新。",srcAll:"已为 {n} 个问题添加来源",upd:"已更新",prop:"建议一个问题或一处更正",propQ:"你的问题或更正",propS:"来源(链接,可选)",propE:"电子邮件(可选,如需回复)",send:"发送",sent:"谢谢,已发送。",failed:"发送失败,请稍后再试。",data:"下载数据(CC BY 4.0)",subq:"子问题",revBy:"审阅者",notRev:"尚未经专家审阅。",dig:"本月知识前沿的新进展",digEmpty:"首份月度报告将于下月初在此发布。",nl:"通过电子邮件接收月度报告",nlBtn:"订阅",nlOk:"谢谢,订阅成功。",kind:"类型",k0:"新问题",k1:"更正",k2:"我是研究人员,想审阅一个领域",ty:{"study": "同行评审研究", "preprint": "预印本(尚未同行评审)", "official": "官方机构", "institution": "研究机构", "reference": "学术参考资料", "press": "媒体报道", "company": "企业(利益相关方)", "encyclopedia": "百科全书"},map:"开放问题地图"},
+hi:{sub:"उस सबका नक्शा जो मानवता अभी तक नहीं जानती। हर बिंदु एक बड़ा खुला प्रश्न है; हर रेखा उन प्रश्नों को जोड़ती है जिनमें एक का उत्तर दूसरे को आगे बढ़ाएगा।",
+ dom:{P:"भौतिकी और ब्रह्मांड",V:"जीवन और चिकित्सा",E:"मन और मस्तिष्क",M:"गणित",I:"कृत्रिम बुद्धिमत्ता",T:"पृथ्वी और जलवायु",H:"मानवता"},
+ near:["दूर क्षितिज","ठोस सुराग","सफलता निकट"],known:"हम क्या जानते हैं",block:"रुकावट क्या है",leads:"वर्तमान सुराग",rel:"संबंधित प्रश्न",src:"स्रोत",
+ count:(a,b)=>`${a} / ${b} खुले प्रश्न`,search:"प्रश्न खोजें…",loading:"नक्शा लोड हो रहा है…",empty:"नक्शा अभी खाली है। पहले खुले प्रश्न जुड़ते ही यहाँ दिखेंगे।",
+ slow:"नक्शा अभी जवाब नहीं दे रहा। थोड़ी देर में फिर कोशिश करें।",err:"अभी नक्शा लोड नहीं हो सकता।",signin:"नक्शा देखने के लिए Claude में साइन इन करें।",
+ pick:"नक्शे पर कोई प्रश्न चुनें और देखें कि हम क्या जानते हैं, रुकावट क्या है और वर्तमान सुराग क्या हैं।",fb:"इस भाषा में अभी अनुवाद नहीं हुआ है। अंग्रेज़ी में दिखाया जा रहा है।",
+ foot:"Claude द्वारा तैयार सर्वेक्षण: हर प्रश्न दिखाए गए स्रोतों से जाँचा गया, नवंबर 2026। अभी विशेषज्ञों द्वारा समीक्षा नहीं हुई है। नक्शा खिसकाने के लिए खींचें; ज़ूम के लिए स्क्रॉल या पिंच करें।",news:"नया क्या है",newsEmpty:"अभी कोई अद्यतन नहीं।",srcAll:"{n} प्रश्नों में स्रोत जोड़े गए",upd:"अद्यतन",prop:"कोई प्रश्न या सुधार सुझाएँ",propQ:"आपका प्रश्न या सुधार",propS:"स्रोत (लिंक, वैकल्पिक)",propE:"ईमेल (वैकल्पिक, यदि उत्तर चाहिए)",send:"भेजें",sent:"धन्यवाद, भेज दिया गया।",failed:"भेजना विफल रहा। बाद में फिर कोशिश करें।",data:"डेटा डाउनलोड करें (CC BY 4.0)",subq:"उप-प्रश्न",revBy:"समीक्षक",notRev:"अभी किसी विशेषज्ञ ने समीक्षा नहीं की है।",dig:"इस महीने ज्ञान की सीमा पर क्या बदला",digEmpty:"पहली मासिक रिपोर्ट अगले महीने की शुरुआत में यहाँ दिखेगी।",nl:"मासिक रिपोर्ट ईमेल से पाएँ",nlBtn:"सदस्यता लें",nlOk:"धन्यवाद, आपकी सदस्यता हो गई।",kind:"प्रकार",k0:"नया प्रश्न",k1:"सुधार",k2:"मैं शोधकर्ता हूँ और किसी क्षेत्र की समीक्षा करना चाहता/चाहती हूँ",ty:{"study": "सहकर्मी-समीक्षित अध्ययन", "preprint": "प्रीप्रिंट (अभी समीक्षा नहीं हुई)", "official": "आधिकारिक संस्था", "institution": "शोध संस्थान", "reference": "अकादमिक संदर्भ", "press": "समाचार माध्यम", "company": "कंपनी (हितधारक)", "encyclopedia": "विश्वकोश"},map:"खुले प्रश्नों का नक्शा"},
+ar:{sub:"خريطة لما لا تعرفه البشرية بعد. كل نقطة سؤال كبير مفتوح، وكل خط يربط بين أسئلة تدفع الإجابة عن أحدها الآخر إلى الأمام.",
+ dom:{P:"الفيزياء والكون",V:"الحياة والطب",E:"العقل والدماغ",M:"الرياضيات",I:"الذكاء الاصطناعي",T:"الأرض والمناخ",H:"الإنسانية"},
+ near:["أفق بعيد","مسارات جادة","اختراق في الأفق"],known:"ما نعرفه",block:"ما يعيقنا",leads:"المسارات الحالية",rel:"أسئلة مرتبطة",src:"المصادر",
+ count:(a,b)=>`${a} / ${b} سؤالًا مفتوحًا`,search:"ابحث عن سؤال…",loading:"جارٍ تحميل الخريطة…",empty:"الخريطة ما زالت فارغة. ستظهر هنا أولى الأسئلة المفتوحة فور إضافتها.",
+ slow:"الخريطة لا تستجيب بعد. حاول مرة أخرى بعد قليل.",err:"تعذّر تحميل الخريطة الآن.",signin:"سجّل الدخول إلى Claude لعرض الخريطة.",
+ pick:"اختر سؤالًا على الخريطة لترى ما نعرفه وما يعيقنا والمسارات الحالية.",fb:"لم تُترجم بعد إلى هذه اللغة. تُعرض بالإنجليزية.",
+ foot:"مسح أعدّه Claude: جرى التحقق من كل سؤال بالمصادر المذكورة، نوفمبر 2026. لم يراجعه المختصون بعد. اسحب لتحريك الخريطة، واستخدم العجلة أو الضم للتكبير.",news:"ما الجديد",newsEmpty:"لا توجد تحديثات بعد.",srcAll:"أُضيفت المصادر إلى {n} سؤالًا",upd:"حُدِّث",prop:"اقترح سؤالًا أو تصحيحًا",propQ:"سؤالك أو تصحيحك",propS:"المصدر (رابط، اختياري)",propE:"البريد الإلكتروني (اختياري، إن أردت ردًّا)",send:"إرسال",sent:"شكرًا، تم الإرسال.",failed:"تعذّر الإرسال. حاول لاحقًا.",data:"تنزيل البيانات (CC BY 4.0)",subq:"أسئلة فرعية",revBy:"راجعه",notRev:"لم يراجعه مختص بعد.",dig:"ما الذي تغيّر هذا الشهر على حدود المعرفة",digEmpty:"سيظهر أول تقرير شهري هنا في بداية الشهر المقبل.",nl:"تلقَّ التقرير الشهري بالبريد الإلكتروني",nlBtn:"اشترك",nlOk:"شكرًا، تم اشتراكك.",kind:"النوع",k0:"سؤال جديد",k1:"تصحيح",k2:"أنا باحث وأريد مراجعة مجال",ty:{"study": "دراسة محكَّمة", "preprint": "نسخة أولية (غير محكَّمة بعد)", "official": "هيئة رسمية", "institution": "مؤسسة بحثية", "reference": "مرجع أكاديمي", "press": "صحافة", "company": "شركة (طرف معني)", "encyclopedia": "موسوعة"},map:"خريطة الأسئلة المفتوحة"}
+};
+const DKEYS=["P","V","E","M","I","T","H"];
+const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const $=id=>document.getElementById(id);
+const cv=$('cv'),ctx=cv.getContext('2d'),statusEl=$('status'),panel=$('panel');
+let nodes=[],byId={},edges=[],sel=null,hover=null,query='',statusKey='loading';
+const active=new Set(DKEYS);
+let view={x:0,y:0,k:1},W=0,H=0,dpr=1;
+
+function pickLang(){
+  try{const s=localStorage.getItem('ti-lang');if(UI[s])return s}catch(e){}
+  for(const l of navigator.languages||[navigator.language||'en']){const b=(l||'').slice(0,2).toLowerCase();if(UI[b])return b}
+  return 'en';
+}
+let lang=pickLang();
+const T=()=>UI[lang];
+// texte d'une question dans la langue choisie, repli sur l'anglais
+function tx(n){const i=n.i18n||{};const own=i[lang];return {...(i.en||{}),...(own||{}),fb:!own&&lang!=='en'}}
+
+const sl=$('lang');
+for(const [k,v] of Object.entries(LANGS)){const o=document.createElement('option');o.value=k;o.textContent=v;sl.append(o)}
+sl.onchange=()=>{lang=sl.value;try{localStorage.setItem('ti-lang',lang)}catch(e){};applyLang()};
+
+const chips={};
+const fEl=$('filters');
+for(const k of DKEYS){
+  const b=document.createElement('button');b.className='chip';b.setAttribute('aria-pressed','true');b.style.setProperty('--c',`var(--d-${k})`);
+  const i=document.createElement('i'),s=document.createElement('span');b.append(i,s);chips[k]=s;
+  b.onclick=()=>{active.has(k)?active.delete(k):active.add(k);b.setAttribute('aria-pressed',active.has(k));draw()};
+  fEl.append(b);
+}
+const qi=document.createElement('input');qi.id='q';qi.type='search';
+qi.oninput=()=>{query=qi.value.trim().toLowerCase();draw()};fEl.append(qi);
+
+function applyLang(){
+  const t=T();sl.value=lang;
+  document.documentElement.lang=lang;document.documentElement.dir=lang==='ar'?'rtl':'ltr';
+  document.documentElement.classList.toggle('nonlatin',['zh','hi','ar'].includes(lang));
+  $('sub').textContent=t.sub;$('foot').textContent=t.foot;qi.placeholder=t.search;cv.setAttribute('aria-label',t.map);
+  for(const k of DKEYS)chips[k].textContent=t.dom[k];
+  const lg=$('legend');lg.replaceChildren();t.near.forEach((s,i)=>{const sp=document.createElement('span'),b=document.createElement('b');if(i<2)b.className='d'+i;sp.append(b,s);lg.append(sp)});
+  setStatus(statusKey);
+  $('digT').textContent=t.dig;$('nlL').textContent=t.nl;$('nlBtn').textContent=t.nlBtn;$('nlLang').value=lang;$('pkL').textContent=t.kind;$('pk0').textContent=t.k0;$('pk1').textContent=t.k1;$('pk2').textContent=t.k2;
+  $('newsT').textContent=t.news;$('propT').textContent=t.prop;$('pqL').textContent=t.propQ;$('psL').textContent=t.propS;$('peL').textContent=t.propE;$('pBtn').textContent=t.send;$('dataLink').textContent=t.data;
+  renderNews();renderDigest();
+  if(sel)select(sel);else panel.replaceChildren(el('p',{textContent:t.pick,style:'margin:0;color:var(--muted)'}));
+  draw();
+}
+function setStatus(k){statusKey=k;statusEl.hidden=!k;if(k)statusEl.textContent=T()[k]}
+function visible(n){if(!active.has(n.d))return false;if(!query)return true;const a=tx(n);return (a.t+' '+a.s).toLowerCase().includes(query)}
+
+function resize(){const r=cv.getBoundingClientRect();dpr=window.devicePixelRatio||1;W=r.width;H=r.height;cv.width=W*dpr;cv.height=H*dpr;if(nodes.length&&!view.done){fit();view.done=true}draw()}
+addEventListener('resize',resize);
+
+function layout(){
+  const R=380,anchor={};DKEYS.forEach((k,i)=>{const a=i/DKEYS.length*Math.PI*2-Math.PI/2;anchor[k]={x:Math.cos(a)*R,y:Math.sin(a)*R}});
+  nodes.forEach((n,i)=>{const a=anchor[n.d]||{x:0,y:0};n.x=a.x+Math.cos(i*2.4)*70;n.y=a.y+Math.sin(i*2.4)*70;n.vx=0;n.vy=0});
+  for(let it=0;it<500;it++){
+    const t=1-it/500;
+    for(let i=0;i<nodes.length;i++)for(let j=i+1;j<nodes.length;j++){
+      const a=nodes[i],b=nodes[j];let dx=b.x-a.x,dy=b.y-a.y,d2=dx*dx+dy*dy+.01,d=Math.sqrt(d2);
+      const f=4200/d2;dx/=d;dy/=d;a.vx-=dx*f;a.vy-=dy*f;b.vx+=dx*f;b.vy+=dy*f;
+    }
+    for(const e of edges){const a=byId[e[0]],b=byId[e[1]];const dx=b.x-a.x,dy=b.y-a.y,d=Math.hypot(dx,dy)||1;const f=(d-140)*0.01;a.vx+=dx/d*f;a.vy+=dy/d*f;b.vx-=dx/d*f;b.vy-=dy/d*f}
+    for(const n of nodes){const a=anchor[n.d]||{x:0,y:0};n.vx+=(a.x-n.x)*0.008;n.vy+=(a.y-n.y)*0.008;n.x+=n.vx*t;n.y+=n.vy*t;n.vx*=.55;n.vy*=.55}
+  }
+  fit();
+}
+function fit(){
+  if(!nodes.length||!W)return;
+  let x0=Infinity,y0=Infinity,x1=-Infinity,y1=-Infinity;
+  for(const n of nodes){x0=Math.min(x0,n.x);y0=Math.min(y0,n.y);x1=Math.max(x1,n.x);y1=Math.max(y1,n.y)}
+  const pad=60;view.k=Math.min((W-pad*2)/(x1-x0||1),(H-pad*2)/(y1-y0||1),1.4);
+  view.x=W/2-(x0+x1)/2*view.k;view.y=H/2-(y0+y1)/2*view.k;
+}
+const toS=n=>({x:n.x*view.k+view.x,y:n.y*view.k+view.y});
+
+function draw(){
+  if(!W)return;
+  ctx.setTransform(dpr,0,0,dpr,0,0);ctx.clearRect(0,0,W,H);
+  const fg=css('--fg'),muted=css('--muted'),line=css('--line'),accent=css('--accent');
+  const focus=sel||hover;const nb=new Set();if(focus){nb.add(focus.id);edges.forEach(e=>{if(e[0]===focus.id)nb.add(e[1]);if(e[1]===focus.id)nb.add(e[0])})}
+  for(const e of edges){
+    const a=byId[e[0]],b=byId[e[1]];if(!visible(a)||!visible(b))continue;
+    const on=focus&&(e[0]===focus.id||e[1]===focus.id);
+    const p=toS(a),q=toS(b);ctx.strokeStyle=on?accent:line;ctx.globalAlpha=focus&&!on?.3:1;ctx.lineWidth=on?1.6:1;
+    ctx.beginPath();ctx.moveTo(p.x,p.y);ctx.lineTo(q.x,q.y);ctx.stroke();
+  }
+  let shown=0;const showAll=view.k>.75;
+  for(const n of nodes){
+    if(!visible(n))continue;shown++;
+    const p=toS(n),c=css('--d-'+n.d),r=6+n.n*1.5,dim=focus&&!nb.has(n.id);
+    ctx.globalAlpha=dim?.28:1;
+    ctx.fillStyle=c;ctx.beginPath();ctx.arc(p.x,p.y,r,0,Math.PI*2);ctx.fill();
+    ctx.strokeStyle=c;ctx.lineWidth=1.5;ctx.setLineDash(n.n===0?[1.5,3]:n.n===1?[4,3]:[]);
+    ctx.beginPath();ctx.arc(p.x,p.y,r+4.5,0,Math.PI*2);ctx.stroke();ctx.setLineDash([]);
+    if(n===sel){ctx.strokeStyle=fg;ctx.lineWidth=2;ctx.beginPath();ctx.arc(p.x,p.y,r+9,0,Math.PI*2);ctx.stroke()}
+    if(showAll||nb.has(n.id)||query){
+      ctx.font=(n===focus?'600 ':'500 ')+'11.5px Inter, system-ui, "Noto Sans", sans-serif';ctx.fillStyle=n===focus?fg:muted;ctx.textAlign='center';
+      ctx.fillText(tx(n).s||'',p.x,p.y+r+17);
+    }
+  }
+  ctx.globalAlpha=1;
+  $('count').textContent=nodes.length?T().count(shown,nodes.length):'—';
+}
+
+function pick(mx,my){let best=null,bd=20;for(const n of nodes){if(!visible(n))continue;const p=toS(n),d=Math.hypot(p.x-mx,p.y-my);if(d<bd){bd=d;best=n}}return best}
+let start=null,moved=false;const pts=new Map();
+cv.addEventListener('pointerdown',e=>{cv.setPointerCapture(e.pointerId);pts.set(e.pointerId,{x:e.offsetX,y:e.offsetY});start={x:e.offsetX,y:e.offsetY};moved=false});
+cv.addEventListener('pointermove',e=>{
+  if(pts.has(e.pointerId)){
+    const before=[...pts.values()].map(p=>({...p}));const prev=pts.get(e.pointerId);
+    pts.set(e.pointerId,{x:e.offsetX,y:e.offsetY});
+    if(pts.size===2){const [a0,b0]=before,[a1,b1]=[...pts.values()];const d0=Math.hypot(a0.x-b0.x,a0.y-b0.y),d1=Math.hypot(a1.x-b1.x,a1.y-b1.y);if(d0>0)zoom((a1.x+b1.x)/2,(a1.y+b1.y)/2,d1/d0);moved=true;return}
+    if(Math.abs(e.offsetX-start.x)+Math.abs(e.offsetY-start.y)>4)moved=true;
+    view.x+=e.offsetX-prev.x;view.y+=e.offsetY-prev.y;draw();return;
+  }
+  const h=pick(e.offsetX,e.offsetY);if(h!==hover){hover=h;cv.style.cursor=h?'pointer':'grab';draw()}
+});
+cv.addEventListener('pointerup',e=>{pts.delete(e.pointerId);if(!moved){const n=pick(e.offsetX,e.offsetY);if(n)select(n)}});
+cv.addEventListener('pointercancel',e=>pts.delete(e.pointerId));
+cv.addEventListener('pointerleave',()=>{if(hover){hover=null;draw()}});
+cv.addEventListener('wheel',e=>{e.preventDefault();zoom(e.offsetX,e.offsetY,Math.exp(-e.deltaY*0.0015))},{passive:false});
+function zoom(cx,cy,f){const k=Math.min(4,Math.max(.25,view.k*f));f=k/view.k;view.x=cx-(cx-view.x)*f;view.y=cy-(cy-view.y)*f;view.k=k;draw()}
+
+function el(tag,props,...kids){const e=document.createElement(tag);for(const [k,v] of Object.entries(props||{})){if(k==='style')e.style.cssText=v;else e[k]=v}kids.forEach(k=>k!=null&&e.append(k));return e}
+function select(n){
+  sel=n;draw();const t=T(),a=tx(n);panel.replaceChildren();
+  const dom=el('div',{className:'dom',textContent:t.dom[n.d]||n.d});dom.style.setProperty('--c',`var(--d-${n.d})`);
+  const near=el('span',{className:'near',textContent:t.near[n.n]||''});near.dataset.n=n.n;
+  const h=el('h2',{textContent:a.t||''});if(a.fb)h.lang='en';
+  panel.append(dom,h,near);
+  if(a.fb)panel.append(el('p',{className:'fallback',textContent:t.fb}));
+  for(const k of ['known','block','leads'])if(a[k]){const p=el('p',{textContent:a[k]});if(a.fb)p.lang='en';panel.append(el('section',null,el('h3',{textContent:t[k]}),p))}
+  if(Array.isArray(n.sub)&&n.sub.length){const ul=el('ul',{className:'sublist'});n.sub.forEach(q=>{const s=q&&(q[lang]||q.en);if(s)ul.append(el('li',{textContent:s}))});if(ul.childElementCount)panel.append(el('section',null,el('h3',{textContent:t.subq}),ul))}
+  const rel=new Set();edges.forEach(e=>{if(e[0]===n.id)rel.add(e[1]);if(e[1]===n.id)rel.add(e[0])});
+  const ls=[...rel].map(id=>byId[id]).filter(Boolean);
+  if(ls.length){const w=el('div',{className:'links'});ls.forEach(m=>{const b=el('button',{textContent:tx(m).t});b.onclick=()=>select(m);w.append(b)});
+    panel.append(el('section',null,el('h3',{textContent:t.rel}),w))}
+  if(Array.isArray(n.src)&&n.src.length){const ul=el('ul',{className:'srcs'});n.src.forEach(s=>{if(!s||!/^https:\/\//.test(s.u||''))return;ul.append(el('li',null,el('a',{href:s.u,target:'_blank',rel:'noopener noreferrer',textContent:s.t||s.u}),s.ty&&t.ty[s.ty]?el('span',{className:'srcty'+(s.ty==='study'||s.ty==='reference'?' strong':''),textContent:t.ty[s.ty]}):null))});
+    if(ul.childElementCount)panel.append(el('section',null,el('h3',{textContent:t.src}),ul))}
+  const revs=(Array.isArray(n.rev)?n.rev:[]).filter(r=>r&&r.name);
+  panel.append(revs.length?el('p',{className:'rev',textContent:t.revBy+' : '+revs.map(r=>r.name+(r.affil?' ('+r.affil+')':'')).join(', ')}):el('p',{className:'rev none',textContent:t.notRev}));
+}
+
+function ingest(docs){
+  const prev=sel&&sel.id;
+  nodes=docs.map(d=>{const v=d.data();const n={id:d.id,...v};
+    if(!n.i18n&&n.t)n.i18n={fr:{t:v.t,s:v.s,known:v.known,block:v.block,leads:v.leads}};return n});
+  byId={};nodes.forEach(n=>{n.n=Math.max(0,Math.min(2,+n.n||0));byId[n.id]=n});
+  const seen=new Set();edges=[];
+  for(const n of nodes)for(const l of n.links||[]){if(!byId[l]||l===n.id)continue;const k=[n.id,l].sort().join('|');if(!seen.has(k)){seen.add(k);edges.push([n.id,l])}}
+  layout();view.done=!!W;
+  setStatus(nodes.length?null:'empty');
+  const s=byId[prev]||byId['consciousness']||byId['conscience']||nodes[0];
+  if(s)select(s);else applyLang();
+  renderNews();
+}
+
+
+let changes=[];
+const onSite=/(^|\.)terraincognita\.ca$|netlify\.app$/.test(location.hostname)||location.protocol==='file:';
+if(onSite){$('propose').hidden=false;$('dataLink').hidden=false}
+function renderNews(){
+  const t=T(),ol=$('newsList');ol.replaceChildren();
+  const list=[...changes].sort((a,b)=>String(b.date).localeCompare(String(a.date))).slice(0,6);
+  if(!list.length){ol.append(el('li',{textContent:t.newsEmpty,style:'color:var(--muted)'}));return}
+  for(const c of list){
+    let d=c.date;try{d=new Intl.DateTimeFormat(lang,{dateStyle:'long'}).format(new Date(c.date+'T12:00:00'))}catch(e){}
+    const ul=el('ul');
+    for(const it of c.items||[]){
+      if(it.k==='sources'){ul.append(el('li',{textContent:t.srcAll.replace('{n}',it.n)}));continue}
+      const n=byId[it.q];if(!n)continue;
+      const b=el('button',{type:'button',textContent:tx(n).t});b.onclick=()=>{select(n);$('cv').scrollIntoView({behavior:'smooth',block:'center'})};
+      ul.append(el('li',null,b,' · '+(t[it.f]||'')+' '+t.upd));
+    }
+    ol.append(el('li',null,el('time',{dateTime:c.date,textContent:d}),ul));
+  }
+}
+$('propForm').addEventListener('submit',async e=>{
+  e.preventDefault();const f=e.target,t=T(),msg=$('pMsg');$('pBtn').disabled=true;msg.textContent='';
+  try{const r=await fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams(new FormData(f)).toString()});
+    if(!r.ok)throw 0;msg.textContent=t.sent;f.reset()}catch(err){msg.textContent=t.failed}
+  $('pBtn').disabled=false;
+});
+
+let digests=[],digSel=null;
+if(onSite)$('nlForm').hidden=false;
+function renderDigest(){
+  const t=T(),body=$('digBody'),mb=$('months');body.replaceChildren();mb.replaceChildren();
+  const list=[...digests].filter(d=>d&&d.month).sort((a,b)=>String(b.month).localeCompare(String(a.month)));
+  if(!list.length){body.append(el('p',{textContent:t.digEmpty,style:'color:var(--muted)'}));return}
+  const cur=list.find(d=>d.month===digSel)||list[0];
+  list.slice(0,12).forEach(d=>{let lbl=d.month;try{lbl=new Intl.DateTimeFormat(lang,{month:'long',year:'numeric'}).format(new Date(d.month+'-15T12:00:00'))}catch(e){}
+    const b=el('button',{type:'button',textContent:lbl});b.setAttribute('aria-pressed',d===cur);b.onclick=()=>{digSel=d.month;renderDigest()};mb.append(b)});
+  const loc=(cur.i18n&&(cur.i18n[lang]||cur.i18n.en))||{};
+  if(loc.title)body.append(el('h3',{textContent:loc.title,style:'font:600 17px var(--f-body);margin:0 0 8px;color:var(--fg);letter-spacing:0;text-transform:none'}));
+  String(loc.body||'').split(/\n+/).filter(Boolean).forEach(par=>body.append(el('p',{textContent:par})));
+}
+$('nlForm').addEventListener('submit',async e=>{
+  e.preventDefault();const f=e.target,t=T(),msg=$('nlMsg');$('nlBtn').disabled=true;msg.textContent='';
+  try{const r=await fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams(new FormData(f)).toString()});
+    if(!r.ok)throw 0;msg.textContent=t.nlOk;f.reset()}catch(err){msg.textContent=t.failed}
+  $('nlBtn').disabled=false;
+});
+applyLang();resize();
+(async()=>{
+  const timer=setTimeout(()=>{if(!nodes.length)setStatus('slow')},10000);
+  let db=null;try{db=await window.claude?.use?.("db")}catch(e){}
+  if(!db){clearTimeout(timer);setStatus('signin');return}
+  db.collection("digests").onSnapshot(s=>{digests=s.docs.map(d=>d.data());renderDigest()},()=>{});
+  db.collection("changes").onSnapshot(s=>{changes=s.docs.map(d=>d.data());renderNews()},()=>{});
+  db.collection("questions").onSnapshot(s=>{if(!s.metadata.fromCache)clearTimeout(timer);ingest(s.docs)},
+    ()=>{clearTimeout(timer);setStatus('err')});
+})();
+</script>

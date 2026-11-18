@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "M",
+ "i18n": {
+  "ar": {
+   "block": "ثبت أن عدة عائلات رئيسية من تقنيات البرهان غير كافية.",
+   "known": "طُرحت عام 1971: إذا كان التحقق من مسألة سهلًا، فهل حلّها سهل أيضًا؟",
+   "leads": "نظرية التعقيد الهندسية، والحدود الدنيا للدارات.",
+   "s": "P مقابل NP",
+   "t": "هل P تساوي NP؟"
+  },
+  "en": {
+   "block": "Several major families of proof techniques have been proven insufficient.",
+   "known": "Posed in 1971: if a problem is easy to check, is it also easy to solve?",
+   "leads": "Geometric complexity theory, circuit lower bounds.",
+   "s": "P vs NP",
+   "t": "Is P equal to NP?"
+  },
+  "es": {
+   "block": "Se ha demostrado que varias grandes familias de técnicas de demostración son insuficientes.",
+   "known": "Planteado en 1971: si un problema es fácil de comprobar, ¿es también fácil de resolver?",
+   "leads": "Teoría de la complejidad geométrica, cotas inferiores para circuitos.",
+   "s": "P contra NP",
+   "t": "¿Es P igual a NP?"
+  },
+  "fr": {
+   "block": "On a prouvé que plusieurs grandes familles de techniques de preuve ne peuvent pas suffire.",
+   "known": "La question est posée depuis 1971. Si un problème est facile à vérifier, est-il aussi facile à résoudre ?",
+   "leads": "Théorie géométrique de la complexité, bornes inférieures sur les circuits.",
+   "s": "P = NP ?",
+   "t": "P est-il égal à NP ?"
+  },
+  "hi": {
+   "block": "प्रमाण की कई प्रमुख तकनीकों के परिवार अपर्याप्त सिद्ध हो चुके हैं।",
+   "known": "1971 में उठाया गया प्रश्न: यदि किसी समस्या का हल जाँचना आसान है, तो क्या उसे हल करना भी आसान है?",
+   "leads": "ज्यामितीय जटिलता सिद्धांत, परिपथ निचली सीमाएँ।",
+   "s": "P बनाम NP",
+   "t": "क्या P बराबर NP है?"
+  },
+  "pt": {
+   "block": "Várias famílias importantes de técnicas de demonstração se mostraram insuficientes.",
+   "known": "Formulado em 1971: se um problema é fácil de verificar, ele também é fácil de resolver?",
+   "leads": "Teoria da complexidade geométrica, limites inferiores para circuitos.",
+   "s": "P versus NP",
+   "t": "P é igual a NP?"
+  },
+  "zh": {
+   "block": "好几大类证明技术已被证明不够用。",
+   "known": "1971年提出:如果一个问题容易验证,它是否也容易求解?",
+   "leads": "几何复杂性理论,电路下界。",
+   "s": "P vs NP",
+   "t": "P等于NP吗?"
+  }
+ },
+ "links": [
+  "ordinateur-quantique",
+  "maths-ia"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+   "ty": "reference",
+   "u": "https://www.claymath.org/millennium-problems"
+  }
+ ]
+}

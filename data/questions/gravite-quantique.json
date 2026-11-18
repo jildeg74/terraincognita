@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "P",
+ "i18n": {
+  "ar": {
+   "block": "هما غير متوافقتين، ولا توجد تجربة تبلغ مقياس بلانك حيث يظهر تعارضهما.",
+   "known": "تعمل النسبية العامة وميكانيكا الكم كلتاهما على نحو تام في مجال كل منهما.",
+   "leads": "نظرية الأوتار، والجاذبية الكمومية الحلقية، واختبارات مخبرية للتشابك عبر الجاذبية.",
+   "s": "الجاذبية الكمومية",
+   "t": "كيف يمكن توحيد الجاذبية وميكانيكا الكم؟"
+  },
+  "en": {
+   "block": "They are incompatible, and no experiment reaches the Planck scale where their conflict would show.",
+   "known": "General relativity and quantum mechanics each work perfectly in their own domain.",
+   "leads": "String theory, loop quantum gravity, lab tests of entanglement through gravity.",
+   "s": "Quantum gravity",
+   "t": "How can gravity and quantum mechanics be unified?"
+  },
+  "es": {
+   "block": "Son incompatibles, y ningún experimento llega a la escala de Planck, donde se manifestaría su conflicto.",
+   "known": "La relatividad general y la mecánica cuántica funcionan a la perfección cada una en su propio dominio.",
+   "leads": "Teoría de cuerdas, gravedad cuántica de bucles, pruebas de laboratorio del entrelazamiento a través de la gravedad.",
+   "s": "Gravedad cuántica",
+   "t": "¿Cómo se pueden unificar la gravedad y la mecánica cuántica?"
+  },
+  "fr": {
+   "block": "Elles sont incompatibles, et aucune expérience n'atteint l'échelle de Planck où leur conflit apparaîtrait.",
+   "known": "La relativité générale et la mécanique quantique fonctionnent parfaitement, chacune dans son domaine.",
+   "leads": "Théorie des cordes, gravité quantique à boucles, tests en laboratoire de l'intrication par la gravité.",
+   "s": "Gravité quantique",
+   "t": "Comment unifier la gravité et la mécanique quantique ?"
+  },
+  "hi": {
+   "block": "दोनों असंगत हैं, और कोई प्रयोग उस प्लांक पैमाने तक नहीं पहुँचता जहाँ उनका टकराव दिखेगा।",
+   "known": "सामान्य सापेक्षता और क्वांटम यांत्रिकी, दोनों अपने-अपने क्षेत्र में पूरी तरह सही काम करते हैं।",
+   "leads": "स्ट्रिंग सिद्धांत, लूप क्वांटम गुरुत्व, गुरुत्व के माध्यम से उलझाव के प्रयोगशाला परीक्षण।",
+   "s": "क्वांटम गुरुत्व",
+   "t": "गुरुत्व और क्वांटम यांत्रिकी को कैसे एकीकृत किया जा सकता है?"
+  },
+  "pt": {
+   "block": "Elas são incompatíveis, e nenhum experimento alcança a escala de Planck, onde o conflito apareceria.",
+   "known": "A relatividade geral e a mecânica quântica funcionam perfeitamente, cada uma em seu domínio.",
+   "leads": "Teoria das cordas, gravidade quântica em laços, testes de laboratório do emaranhamento mediado pela gravidade.",
+   "s": "Gravidade quântica",
+   "t": "Como unificar a gravidade e a mecânica quântica?"
+  },
+  "zh": {
+   "block": "两者互不相容,而且没有任何实验能达到普朗克尺度,而它们的冲突正会在那里显现。",
+   "known": "广义相对论和量子力学在各自的领域里都完美适用。",
+   "leads": "弦理论,圈量子引力,通过引力检验纠缠的实验室实验。",
+   "s": "量子引力",
+   "t": "引力与量子力学如何统一?"
+  }
+ },
+ "links": [
+  "trous-noirs-info",
+  "origine-univers"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Quantum Gravity (Stanford Encyclopedia of Philosophy)",
+   "ty": "reference",
+   "u": "https://plato.stanford.edu/entries/quantum-gravity/"
+  },
+  {
+   "t": "A tabletop experiment for quantum gravity (AIP Inside Science)",
+   "ty": "press",
+   "u": "https://www.aip.org/inside-science/a-tabletop-experiment-for-quantum-gravity"
+  }
+ ]
+}

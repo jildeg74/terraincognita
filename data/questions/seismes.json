@@ -1,0 +1,66 @@
+{
+ "checked": "2026-11-18",
+ "d": "T",
+ "i18n": {
+  "ar": {
+   "block": "لم يُعثر على إشارة منذرة موثوقة.",
+   "known": "نعرف أين الخطر مرتفع، لكن لا نعرف متى سيحدث الانكسار.",
+   "leads": "الذكاء الاصطناعي على البيانات الزلزالية، وكابلات الألياف الضوئية المستخدمة كمستشعرات.",
+   "s": "الزلازل",
+   "t": "هل يمكننا التنبؤ بالزلازل؟"
+  },
+  "en": {
+   "block": "No reliable precursor signal has been found.",
+   "known": "We know where the risk is high, but not when a rupture will happen.",
+   "leads": "AI on seismic data, fiber-optic cables used as sensors.",
+   "s": "Earthquakes",
+   "t": "Can we predict earthquakes?"
+  },
+  "es": {
+   "block": "No se ha encontrado ninguna señal precursora fiable.",
+   "known": "Sabemos dónde el riesgo es alto, pero no cuándo se producirá una ruptura.",
+   "leads": "IA aplicada a datos sísmicos, cables de fibra óptica usados como sensores.",
+   "s": "Terremotos",
+   "t": "¿Podemos predecir los terremotos?"
+  },
+  "fr": {
+   "block": "Aucun signe précurseur fiable n'a été trouvé.",
+   "known": "On sait où le risque est élevé, mais pas quand une rupture aura lieu.",
+   "leads": "IA sur les données sismiques, câbles de fibre optique utilisés comme capteurs.",
+   "s": "Séismes",
+   "t": "Peut-on prédire les tremblements de terre ?"
+  },
+  "hi": {
+   "block": "कोई भरोसेमंद पूर्व-संकेत नहीं मिला है।",
+   "known": "हम जानते हैं कि जोखिम कहाँ अधिक है, पर यह नहीं कि दरार कब पड़ेगी।",
+   "leads": "भूकंपीय आँकड़ों पर AI, सेंसर के रूप में इस्तेमाल होती फ़ाइबर-ऑप्टिक केबल।",
+   "s": "भूकंप",
+   "t": "क्या हम भूकंपों का पूर्वानुमान लगा सकते हैं?"
+  },
+  "pt": {
+   "block": "Não foi encontrado nenhum sinal precursor confiável.",
+   "known": "Sabemos onde o risco é alto, mas não quando uma ruptura vai acontecer.",
+   "leads": "IA aplicada a dados sísmicos, cabos de fibra óptica usados como sensores.",
+   "s": "Terremotos",
+   "t": "Podemos prever terremotos?"
+  },
+  "zh": {
+   "block": "还没有发现可靠的前兆信号。",
+   "known": "我们知道哪里风险高,但不知道断裂何时发生。",
+   "leads": "用于地震数据的AI,用作传感器的光纤电缆。",
+   "s": "地震",
+   "t": "我们能预测地震吗?"
+  }
+ },
+ "links": [
+  "navier-stokes"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Can you predict earthquakes? (USGS)",
+   "ty": "official",
+   "u": "https://www.usgs.gov/faqs/can-you-predict-earthquakes"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "T",
+ "i18n": {
+  "ar": {
+   "block": "لا يزال تخزين الطاقة عبر الفصول مكلفًا للغاية.",
+   "known": "انخفضت أسعار البطاريات بنحو 90% منذ عام 2010.",
+   "leads": "بطاريات الحديد والهواء، والهيدروجين الأخضر، وتخزين الحرارة.",
+   "s": "تخزين الطاقة",
+   "t": "كيف يمكن تخزين الطاقة المتجددة بكلفة منخفضة لفترات طويلة؟"
+  },
+  "en": {
+   "block": "Storing energy across seasons remains far too expensive.",
+   "known": "Battery prices have fallen by about 90% since 2010.",
+   "leads": "Iron-air batteries, green hydrogen, heat storage.",
+   "s": "Energy storage",
+   "t": "How can renewable energy be stored cheaply for long periods?"
+  },
+  "es": {
+   "block": "Almacenar energía entre estaciones sigue siendo demasiado caro.",
+   "known": "Los precios de las baterías han bajado cerca de un 90 % desde 2010.",
+   "leads": "Baterías de hierro-aire, hidrógeno verde, almacenamiento de calor.",
+   "s": "Almacenar energía",
+   "t": "¿Cómo se puede almacenar energía renovable de forma barata durante largos periodos?"
+  },
+  "fr": {
+   "block": "Stocker de l'énergie d'une saison à l'autre reste bien trop cher.",
+   "known": "Le prix des batteries a baissé d'environ 90 % depuis 2010.",
+   "leads": "Batteries fer-air, hydrogène vert, stockage de chaleur.",
+   "s": "Stockage d'énergie",
+   "t": "Comment stocker l'énergie renouvelable longtemps et à bas coût ?"
+  },
+  "hi": {
+   "block": "मौसमों के पार ऊर्जा का भंडारण अब भी बहुत महँगा है।",
+   "known": "2010 से बैटरी की कीमतें लगभग 90% गिरी हैं।",
+   "leads": "आयरन-एयर बैटरियाँ, ग्रीन हाइड्रोजन, ऊष्मा भंडारण।",
+   "s": "ऊर्जा भंडारण",
+   "t": "नवीकरणीय ऊर्जा को लंबे समय तक सस्ते में कैसे संग्रहित किया जा सकता है?"
+  },
+  "pt": {
+   "block": "Armazenar energia entre as estações do ano continua muito caro.",
+   "known": "Os preços das baterias caíram cerca de 90% desde 2010.",
+   "leads": "Baterias de ferro-ar, hidrogênio verde, armazenamento de calor.",
+   "s": "Armazenar energia",
+   "t": "Como armazenar energia renovável de forma barata por longos períodos?"
+  },
+  "zh": {
+   "block": "跨季节储能的成本仍然高得多。",
+   "known": "自2010年以来,电池价格已下降约90%。",
+   "leads": "铁空气电池,绿氢,储热。",
+   "s": "储能",
+   "t": "如何低成本、长时间地储存可再生能源?"
+  }
+ },
+ "links": [
+  "fusion",
+  "supraconducteur"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "New record lows for battery prices (BloombergNEF)",
+   "ty": "institution",
+   "u": "https://about.bnef.com/insights/clean-transport/new-record-lows-for-battery-prices/"
+  }
+ ]
+}

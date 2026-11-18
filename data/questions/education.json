@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "H",
+ "i18n": {
+  "ar": {
+   "block": "نقص المعلمين المدرَّبين والمواد، وتدريس يفوق مستوى الأطفال.",
+   "known": "في البلدان منخفضة ومتوسطة الدخل، نحو 70% من الأطفال بعمر عشر سنوات لا يستطيعون قراءة نص بسيط وفهمه.",
+   "leads": "التدريس بالمستوى المناسب، ومعلمون بالذكاء الاصطناعي يعملون على هواتف رخيصة.",
+   "s": "التعلم للجميع",
+   "t": "كيف يمكن لكل طفل على الأرض أن يتعلم جيدًا؟"
+  },
+  "en": {
+   "block": "Shortages of trained teachers and materials, and teaching pitched above children's level.",
+   "known": "In low- and middle-income countries, around 70% of ten-year-olds cannot read and understand a simple text.",
+   "leads": "Teaching at the right level, AI tutors that work on cheap phones.",
+   "s": "Learning for all",
+   "t": "How can every child on Earth learn well?"
+  },
+  "es": {
+   "block": "Escasez de docentes formados y de materiales, y una enseñanza por encima del nivel de los niños.",
+   "known": "En los países de ingresos bajos y medios, alrededor del 70 % de los niños de diez años no puede leer ni comprender un texto sencillo.",
+   "leads": "Enseñanza al nivel adecuado, tutores de IA que funcionan en teléfonos baratos.",
+   "s": "Aprender para todos",
+   "t": "¿Cómo puede aprender bien cada niño del planeta?"
+  },
+  "fr": {
+   "block": "Manque d'enseignants formés et de matériel, enseignement au-dessus du niveau des élèves.",
+   "known": "Dans les pays à revenu faible et intermédiaire, environ 70 % des enfants de dix ans ne savent pas lire et comprendre un texte simple.",
+   "leads": "Enseigner au bon niveau, tuteurs IA qui fonctionnent sur des téléphones bon marché.",
+   "s": "Apprendre pour tous",
+   "t": "Comment chaque enfant sur Terre peut-il bien apprendre ?"
+  },
+  "hi": {
+   "block": "प्रशिक्षित शिक्षकों और सामग्री की कमी, और बच्चों के स्तर से ऊपर की पढ़ाई।",
+   "known": "निम्न और मध्यम आय वाले देशों में लगभग 70% दस वर्षीय बच्चे एक सरल पाठ को पढ़ और समझ नहीं पाते।",
+   "leads": "सही स्तर पर शिक्षण, सस्ते फ़ोनों पर चलने वाले AI ट्यूटर।",
+   "s": "सबके लिए शिक्षा",
+   "t": "पृथ्वी के हर बच्चे को अच्छी तरह सीखने में कैसे सक्षम बनाया जा सकता है?"
+  },
+  "pt": {
+   "block": "Falta de professores formados e de materiais, e um ensino acima do nível das crianças.",
+   "known": "Em países de renda baixa e média, cerca de 70% das crianças de dez anos não conseguem ler e entender um texto simples.",
+   "leads": "Ensino no nível certo, tutores de IA que funcionam em celulares baratos.",
+   "s": "Aprender para todos",
+   "t": "Como fazer todas as crianças da Terra aprenderem bem?"
+  },
+  "zh": {
+   "block": "缺少受过训练的教师和教材,而且教学内容高于孩子的水平。",
+   "known": "在低收入和中等收入国家,约70%的十岁儿童无法读懂一段简单的文字。",
+   "leads": "因材施教的适切水平教学,能在廉价手机上运行的AI辅导。",
+   "s": "人人受教育",
+   "t": "如何让地球上每个孩子都学得好?"
+  }
+ },
+ "links": [
+  "efficacite-donnees",
+  "pauvrete-extreme"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "70% of 10-year-olds now in learning poverty (World Bank, 2022)",
+   "ty": "official",
+   "u": "https://www.worldbank.org/en/news/press-release/2022/06/23/70-of-10-year-olds-now-in-learning-poverty-unable-to-read-and-understand-a-simple-text"
+  }
+ ]
+}

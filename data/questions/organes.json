@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "V",
+ "i18n": {
+  "ar": {
+   "block": "يظل رفض هذه الأعضاء وبقاؤها على المدى الطويل عقبتين رئيسيتين.",
+   "known": "منذ عام 2022، زُرعت قلوب وكلى خنازير معدَّلة جينيًا في مرضى أحياء.",
+   "leads": "مزيد من الخنازير المعدَّلة جينيًا، والطباعة الحيوية ثلاثية الأبعاد، وأعضاء تُنمّى من خلايا المريض نفسه.",
+   "s": "أعضاء عند الطلب",
+   "t": "هل يمكننا إنتاج أعضاء للزرع عند الطلب؟"
+  },
+  "en": {
+   "block": "Rejection and long-term survival of these organs remain major hurdles.",
+   "known": "Since 2022, gene-edited pig hearts and kidneys have been transplanted into living patients.",
+   "leads": "Further gene-edited pigs, 3D bioprinting, organs grown from a patient's own cells.",
+   "s": "Organs on demand",
+   "t": "Can we produce organs for transplant on demand?"
+  },
+  "es": {
+   "block": "El rechazo y la supervivencia a largo plazo de estos órganos siguen siendo grandes obstáculos.",
+   "known": "Desde 2022 se han trasplantado corazones y riñones de cerdo editados genéticamente a pacientes vivos.",
+   "leads": "Más cerdos editados genéticamente, bioimpresión 3D, órganos cultivados a partir de las células del propio paciente.",
+   "s": "Órganos a demanda",
+   "t": "¿Podemos producir órganos para trasplante a demanda?"
+  },
+  "fr": {
+   "block": "Le rejet et la survie à long terme de ces organes restent de gros obstacles.",
+   "known": "Depuis 2022, des cœurs et des reins de porcs génétiquement modifiés ont été greffés à des patients vivants.",
+   "leads": "Porcs génétiquement modifiés de nouvelle génération, bio-impression 3D, organes cultivés à partir des cellules du patient.",
+   "s": "Organes à la demande",
+   "t": "Peut-on fabriquer des organes à greffer à la demande ?"
+  },
+  "hi": {
+   "block": "इन अंगों का अस्वीकरण और दीर्घकालिक उत्तरजीविता बड़ी बाधाएँ बनी हुई हैं।",
+   "known": "2022 से जीन-संपादित सूअर के हृदय और गुर्दे जीवित रोगियों में प्रत्यारोपित किए गए हैं।",
+   "leads": "और जीन-संपादित सूअर, 3D बायोप्रिंटिंग, रोगी की अपनी कोशिकाओं से उगाए गए अंग।",
+   "s": "मांग पर अंग",
+   "t": "क्या हम प्रत्यारोपण के लिए मांग पर अंग बना सकते हैं?"
+  },
+  "pt": {
+   "block": "A rejeição e a sobrevivência a longo prazo desses órgãos continuam sendo grandes obstáculos.",
+   "known": "Desde 2022, corações e rins de porcos editados geneticamente foram transplantados em pacientes vivos.",
+   "leads": "Mais porcos editados geneticamente, bioimpressão 3D, órgãos cultivados a partir das células do próprio paciente.",
+   "s": "Órgãos sob demanda",
+   "t": "Podemos produzir órgãos para transplante sob demanda?"
+  },
+  "zh": {
+   "block": "这些器官的排斥反应和长期存活,仍是主要障碍。",
+   "known": "自2022年起,经基因编辑的猪心脏和猪肾脏已被移植到活着的患者体内。",
+   "leads": "更多经基因编辑的猪,3D生物打印,用患者自身细胞培育的器官。",
+   "s": "按需造器官",
+   "t": "我们能按需制造移植用的器官吗?"
+  }
+ },
+ "links": [
+  "regeneration",
+  "autoimmunes"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "MGH performs second xenotransplant of gene-edited pig kidney into living recipient (Mass General Brigham, 2025)",
+   "ty": "institution",
+   "u": "https://news.massgeneralbrigham.org/en/mgh-performs-second-xenotransplant-of-genetically-edited-pig-kidney-into-living-recipient"
+  },
+  {
+   "t": "Gene-edited pig kidney transplanted into third person (STAT, 2024)",
+   "ty": "press",
+   "u": "https://www.statnews.com/2024/12/17/gene-edited-pig-kidney-transplanted-into-third-person-nyu-langone/"
+  }
+ ]
+}

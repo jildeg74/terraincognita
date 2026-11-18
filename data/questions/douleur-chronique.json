@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "E",
+ "i18n": {
+  "ar": {
+   "block": "لا يُفهم جيدًا كيف يعيد الجهاز العصبي تشكيل نفسه ليُبقي الألم مستمرًا.",
+   "known": "يصيب الألم المزمن نحو بالغ واحد من كل خمسة. وفي عام 2025 اعتُمد في الولايات المتحدة مسكّن جديد غير أفيوني للألم الحاد، ويجري اختباره على الألم المزمن.",
+   "leads": "مسكنات تستهدف قنوات صوديوم محددة، وتحفيز الأعصاب.",
+   "s": "الألم المزمن",
+   "t": "لماذا يتحول الألم إلى مزمن؟"
+  },
+  "en": {
+   "block": "How the nervous system rewires itself to keep pain going is poorly understood.",
+   "known": "Chronic pain affects roughly one adult in five. A new non-opioid painkiller was approved in the US in 2025 for acute pain and is being tested for chronic pain.",
+   "leads": "Painkillers targeting specific sodium channels, nerve stimulation.",
+   "s": "Chronic pain",
+   "t": "Why does pain become chronic?"
+  },
+  "es": {
+   "block": "Se entiende mal cómo se reconfigura el sistema nervioso para mantener el dolor.",
+   "known": "El dolor crónico afecta aproximadamente a uno de cada cinco adultos. En 2025 se aprobó en Estados Unidos un nuevo analgésico no opioide para el dolor agudo, que se está probando contra el dolor crónico.",
+   "leads": "Analgésicos dirigidos a canales de sodio específicos, estimulación nerviosa.",
+   "s": "Dolor crónico",
+   "t": "¿Por qué el dolor se vuelve crónico?"
+  },
+  "fr": {
+   "block": "On comprend mal comment le système nerveux se reprogramme pour entretenir la douleur.",
+   "known": "La douleur chronique touche environ un adulte sur cinq. Un nouvel antidouleur non opioïde a été approuvé aux États-Unis en 2025 contre la douleur aiguë, et il est testé contre la douleur chronique.",
+   "leads": "Antidouleurs ciblant des canaux sodiques précis, stimulation des nerfs.",
+   "s": "Douleur chronique",
+   "t": "Pourquoi la douleur devient-elle chronique ?"
+  },
+  "hi": {
+   "block": "तंत्रिका तंत्र दर्द को बनाए रखने के लिए खुद को कैसे दोबारा जोड़ता है, यह कम समझा गया है।",
+   "known": "दीर्घकालिक दर्द लगभग हर पाँच में से एक वयस्क को प्रभावित करता है। 2025 में अमेरिका में एक नई गैर-ओपिओइड दर्द-निवारक दवा तीव्र दर्द के लिए स्वीकृत हुई, और दीर्घकालिक दर्द पर उसका परीक्षण हो रहा है।",
+   "leads": "विशिष्ट सोडियम चैनलों को लक्षित करने वाली दर्द निवारक दवाएँ, तंत्रिका उत्तेजना।",
+   "s": "दीर्घकालिक दर्द",
+   "t": "दर्द दीर्घकालिक क्यों हो जाता है?"
+  },
+  "pt": {
+   "block": "Como o sistema nervoso se reconfigura para manter a dor é pouco compreendido.",
+   "known": "A dor crônica afeta cerca de um em cada cinco adultos. Em 2025, um novo analgésico não opioide foi aprovado nos EUA para dor aguda e está sendo testado contra a dor crônica.",
+   "leads": "Analgésicos que atuam em canais de sódio específicos, estimulação nervosa.",
+   "s": "Dor crônica",
+   "t": "Por que a dor se torna crônica?"
+  },
+  "zh": {
+   "block": "神经系统如何重塑自身以使疼痛持续,目前还了解不多。",
+   "known": "慢性疼痛大约影响五分之一的成年人。2025年,一种新的非阿片类止痛药在美国获批用于急性疼痛,目前正在测试其对慢性疼痛的效果。",
+   "leads": "针对特定钠通道的止痛药,神经刺激。",
+   "s": "慢性疼痛",
+   "t": "疼痛为什么会变成慢性?"
+  }
+ },
+ "links": [
+  "depression",
+  "addiction"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "FDA approves novel non-opioid treatment for moderate to severe acute pain (U.S. FDA, 2025)",
+   "ty": "official",
+   "u": "https://www.fda.gov/news-events/press-announcements/fda-approves-novel-non-opioid-treatment-moderate-severe-acute-pain"
+  }
+ ]
+}

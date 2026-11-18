@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "T",
+ "i18n": {
+  "ar": {
+   "block": "يبدو أن فوضى الغلاف الجوي تحدّ من التنبؤات بنحو أسبوعين.",
+   "known": "باتت نماذج الذكاء الاصطناعي تضاهي أفضل التنبؤات التقليدية أو تتفوق عليها حتى نحو 15 يومًا مقدمًا.",
+   "leads": "تنبؤات جماعية بالذكاء الاصطناعي، وتوقعات شهرية وموسمية.",
+   "s": "التنبؤ بالطقس",
+   "t": "إلى أي مدى يمكن التنبؤ بالطقس مسبقًا؟"
+  },
+  "en": {
+   "block": "The chaos of the atmosphere seems to limit forecasts to around two weeks.",
+   "known": "AI models now match or beat the best traditional forecasts up to about 15 days ahead.",
+   "leads": "AI ensemble forecasts, monthly and seasonal predictions.",
+   "s": "Weather forecasting",
+   "t": "How far ahead can weather be predicted?"
+  },
+  "es": {
+   "block": "El caos de la atmósfera parece limitar los pronósticos a unas dos semanas.",
+   "known": "Los modelos de IA ya igualan o superan a los mejores pronósticos tradicionales hasta unos 15 días.",
+   "leads": "Pronósticos por conjuntos con IA, predicciones mensuales y estacionales.",
+   "s": "Predicción del tiempo",
+   "t": "¿Con cuánta antelación se puede predecir el tiempo?"
+  },
+  "fr": {
+   "block": "Le chaos de l'atmosphère semble limiter les prévisions à environ deux semaines.",
+   "known": "Les modèles d'IA égalent ou battent désormais les meilleures prévisions classiques jusqu'à environ 15 jours.",
+   "leads": "Prévisions d'ensemble par IA, prévisions mensuelles et saisonnières.",
+   "s": "Prévisions météo",
+   "t": "Jusqu'où peut-on prévoir la météo ?"
+  },
+  "hi": {
+   "block": "वायुमंडल की अराजकता पूर्वानुमानों को लगभग दो सप्ताह तक सीमित करती लगती है।",
+   "known": "AI मॉडल अब लगभग 15 दिन आगे तक सबसे अच्छे पारंपरिक पूर्वानुमानों के बराबर या उनसे बेहतर हैं।",
+   "leads": "AI एनसेंबल पूर्वानुमान, मासिक और मौसमी पूर्वानुमान।",
+   "s": "मौसम पूर्वानुमान",
+   "t": "मौसम का पूर्वानुमान कितने समय पहले तक लगाया जा सकता है?"
+  },
+  "pt": {
+   "block": "O caos da atmosfera parece limitar as previsões a cerca de duas semanas.",
+   "known": "Modelos de IA já igualam ou superam as melhores previsões tradicionais até cerca de 15 dias à frente.",
+   "leads": "Previsões em conjunto com IA, previsões mensais e sazonais.",
+   "s": "Previsão do tempo",
+   "t": "Com quanta antecedência o tempo pode ser previsto?"
+  },
+  "zh": {
+   "block": "大气的混沌似乎把预报限制在大约两周。",
+   "known": "AI模型如今在未来约15天的预报上已能媲美甚至超越最好的传统预报。",
+   "leads": "AI集合预报,月度和季节预测。",
+   "s": "天气预报",
+   "t": "天气能预报到多远?"
+  }
+ },
+ "links": [
+  "navier-stokes",
+  "climat-sensibilite"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "Price et al., Probabilistic weather forecasting with machine learning (Nature, 2024)",
+   "ty": "study",
+   "u": "https://pubmed.ncbi.nlm.nih.gov/39633054/"
+  },
+  {
+   "t": "GenCast predicts weather and the risks of extreme conditions (Google DeepMind, Nature 2024)",
+   "ty": "company",
+   "u": "https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/"
+  }
+ ]
+}

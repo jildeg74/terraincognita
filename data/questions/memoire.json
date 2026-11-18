@@ -1,0 +1,69 @@
+{
+ "checked": "2026-11-18",
+ "d": "E",
+ "i18n": {
+  "ar": {
+   "block": "لا نستطيع قراءة ذاكرة من دماغ، ولا تفسير كيف تبقى مستقرة عقودًا.",
+   "known": "حُدّدت لدى الفئران مجموعات من الخلايا العصبية تحمل ذاكرة بعينها.",
+   "leads": "رسم خرائط الوصلات العصبية، وتصوير المشابك العصبية فرادى.",
+   "s": "الذاكرة",
+   "t": "كيف تُخزَّن الذكريات؟"
+  },
+  "en": {
+   "block": "We can't read a memory from a brain, or explain how it stays stable for decades.",
+   "known": "In mice, groups of neurons carrying a specific memory have been identified.",
+   "leads": "Mapping neural connections, imaging individual synapses.",
+   "s": "Memory",
+   "t": "How are memories stored?"
+  },
+  "es": {
+   "block": "No podemos leer un recuerdo en un cerebro, ni explicar cómo se mantiene estable durante décadas.",
+   "known": "En ratones se han identificado grupos de neuronas que portan un recuerdo concreto.",
+   "leads": "Mapeo de conexiones neuronales, imagen de sinapsis individuales.",
+   "s": "Memoria",
+   "t": "¿Cómo se almacenan los recuerdos?"
+  },
+  "fr": {
+   "block": "On ne sait pas lire un souvenir dans un cerveau, ni comment il reste stable des décennies.",
+   "known": "On a identifié chez la souris des groupes de neurones qui portent un souvenir précis.",
+   "leads": "Cartographie des connexions neuronales, imagerie de synapses individuelles.",
+   "s": "Mémoire",
+   "t": "Comment les souvenirs sont-ils stockés ?"
+  },
+  "hi": {
+   "block": "हम मस्तिष्क से कोई स्मृति पढ़ नहीं सकते, और यह नहीं समझा सकते कि वह दशकों तक स्थिर कैसे रहती है।",
+   "known": "चूहों में किसी विशिष्ट स्मृति को धारण करने वाले न्यूरॉन समूहों की पहचान हो चुकी है।",
+   "leads": "तंत्रिका संबंधों का नक्शा बनाना, अलग-अलग सिनैप्स की इमेजिंग।",
+   "s": "स्मृति",
+   "t": "स्मृतियाँ कैसे संग्रहित होती हैं?"
+  },
+  "pt": {
+   "block": "Não conseguimos ler uma memória em um cérebro, nem explicar como ela se mantém estável por décadas.",
+   "known": "Em camundongos, foram identificados grupos de neurônios que carregam uma memória específica.",
+   "leads": "Mapeamento das conexões neurais, imagem de sinapses individuais.",
+   "s": "Memória",
+   "t": "Como as memórias são armazenadas?"
+  },
+  "zh": {
+   "block": "我们无法从大脑中读出一段记忆,也无法解释它为何能稳定保持数十年。",
+   "known": "在小鼠中,已经找到了承载特定记忆的神经元群。",
+   "leads": "绘制神经连接图谱,对单个突触成像。",
+   "s": "记忆",
+   "t": "记忆是如何存储的?"
+  }
+ },
+ "links": [
+  "connectome",
+  "sommeil",
+  "conscience",
+  "interpretabilite"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Tonegawa, Morrissey, Kitamura, The role of engram cells in the systems consolidation of memory (Nature Reviews Neuroscience, 2018)",
+   "ty": "study",
+   "u": "https://dspace.mit.edu/bitstream/1721.1/126264/2/Tonegawa%20NRN%202018%20-%20Main%20Text%20Final.pdf"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "checked": "2026-11-18",
+ "d": "V",
+ "i18n": {
+  "ar": {
+   "block": "لا نعرف ما الذي يوقف التجدد لدى الثدييات.",
+   "known": "تعيد السمندلات نمو أطراف كاملة؛ ويستطيع الكبد البشري إعادة نمو جزء منه.",
+   "leads": "العُضيّات، والإشارات الكهروحيوية التي توجّه شكل الأنسجة، ودراسات تنظيم الجينات في الحيوانات المتجددة.",
+   "s": "التجدد",
+   "t": "هل يستطيع البشر إعادة نمو الأطراف والأعضاء المفقودة؟"
+  },
+  "en": {
+   "block": "We don't know what switches regeneration off in mammals.",
+   "known": "Salamanders regrow whole limbs; the human liver can partly regrow itself.",
+   "leads": "Organoids, bioelectric signals that guide tissue shape, gene regulation studies in regenerating animals.",
+   "s": "Regeneration",
+   "t": "Can humans regrow lost limbs and organs?"
+  },
+  "es": {
+   "block": "No sabemos qué apaga la regeneración en los mamíferos.",
+   "known": "Las salamandras regeneran extremidades enteras; el hígado humano puede regenerarse en parte.",
+   "leads": "Organoides, señales bioeléctricas que guían la forma de los tejidos, estudios de regulación génica en animales que se regeneran.",
+   "s": "Regeneración",
+   "t": "¿Pueden los humanos regenerar miembros y órganos perdidos?"
+  },
+  "fr": {
+   "block": "On ignore ce qui éteint la régénération chez les mammifères.",
+   "known": "La salamandre fait repousser un membre entier ; le foie humain se régénère en partie.",
+   "leads": "Organoïdes, signaux bioélectriques qui guident la forme des tissus, étude des gènes des animaux qui se régénèrent.",
+   "s": "Régénération",
+   "t": "L'humain peut-il faire repousser des membres ou des organes ?"
+  },
+  "hi": {
+   "block": "हम नहीं जानते कि स्तनधारियों में पुनर्जनन को क्या बंद कर देता है।",
+   "known": "सैलामैंडर पूरे अंग फिर से उगा लेते हैं; मानव यकृत आंशिक रूप से खुद को दोबारा उगा सकता है।",
+   "leads": "ऑर्गेनॉइड, ऊतक के आकार को निर्देशित करने वाले जैवविद्युत संकेत, पुनर्जनन करने वाले जानवरों में जीन नियमन के अध्ययन।",
+   "s": "पुनर्जनन",
+   "t": "क्या मनुष्य खोए हुए अंग फिर से उगा सकते हैं?"
+  },
+  "pt": {
+   "block": "Não sabemos o que desliga a regeneração nos mamíferos.",
+   "known": "As salamandras regeneram membros inteiros; o fígado humano consegue se regenerar em parte.",
+   "leads": "Organoides, sinais bioelétricos que orientam a forma dos tecidos, estudos de regulação gênica em animais que se regeneram.",
+   "s": "Regeneração",
+   "t": "Os humanos podem regenerar membros e órgãos perdidos?"
+  },
+  "zh": {
+   "block": "我们不知道是什么在哺乳动物身上关闭了再生。",
+   "known": "蝾螈能再生整条肢体;人类的肝脏可以部分自行再生。",
+   "leads": "类器官,引导组织形态的生物电信号,对再生动物的基因调控研究。",
+   "s": "再生",
+   "t": "人类能再生失去的肢体和器官吗?"
+  }
+ },
+ "links": [
+  "vieillissement",
+  "organes"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Molecular basis of positional memory in limb regeneration (Nature, 2025)",
+   "ty": "study",
+   "u": "https://pubmed.ncbi.nlm.nih.gov/40399677/"
+  },
+  {
+   "t": "New insight into regeneration in mammals (ScienceDaily)",
+   "ty": "press",
+   "u": "https://www.sciencedaily.com/releases/2021/06/210602153417.htm"
+  }
+ ]
+}

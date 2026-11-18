@@ -1,0 +1,73 @@
+{
+ "checked": "2026-11-18",
+ "d": "V",
+ "i18n": {
+  "ar": {
+   "block": "لا يوجد مسار كيميائي كامل يفسّر الانتقال من جزيئات بسيطة إلى أول خلية.",
+   "known": "توجد الحياة على الأرض منذ 3.5 مليار سنة على الأقل.",
+   "leads": "عالم الحمض الريبي النووي، والفتحات الحرمائية، والكيمياء ما قبل الحيوية، والتطور الموجَّه في المختبر.",
+   "s": "أصل الحياة",
+   "t": "كيف بدأت الحياة؟"
+  },
+  "en": {
+   "block": "No complete chemical pathway explains the step from simple molecules to a first cell.",
+   "known": "Life has existed on Earth for at least 3.5 billion years.",
+   "leads": "The RNA world, hydrothermal vents, prebiotic chemistry and directed evolution in the lab.",
+   "s": "Origin of life",
+   "t": "How did life begin?"
+  },
+  "es": {
+   "block": "Ninguna vía química completa explica el paso de moléculas simples a una primera célula.",
+   "known": "Hay vida en la Tierra desde hace al menos 3500 millones de años.",
+   "leads": "El mundo de ARN, las fuentes hidrotermales, la química prebiótica y la evolución dirigida en el laboratorio.",
+   "s": "Origen de la vida",
+   "t": "¿Cómo empezó la vida?"
+  },
+  "fr": {
+   "block": "Aucune voie chimique complète n'explique le passage de molécules simples à une première cellule.",
+   "known": "La vie existe sur Terre depuis au moins 3,5 milliards d'années.",
+   "leads": "Le monde à ARN, les sources hydrothermales, la chimie prébiotique et l'évolution dirigée en laboratoire.",
+   "s": "Origine de la vie",
+   "t": "Comment la vie est-elle apparue ?"
+  },
+  "hi": {
+   "block": "सरल अणुओं से पहली कोशिका तक के कदम को कोई पूर्ण रासायनिक मार्ग नहीं समझाता।",
+   "known": "पृथ्वी पर जीवन कम से कम 3.5 अरब वर्षों से मौजूद है।",
+   "leads": "RNA विश्व, जलतापीय छिद्र, प्रयोगशाला में प्रीबायोटिक रसायन और निर्देशित विकास।",
+   "s": "जीवन की उत्पत्ति",
+   "t": "जीवन की शुरुआत कैसे हुई?"
+  },
+  "pt": {
+   "block": "Nenhum caminho químico completo explica a passagem de moléculas simples para uma primeira célula.",
+   "known": "A vida existe na Terra há pelo menos 3,5 bilhões de anos.",
+   "leads": "O mundo de RNA, fontes hidrotermais, química pré-biótica e evolução dirigida em laboratório.",
+   "s": "Origem da vida",
+   "t": "Como a vida começou?"
+  },
+  "zh": {
+   "block": "目前没有完整的化学路径,能解释从简单分子到第一个细胞的这一步。",
+   "known": "地球上的生命至少已存在35亿年。",
+   "leads": "RNA世界,热液喷口,前生物化学以及实验室中的定向演化。",
+   "s": "生命起源",
+   "t": "生命是如何开始的?"
+  }
+ },
+ "links": [
+  "vie-ailleurs",
+  "proteines",
+  "cellule-virtuelle"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Harrison et al., Life as a guide to its own origins (Annual Review of Ecology, Evolution, and Systematics, 2023)",
+   "ty": "study",
+   "u": "https://discovery.ucl.ac.uk/10177411/1/Harrison%20et%20al%20Annu%20Rev%20Ecol%20Evol%20System%202023.pdf"
+  },
+  {
+   "t": "The ocean vents where life on Earth likely began (JSTOR Daily)",
+   "ty": "press",
+   "u": "https://daily.jstor.org/the-ocean-vents-where-life-on-earth-likely-began"
+  }
+ ]
+}

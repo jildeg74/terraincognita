@@ -1,0 +1,68 @@
+{
+ "checked": "2026-11-18",
+ "d": "I",
+ "i18n": {
+  "ar": {
+   "block": "من الصعب جدًا التنبؤ بوتيرة التغيير وبكيفية توزيع المكاسب.",
+   "known": "تُظهر الدراسات الأولية مكاسب كبيرة في الإنتاجية في بعض المهام.",
+   "leads": "قياس كيفية استخدام الذكاء الاصطناعي فعليًا في العمل، وسياسات للتعامل مع مراحل الانتقال.",
+   "s": "الذكاء الاصطناعي والعمل",
+   "t": "كيف سيغيّر الذكاء الاصطناعي العمل والاقتصاد؟"
+  },
+  "en": {
+   "block": "The pace of change and how gains will be shared are very hard to predict.",
+   "known": "Early studies show large productivity gains on some tasks.",
+   "leads": "Measuring how AI is actually used at work, policies for transitions.",
+   "s": "AI and work",
+   "t": "How will AI change work and the economy?"
+  },
+  "es": {
+   "block": "El ritmo del cambio y cómo se repartirán los beneficios son muy difíciles de predecir.",
+   "known": "Los primeros estudios muestran grandes aumentos de productividad en algunas tareas.",
+   "leads": "Medir cómo se usa realmente la IA en el trabajo, políticas para las transiciones.",
+   "s": "IA y trabajo",
+   "t": "¿Cómo cambiará la IA el trabajo y la economía?"
+  },
+  "fr": {
+   "block": "Le rythme du changement et le partage des gains sont très difficiles à prévoir.",
+   "known": "Les premières études montrent de forts gains de productivité sur certaines tâches.",
+   "leads": "Mesurer l'usage réel de l'IA au travail, politiques d'accompagnement des transitions.",
+   "s": "IA et travail",
+   "t": "Comment l'IA va-t-elle changer le travail et l'économie ?"
+  },
+  "hi": {
+   "block": "बदलाव की गति और लाभों के बँटवारे का अनुमान लगाना बहुत कठिन है।",
+   "known": "शुरुआती अध्ययन कुछ कार्यों में उत्पादकता में बड़ी वृद्धि दिखाते हैं।",
+   "leads": "यह मापना कि कार्यस्थल पर AI वास्तव में कैसे इस्तेमाल होता है, बदलाव के दौर के लिए नीतियाँ।",
+   "s": "AI और काम",
+   "t": "AI काम और अर्थव्यवस्था को कैसे बदलेगा?"
+  },
+  "pt": {
+   "block": "O ritmo da mudança e a forma como os ganhos serão repartidos são muito difíceis de prever.",
+   "known": "Os primeiros estudos mostram grandes ganhos de produtividade em algumas tarefas.",
+   "leads": "Medir como a IA é realmente usada no trabalho, políticas para as transições.",
+   "s": "IA e trabalho",
+   "t": "Como a IA vai mudar o trabalho e a economia?"
+  },
+  "zh": {
+   "block": "变化的速度以及收益如何分配,都很难预测。",
+   "known": "早期研究显示,在某些任务上生产率大幅提升。",
+   "leads": "衡量AI在工作中的实际使用情况,过渡期的相关政策。",
+   "s": "AI与工作",
+   "t": "人工智能将如何改变工作和经济?"
+  }
+ },
+ "links": [
+  "richesse-nations",
+  "ia-generale",
+  "productivite"
+ ],
+ "n": 0,
+ "src": [
+  {
+   "t": "Brynjolfsson, Li, Raymond, Generative AI at Work (NBER)",
+   "ty": "institution",
+   "u": "https://nber.org/papers/w31161"
+  }
+ ]
+}

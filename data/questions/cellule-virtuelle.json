@@ -1,0 +1,68 @@
+{
+ "checked": "2026-11-18",
+ "d": "V",
+ "i18n": {
+  "ar": {
+   "block": "تحتوي الخلية البشرية مليارات الجزيئات المتفاعلة، والبيانات ناقصة.",
+   "known": "في عام 2026 حاكى فريق دورة الحياة الكاملة لخلية بكتيرية دنيا، من نموها حتى انقسامها.",
+   "leads": "نماذج أساسية مدرَّبة على أطالس لملايين الخلايا.",
+   "s": "الخلية الافتراضية",
+   "t": "هل يمكننا محاكاة خلية حية كاملة؟"
+  },
+  "en": {
+   "block": "A human cell holds billions of interacting molecules, and the data are incomplete.",
+   "known": "In 2026, a team simulated the complete life cycle of a minimal bacterial cell, from growth to division.",
+   "leads": "Foundation models trained on atlases of millions of cells.",
+   "s": "Virtual cell",
+   "t": "Can we simulate an entire living cell?"
+  },
+  "es": {
+   "block": "Una célula humana contiene miles de millones de moléculas que interactúan, y los datos están incompletos.",
+   "known": "En 2026, un equipo simuló el ciclo de vida completo de una célula bacteriana mínima, desde su crecimiento hasta su división.",
+   "leads": "Modelos fundacionales entrenados con atlas de millones de células.",
+   "s": "Célula virtual",
+   "t": "¿Podemos simular una célula viva entera?"
+  },
+  "fr": {
+   "block": "Une cellule humaine compte des milliards de molécules en interaction, et les données sont incomplètes.",
+   "known": "En 2026, une équipe a simulé le cycle de vie complet d'une cellule bactérienne minimale, de sa croissance à sa division.",
+   "leads": "Modèles de fondation entraînés sur des atlas de millions de cellules.",
+   "s": "Cellule virtuelle",
+   "t": "Peut-on simuler une cellule vivante entière ?"
+  },
+  "hi": {
+   "block": "एक मानव कोशिका में अरबों परस्पर क्रिया करने वाले अणु होते हैं, और आँकड़े अधूरे हैं।",
+   "known": "2026 में एक टीम ने एक न्यूनतम जीवाणु कोशिका के पूरे जीवन-चक्र का, उसकी वृद्धि से विभाजन तक, सिमुलेशन किया।",
+   "leads": "लाखों कोशिकाओं के एटलस पर प्रशिक्षित फ़ाउंडेशन मॉडल।",
+   "s": "आभासी कोशिका",
+   "t": "क्या हम एक पूरी जीवित कोशिका का अनुकरण कर सकते हैं?"
+  },
+  "pt": {
+   "block": "Uma célula humana contém bilhões de moléculas que interagem, e os dados são incompletos.",
+   "known": "Em 2026, uma equipe simulou o ciclo de vida completo de uma célula bacteriana mínima, do crescimento à divisão.",
+   "leads": "Modelos de base treinados com atlas de milhões de células.",
+   "s": "Célula virtual",
+   "t": "Podemos simular uma célula viva inteira?"
+  },
+  "zh": {
+   "block": "人类细胞含有数十亿个相互作用的分子,而且数据并不完整。",
+   "known": "2026年,一个团队模拟了一个最小细菌细胞从生长到分裂的完整生命周期。",
+   "leads": "用数百万个细胞图谱训练的基础模型。",
+   "s": "虚拟细胞",
+   "t": "我们能模拟一个完整的活细胞吗?"
+  }
+ },
+ "links": [
+  "proteines",
+  "vieillissement",
+  "origine-vie"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Team simulates a living cell that grows and divides (University of Illinois, 2026)",
+   "ty": "institution",
+   "u": "https://chemistry.illinois.edu/news/2026-03-09/team-simulates-living-cell-grows-and-divides"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "checked": "2026-11-18",
+ "d": "V",
+ "i18n": {
+  "ar": {
+   "block": "تقاوم الطفيليات الأدوية وتقاوم البعوض المبيدات الحشرية.",
+   "known": "توصي منظمة الصحة العالمية الآن بلقاحين ضد الملاريا، ومع ذلك لا يزال المرض يقتل مئات الآلاف سنويًا، معظمهم من صغار الأطفال في أفريقيا.",
+   "leads": "محركات جينية لكبح أعداد البعوض، وأجسام مضادة وحيدة النسيلة طويلة المفعول.",
+   "s": "استئصال الملاريا",
+   "t": "هل يمكن استئصال الملاريا؟"
+  },
+  "en": {
+   "block": "Parasites resist drugs and mosquitoes resist insecticides.",
+   "known": "The WHO now recommends two malaria vaccines, yet the disease still kills hundreds of thousands a year, mostly young children in Africa.",
+   "leads": "Gene drives to suppress mosquito populations, long-acting monoclonal antibodies.",
+   "s": "Malaria eradication",
+   "t": "Can malaria be eradicated?"
+  },
+  "es": {
+   "block": "Los parásitos resisten a los fármacos y los mosquitos resisten a los insecticidas.",
+   "known": "La OMS recomienda ahora dos vacunas contra la malaria, pero la enfermedad sigue matando a cientos de miles de personas al año, sobre todo niños pequeños en África.",
+   "leads": "Impulsores genéticos para reducir las poblaciones de mosquitos, anticuerpos monoclonales de acción prolongada.",
+   "s": "Erradicar la malaria",
+   "t": "¿Se puede erradicar la malaria?"
+  },
+  "fr": {
+   "block": "Les parasites résistent aux médicaments et les moustiques aux insecticides.",
+   "known": "L'OMS recommande désormais deux vaccins, mais la maladie tue encore des centaines de milliers de personnes par an, surtout des enfants en Afrique.",
+   "leads": "Forçage génétique pour réduire les populations de moustiques, anticorps monoclonaux à longue durée d'action.",
+   "s": "Éradiquer le paludisme",
+   "t": "Peut-on éradiquer le paludisme ?"
+  },
+  "hi": {
+   "block": "परजीवी दवाओं का और मच्छर कीटनाशकों का प्रतिरोध करते हैं।",
+   "known": "WHO अब दो मलेरिया टीकों की सिफ़ारिश करता है, फिर भी यह बीमारी हर साल सैकड़ों हज़ार लोगों की जान लेती है, जिनमें अधिकतर अफ्रीका के छोटे बच्चे हैं।",
+   "leads": "मच्छरों की आबादी घटाने के लिए जीन ड्राइव, लंबे समय तक असर करने वाली मोनोक्लोनल एंटीबॉडी।",
+   "s": "मलेरिया उन्मूलन",
+   "t": "क्या मलेरिया का उन्मूलन किया जा सकता है?"
+  },
+  "pt": {
+   "block": "Os parasitas resistem aos medicamentos e os mosquitos resistem aos inseticidas.",
+   "known": "A OMS agora recomenda duas vacinas contra a malária, mas a doença ainda mata centenas de milhares de pessoas por ano, sobretudo crianças pequenas na África.",
+   "leads": "Impulsão gênica (gene drive) para reduzir as populações de mosquitos, anticorpos monoclonais de ação prolongada.",
+   "s": "Erradicar a malária",
+   "t": "A malária pode ser erradicada?"
+  },
+  "zh": {
+   "block": "寄生虫对药物产生抗药性,蚊子对杀虫剂产生抗药性。",
+   "known": "世界卫生组织现已推荐两种疟疾疫苗,但这种病每年仍夺去数十万人的生命,多数是非洲的幼儿。",
+   "leads": "用于压制蚊群数量的基因驱动,长效单克隆抗体。",
+   "s": "根除疟疾",
+   "t": "疟疾能被根除吗?"
+  }
+ },
+ "links": [
+  "antibioresistance",
+  "pandemies"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "Malaria fact sheet (World Health Organization)",
+   "ty": "official",
+   "u": "https://who.int/news-room/fact-sheets/detail/malaria"
+  }
+ ]
+}

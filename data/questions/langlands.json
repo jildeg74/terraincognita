@@ -1,0 +1,73 @@
+{
+ "checked": "2026-11-18",
+ "d": "M",
+ "i18n": {
+  "ar": {
+   "block": "لا تزال النسخة الحسابية، الأقرب إلى الأعداد الأولية، مفتوحة إلى حد كبير.",
+   "known": "هو شبكة واسعة من التخمينات تربط نظرية الأعداد والهندسة والتناظر. وقد أُثبتت النسخة الهندسية عام 2024.",
+   "leads": "توسيع طرائق البرهان الهندسي.",
+   "s": "برنامج لانغلاندز",
+   "t": "هل برنامج لانغلاندز صحيح؟"
+  },
+  "en": {
+   "block": "The arithmetic version, closest to prime numbers, remains largely open.",
+   "known": "It is a vast web of conjectures linking number theory, geometry and symmetry. The geometric version was proven in 2024.",
+   "leads": "Extending the methods of the geometric proof.",
+   "s": "Langlands program",
+   "t": "Is the Langlands program true?"
+  },
+  "es": {
+   "block": "La versión aritmética, la más cercana a los números primos, sigue en gran parte abierta.",
+   "known": "Es una vasta red de conjeturas que une la teoría de números, la geometría y la simetría. La versión geométrica se demostró en 2024.",
+   "leads": "Ampliar los métodos de la demostración geométrica.",
+   "s": "Programa de Langlands",
+   "t": "¿Es cierto el programa de Langlands?"
+  },
+  "fr": {
+   "block": "La version arithmétique, la plus proche des nombres premiers, reste largement ouverte.",
+   "known": "C'est un vaste réseau de conjectures reliant théorie des nombres, géométrie et symétrie. Sa version géométrique a été démontrée en 2024.",
+   "leads": "Étendre les méthodes de la preuve géométrique.",
+   "s": "Programme de Langlands",
+   "t": "Le programme de Langlands est-il vrai ?"
+  },
+  "hi": {
+   "block": "अभाज्य संख्याओं के सबसे निकट का अंकगणितीय रूप अब भी काफी हद तक अनसुलझा है।",
+   "known": "यह संख्या सिद्धांत, ज्यामिति और सममिति को जोड़ने वाली अनुमानों का विशाल जाल है। इसका ज्यामितीय रूप 2024 में सिद्ध हुआ।",
+   "leads": "ज्यामितीय प्रमाण की विधियों का विस्तार।",
+   "s": "लैंगलैंड्स कार्यक्रम",
+   "t": "क्या लैंगलैंड्स कार्यक्रम सत्य है?"
+  },
+  "pt": {
+   "block": "A versão aritmética, a mais próxima dos números primos, continua em grande parte em aberto.",
+   "known": "É uma vasta rede de conjecturas que liga teoria dos números, geometria e simetria. A versão geométrica foi demonstrada em 2024.",
+   "leads": "Estender os métodos da demonstração geométrica.",
+   "s": "Programa de Langlands",
+   "t": "O programa de Langlands é verdadeiro?"
+  },
+  "zh": {
+   "block": "与素数最接近的算术版本在很大程度上仍未解决。",
+   "known": "这是一张庞大的猜想网络,把数论、几何和对称性联系在一起。几何版本已于2024年被证明。",
+   "leads": "把几何版本证明中的方法推广出去。",
+   "s": "朗兰兹纲领",
+   "t": "朗兰兹纲领成立吗?"
+  }
+ },
+ "links": [
+  "riemann",
+  "maths-ia",
+  "birch-swinnerton-dyer"
+ ],
+ "n": 1,
+ "src": [
+  {
+   "t": "Gaitsgory and Raskin, Proof of the geometric Langlands conjecture I: construction of the functor (arXiv, 2024; first of a series of papers)",
+   "ty": "preprint",
+   "u": "https://arxiv.org/abs/2405.03599"
+  },
+  {
+   "t": "Monumental proof settles geometric Langlands conjecture (Quanta, 2024)",
+   "ty": "press",
+   "u": "https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/"
+  }
+ ]
+}

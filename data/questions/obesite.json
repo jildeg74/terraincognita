@@ -1,0 +1,68 @@
+{
+ "checked": "2026-11-18",
+ "d": "V",
+ "i18n": {
+  "ar": {
+   "block": "لا يُفهم جيدًا تأثيرها الكامل في الدماغ ولا آثارها طويلة الأمد جدًا.",
+   "known": "تحقق أدوية GLP-1 مثل سيماغلوتايد فقدانًا كبيرًا ودائمًا للوزن.",
+   "leads": "أدوية تجمع عدة هرمونات معوية، ودراسات عن آثارها في الإدمان وأمراض القلب.",
+   "s": "تنظيم الوزن",
+   "t": "كيف ينظّم الجسم الوزن، ولماذا تنجح أدوية GLP-1 إلى هذا الحد؟"
+  },
+  "en": {
+   "block": "Their full action in the brain and their very long-term effects are not well understood.",
+   "known": "GLP-1 drugs such as semaglutide produce large, lasting weight loss.",
+   "leads": "Drugs combining several gut hormones, studies of their effects on addiction and heart disease.",
+   "s": "Weight regulation",
+   "t": "How does the body regulate weight, and why do GLP-1 drugs work so well?"
+  },
+  "es": {
+   "block": "Su acción completa en el cerebro y sus efectos a muy largo plazo no se entienden bien.",
+   "known": "Los fármacos GLP-1, como la semaglutida, producen una pérdida de peso grande y duradera.",
+   "leads": "Fármacos que combinan varias hormonas intestinales, estudios de sus efectos sobre la adicción y las enfermedades del corazón.",
+   "s": "Regulación del peso",
+   "t": "¿Cómo regula el cuerpo el peso, y por qué funcionan tan bien los fármacos GLP-1?"
+  },
+  "fr": {
+   "block": "Leur action complète sur le cerveau et leurs effets à très long terme sont mal connus.",
+   "known": "Les médicaments GLP-1, comme le sémaglutide, entraînent une perte de poids importante et durable.",
+   "leads": "Médicaments combinant plusieurs hormones intestinales, études de leurs effets sur la dépendance et le cœur.",
+   "s": "Régulation du poids",
+   "t": "Comment le corps régule-t-il le poids, et pourquoi les médicaments GLP-1 marchent-ils si bien ?"
+  },
+  "hi": {
+   "block": "मस्तिष्क में उनकी पूरी क्रिया और उनके बहुत लंबे समय के प्रभाव अच्छी तरह समझे नहीं गए हैं।",
+   "known": "सेमाग्लूटाइड जैसी GLP-1 दवाएँ बड़ा और स्थायी वज़न घटाती हैं।",
+   "leads": "कई आँत हार्मोनों को मिलाने वाली दवाएँ, लत और हृदय रोग पर उनके प्रभावों के अध्ययन।",
+   "s": "वज़न नियमन",
+   "t": "शरीर वज़न को कैसे नियंत्रित करता है, और GLP-1 दवाएँ इतनी अच्छी तरह क्यों काम करती हैं?"
+  },
+  "pt": {
+   "block": "Sua ação completa no cérebro e seus efeitos de muito longo prazo não são bem compreendidos.",
+   "known": "Medicamentos GLP-1, como a semaglutida, produzem perda de peso grande e duradoura.",
+   "leads": "Medicamentos que combinam vários hormônios intestinais, estudos sobre seus efeitos na dependência e nas doenças cardíacas.",
+   "s": "Regulação do peso",
+   "t": "Como o corpo regula o peso, e por que os medicamentos GLP-1 funcionam tão bem?"
+  },
+  "zh": {
+   "block": "它们在大脑中的全部作用及其非常长期的影响,还没有被很好地理解。",
+   "known": "司美格鲁肽等GLP-1药物能带来显著而持久的减重。",
+   "leads": "结合多种肠道激素的药物,研究它们对成瘾和心脏病的影响。",
+   "s": "体重调节",
+   "t": "身体如何调节体重,GLP-1药物为什么这么有效?"
+  }
+ },
+ "links": [
+  "microbiome",
+  "vieillissement",
+  "addiction"
+ ],
+ "n": 2,
+ "src": [
+  {
+   "t": "Once-weekly semaglutide in adults with overweight or obesity (NEJM, 2021)",
+   "ty": "study",
+   "u": "https://pubmed.ncbi.nlm.nih.gov/33567185/"
+  }
+ ]
+}

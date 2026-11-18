@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="hi"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>समय केवल एक ही दिशा में क्यों बहता है? · Terra Incognita</title>
+<meta name="description" content="एन्ट्रॉपी, यानी अव्यवस्था, हमेशा बढ़ती है, और यह प्रारंभिक ब्रह्मांड की अत्यंत व्यवस्थित अवस्था से जुड़ी है।">
+<link rel="canonical" href="https://www.terraincognita.ca/hi/fleche-temps.html"><link rel="alternate" hreflang="en" href="https://www.terraincognita.ca/en/fleche-temps.html"><link rel="alternate" hreflang="fr" href="https://www.terraincognita.ca/fr/fleche-temps.html"><link rel="alternate" hreflang="zh" href="https://www.terraincognita.ca/zh/fleche-temps.html"><link rel="alternate" hreflang="es" href="https://www.terraincognita.ca/es/fleche-temps.html"><link rel="alternate" hreflang="hi" href="https://www.terraincognita.ca/hi/fleche-temps.html"><link rel="alternate" hreflang="ar" href="https://www.terraincognita.ca/ar/fleche-temps.html"><link rel="alternate" hreflang="pt" href="https://www.terraincognita.ca/pt/fleche-temps.html">
+<meta property="og:title" content="समय केवल एक ही दिशा में क्यों बहता है? · Terra Incognita"><meta property="og:description" content="एन्ट्रॉपी, यानी अव्यवस्था, हमेशा बढ़ती है, और यह प्रारंभिक ब्रह्मांड की अत्यंत व्यवस्थित अवस्था से जुड़ी है।"><meta property="og:url" content="https://www.terraincognita.ca/hi/fleche-temps.html">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>*,*::before,*::after{box-sizing:border-box}:root{
+  --bg:#0d1a26; --bg2:#13263a; --line:#2a425b; --fg:#e6edf2; --muted:#8fa6b8; --accent:#f2b45a;
+  --d-P:#7fb8ff; --d-V:#6fd3a0; --d-E:#e58fd6; --d-M:#f2b45a; --d-I:#b6a3ff; --d-T:#5fd0d6; --d-H:#ff9478;
+  --f-display:"IM Fell English SC", Georgia, serif;
+  --f-body:"Inter", system-ui, "Noto Sans", "Segoe UI", sans-serif;
+  --f-mono:"JetBrains Mono", ui-monospace, monospace;
+  color-scheme:dark;
+}
+@media (prefers-color-scheme: light){ :root:not([data-theme="dark"]){
+  --bg:#eef2f4; --bg2:#ffffff; --line:#c6d2da; --fg:#13212d; --muted:#5a6f7f; --accent:#b06d0b;
+  --d-P:#2a6fc9; --d-V:#1f8a57; --d-E:#a23d92; --d-M:#b06d0b; --d-I:#6a52d1; --d-T:#14868c; --d-H:#c9472a;
+  color-scheme:light } }
+:root[data-theme="light"]{
+  --bg:#eef2f4; --bg2:#ffffff; --line:#c6d2da; --fg:#13212d; --muted:#5a6f7f; --accent:#b06d0b;
+  --d-P:#2a6fc9; --d-V:#1f8a57; --d-E:#a23d92; --d-M:#b06d0b; --d-I:#6a52d1; --d-T:#14868c; --d-H:#c9472a;
+  color-scheme:light }
+body{background:var(--bg);color:var(--fg);font:16px/1.6 var(--f-body);margin:0}
+.w{max-width:760px;margin:0 auto;padding-block:28px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:var(--accent)}
+.top{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:8px 16px;margin-bottom:24px}
+.brand{font-family:var(--f-display);font-size:26px;color:var(--fg);text-decoration:none;letter-spacing:.02em}
+.langs{display:flex;flex-wrap:wrap;gap:4px 10px;font-size:13px}
+.langs a[aria-current]{color:var(--fg);font-weight:600;text-decoration:none}
+h1{font-size:clamp(24px,4.4vw,34px);line-height:1.2;margin:8px 0 10px;text-wrap:balance}
+h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:28px 0 6px;font-weight:600}
+p{margin:0 0 10px;max-width:68ch}
+.dom{display:inline-flex;align-items:center;gap:8px;font-size:13px;color:var(--muted)}
+.dom i{width:10px;height:10px;border-radius:50%;background:var(--c)}
+.near{display:inline-block;font:500 12px var(--f-mono);border:1px solid var(--line);border-radius:999px;padding:2px 10px;color:var(--muted)}
+ul{padding-inline-start:20px;margin:0}
+li{margin:4px 0}
+.ty{font:500 11px var(--f-mono);color:var(--muted);border:1px solid var(--line);border-radius:4px;padding:1px 6px;margin-inline-start:6px;white-space:nowrap}
+.ty.s{color:var(--fg);border-color:var(--muted)}
+.meta{font:12.5px var(--f-mono);color:var(--muted);margin-top:28px}
+.cta{display:inline-block;margin-top:18px;font-weight:600}
+.group{margin-top:26px}
+.group h2{display:flex;align-items:center;gap:8px}
+.group h2 i{width:10px;height:10px;border-radius:50%;background:var(--c)}
+.group li small{color:var(--muted)}
+footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-size:13px;color:var(--muted);display:flex;flex-wrap:wrap;gap:6px 18px}
+</style>
+</head><body><div class="w"><div class="top"><a class="brand" href="../?lang=hi">Terra Incognita</a><nav class="langs" aria-label="Language"><a href="../en/fleche-temps.html" hreflang="en" lang="en">English</a><a href="../fr/fleche-temps.html" hreflang="fr" lang="fr">Français</a><a href="../zh/fleche-temps.html" hreflang="zh" lang="zh">中文</a><a href="../es/fleche-temps.html" hreflang="es" lang="es">Español</a><a href="../hi/fleche-temps.html" hreflang="hi" lang="hi" aria-current="page">हिन्दी</a><a href="../ar/fleche-temps.html" hreflang="ar" lang="ar">العربية</a><a href="../pt/fleche-temps.html" hreflang="pt" lang="pt">Português</a></nav></div><div class="dom" style="--c:var(--d-P)"><i></i>भौतिकी और ब्रह्मांड</div><h1>समय केवल एक ही दिशा में क्यों बहता है?</h1><span class="near">दूर क्षितिज</span><h2>हम क्या जानते हैं</h2><p>एन्ट्रॉपी, यानी अव्यवस्था, हमेशा बढ़ती है, और यह प्रारंभिक ब्रह्मांड की अत्यंत व्यवस्थित अवस्था से जुड़ी है।</p><h2>रुकावट क्या है</h2><p>कोई नहीं जानता कि ब्रह्मांड इतनी असंभाव्य, कम-एन्ट्रॉपी अवस्था में क्यों शुरू हुआ।</p><h2>वर्तमान सुराग</h2><p>बिग बैंग का ब्रह्मांड विज्ञान, क्वांटम ऊष्मागतिकी।</p><h2>उप-प्रश्न</h2><ul><li>क्या प्रारंभिक ब्रह्मांड की बहुत कम एन्ट्रॉपी (‘अतीत परिकल्पना’) को स्वयं किसी व्याख्या की ज़रूरत है?</li><li>क्या समय के अन्य तीर, जैसे स्मृति या कारण और प्रभाव, एन्ट्रॉपी की वृद्धि पर ही आधारित हैं?</li><li>भौतिकविद यह समझाने के लिए जिस प्रायिकता नियम का उपयोग करते हैं कि तंत्र संतुलन की ओर क्यों जाते हैं, उसे कैसे उचित ठहराया जाए?</li></ul><h2>संबंधित प्रश्न</h2><ul><li><a href="origine-univers.html">ब्रह्मांड की बिल्कुल शुरुआत में क्या हुआ?</a></li><li><a href="mesure-quantique.html">जब किसी क्वांटम प्रणाली को मापा जाता है तो वास्तव में क्या होता है?</a></li></ul><h2>स्रोत</h2><ul><li><a href="https://plato.stanford.edu/entries/time-thermo/" rel="noopener">Thermodynamic Asymmetry in Time (Stanford Encyclopedia of Philosophy)</a><span class="ty s">अकादमिक संदर्भ</span></li></ul><p class="meta">अभी किसी विशेषज्ञ ने समीक्षा नहीं की है।</p><p class="meta">अंतिम जाँच: 2026-11-18</p><a class="cta" href="../?lang=hi#fleche-temps">नक्शे पर वापस →</a><footer><a href="../?lang=hi">नक्शे पर वापस</a><a href="index.html">सभी प्रश्न</a><a href="about.html">परिचय</a><a href="../data.json">data.json · CC BY 4.0</a></footer></div></body></html>

@@ -1,0 +1,121 @@
+{
+"en": {
+ "list": "All questions",
+ "about": "About",
+ "map": "Back to the map",
+ "checked": "Last checked",
+ "listIntro": "Every open question on the map, by field. Each one has its own page with what we know, what blocks us, current leads, sub-questions and sources.",
+ "aboutTitle": "About Terra Incognita",
+ "aboutBody": [
+  ["What it is", "Terra Incognita is a map of the great questions that science has not answered yet, in every field. For each question it shows what we know, what blocks us, the current leads, research sub-questions and the sources behind every statement."],
+  ["How it is made", "The first survey was prepared with AI research agents in November 2026. One rule comes before everything: nothing false, nothing invented. Every statement must come from a source that was actually opened and read. A second agent, which did not write the text, reopens every new source and rejects anything it cannot confirm. Each source shows its type, so you can tell a peer-reviewed study from a press article."],
+  ["How it stays up to date", "Every week, part of the map is checked against recent research. Every change is dated and listed under “What's new”, and a monthly report sums up what moved. The rules that any maintainer, AI or human, must follow are public, so the work can continue whoever does it."],
+  ["Limits", "The questions have not yet been reviewed by specialists. Any short summary of science leaves out detail: follow the sources for the full picture. If you find an error, please tell us."],
+  ["Open data", "All texts and data are free to reuse under the Creative Commons Attribution 4.0 license (CC BY 4.0). The code is under the MIT license. The full dataset can be downloaded as data.json."],
+  ["Contact and contributing", "To suggest a question, report an error or volunteer as a reviewer, use the form on the main page. Researchers who review a field are credited by name if they wish."],
+  ["Privacy", "The site shows no advertising and sets no tracking cookies. A message sent through a form is used only to answer it."]
+ ]
+},
+"fr": {
+ "list": "Toutes les questions",
+ "about": "À propos",
+ "map": "Retour à la carte",
+ "checked": "Dernière vérification",
+ "listIntro": "Toutes les questions ouvertes de la carte, par domaine. Chacune a sa propre page : ce qu'on sait, ce qui bloque, les pistes actuelles, des sous-questions et les sources.",
+ "aboutTitle": "À propos de Terra Incognita",
+ "aboutBody": [
+  ["Ce que c'est", "Terra Incognita est une carte des grandes questions auxquelles la science n'a pas encore répondu, dans tous les domaines. Pour chaque question, elle montre ce qu'on sait, ce qui bloque, les pistes actuelles, des sous-questions de recherche et les sources de chaque affirmation."],
+  ["Comment elle est faite", "Le premier relevé a été préparé avec des agents de recherche IA en novembre 2026. Une règle passe avant tout : rien de faux, rien d'inventé. Chaque affirmation doit venir d'une source réellement ouverte et lue. Un second agent, qui n'a pas écrit le texte, rouvre chaque nouvelle source et rejette tout ce qu'il ne peut pas confirmer. Chaque source affiche son type, pour distinguer une étude relue par des pairs d'un article de presse."],
+  ["Comment elle reste à jour", "Chaque semaine, une partie de la carte est revérifiée à partir de la recherche récente. Chaque changement est daté et listé dans « Quoi de neuf », et un bilan mensuel résume ce qui a bougé. Les règles que doit suivre tout mainteneur, IA ou humain, sont publiques : le travail peut continuer, qui que ce soit qui le fasse."],
+  ["Limites", "Les questions n'ont pas encore été relues par des spécialistes. Tout résumé court de la science perd des détails : suivez les sources pour avoir le tableau complet. Si vous trouvez une erreur, dites-le-nous."],
+  ["Données ouvertes", "Tous les textes et données sont réutilisables librement sous licence Creative Commons Attribution 4.0 (CC BY 4.0). Le code est sous licence MIT. Le jeu de données complet se télécharge en data.json."],
+  ["Contact et contributions", "Pour proposer une question, signaler une erreur ou devenir relecteur, utilisez le formulaire de la page principale. Les chercheurs qui relisent un domaine sont crédités par leur nom s'ils le souhaitent."],
+  ["Vie privée", "Le site n'affiche aucune publicité et ne dépose aucun cookie de suivi. Un message envoyé par formulaire ne sert qu'à y répondre."]
+ ]
+},
+"es": {
+ "list": "Todas las preguntas",
+ "about": "Acerca de",
+ "map": "Volver al mapa",
+ "checked": "Última verificación",
+ "listIntro": "Todas las preguntas abiertas del mapa, por campo. Cada una tiene su propia página: lo que sabemos, lo que nos frena, las pistas actuales, subpreguntas y fuentes.",
+ "aboutTitle": "Acerca de Terra Incognita",
+ "aboutBody": [
+  ["Qué es", "Terra Incognita es un mapa de las grandes preguntas que la ciencia aún no ha respondido, en todos los campos. Para cada pregunta muestra lo que sabemos, lo que nos frena, las pistas actuales, subpreguntas de investigación y las fuentes de cada afirmación."],
+  ["Cómo se hace", "El primer relevamiento se preparó con agentes de investigación de IA en noviembre de 2026. Una regla está por encima de todo: nada falso, nada inventado. Cada afirmación debe venir de una fuente que se abrió y se leyó realmente. Un segundo agente, que no escribió el texto, vuelve a abrir cada fuente nueva y rechaza todo lo que no puede confirmar. Cada fuente indica su tipo, para distinguir un estudio revisado por pares de un artículo de prensa."],
+  ["Cómo se mantiene al día", "Cada semana se revisa una parte del mapa a partir de la investigación reciente. Cada cambio se fecha y aparece en «Novedades», y un informe mensual resume lo que se movió. Las reglas que debe seguir cualquier responsable, IA o humano, son públicas, así que el trabajo puede continuar sea quien sea quien lo haga."],
+  ["Límites", "Las preguntas aún no han sido revisadas por especialistas. Todo resumen breve de la ciencia pierde detalles: sigue las fuentes para tener el panorama completo. Si encuentras un error, avísanos."],
+  ["Datos abiertos", "Todos los textos y datos pueden reutilizarse libremente bajo la licencia Creative Commons Atribución 4.0 (CC BY 4.0). El código está bajo la licencia MIT. El conjunto completo de datos se descarga como data.json."],
+  ["Contacto y contribuciones", "Para proponer una pregunta, señalar un error o ofrecerte como revisor, usa el formulario de la página principal. Los investigadores que revisan un campo aparecen con su nombre si lo desean."],
+  ["Privacidad", "El sitio no muestra publicidad ni instala cookies de seguimiento. Un mensaje enviado por formulario solo se usa para responderlo."]
+ ]
+},
+"pt": {
+ "list": "Todas as perguntas",
+ "about": "Sobre",
+ "map": "Voltar ao mapa",
+ "checked": "Última verificação",
+ "listIntro": "Todas as perguntas em aberto do mapa, por área. Cada uma tem sua própria página: o que sabemos, o que nos trava, as pistas atuais, subperguntas e fontes.",
+ "aboutTitle": "Sobre a Terra Incognita",
+ "aboutBody": [
+  ["O que é", "A Terra Incognita é um mapa das grandes perguntas que a ciência ainda não respondeu, em todas as áreas. Para cada pergunta, mostra o que sabemos, o que nos trava, as pistas atuais, subperguntas de pesquisa e as fontes de cada afirmação."],
+  ["Como é feita", "O primeiro levantamento foi preparado com agentes de pesquisa de IA em novembro de 2026. Uma regra vem antes de tudo: nada falso, nada inventado. Cada afirmação deve vir de uma fonte que foi realmente aberta e lida. Um segundo agente, que não escreveu o texto, reabre cada fonte nova e rejeita tudo o que não consegue confirmar. Cada fonte mostra seu tipo, para distinguir um estudo revisado por pares de uma matéria de imprensa."],
+  ["Como se mantém atualizada", "Toda semana, uma parte do mapa é verificada com base em pesquisas recentes. Cada mudança é datada e listada em «Novidades», e um relatório mensal resume o que mudou. As regras que qualquer responsável, IA ou humano, deve seguir são públicas, então o trabalho pode continuar seja quem for que o faça."],
+  ["Limites", "As perguntas ainda não foram revisadas por especialistas. Todo resumo curto da ciência perde detalhes: siga as fontes para ter o quadro completo. Se encontrar um erro, avise-nos."],
+  ["Dados abertos", "Todos os textos e dados podem ser reutilizados livremente sob a licença Creative Commons Atribuição 4.0 (CC BY 4.0). O código está sob a licença MIT. O conjunto completo de dados pode ser baixado como data.json."],
+  ["Contato e contribuições", "Para sugerir uma pergunta, apontar um erro ou se oferecer como revisor, use o formulário da página principal. Pesquisadores que revisam uma área são creditados pelo nome, se quiserem."],
+  ["Privacidade", "O site não exibe publicidade nem instala cookies de rastreamento. Uma mensagem enviada por formulário é usada apenas para respondê-la."]
+ ]
+},
+"zh": {
+ "list": "全部问题",
+ "about": "关于",
+ "map": "返回地图",
+ "checked": "最近核实",
+ "listIntro": "地图上的全部开放问题，按领域排列。每个问题都有自己的页面：我们已知什么、受阻于何处、当前方向、子问题和来源。",
+ "aboutTitle": "关于 Terra Incognita",
+ "aboutBody": [
+  ["这是什么", "Terra Incognita 是一张地图，汇集各个领域中科学尚未解答的重大问题。每个问题都列出我们已知什么、受阻于何处、当前的研究方向、研究子问题，以及每项陈述背后的来源。"],
+  ["如何制作", "首次整理于2026年11月借助人工智能研究代理完成。有一条规则高于一切：不写错误的内容，不编造任何内容。每项陈述都必须来自真正打开并阅读过的来源。另一个未参与撰写的代理会重新打开每个新来源，并否决任何无法确认的内容。每个来源都标明类型，便于区分同行评审研究和新闻报道。"],
+  ["如何保持更新", "每周都会依据最新研究重新核实地图的一部分。每次修改都会注明日期并列在“最新动态”中，月度报告会总结本月的变化。任何维护者（人工智能或人）都必须遵守的规则是公开的，因此无论由谁来做，这项工作都能继续。"],
+  ["局限", "这些问题尚未经专家审阅。任何简短的科学概述都会省略细节：要了解全貌，请查阅来源。如果发现错误，请告诉我们。"],
+  ["开放数据", "所有文本和数据均可在知识共享署名 4.0 许可（CC BY 4.0）下自由再利用。代码采用 MIT 许可。完整数据集可以 data.json 形式下载。"],
+  ["联系与参与", "如需建议问题、报告错误或申请担任审阅者，请使用主页上的表单。审阅某一领域的研究人员如有意愿，将署名致谢。"],
+  ["隐私", "本网站不显示广告，也不设置跟踪 Cookie。通过表单发送的消息仅用于回复。"]
+ ]
+},
+"hi": {
+ "list": "सभी प्रश्न",
+ "about": "परिचय",
+ "map": "नक्शे पर वापस",
+ "checked": "अंतिम जाँच",
+ "listIntro": "नक्शे के सभी खुले प्रश्न, क्षेत्र के अनुसार। हर प्रश्न का अपना पेज है: हम क्या जानते हैं, क्या रोक रहा है, मौजूदा दिशाएँ, उप-प्रश्न और स्रोत।",
+ "aboutTitle": "Terra Incognita का परिचय",
+ "aboutBody": [
+  ["यह क्या है", "Terra Incognita उन बड़े प्रश्नों का नक्शा है जिनका उत्तर विज्ञान ने अभी तक नहीं दिया है, हर क्षेत्र में। हर प्रश्न के लिए यह दिखाता है कि हम क्या जानते हैं, क्या रोक रहा है, मौजूदा शोध दिशाएँ, शोध के उप-प्रश्न और हर कथन के पीछे के स्रोत।"],
+  ["यह कैसे बनाया गया", "पहला सर्वेक्षण नवंबर 2026 में AI शोध एजेंटों की मदद से तैयार किया गया। एक नियम सबसे ऊपर है: कुछ भी गलत नहीं, कुछ भी गढ़ा हुआ नहीं। हर कथन ऐसे स्रोत से आना चाहिए जिसे सचमुच खोला और पढ़ा गया हो। एक दूसरा एजेंट, जिसने पाठ नहीं लिखा, हर नए स्रोत को फिर से खोलता है और जो कुछ पुष्टि नहीं कर पाता उसे अस्वीकार कर देता है। हर स्रोत अपना प्रकार दिखाता है, ताकि सहकर्मी-समीक्षित अध्ययन और समाचार लेख में अंतर किया जा सके।"],
+  ["यह अद्यतन कैसे रहता है", "हर सप्ताह नक्शे के एक हिस्से की हाल के शोध से फिर से जाँच की जाती है। हर बदलाव तारीख के साथ «नया क्या है» में दर्ज होता है, और एक मासिक रिपोर्ट बताती है कि क्या बदला। किसी भी अनुरक्षक, AI या मनुष्य, को जिन नियमों का पालन करना है वे सार्वजनिक हैं, इसलिए काम कोई भी करे, जारी रह सकता है।"],
+  ["सीमाएँ", "इन प्रश्नों की अभी विशेषज्ञों ने समीक्षा नहीं की है। विज्ञान का हर छोटा सारांश कुछ विवरण छोड़ देता है: पूरी तस्वीर के लिए स्रोत देखें। अगर आपको कोई गलती मिले, तो हमें बताएँ।"],
+  ["खुला डेटा", "सभी पाठ और डेटा Creative Commons Attribution 4.0 (CC BY 4.0) लाइसेंस के तहत मुफ़्त में दोबारा इस्तेमाल किए जा सकते हैं। कोड MIT लाइसेंस के तहत है। पूरा डेटा data.json के रूप में डाउनलोड किया जा सकता है।"],
+  ["संपर्क और योगदान", "कोई प्रश्न सुझाने, गलती बताने या समीक्षक बनने के लिए मुख्य पेज पर दिया फ़ॉर्म इस्तेमाल करें। किसी क्षेत्र की समीक्षा करने वाले शोधकर्ताओं का नाम, यदि वे चाहें, श्रेय के साथ दिया जाता है।"],
+  ["निजता", "यह साइट कोई विज्ञापन नहीं दिखाती और कोई ट्रैकिंग कुकी नहीं लगाती। फ़ॉर्म से भेजा गया संदेश केवल उसका उत्तर देने के लिए इस्तेमाल होता है।"]
+ ]
+},
+"ar": {
+ "list": "كل الأسئلة",
+ "about": "عن المشروع",
+ "map": "العودة إلى الخريطة",
+ "checked": "آخر تحقق",
+ "listIntro": "كل الأسئلة المفتوحة في الخريطة، حسب المجال. لكل سؤال صفحته الخاصة: ما نعرفه، وما يعيقنا، والمسارات الحالية، وأسئلة فرعية، والمصادر.",
+ "aboutTitle": "عن Terra Incognita",
+ "aboutBody": [
+  ["ما هي", "Terra Incognita خريطة للأسئلة الكبرى التي لم يجب عنها العلم بعد، في كل المجالات. لكل سؤال تعرض ما نعرفه، وما يعيقنا، والمسارات البحثية الحالية، وأسئلة بحثية فرعية، والمصادر التي تستند إليها كل عبارة."],
+  ["كيف أُعدّت", "أُعدّ المسح الأول بمساعدة وكلاء بحث بالذكاء الاصطناعي في نوفمبر 2026. هناك قاعدة تسبق كل شيء: لا شيء خاطئ، ولا شيء مختلق. يجب أن تأتي كل عبارة من مصدر فُتح وقُرئ فعلًا. ويعيد وكيل ثانٍ، لم يكتب النص، فتح كل مصدر جديد ويرفض كل ما لا يستطيع تأكيده. ويُظهر كل مصدر نوعه، للتمييز بين دراسة محكَّمة ومقال صحفي."],
+  ["كيف تبقى محدَّثة", "كل أسبوع يُعاد التحقق من جزء من الخريطة في ضوء الأبحاث الحديثة. يُؤرَّخ كل تغيير ويُدرج في «ما الجديد»، ويلخّص تقرير شهري ما تغيّر. القواعد التي يجب أن يتبعها أي قائم على المشروع، ذكاءً اصطناعيًا كان أو إنسانًا، منشورة علنًا، فيمكن أن يستمر العمل أيًّا كان من يقوم به."],
+  ["الحدود", "لم يراجع المختصون هذه الأسئلة بعد. كل ملخص قصير للعلم يُسقط بعض التفاصيل: اتبع المصادر للحصول على الصورة الكاملة. إذا وجدت خطأ، فأخبرنا."],
+  ["بيانات مفتوحة", "يمكن إعادة استخدام كل النصوص والبيانات بحرية بموجب رخصة المشاع الإبداعي نَسب المُصنَّف 4.0 (CC BY 4.0). والشيفرة خاضعة لرخصة MIT. ويمكن تنزيل مجموعة البيانات الكاملة بصيغة data.json."],
+  ["التواصل والمساهمة", "لاقتراح سؤال أو الإبلاغ عن خطأ أو التطوع للمراجعة، استخدم النموذج في الصفحة الرئيسية. يُذكر اسم الباحثين الذين يراجعون مجالًا ما إن رغبوا في ذلك."],
+  ["الخصوصية", "لا يعرض الموقع أي إعلانات ولا يضع ملفات تعريف ارتباط للتتبع. الرسالة المرسلة عبر النموذج لا تُستخدم إلا للرد عليها."]
+ ]
+}
+}

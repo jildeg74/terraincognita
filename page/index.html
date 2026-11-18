@@ -79,6 +79,7 @@ footer{color:var(--muted);font-size:12.5px}
 #propForm button{align-self:flex-start;margin-top:8px;font:600 14px var(--f-body);background:var(--accent);color:var(--bg);border:0;border-radius:8px;padding:9px 16px;cursor:pointer}
 #pMsg{margin:0;font-size:13px;color:var(--muted)}
 footer a{color:var(--accent)}
+footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-size:14px}
 .sublist{margin:0;padding-inline-start:18px;display:flex;flex-direction:column;gap:4px;font-size:14px}
 .rev{margin:0;font-size:13px}.rev.none{color:var(--muted)}
 #digest{grid-column:1/-1}
@@ -143,7 +144,7 @@ footer a{color:var(--accent)}
       </form>
     </section>
   </div>
-  <footer><span id="foot"></span> <a id="dataLink" href="data.json" hidden></a></footer>
+  <footer><nav class="links"><a id="listLink" href="en/index.html"></a><a id="aboutLink" href="en/about.html"></a></nav><span id="foot"></span> <a id="dataLink" href="data.json" hidden></a></footer>
 </div>
 
 <script>
@@ -199,6 +200,7 @@ ar:{sub:"خريطة لما لا تعرفه البشرية بعد. كل نقطة 
  pick:"اختر سؤالًا على الخريطة لترى ما نعرفه وما يعيقنا والمسارات الحالية.",fb:"لم تُترجم بعد إلى هذه اللغة. تُعرض بالإنجليزية.",
  foot:"مسح أعدّه Claude: جرى التحقق من كل سؤال بالمصادر المذكورة، نوفمبر 2026. لم يراجعه المختصون بعد. اسحب لتحريك الخريطة، واستخدم العجلة أو الضم للتكبير.",news:"ما الجديد",newsEmpty:"لا توجد تحديثات بعد.",srcAll:"أُضيفت المصادر إلى {n} سؤالًا",upd:"حُدِّث",prop:"اقترح سؤالًا أو تصحيحًا",propQ:"سؤالك أو تصحيحك",propS:"المصدر (رابط، اختياري)",propE:"البريد الإلكتروني (اختياري، إن أردت ردًّا)",send:"إرسال",sent:"شكرًا، تم الإرسال.",failed:"تعذّر الإرسال. حاول لاحقًا.",data:"تنزيل البيانات (CC BY 4.0)",subq:"أسئلة فرعية",revBy:"راجعه",notRev:"لم يراجعه مختص بعد.",dig:"ما الذي تغيّر هذا الشهر على حدود المعرفة",digEmpty:"سيظهر أول تقرير شهري هنا في بداية الشهر المقبل.",nl:"تلقَّ التقرير الشهري بالبريد الإلكتروني",nlBtn:"اشترك",nlOk:"شكرًا، تم اشتراكك.",kind:"النوع",k0:"سؤال جديد",k1:"تصحيح",k2:"أنا باحث وأريد مراجعة مجال",ty:{"study": "دراسة محكَّمة", "preprint": "نسخة أولية (غير محكَّمة بعد)", "official": "هيئة رسمية", "institution": "مؤسسة بحثية", "reference": "مرجع أكاديمي", "press": "صحافة", "company": "شركة (طرف معني)", "encyclopedia": "موسوعة"},map:"خريطة الأسئلة المفتوحة"}
 };
+const EXTRA={};let hashOK=false;
 const DKEYS=["P","V","E","M","I","T","H"];
 const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 const $=id=>document.getElementById(id);
@@ -208,6 +210,7 @@ const active=new Set(DKEYS);
 let view={x:0,y:0,k:1},W=0,H=0,dpr=1;
 
 function pickLang(){
+  try{const q=new URLSearchParams(location.search).get('lang');if(UI[q])return q}catch(e){}
   try{const s=localStorage.getItem('ti-lang');if(UI[s])return s}catch(e){}
   for(const l of navigator.languages||[navigator.language||'en']){const b=(l||'').slice(0,2).toLowerCase();if(UI[b])return b}
   return 'en';
@@ -243,6 +246,7 @@ function applyLang(){
   $('digT').textContent=t.dig;$('nlL').textContent=t.nl;$('nlBtn').textContent=t.nlBtn;$('nlLang').value=lang;$('pkL').textContent=t.kind;$('pk0').textContent=t.k0;$('pk1').textContent=t.k1;$('pk2').textContent=t.k2;
   $('newsT').textContent=t.news;$('propT').textContent=t.prop;$('pqL').textContent=t.propQ;$('psL').textContent=t.propS;$('peL').textContent=t.propE;$('pBtn').textContent=t.send;$('dataLink').textContent=t.data;
   renderNews();renderDigest();
+  const X=EXTRA[lang]||EXTRA.en;if(X){$('listLink').textContent=X.list;$('listLink').href=lang+'/index.html';$('aboutLink').textContent=X.about;$('aboutLink').href=lang+'/about.html'}
   if(sel)select(sel);else panel.replaceChildren(el('p',{textContent:t.pick,style:'margin:0;color:var(--muted)'}));
   draw();
 }
@@ -332,7 +336,7 @@ function zoom(cx,cy,f){const k=Math.min(4,Math.max(.25,view.k*f));f=k/view.k;vie
 
 function el(tag,props,...kids){const e=document.createElement(tag);for(const [k,v] of Object.entries(props||{})){if(k==='style')e.style.cssText=v;else e[k]=v}kids.forEach(k=>k!=null&&e.append(k));return e}
 function select(n){
-  sel=n;draw();const t=T(),a=tx(n);panel.replaceChildren();
+  sel=n;try{if(hashOK&&location.hash.slice(1)!==n.id)history.replaceState(null,'','#'+n.id)}catch(e){}draw();const t=T(),a=tx(n);panel.replaceChildren();
   const dom=el('div',{className:'dom',textContent:t.dom[n.d]||n.d});dom.style.setProperty('--c',`var(--d-${n.d})`);
   const near=el('span',{className:'near',textContent:t.near[n.n]||''});near.dataset.n=n.n;
   const h=el('h2',{textContent:a.t||''});if(a.fb)h.lang='en';
@@ -359,8 +363,10 @@ function ingest(docs){
   for(const n of nodes)for(const l of n.links||[]){if(!byId[l]||l===n.id)continue;const k=[n.id,l].sort().join('|');if(!seen.has(k)){seen.add(k);edges.push([n.id,l])}}
   layout();view.done=!!W;
   setStatus(nodes.length?null:'empty');
-  const s=byId[prev]||byId['consciousness']||byId['conscience']||nodes[0];
+  let h='';try{h=decodeURIComponent(location.hash.slice(1))}catch(e){}
+  const s=byId[prev]||byId[h]||byId['consciousness']||byId['conscience']||nodes[0];
   if(s)select(s);else applyLang();
+  hashOK=true;if(h&&byId[h])$('cv').scrollIntoView({block:'center'});
   renderNews();
 }
 

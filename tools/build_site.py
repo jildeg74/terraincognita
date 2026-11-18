@@ -3,6 +3,8 @@ Usage: python3 build_site.py PAGE_HTML QUESTIONS_DIR CHANGES_DIR OUT_DIR [DIGEST
 QUESTIONS_DIR / CHANGES_DIR: one JSON file per document (as saved by ArtifactData list with out_dir).
 """
 import json, glob, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import build_pages
 
 page_path, qdir, cdir, out = sys.argv[1:5]
 ddir = sys.argv[5] if len(sys.argv) > 5 else None
@@ -14,6 +16,7 @@ digests = [json.load(open(f)) for f in sorted(glob.glob(os.path.join(ddir, '*.js
 assert len(docs) >= 100, 'expected at least 100 questions'
 
 page = open(page_path).read()
+src_page = page
 start = page.index('(async()=>{')
 end = page.index('})();', start) + len('})();')
 dump = lambda x: json.dumps(x, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
@@ -35,13 +38,16 @@ te = page.index('</title>') + len('</title>')
 html = head + page[:te] + '\n' + page[te:].replace('<div class="wrap">', '</head><body>\n<div class="wrap">', 1) + '\n</body></html>\n'
 
 os.makedirs(out, exist_ok=True)
+urls, extra = build_pages.build(src_page, docs, out)
+html = html.replace('const EXTRA={};', 'const EXTRA=' + dump(extra) + ';', 1)
 open(os.path.join(out, 'index.html'), 'w').write(html)
 updated = max([d.get('checked', '') for d in docs] + [c.get('date', '') for c in changes])
 open(os.path.join(out, 'data.json'), 'w').write(json.dumps({
     'name': 'Terra Incognita', 'license': 'CC BY 4.0', 'url': 'https://www.terraincognita.ca/',
     'updated': updated, 'questions': docs, 'changes': changes, 'digests': digests}, ensure_ascii=False, indent=1))
 open(os.path.join(out, 'robots.txt'), 'w').write('User-agent: *\nAllow: /\nSitemap: https://www.terraincognita.ca/sitemap.xml\n')
+locs = [''] + urls
 open(os.path.join(out, 'sitemap.xml'), 'w').write(
-    '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-    f'<url><loc>https://www.terraincognita.ca/</loc><lastmod>{updated}</lastmod></url>\n</urlset>\n')
-print(f'built {len(docs)} questions, {len(changes)} change entries, updated {updated}')
+    '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+    ''.join(f'<url><loc>https://www.terraincognita.ca/{u}</loc><lastmod>{updated}</lastmod></url>\n' for u in locs) + '</urlset>\n')
+print(f'built {len(docs)} questions, {len(urls)} pages, {len(changes)} change entries, updated {updated}')

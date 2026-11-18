@@ -7,7 +7,7 @@ Website: https://www.terraincognita.ca
 ## Contents
 - `data/questions/` — one JSON file per open question: the source of truth.
 - `data/changes/`, `data/digests/` — change log and monthly reports.
-- `page/index.html` — page template; `tools/build_site.py` builds `site/` from it and the data.
+- `page/index.html` — page template; `tools/build_site.py` builds `site/` from it and the data, and `tools/build_pages.py` adds one page per question, a list page and an about page in each language (`tools/strings.json`).
 - `tools/validate.py` — checks every file (7 languages, sources, links). Run automatically by GitHub Actions, which also rebuilds `site/`.
 - `site/` — the public website published by Netlify. `site/data.json` holds the full dataset.
 - `AGENT.md` — the rules any maintainer (AI or human) must follow. `CONTRIBUTING.md` — how to help.

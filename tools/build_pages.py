@@ -105,7 +105,7 @@ def build(page, docs, out):
                     (f'<h2>{e(t["rel"])}</h2><ul>{rel}</ul>' if rel else '') +
                     f'<h2>{e(t["src"])}</h2><ul>{srcs}</ul>{rv}'
                     f'<p class="meta">{e(X["checked"])}: {e(d.get("checked", ""))}</p>'
-                    f'<a class="cta" href="../?lang={lang}#{d["id"]}">{e(X["map"])} →</a>' + foot(lang, X))
+                    f'<a class="cta" href="../?lang={lang}#{d["id"]}">{e(X["map"])} {"←" if lang == "ar" else "→"}</a>' + foot(lang, X))
             open(os.path.join(out, lang, d['id'] + '.html'), 'w', encoding='utf-8').write(
                 shell(lang, f'{a["t"]} · Terra Incognita', a['known'], f'{lang}/{d["id"]}.html', body, tokens, d['id'] + '.html'))
             urls.append(f'{lang}/{d["id"]}.html')

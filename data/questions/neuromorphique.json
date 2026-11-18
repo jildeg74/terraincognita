@@ -67,6 +67,31 @@
    "t": "Intel unveils largest-ever neuromorphic computer, Hala Point (Live Science, 2024)",
    "ty": "press",
    "u": "https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain"
+  },
+  {
+   "t": "Brain-inspired computing – We need a master plan",
+   "ty": "preprint",
+   "u": "https://arxiv.org/abs/2104.14517"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن للرقائق الشبيهة بالدماغ أن تتعلم باستخدام المعلومات المتاحة محليًا عند كل وصلة فقط؟",
+   "en": "How can brain-like chips learn using only the information available locally at each connection?",
+   "es": "¿Cómo pueden aprender los chips inspirados en el cerebro usando solo la información disponible localmente en cada conexión?",
+   "fr": "Comment des puces inspirées du cerveau peuvent-elles apprendre en n'utilisant que l'information disponible localement à chaque connexion ?",
+   "hi": "मस्तिष्क जैसे चिप्स हर कनेक्शन पर स्थानीय रूप से उपलब्ध जानकारी का ही उपयोग करके कैसे सीख सकते हैं?",
+   "pt": "Como chips inspirados no cérebro podem aprender usando apenas a informação disponível localmente em cada conexão?",
+   "zh": "类脑芯片如何仅利用每个连接处局部可得的信息来学习？"
+  },
+  {
+   "ar": "في أي مهام تستهلك الرقائق العصبية الشكل فعلًا طاقة أقل بكثير من المعالجات العادية؟",
+   "en": "For which tasks do neuromorphic chips really use much less energy than ordinary processors?",
+   "es": "¿En qué tareas consumen realmente los chips neuromórficos mucha menos energía que los procesadores comunes?",
+   "fr": "Pour quelles tâches les puces neuromorphiques consomment-elles réellement beaucoup moins d'énergie que les processeurs ordinaires ?",
+   "hi": "किन कामों में न्यूरोमॉर्फ़िक चिप्स सचमुच सामान्य प्रोसेसरों से बहुत कम ऊर्जा इस्तेमाल करते हैं?",
+   "pt": "Em quais tarefas os chips neuromórficos realmente usam muito menos energia do que processadores comuns?",
+   "zh": "神经形态芯片在哪些任务上真正比普通处理器耗能少得多？"
   }
  ]
 }

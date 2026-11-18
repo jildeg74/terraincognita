@@ -67,6 +67,40 @@
    "t": "Are we truly on the verge of a humanoid robot revolution? (UC Berkeley)",
    "ty": "institution",
    "u": "https://vcresearch.berkeley.edu/news/are-we-truly-verge-humanoid-robot-revolution"
+  },
+  {
+   "t": "Foundation models in robotics: Applications, challenges, and the future",
+   "ty": "reference",
+   "u": "https://collaborate.princeton.edu/en/publications/foundation-models-in-robotics-applications-challenges-and-the-fut-2/"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "من أين يمكن للروبوتات أن تحصل على بيانات تدريب كافية عن المهام الجسدية، بينما هي قليلة جدًا مقارنةً بالنصوص؟",
+   "en": "Where can robots get enough training data about physical tasks, when there is so little compared with text?",
+   "es": "¿De dónde pueden obtener los robots suficientes datos de entrenamiento sobre tareas físicas, cuando hay tan pocos en comparación con el texto?",
+   "fr": "Où les robots peuvent-ils trouver assez de données d'entraînement sur les tâches physiques, alors qu'il y en a si peu comparé au texte ?",
+   "hi": "जब पाठ की तुलना में शारीरिक कामों का डेटा इतना कम है, तो रोबोट पर्याप्त प्रशिक्षण डेटा कहाँ से पा सकते हैं?",
+   "pt": "De onde os robôs podem obter dados de treinamento suficientes sobre tarefas físicas, quando há tão poucos em comparação com o texto?",
+   "zh": "与文本相比，物理任务的数据如此稀少，机器人从哪里能获得足够的训练数据？"
+  },
+  {
+   "ar": "كيف نضمن أن يتصرف روبوت يديره نموذج ذكاء اصطناعي كبير بأمان وأن يعرف متى يكون غير متأكد؟",
+   "en": "How can we guarantee that a robot run by a large AI model acts safely and knows when it is unsure?",
+   "es": "¿Cómo garantizar que un robot dirigido por un gran modelo de IA actúe con seguridad y sepa cuándo no está seguro?",
+   "fr": "Comment garantir qu'un robot piloté par un grand modèle d'IA agit en toute sécurité et sait quand il n'est pas sûr de lui ?",
+   "hi": "हम कैसे सुनिश्चित करें कि किसी बड़े AI मॉडल से चलने वाला रोबोट सुरक्षित रूप से काम करे और जाने कि कब वह अनिश्चित है?",
+   "pt": "Como garantir que um robô controlado por um grande modelo de IA aja com segurança e saiba quando está inseguro?",
+   "zh": "如何保证由大型人工智能模型驱动的机器人安全行事，并知道自己何时没有把握？"
+  },
+  {
+   "ar": "هل يمكن لنماذج الذكاء الاصطناعي الكبيرة أن تعمل بسرعة كافية للتحكم في روبوت في الوقت الفعلي؟",
+   "en": "Can large AI models run fast enough to control a robot in real time?",
+   "es": "¿Pueden los grandes modelos de IA funcionar lo bastante rápido como para controlar un robot en tiempo real?",
+   "fr": "Les grands modèles d'IA peuvent-ils fonctionner assez vite pour contrôler un robot en temps réel ?",
+   "hi": "क्या बड़े AI मॉडल इतनी तेज़ी से चल सकते हैं कि किसी रोबोट को वास्तविक समय में नियंत्रित कर सकें?",
+   "pt": "Grandes modelos de IA conseguem funcionar rápido o bastante para controlar um robô em tempo real?",
+   "zh": "大型人工智能模型能否运行得足够快，以实时控制机器人？"
   }
  ]
 }

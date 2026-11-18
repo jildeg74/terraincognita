@@ -3,51 +3,51 @@
  "d": "T",
  "i18n": {
   "ar": {
-   "block": "لا يزال تخزين الطاقة عبر الفصول مكلفًا للغاية.",
+   "block": "يجب أن يصبح التخزين الذي يدوم أيامًا أرخص بكثير ليحلّ محل محطات الكهرباء التي تعمل عند الطلب.",
    "known": "انخفضت أسعار البطاريات بنحو 90% منذ عام 2010.",
-   "leads": "بطاريات الحديد والهواء، والهيدروجين الأخضر، وتخزين الحرارة.",
+   "leads": "تقنيات جديدة مصممة لتخزين الطاقة لمدة 100 ساعة أو أكثر.",
    "s": "تخزين الطاقة",
    "t": "كيف يمكن تخزين الطاقة المتجددة بكلفة منخفضة لفترات طويلة؟"
   },
   "en": {
-   "block": "Storing energy across seasons remains far too expensive.",
+   "block": "Storage that lasts for days must become much cheaper to replace power plants that run on demand.",
    "known": "Battery prices have fallen by about 90% since 2010.",
-   "leads": "Iron-air batteries, green hydrogen, heat storage.",
+   "leads": "New technologies designed to store energy for 100 hours or more.",
    "s": "Energy storage",
    "t": "How can renewable energy be stored cheaply for long periods?"
   },
   "es": {
-   "block": "Almacenar energía entre estaciones sigue siendo demasiado caro.",
+   "block": "El almacenamiento que dura varios días debe abaratarse mucho para sustituir a las centrales que producen a demanda.",
    "known": "Los precios de las baterías han bajado cerca de un 90 % desde 2010.",
-   "leads": "Baterías de hierro-aire, hidrógeno verde, almacenamiento de calor.",
+   "leads": "Nuevas tecnologías diseñadas para almacenar energía durante 100 horas o más.",
    "s": "Almacenar energía",
    "t": "¿Cómo se puede almacenar energía renovable de forma barata durante largos periodos?"
   },
   "fr": {
-   "block": "Stocker de l'énergie d'une saison à l'autre reste bien trop cher.",
+   "block": "Le stockage qui dure plusieurs jours doit devenir beaucoup moins cher pour remplacer les centrales pilotables.",
    "known": "Le prix des batteries a baissé d'environ 90 % depuis 2010.",
-   "leads": "Batteries fer-air, hydrogène vert, stockage de chaleur.",
+   "leads": "De nouvelles technologies conçues pour stocker l'énergie 100 heures ou plus.",
    "s": "Stockage d'énergie",
    "t": "Comment stocker l'énergie renouvelable longtemps et à bas coût ?"
   },
   "hi": {
-   "block": "मौसमों के पार ऊर्जा का भंडारण अब भी बहुत महँगा है।",
+   "block": "कई दिनों तक चलने वाले भंडारण को मांग पर बिजली देने वाले संयंत्रों की जगह लेने के लिए बहुत सस्ता होना होगा।",
    "known": "2010 से बैटरी की कीमतें लगभग 90% गिरी हैं।",
-   "leads": "आयरन-एयर बैटरियाँ, ग्रीन हाइड्रोजन, ऊष्मा भंडारण।",
+   "leads": "100 घंटे या उससे अधिक समय तक ऊर्जा संग्रहित करने के लिए बनाई गई नई तकनीकें।",
    "s": "ऊर्जा भंडारण",
    "t": "नवीकरणीय ऊर्जा को लंबे समय तक सस्ते में कैसे संग्रहित किया जा सकता है?"
   },
   "pt": {
-   "block": "Armazenar energia entre as estações do ano continua muito caro.",
+   "block": "O armazenamento que dura vários dias precisa ficar muito mais barato para substituir as usinas que produzem sob demanda.",
    "known": "Os preços das baterias caíram cerca de 90% desde 2010.",
-   "leads": "Baterias de ferro-ar, hidrogênio verde, armazenamento de calor.",
+   "leads": "Novas tecnologias projetadas para armazenar energia por 100 horas ou mais.",
    "s": "Armazenar energia",
    "t": "Como armazenar energia renovável de forma barata por longos períodos?"
   },
   "zh": {
-   "block": "跨季节储能的成本仍然高得多。",
+   "block": "可持续数天的储能必须大幅降低成本，才能取代可按需发电的电厂。",
    "known": "自2010年以来,电池价格已下降约90%。",
-   "leads": "铁空气电池,绿氢,储热。",
+   "leads": "可储能100小时以上的新技术。",
    "s": "储能",
    "t": "如何低成本、长时间地储存可再生能源?"
   }
@@ -62,6 +62,40 @@
    "t": "New record lows for battery prices (BloombergNEF)",
    "ty": "institution",
    "u": "https://about.bnef.com/insights/clean-transport/new-record-lows-for-battery-prices/"
+  },
+  {
+   "t": "The design space for long-duration energy storage in decarbonized power systems",
+   "ty": "study",
+   "u": "https://ideas.repec.org/a/nat/natene/v6y2021i5d10.1038_s41560-021-00796-8.html"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن أن تنخفض تكلفة سعة التخزين إلى نحو 20 دولارًا لكل كيلوواط ساعة، وهو المستوى اللازم لخفض تكاليف الكهرباء بشكل ملحوظ؟",
+   "en": "Can the cost of storage capacity fall to about 20 dollars per kilowatt-hour, the level needed to cut electricity costs noticeably?",
+   "es": "¿Puede el coste de la capacidad de almacenamiento bajar a unos 20 dólares por kilovatio-hora, el nivel necesario para reducir notablemente el coste de la electricidad?",
+   "fr": "Le coût de la capacité de stockage peut-il descendre à environ 20 dollars par kilowattheure, le niveau nécessaire pour réduire nettement le coût de l'électricité ?",
+   "hi": "क्या भंडारण क्षमता की लागत लगभग 20 डॉलर प्रति किलोवाट-घंटा तक गिर सकती है, जो बिजली की लागत को उल्लेखनीय रूप से घटाने के लिए ज़रूरी स्तर है?",
+   "pt": "O custo da capacidade de armazenamento pode cair para cerca de 20 dólares por quilowatt-hora, o nível necessário para reduzir visivelmente o custo da eletricidade?",
+   "zh": "储能容量的成本能否降到每千瓦时约20美元，即明显降低电力成本所需的水平？"
+  },
+  {
+   "ar": "ما التقنيات التي يمكنها تخزين الطاقة لأكثر من 100 ساعة بتكلفة منخفضة وكفاءة عالية معًا؟",
+   "en": "Which technologies could store energy for more than 100 hours both cheaply and efficiently?",
+   "es": "¿Qué tecnologías podrían almacenar energía durante más de 100 horas de forma barata y eficiente a la vez?",
+   "fr": "Quelles technologies pourraient stocker de l'énergie pendant plus de 100 heures à la fois à bas coût et efficacement ?",
+   "hi": "कौन-सी तकनीकें 100 घंटे से ज़्यादा समय तक ऊर्जा को सस्ते और कुशल, दोनों तरीक़ों से जमा कर सकती हैं?",
+   "pt": "Quais tecnologias poderiam armazenar energia por mais de 100 horas de forma barata e eficiente ao mesmo tempo?",
+   "zh": "哪些技术能以低成本、高效率储存能量超过100小时？"
+  },
+  {
+   "ar": "لماذا يصعب أكثر على التخزين أن يحلّ تمامًا محل محطات الكهرباء المستقرة منخفضة الكربون في المناطق الشمالية حيث تعمل استخدامات أكثر للطاقة بالكهرباء؟",
+   "en": "Why is it harder for storage to fully replace steady low-carbon power plants in northern regions where more energy uses run on electricity?",
+   "es": "¿Por qué es más difícil que el almacenamiento sustituya por completo a las centrales bajas en carbono estables en las regiones del norte donde más usos de la energía funcionan con electricidad?",
+   "fr": "Pourquoi est-il plus difficile pour le stockage de remplacer entièrement les centrales bas carbone pilotables dans les régions du nord où davantage d'usages de l'énergie passent à l'électricité ?",
+   "hi": "उत्तरी क्षेत्रों में, जहाँ ऊर्जा के ज़्यादा उपयोग बिजली से चलते हैं, भंडारण के लिए स्थिर कम-कार्बन बिजलीघरों की पूरी तरह जगह लेना ज़्यादा कठिन क्यों है?",
+   "pt": "Por que é mais difícil para o armazenamento substituir totalmente usinas estáveis de baixo carbono em regiões do norte onde mais usos de energia funcionam com eletricidade?",
+   "zh": "在更多能源用途改用电力的北方地区，为什么储能更难完全取代稳定的低碳发电厂？"
   }
  ]
 }

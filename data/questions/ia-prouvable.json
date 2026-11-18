@@ -62,6 +62,40 @@
    "t": "Towards Guaranteed Safe AI: a framework for robust and reliable AI systems (arXiv, 2024)",
    "ty": "preprint",
    "u": "https://arxiv.org/html/2405.06624v2"
+  },
+  {
+   "t": "Algorithms for Verifying Deep Neural Networks",
+   "ty": "reference",
+   "u": "https://nowpublishers.com/article/Details/OPT-035"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن تحويل فكرة غامضة مثل «الضرر» إلى قاعدة دقيقة يستطيع الحاسوب التحقق منها؟",
+   "en": "How can a vague idea like 'harm' be turned into a precise rule that a computer can check?",
+   "es": "¿Cómo convertir una idea vaga como el «daño» en una regla precisa que un ordenador pueda comprobar?",
+   "fr": "Comment transformer une idée floue comme le « tort » en une règle précise qu'un ordinateur peut vérifier ?",
+   "hi": "‘नुकसान’ जैसे अस्पष्ट विचार को ऐसे सटीक नियम में कैसे बदला जाए जिसे कंप्यूटर जाँच सके?",
+   "pt": "Como transformar uma ideia vaga como 'dano' em uma regra precisa que um computador possa verificar?",
+   "zh": "如何把“伤害”这样模糊的概念变成计算机能够检验的精确规则？"
+  },
+  {
+   "ar": "هل يمكننا بناء نماذج للعالم دقيقة بما يكفي لإثبات ما ستسببه أفعال الذكاء الاصطناعي؟",
+   "en": "Can we build models of the world accurate enough to prove what an AI's actions will cause?",
+   "es": "¿Podemos construir modelos del mundo lo bastante precisos como para demostrar lo que causarán las acciones de una IA?",
+   "fr": "Pouvons-nous construire des modèles du monde assez précis pour prouver ce que provoqueront les actions d'une IA ?",
+   "hi": "क्या हम दुनिया के ऐसे मॉडल बना सकते हैं जो इतने सटीक हों कि साबित कर सकें कि किसी AI के कार्यों का क्या परिणाम होगा?",
+   "pt": "Podemos construir modelos do mundo precisos o suficiente para provar o que as ações de uma IA vão causar?",
+   "zh": "我们能否建立足够精确的世界模型，以证明人工智能的行为会造成什么后果？"
+  },
+  {
+   "ar": "هل يمكن تدريب أنظمة الذكاء الاصطناعي على كتابة براهين السلامة التي تتطلب اليوم جهدًا كبيرًا جدًا من الخبراء البشر؟",
+   "en": "Can AI systems be trained to write the safety proofs that are now too much work for human experts?",
+   "es": "¿Se puede entrenar a sistemas de IA para escribir las pruebas de seguridad que hoy suponen demasiado trabajo para los expertos humanos?",
+   "fr": "Peut-on entraîner des systèmes d'IA à rédiger les preuves de sûreté qui demandent aujourd'hui trop de travail aux experts humains ?",
+   "hi": "क्या AI प्रणालियों को वे सुरक्षा प्रमाण लिखने के लिए प्रशिक्षित किया जा सकता है, जो आज मानव विशेषज्ञों के लिए बहुत ज़्यादा मेहनत वाले हैं?",
+   "pt": "Sistemas de IA podem ser treinados para escrever as provas de segurança que hoje exigem trabalho demais de especialistas humanos?",
+   "zh": "能否训练人工智能系统来编写目前对人类专家来说工作量过大的安全性证明？"
   }
  ]
 }

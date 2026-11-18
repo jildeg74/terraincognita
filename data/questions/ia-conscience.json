@@ -62,6 +62,40 @@
    "t": "Butlin, Long et al., Consciousness in artificial intelligence: insights from the science of consciousness (arXiv)",
    "ty": "preprint",
    "u": "https://arxiv.org/pdf/2308.08708v2"
+  },
+  {
+   "t": "Identifying indicators of consciousness in AI systems",
+   "ty": "study",
+   "u": "https://researchonline.lse.ac.uk/id/eprint/130322"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل الوعي مجرد مسألة إجراء الحسابات الصحيحة، أيًّا كانت المادة التي صُنع منها النظام؟",
+   "en": "Is consciousness only a matter of performing the right computations, whatever the material the system is made of?",
+   "es": "¿Es la conciencia solo cuestión de realizar los cálculos adecuados, sin importar de qué material esté hecho el sistema?",
+   "fr": "La conscience n'est-elle qu'une question d'effectuer les bons calculs, quel que soit le matériau dont le système est fait ?",
+   "hi": "क्या चेतना केवल सही गणनाएँ करने का मामला है, चाहे वह प्रणाली किसी भी पदार्थ से बनी हो?",
+   "pt": "A consciência é apenas uma questão de realizar os cálculos certos, seja qual for o material de que o sistema é feito?",
+   "zh": "意识是否只取决于执行了正确的计算，而与系统由什么材料构成无关？"
+  },
+  {
+   "ar": "لماذا لا يمكننا ببساطة اختبار سلوك الذكاء الاصطناعي لمعرفة ما إذا كان واعيًا، ما دام قد يُدرَّب على تقليد البشر؟",
+   "en": "Why can't we just test an AI's behavior to find out if it is conscious, when it may be trained to imitate humans?",
+   "es": "¿Por qué no basta con poner a prueba el comportamiento de una IA para saber si es consciente, si puede estar entrenada para imitar a los humanos?",
+   "fr": "Pourquoi ne peut-on pas simplement tester le comportement d'une IA pour savoir si elle est consciente, alors qu'elle peut être entraînée à imiter les humains ?",
+   "hi": "जब किसी AI को इंसानों की नकल करने के लिए प्रशिक्षित किया जा सकता है, तो हम सिर्फ़ उसके व्यवहार की जाँच करके यह क्यों नहीं जान सकते कि वह सचेत है या नहीं?",
+   "pt": "Por que não podemos simplesmente testar o comportamento de uma IA para saber se ela é consciente, se ela pode ser treinada para imitar humanos?",
+   "zh": "既然人工智能可能被训练来模仿人类，为什么我们不能只靠测试它的行为来判断它是否有意识？"
+  },
+  {
+   "ar": "كيف نتجنّب الاعتقاد بأن أنظمة الذكاء الاصطناعي واعية بينما هي تبدو كذلك فحسب؟",
+   "en": "How can we avoid believing that AI systems are conscious when they only seem to be?",
+   "es": "¿Cómo evitar creer que los sistemas de IA son conscientes cuando solo lo parecen?",
+   "fr": "Comment éviter de croire que des systèmes d'IA sont conscients alors qu'ils semblent seulement l'être ?",
+   "hi": "जब AI प्रणालियाँ केवल सचेत लगती हैं, तब हम यह मानने से कैसे बचें कि वे सचमुच सचेत हैं?",
+   "pt": "Como evitar acreditar que sistemas de IA são conscientes quando eles apenas parecem ser?",
+   "zh": "当人工智能系统只是看起来有意识时，我们如何避免误以为它们真的有意识？"
   }
  ]
 }

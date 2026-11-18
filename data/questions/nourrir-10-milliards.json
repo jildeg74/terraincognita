@@ -5,49 +5,49 @@
   "ar": {
    "block": "يجب أن ترتفع الغلة أكثر على أرض ومياه وأسمدة أقل.",
    "known": "ارتفعت غلة المحاصيل ارتفاعًا حادًا على مدى عقود، لكن الزراعة تسهم في إزالة الغابات والانبعاثات.",
-   "leads": "محاصيل معدَّلة بتحرير الجينات، وحبوب تثبّت نيتروجينها بنفسها، وزراعة دقيقة.",
+   "leads": "حبوب تثبّت النيتروجين بنفسها، وزراعة تحتاج إلى أسمدة أقل.",
    "s": "إطعام 10 مليارات",
    "t": "هل يمكننا إطعام 10 مليارات إنسان دون تدمير النظم البيئية؟"
   },
   "en": {
    "block": "Yields must rise further on less land, water and fertilizer.",
    "known": "Crop yields have risen sharply over decades, but farming drives deforestation and emissions.",
-   "leads": "Gene-edited crops, cereals that fix their own nitrogen, precision farming.",
+   "leads": "Cereals that fix their own nitrogen, farming that needs less fertilizer.",
    "s": "Feeding 10 billion",
    "t": "Can we feed 10 billion people without destroying ecosystems?"
   },
   "es": {
    "block": "Los rendimientos deben seguir subiendo con menos tierra, agua y fertilizante.",
    "known": "Los rendimientos agrícolas han aumentado mucho durante décadas, pero la agricultura causa deforestación y emisiones.",
-   "leads": "Cultivos editados genéticamente, cereales que fijan su propio nitrógeno, agricultura de precisión.",
+   "leads": "Cereales que fijan su propio nitrógeno, una agricultura que necesita menos fertilizantes.",
    "s": "Alimentar a 10 000 millones",
    "t": "¿Podemos alimentar a 10 000 millones de personas sin destruir los ecosistemas?"
   },
   "fr": {
    "block": "Il faut produire plus avec moins de terres, d'eau et d'engrais.",
    "known": "Les rendements ont fortement augmenté depuis des décennies, mais l'agriculture cause déforestation et émissions.",
-   "leads": "Cultures modifiées par édition génétique, céréales qui fixent leur propre azote, agriculture de précision.",
+   "leads": "Des céréales qui fixent elles-mêmes l'azote, une agriculture qui demande moins d'engrais.",
    "s": "Nourrir 10 milliards",
    "t": "Peut-on nourrir 10 milliards d'humains sans détruire les écosystèmes ?"
   },
   "hi": {
    "block": "कम ज़मीन, पानी और उर्वरक पर पैदावार को और बढ़ाना होगा।",
    "known": "दशकों में फसल की पैदावार तेज़ी से बढ़ी है, लेकिन खेती वनों की कटाई और उत्सर्जन का कारण बनती है।",
-   "leads": "जीन-संपादित फसलें, अपना नाइट्रोजन खुद स्थिर करने वाले अनाज, सटीक खेती।",
+   "leads": "ऐसे अनाज जो अपनी नाइट्रोजन खुद स्थिर करें, ऐसी खेती जिसे कम उर्वरक चाहिए।",
    "s": "10 अरब का पेट भरना",
    "t": "क्या हम पारिस्थितिक तंत्रों को नष्ट किए बिना 10 अरब लोगों का पेट भर सकते हैं?"
   },
   "pt": {
    "block": "A produtividade precisa subir ainda mais com menos terra, água e fertilizante.",
    "known": "A produtividade das lavouras cresceu muito ao longo de décadas, mas a agricultura causa desmatamento e emissões.",
-   "leads": "Culturas editadas geneticamente, cereais que fixam o próprio nitrogênio, agricultura de precisão.",
+   "leads": "Cereais que fixam o próprio nitrogênio, uma agricultura que precisa de menos fertilizantes.",
    "s": "Alimentar 10 bilhões",
    "t": "Podemos alimentar 10 bilhões de pessoas sem destruir os ecossistemas?"
   },
   "zh": {
    "block": "必须在更少的土地、水和肥料下进一步提高产量。",
    "known": "几十年来作物产量大幅提高,但农业也导致毁林和排放。",
-   "leads": "基因编辑作物,能自己固氮的谷物,精准农业。",
+   "leads": "能自行固氮的谷物，需要更少化肥的农业。",
    "s": "养活100亿人",
    "t": "我们能在不破坏生态系统的前提下养活100亿人吗?"
   }
@@ -62,6 +62,40 @@
    "t": "Business-as-usual not an option with future global food security in jeopardy (UN News, FAO)",
    "ty": "official",
    "u": "https://news.un.org/en/node/551972"
+  },
+  {
+   "t": "Biological nitrogen fixation and prospects for ecological intensification in cereal-based cropping systems",
+   "ty": "study",
+   "u": "https://cgspace.cgiar.org/items/a9cb8467-dfd2-496c-8ca6-14650164655a"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن تعديل الحبوب مثل القمح والأرز والذرة لتثبّت النيتروجين من الهواء بنفسها؟",
+   "en": "Can cereals like wheat, rice and maize be engineered to fix their own nitrogen from the air?",
+   "es": "¿Se pueden modificar cereales como el trigo, el arroz y el maíz para que fijen por sí mismos el nitrógeno del aire?",
+   "fr": "Peut-on modifier des céréales comme le blé, le riz et le maïs pour qu'elles fixent elles-mêmes l'azote de l'air ?",
+   "hi": "क्या गेहूँ, चावल और मक्का जैसे अनाजों को ऐसा बनाया जा सकता है कि वे हवा से ख़ुद नाइट्रोजन ले सकें?",
+   "pt": "É possível modificar cereais como trigo, arroz e milho para que fixem o próprio nitrogênio do ar?",
+   "zh": "能否改造小麦、水稻和玉米等谷物，使它们自己从空气中固氮？"
+  },
+  {
+   "ar": "ما كمية النيتروجين التي يمكن أن توفرها بكتيريا التربة الحرة لمحاصيل الحبوب؟",
+   "en": "How much nitrogen can free-living soil bacteria provide to cereal crops?",
+   "es": "¿Cuánto nitrógeno pueden aportar a los cultivos de cereales las bacterias del suelo de vida libre?",
+   "fr": "Quelle quantité d'azote les bactéries libres du sol peuvent-elles fournir aux cultures de céréales ?",
+   "hi": "मिट्टी में स्वतंत्र रूप से रहने वाले बैक्टीरिया अनाज की फ़सलों को कितनी नाइट्रोजन दे सकते हैं?",
+   "pt": "Quanto nitrogênio as bactérias de vida livre do solo podem fornecer às culturas de cereais?",
+   "zh": "土壤中自由生活的细菌能为谷类作物提供多少氮？"
+  },
+  {
+   "ar": "كيف يمكن تلبية حاجة المحاصيل إلى النيتروجين، المتوقع أن تتضاعف على الأقل بحلول 2050، دون مزيد من التلوث بالأسمدة؟",
+   "en": "How can crops' need for nitrogen, expected to at least double by 2050, be met without more fertilizer pollution?",
+   "es": "¿Cómo satisfacer la necesidad de nitrógeno de los cultivos, que se espera que al menos se duplique para 2050, sin más contaminación por fertilizantes?",
+   "fr": "Comment répondre aux besoins en azote des cultures, qui devraient au moins doubler d'ici 2050, sans davantage de pollution par les engrais ?",
+   "hi": "2050 तक फ़सलों की नाइट्रोजन की ज़रूरत कम से कम दोगुनी होने की उम्मीद है; इसे उर्वरक से ज़्यादा प्रदूषण के बिना कैसे पूरा किया जाए?",
+   "pt": "Como atender à necessidade de nitrogênio das culturas, que deve pelo menos dobrar até 2050, sem mais poluição por fertilizantes?",
+   "zh": "预计到2050年作物对氮的需求至少会翻一番，如何在不增加化肥污染的情况下满足这一需求？"
   }
  ]
 }

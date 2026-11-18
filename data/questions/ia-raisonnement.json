@@ -62,6 +62,40 @@
    "t": "Kalai et al., Why language models hallucinate (arXiv, 2025)",
    "ty": "preprint",
    "u": "https://arxiv.org/html/2509.04664v1"
+  },
+  {
+   "t": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+   "ty": "reference",
+   "u": "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_crossref_primary_10_1145_3703155"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن للذكاء الاصطناعي أن يتعلم إدراك حدود معرفته؟",
+   "en": "How can an AI learn to recognize the limits of its own knowledge?",
+   "es": "¿Cómo puede una IA aprender a reconocer los límites de su propio conocimiento?",
+   "fr": "Comment une IA peut-elle apprendre à reconnaître les limites de ses propres connaissances ?",
+   "hi": "कोई AI अपने ज्ञान की सीमाओं को पहचानना कैसे सीख सकता है?",
+   "pt": "Como uma IA pode aprender a reconhecer os limites do seu próprio conhecimento?",
+   "zh": "人工智能如何才能学会认识自身知识的边界？"
+  },
+  {
+   "ar": "هل سيختلق الذكاء الاصطناعي إجابات خاطئة أقل لو توقفت الاختبارات عن مكافأة التخمين بدلًا من قول «لا أعرف»؟",
+   "en": "Would AIs make up fewer false answers if tests stopped rewarding guessing over saying 'I don't know'?",
+   "es": "¿Inventarían las IA menos respuestas falsas si los exámenes dejaran de premiar adivinar en lugar de decir «no lo sé»?",
+   "fr": "Les IA inventeraient-elles moins de fausses réponses si les tests cessaient de récompenser le fait de deviner plutôt que de dire « je ne sais pas » ?",
+   "hi": "अगर परीक्षाएँ ‘मुझे नहीं पता’ कहने के बजाय अनुमान लगाने को इनाम देना बंद कर दें, तो क्या AI कम गलत जवाब गढ़ेंगे?",
+   "pt": "As IAs inventariam menos respostas falsas se os testes parassem de recompensar o chute em vez de dizer 'não sei'?",
+   "zh": "如果测试不再奖励猜测而惩罚“我不知道”，人工智能编造的错误答案会不会减少？"
+  },
+  {
+   "ar": "لماذا قد يجعل التدريب الإضافي النموذجَ أسوأ في تقدير مدى الثقة التي ينبغي أن تكون لديه؟",
+   "en": "Why can extra training make a model worse at judging how confident it should be?",
+   "es": "¿Por qué un entrenamiento adicional puede hacer que un modelo juzgue peor cuánta confianza debería tener?",
+   "fr": "Pourquoi un entraînement supplémentaire peut-il rendre un modèle moins bon pour juger de la confiance qu'il devrait avoir ?",
+   "hi": "अतिरिक्त प्रशिक्षण किसी मॉडल को यह आँकने में बदतर क्यों बना सकता है कि उसे कितना आश्वस्त होना चाहिए?",
+   "pt": "Por que um treinamento extra pode tornar um modelo pior em avaliar quanta confiança ele deveria ter?",
+   "zh": "为什么额外的训练会让模型更难判断自己应有多大把握？"
   }
  ]
 }

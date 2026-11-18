@@ -66,6 +66,40 @@
    "t": "Earth system tipping point risks (Global Tipping Points Report)",
    "ty": "official",
    "u": "https://global-tipping-points.org/summary-report/section-1/"
+  },
+  {
+   "t": "Exceeding 1.5°C global warming could trigger multiple climate tipping points",
+   "ty": "study",
+   "u": "https://ore.exeter.ac.uk/repository/handle/10871/131584"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "عند أي مستوى من الاحترار تتجاوز فعليًا كلُّ منظومة حرجة، مثل صفيحة جليدية أو الأمازون، نقطةَ تحوّلها؟",
+   "en": "At what level of warming does each tipping system, such as an ice sheet or the Amazon, actually tip?",
+   "es": "¿Con qué nivel de calentamiento se desencadena realmente cada sistema con punto de inflexión, como una capa de hielo o la Amazonía?",
+   "fr": "À quel niveau de réchauffement chaque système à point de bascule, comme une calotte glaciaire ou l'Amazonie, bascule-t-il réellement ?",
+   "hi": "कितनी गर्मी बढ़ने पर हर टिपिंग प्रणाली, जैसे कोई बर्फ़ की चादर या अमेज़न, वास्तव में पलट जाती है?",
+   "pt": "Em que nível de aquecimento cada sistema com ponto de inflexão, como um manto de gelo ou a Amazônia, realmente vira?",
+   "zh": "每个临界系统（如冰盖或亚马孙雨林）究竟会在多高的升温水平下越过临界点？"
+  },
+  {
+   "ar": "هل يمكننا بناء إنذارات مبكرة موثوقة بأن نقطة تحوّل ما تقترب؟",
+   "en": "Can we build reliable early warnings that a tipping point is getting close?",
+   "es": "¿Podemos crear alertas tempranas fiables de que un punto de inflexión se está acercando?",
+   "fr": "Pouvons-nous mettre au point des alertes précoces fiables indiquant qu'un point de bascule se rapproche ?",
+   "hi": "क्या हम भरोसेमंद शुरुआती चेतावनियाँ बना सकते हैं कि कोई टिपिंग पॉइंट पास आ रहा है?",
+   "pt": "Podemos criar alertas precoces confiáveis de que um ponto de inflexão está se aproximando?",
+   "zh": "我们能否建立可靠的早期预警，提示某个临界点正在逼近？"
+  },
+  {
+   "ar": "ما نقاط التحوّل التي قد تكون انطلقت بالفعل عند مستوى الاحترار الحالي؟",
+   "en": "Which tipping points could already be triggered at today's level of warming?",
+   "es": "¿Qué puntos de inflexión podrían desencadenarse ya con el nivel actual de calentamiento?",
+   "fr": "Quels points de bascule pourraient déjà être déclenchés au niveau de réchauffement actuel ?",
+   "hi": "आज के गर्मी के स्तर पर कौन-से टिपिंग पॉइंट पहले से ही शुरू हो सकते हैं?",
+   "pt": "Quais pontos de inflexão já poderiam ser desencadeados no nível atual de aquecimento?",
+   "zh": "在目前的升温水平下，哪些临界点可能已经被触发？"
   }
  ]
 }

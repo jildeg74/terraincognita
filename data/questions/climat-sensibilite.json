@@ -68,6 +68,40 @@
    "t": "IPCC AR6 Working Group I, Chapter 1",
    "ty": "official",
    "u": "https://adaptecca.es/sites/default/files/ipcc_ar6_wgi_chapter_01.pdf"
+  },
+  {
+   "t": "An Assessment of Earth's Climate Sensitivity Using Multiple Lines of Evidence",
+   "ty": "study",
+   "u": "https://openresearch-repository.anu.edu.au/items/c099db99-1833-4e9a-bdc1-e650906fbd29"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "لماذا تُعدّ استجابة السحب للاحترار أكثر غموضًا بكثير من التغذيات الراجعة المناخية الأخرى؟",
+   "en": "Why is the way clouds respond to warming so much more uncertain than other climate feedbacks?",
+   "es": "¿Por qué la respuesta de las nubes al calentamiento es mucho más incierta que otras retroalimentaciones climáticas?",
+   "fr": "Pourquoi la réaction des nuages au réchauffement est-elle tellement plus incertaine que les autres rétroactions climatiques ?",
+   "hi": "गर्मी बढ़ने पर बादलों की प्रतिक्रिया अन्य जलवायु फ़ीडबैक की तुलना में इतनी अधिक अनिश्चित क्यों है?",
+   "pt": "Por que a resposta das nuvens ao aquecimento é muito mais incerta do que outros feedbacks climáticos?",
+   "zh": "为什么云对变暖的响应比其他气候反馈要不确定得多？"
+  },
+  {
+   "ar": "لماذا يجعل النمط غير المتساوي لاحترار المحيطات سجلاتِ الحرارة الماضية دليلًا معقّدًا على الاحترار المستقبلي؟",
+   "en": "Why does the uneven pattern of ocean warming make past temperature records a tricky guide to future warming?",
+   "es": "¿Por qué el patrón desigual del calentamiento del océano hace que los registros de temperatura pasados sean una guía complicada del calentamiento futuro?",
+   "fr": "Pourquoi la répartition inégale du réchauffement des océans fait-elle des relevés de température passés un guide délicat pour le réchauffement futur ?",
+   "hi": "महासागर के असमान रूप से गर्म होने का पैटर्न पिछले तापमान रिकॉर्ड को भविष्य की गर्मी का पेचीदा संकेतक क्यों बना देता है?",
+   "pt": "Por que o padrão desigual de aquecimento dos oceanos torna os registros de temperatura do passado um guia complicado para o aquecimento futuro?",
+   "zh": "为什么海洋变暖的不均匀格局使过去的温度记录难以直接用来推断未来的变暖？"
+  },
+  {
+   "ar": "إلى أي حد يمكن للمناخات الماضية، مثل العصر الجليدي الأخير، أن تضيّق نطاق الاحترار المستقبلي؟",
+   "en": "How much can past climates, such as the last ice age, narrow the range of future warming?",
+   "es": "¿Cuánto pueden los climas del pasado, como la última glaciación, acotar el rango del calentamiento futuro?",
+   "fr": "Dans quelle mesure les climats passés, comme la dernière période glaciaire, peuvent-ils réduire la fourchette du réchauffement futur ?",
+   "hi": "पिछली जलवायु, जैसे पिछला हिमयुग, भविष्य की गर्मी के अनुमानित दायरे को कितना छोटा कर सकती है?",
+   "pt": "Quanto os climas do passado, como a última era glacial, podem estreitar a faixa do aquecimento futuro?",
+   "zh": "过去的气候（例如上一个冰期）能在多大程度上缩小未来变暖的范围？"
   }
  ]
 }

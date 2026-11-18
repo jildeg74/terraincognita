@@ -67,5 +67,34 @@
    "ty": "press",
    "u": "https://www.smithsonianmag.com/science-nature/earths-magnetic-field-could-take-longer-flip-previously-thought-180972843/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "ما الذي يُطلق بداية انقلاب المجال المغناطيسي للأرض؟",
+   "en": "What triggers Earth's magnetic field to start flipping?",
+   "es": "¿Qué desencadena el inicio de una inversión del campo magnético de la Tierra?",
+   "fr": "Qu'est-ce qui déclenche le début d'une inversion du champ magnétique terrestre ?",
+   "hi": "पृथ्वी के चुंबकीय क्षेत्र को पलटना शुरू करने के लिए क्या प्रेरित करता है?",
+   "pt": "O que desencadeia o início da inversão do campo magnético da Terra?",
+   "zh": "是什么触发地球磁场开始翻转？"
+  },
+  {
+   "ar": "هل تُعدّ فترة عدم الاستقرار الطويلة قبل الانقلاب النهائي سمةً مشتركة لجميع الانقلابات المغناطيسية؟",
+   "en": "Is a long unstable period before the final flip typical of all magnetic reversals?",
+   "es": "¿Es típico de todas las inversiones magnéticas un largo período inestable antes del cambio final?",
+   "fr": "Une longue période d'instabilité avant le basculement final est-elle typique de toutes les inversions magnétiques ?",
+   "hi": "क्या अंतिम पलटाव से पहले लंबा अस्थिर दौर सभी चुंबकीय उलटावों की आम विशेषता है?",
+   "pt": "Um longo período instável antes da inversão final é típico de todas as inversões magnéticas?",
+   "zh": "在最终翻转之前出现漫长的不稳定期，是否是所有磁极倒转的共同特点？"
+  },
+  {
+   "ar": "هل يعني ضعف المجال المغناطيسي الحالي أن انقلابًا في الطريق؟",
+   "en": "Does the weakening of today's magnetic field mean a reversal is on the way?",
+   "es": "¿Significa el debilitamiento actual del campo magnético que se avecina una inversión?",
+   "fr": "L'affaiblissement actuel du champ magnétique signifie-t-il qu'une inversion se prépare ?",
+   "hi": "क्या आज चुंबकीय क्षेत्र का कमज़ोर होना इस बात का संकेत है कि उलटाव आने वाला है?",
+   "pt": "O enfraquecimento atual do campo magnético significa que uma inversão está a caminho?",
+   "zh": "当今磁场的减弱是否意味着一次倒转即将到来？"
+  }
  ]
 }

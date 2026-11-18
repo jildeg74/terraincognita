@@ -63,6 +63,40 @@
    "t": "International AI Safety Report 2025 (UK Government)",
    "ty": "official",
    "u": "https://www.gov.uk/government/publications/international-ai-safety-report-2025"
+  },
+  {
+   "t": "Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback",
+   "ty": "study",
+   "u": "https://research-collection.ethz.ch/handle/20.500.11850/651806"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن للناس التحقق من عمل الذكاء الاصطناعي في مهام أصعب من أن يحكموا عليها؟",
+   "en": "How can people check an AI's work on tasks that are too hard for them to judge?",
+   "es": "¿Cómo pueden las personas comprobar el trabajo de una IA en tareas demasiado difíciles para que ellas puedan juzgarlas?",
+   "fr": "Comment des humains peuvent-ils vérifier le travail d'une IA sur des tâches trop difficiles pour qu'ils puissent en juger ?",
+   "hi": "जो काम इतने कठिन हैं कि लोग उन्हें परख ही न सकें, उन पर लोग AI के काम की जाँच कैसे करें?",
+   "pt": "Como as pessoas podem verificar o trabalho de uma IA em tarefas difíceis demais para elas avaliarem?",
+   "zh": "对于难到人们无法评判的任务，人们如何检查人工智能的工作？"
+  },
+  {
+   "ar": "كيف نمنع الذكاء الاصطناعي من استغلال الثغرات في المكافأة التي يُدرَّب على تعظيمها؟",
+   "en": "How can we stop an AI from exploiting flaws in the reward it is trained to maximize?",
+   "es": "¿Cómo impedir que una IA aproveche los fallos de la recompensa que se la entrena para maximizar?",
+   "fr": "Comment empêcher une IA d'exploiter les failles de la récompense qu'elle est entraînée à maximiser ?",
+   "hi": "किसी AI को उस इनाम की खामियों का फ़ायदा उठाने से कैसे रोका जाए, जिसे अधिकतम करने के लिए उसे प्रशिक्षित किया गया है?",
+   "pt": "Como impedir que uma IA explore falhas na recompensa que ela é treinada para maximizar?",
+   "zh": "如何阻止人工智能利用其训练目标（奖励）中的漏洞？"
+  },
+  {
+   "ar": "لماذا قد يتصرف الذكاء الاصطناعي بشكل سيئ عند استخدامه، حتى لو كوفئ بشكل صحيح أثناء التدريب؟",
+   "en": "Why can an AI behave badly once in use, even if it was rewarded correctly during training?",
+   "es": "¿Por qué una IA puede comportarse mal una vez en uso, aunque haya sido recompensada correctamente durante el entrenamiento?",
+   "fr": "Pourquoi une IA peut-elle mal se comporter une fois utilisée, même si elle a été correctement récompensée pendant l'entraînement ?",
+   "hi": "प्रशिक्षण के दौरान सही इनाम मिलने के बावजूद, इस्तेमाल में आने पर कोई AI गलत व्यवहार क्यों कर सकता है?",
+   "pt": "Por que uma IA pode se comportar mal quando em uso, mesmo tendo sido recompensada corretamente durante o treinamento?",
+   "zh": "为什么一个人工智能即使在训练中得到了正确的奖励，投入使用后仍可能表现不当？"
   }
  ]
 }

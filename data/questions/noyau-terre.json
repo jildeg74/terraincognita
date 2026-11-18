@@ -62,6 +62,40 @@
    "t": "USC study confirms the rotation of Earth's inner core has slowed (USC, 2024)",
    "ty": "institution",
    "u": "https://today.usc.edu/usc-study-confirms-the-rotation-of-earths-inner-core-has-slowed/"
+  },
+  {
+   "t": "Inner core backtracking by seismic waveform change reversals",
+   "ty": "study",
+   "u": "https://openpolar.no/Record/ftpubmed:38867052/Details"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "ما الذي يجعل اللبّ الداخلي يتسارع ثم يتباطأ بالنسبة إلى بقية الكوكب؟",
+   "en": "What makes the inner core speed up and then slow down relative to the rest of the planet?",
+   "es": "¿Qué hace que el núcleo interno se acelere y luego se frene respecto al resto del planeta?",
+   "fr": "Qu'est-ce qui fait accélérer puis ralentir la graine (noyau interne) par rapport au reste de la planète ?",
+   "hi": "आंतरिक कोर ग्रह के बाकी हिस्से की तुलना में पहले तेज़ और फिर धीमा क्यों हो जाता है?",
+   "pt": "O que faz o núcleo interno acelerar e depois desacelerar em relação ao resto do planeta?",
+   "zh": "是什么让内核相对于地球其他部分先加速、后减速？"
+  },
+  {
+   "ar": "لماذا عاد اللبّ الداخلي على مساره أبطأ مما تقدّم فيه؟",
+   "en": "Why did the inner core move back along its path more slowly than it moved forward?",
+   "es": "¿Por qué el núcleo interno retrocedió por su trayectoria más despacio de lo que había avanzado?",
+   "fr": "Pourquoi la graine est-elle revenue sur sa trajectoire plus lentement qu'elle ne l'avait parcourue en avançant ?",
+   "hi": "आंतरिक कोर अपने रास्ते पर पीछे लौटते समय आगे बढ़ने की तुलना में धीमा क्यों चला?",
+   "pt": "Por que o núcleo interno voltou pelo seu caminho mais devagar do que avançou?",
+   "zh": "为什么内核沿原路返回的速度比它向前移动时更慢？"
+  },
+  {
+   "ar": "كيف يؤثر اللبّ الداخلي الصلب واللبّ الخارجي السائل والوشاح بعضها في بعض؟",
+   "en": "How do the solid inner core, the liquid outer core and the mantle pull on one another?",
+   "es": "¿Cómo se influyen mutuamente el núcleo interno sólido, el núcleo externo líquido y el manto?",
+   "fr": "Comment la graine solide, le noyau externe liquide et le manteau agissent-ils les uns sur les autres ?",
+   "hi": "ठोस आंतरिक कोर, तरल बाहरी कोर और मेंटल एक-दूसरे को कैसे खींचते हैं?",
+   "pt": "Como o núcleo interno sólido, o núcleo externo líquido e o manto puxam uns aos outros?",
+   "zh": "固态内核、液态外核和地幔之间是如何相互牵引的？"
   }
  ]
 }

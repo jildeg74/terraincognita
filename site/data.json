@@ -379,8 +379,42 @@
    "src": [
     {
      "t": "Kirkpatrick et al., Overcoming catastrophic forgetting in neural networks (PNAS, 2017)",
-     "ty": "preprint",
+     "ty": "study",
      "u": "https://arxiv.org/abs/1612.00796"
+    },
+    {
+     "t": "Three types of incremental learning",
+     "ty": "study",
+     "u": "https://www.nature.com/articles/s42256-022-00568-3.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "لماذا لا يزال من الصعب جدًا على الذكاء الاصطناعي أن يتعلم نوعًا جديدًا من البيانات دون أن ينسى ما تعلمه من قبل؟",
+     "en": "Why is it still so hard for an AI to learn a new kind of data without forgetting what it learned before?",
+     "es": "¿Por qué sigue siendo tan difícil que una IA aprenda un nuevo tipo de datos sin olvidar lo que aprendió antes?",
+     "fr": "Pourquoi est-il encore si difficile pour une IA d'apprendre un nouveau type de données sans oublier ce qu'elle a appris avant ?",
+     "hi": "किसी AI के लिए पहले सीखी बातें भूले बिना नए प्रकार का डेटा सीखना अब भी इतना कठिन क्यों है?",
+     "pt": "Por que ainda é tão difícil para uma IA aprender um novo tipo de dados sem esquecer o que aprendeu antes?",
+     "zh": "为什么人工智能在学习一种新类型的数据时，仍然很难不忘记之前学到的东西？"
+    },
+    {
+     "ar": "هل يمكن للذكاء الاصطناعي أن يواصل التعلم دون تخزين الأمثلة القديمة وإعادة عرضها؟",
+     "en": "Can an AI keep learning without storing and replaying old examples?",
+     "es": "¿Puede una IA seguir aprendiendo sin almacenar y volver a reproducir ejemplos antiguos?",
+     "fr": "Une IA peut-elle continuer à apprendre sans stocker et rejouer d'anciens exemples ?",
+     "hi": "क्या कोई AI पुराने उदाहरणों को सहेजे और दोहराए बिना सीखना जारी रख सकता है?",
+     "pt": "Uma IA pode continuar aprendendo sem armazenar e reproduzir exemplos antigos?",
+     "zh": "人工智能能否在不存储和重放旧样本的情况下持续学习？"
+    },
+    {
+     "ar": "كيف يمكن أن يجعل تعلّمُ مهمة جديدة الذكاءَ الاصطناعي أفضل في المهام السابقة بدلًا من أن يجعله أسوأ؟",
+     "en": "How can learning a new task make an AI better at earlier tasks, instead of worse?",
+     "es": "¿Cómo puede aprender una nueva tarea hacer que una IA sea mejor en las tareas anteriores, en lugar de peor?",
+     "fr": "Comment l'apprentissage d'une nouvelle tâche peut-il rendre une IA meilleure aux tâches précédentes, au lieu de moins bonne ?",
+     "hi": "नया काम सीखने से कोई AI पुराने कामों में बदतर होने के बजाय बेहतर कैसे बन सकता है?",
+     "pt": "Como aprender uma nova tarefa pode tornar uma IA melhor nas tarefas anteriores, em vez de pior?",
+     "zh": "怎样才能让学习新任务使人工智能在以前的任务上变得更好，而不是更差？"
     }
    ]
   },
@@ -551,6 +585,35 @@
      "t": "Mora et al., How many species are there on Earth and in the ocean? (PLOS Biology, 2011)",
      "ty": "study",
      "u": "https://journals.plos.org/plosbiology/article/info:doi/10.1371/journal.pbio.1001127"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كم عدد أنواع البكتيريا والميكروبات الأخرى، في حين أن تقديراتنا لا تعطي سوى حدّ أدنى؟",
+     "en": "How many kinds of bacteria and other microbes are there, when our counts are only a lower limit?",
+     "es": "¿Cuántos tipos de bacterias y otros microbios existen, si nuestros recuentos solo dan un límite inferior?",
+     "fr": "Combien existe-t-il de sortes de bactéries et d'autres microbes, alors que nos décomptes ne donnent qu'une limite inférieure ?",
+     "hi": "बैक्टीरिया और दूसरे सूक्ष्मजीवों की कितनी किस्में हैं, जब हमारी गिनती सिर्फ़ एक न्यूनतम सीमा बताती है?",
+     "pt": "Quantos tipos de bactérias e outros micróbios existem, se nossas contagens são apenas um limite mínimo?",
+     "zh": "细菌和其他微生物究竟有多少种？我们目前的统计只是一个下限。"
+    },
+    {
+     "ar": "كيف يمكن تسريع وصف ملايين الأنواع المجهولة، بينما قد يستغرق ذلك قرونًا بالوتيرة الحالية؟",
+     "en": "How can the naming of millions of unknown species be sped up, when it could take centuries at today's pace?",
+     "es": "¿Cómo acelerar la descripción de millones de especies desconocidas, si al ritmo actual podría llevar siglos?",
+     "fr": "Comment accélérer la description de millions d'espèces inconnues, alors que cela pourrait prendre des siècles au rythme actuel ?",
+     "hi": "आज की रफ़्तार से लाखों अज्ञात प्रजातियों का वर्णन करने में सदियाँ लग सकती हैं; इसे तेज़ कैसे किया जाए?",
+     "pt": "Como acelerar a descrição de milhões de espécies desconhecidas, se no ritmo atual isso pode levar séculos?",
+     "zh": "按现在的速度，描述数以百万计的未知物种可能需要几个世纪，怎样才能加快这一进程？"
+    },
+    {
+     "ar": "كم عدد الأنواع التي تنقرض قبل أن نعرف حتى بوجودها؟",
+     "en": "How many species are going extinct before we even know they exist?",
+     "es": "¿Cuántas especies se están extinguiendo antes incluso de que sepamos que existen?",
+     "fr": "Combien d'espèces disparaissent avant même que nous sachions qu'elles existent ?",
+     "hi": "कितनी प्रजातियाँ हमारे यह जानने से पहले ही विलुप्त हो रही हैं कि वे मौजूद थीं?",
+     "pt": "Quantas espécies estão se extinguindo antes mesmo de sabermos que existem?",
+     "zh": "有多少物种在我们知道它们存在之前就已经灭绝了？"
     }
    ]
   },
@@ -911,6 +974,45 @@
      "t": "Direct Air Capture: executive summary (IEA)",
      "ty": "official",
      "u": "https://www.iea.org/reports/direct-air-capture-3/executive-summary"
+    },
+    {
+     "t": "A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage",
+     "ty": "study",
+     "u": "https://pubs.rsc.org/en/content/articlehtml/2023/ee/d3ee01008b"
+    },
+    {
+     "t": "Potential for large-scale CO2 removal via enhanced rock weathering with croplands",
+     "ty": "study",
+     "u": "https://ore.exeter.ac.uk/repository/handle/10871/122894"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "ما مواد الالتقاط التي يمكنها أن تتحمّل آلاف دورات الالتقاط والإطلاق في هواء حقيقي رطب؟",
+     "en": "Which capture materials can survive thousands of capture-and-release cycles in real, humid air?",
+     "es": "¿Qué materiales de captura pueden resistir miles de ciclos de captura y liberación en aire real y húmedo?",
+     "fr": "Quels matériaux de captage peuvent résister à des milliers de cycles de captage et de libération dans un air réel et humide ?",
+     "hi": "कौन-सी कैप्चर सामग्रियाँ असली, नम हवा में हज़ारों बार पकड़ने और छोड़ने के चक्र झेल सकती हैं?",
+     "pt": "Quais materiais de captura conseguem resistir a milhares de ciclos de captura e liberação em ar real e úmido?",
+     "zh": "哪些捕集材料能在真实的潮湿空气中经受住成千上万次捕集与释放循环？"
+    },
+    {
+     "ar": "كيف يمكن خفض الطاقة اللازمة لالتقاط كل طن من ثاني أكسيد الكربون من الهواء خفضًا كبيرًا؟",
+     "en": "How can the energy needed to capture each ton of CO2 from the air be cut sharply?",
+     "es": "¿Cómo se puede reducir drásticamente la energía necesaria para capturar cada tonelada de CO2 del aire?",
+     "fr": "Comment réduire fortement l'énergie nécessaire pour capter chaque tonne de CO2 dans l'air ?",
+     "hi": "हवा से हर टन CO2 पकड़ने में लगने वाली ऊर्जा को बहुत कम कैसे किया जा सकता है?",
+     "pt": "Como reduzir drasticamente a energia necessária para capturar cada tonelada de CO2 do ar?",
+     "zh": "怎样才能大幅减少从空气中捕集每吨二氧化碳所需的能量？"
+    },
+    {
+     "ar": "هل يمكن توسيع نطاق تخزين ثاني أكسيد الكربون بتحويله إلى صخر تحت الأرض بشكل آمن؟",
+     "en": "Can storing CO2 by turning it into rock underground be scaled up safely?",
+     "es": "¿Se puede ampliar de forma segura el almacenamiento de CO2 convirtiéndolo en roca bajo tierra?",
+     "fr": "Peut-on développer à grande échelle et en toute sécurité le stockage du CO2 en le transformant en roche sous terre ?",
+     "hi": "क्या CO2 को ज़मीन के नीचे चट्टान में बदलकर जमा करने को सुरक्षित रूप से बड़े पैमाने पर किया जा सकता है?",
+     "pt": "É possível ampliar com segurança o armazenamento de CO2 transformando-o em rocha no subsolo?",
+     "zh": "通过在地下把二氧化碳变成岩石来封存它，能否安全地扩大规模？"
     }
    ]
   },
@@ -1087,6 +1189,35 @@
      "ty": "press",
      "u": "https://www.smithsonianmag.com/science-nature/earths-magnetic-field-could-take-longer-flip-previously-thought-180972843/"
     }
+   ],
+   "sub": [
+    {
+     "ar": "ما الذي يُطلق بداية انقلاب المجال المغناطيسي للأرض؟",
+     "en": "What triggers Earth's magnetic field to start flipping?",
+     "es": "¿Qué desencadena el inicio de una inversión del campo magnético de la Tierra?",
+     "fr": "Qu'est-ce qui déclenche le début d'une inversion du champ magnétique terrestre ?",
+     "hi": "पृथ्वी के चुंबकीय क्षेत्र को पलटना शुरू करने के लिए क्या प्रेरित करता है?",
+     "pt": "O que desencadeia o início da inversão do campo magnético da Terra?",
+     "zh": "是什么触发地球磁场开始翻转？"
+    },
+    {
+     "ar": "هل تُعدّ فترة عدم الاستقرار الطويلة قبل الانقلاب النهائي سمةً مشتركة لجميع الانقلابات المغناطيسية؟",
+     "en": "Is a long unstable period before the final flip typical of all magnetic reversals?",
+     "es": "¿Es típico de todas las inversiones magnéticas un largo período inestable antes del cambio final?",
+     "fr": "Une longue période d'instabilité avant le basculement final est-elle typique de toutes les inversions magnétiques ?",
+     "hi": "क्या अंतिम पलटाव से पहले लंबा अस्थिर दौर सभी चुंबकीय उलटावों की आम विशेषता है?",
+     "pt": "Um longo período instável antes da inversão final é típico de todas as inversões magnéticas?",
+     "zh": "在最终翻转之前出现漫长的不稳定期，是否是所有磁极倒转的共同特点？"
+    },
+    {
+     "ar": "هل يعني ضعف المجال المغناطيسي الحالي أن انقلابًا في الطريق؟",
+     "en": "Does the weakening of today's magnetic field mean a reversal is on the way?",
+     "es": "¿Significa el debilitamiento actual del campo magnético que se avecina una inversión?",
+     "fr": "L'affaiblissement actuel du champ magnétique signifie-t-il qu'une inversion se prépare ?",
+     "hi": "क्या आज चुंबकीय क्षेत्र का कमज़ोर होना इस बात का संकेत है कि उलटाव आने वाला है?",
+     "pt": "O enfraquecimento atual do campo magnético significa que uma inversão está a caminho?",
+     "zh": "当今磁场的减弱是否意味着一次倒转即将到来？"
+    }
    ]
   },
   {
@@ -1160,6 +1291,40 @@
      "t": "IPCC AR6 Working Group I, Chapter 1",
      "ty": "official",
      "u": "https://adaptecca.es/sites/default/files/ipcc_ar6_wgi_chapter_01.pdf"
+    },
+    {
+     "t": "An Assessment of Earth's Climate Sensitivity Using Multiple Lines of Evidence",
+     "ty": "study",
+     "u": "https://openresearch-repository.anu.edu.au/items/c099db99-1833-4e9a-bdc1-e650906fbd29"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "لماذا تُعدّ استجابة السحب للاحترار أكثر غموضًا بكثير من التغذيات الراجعة المناخية الأخرى؟",
+     "en": "Why is the way clouds respond to warming so much more uncertain than other climate feedbacks?",
+     "es": "¿Por qué la respuesta de las nubes al calentamiento es mucho más incierta que otras retroalimentaciones climáticas?",
+     "fr": "Pourquoi la réaction des nuages au réchauffement est-elle tellement plus incertaine que les autres rétroactions climatiques ?",
+     "hi": "गर्मी बढ़ने पर बादलों की प्रतिक्रिया अन्य जलवायु फ़ीडबैक की तुलना में इतनी अधिक अनिश्चित क्यों है?",
+     "pt": "Por que a resposta das nuvens ao aquecimento é muito mais incerta do que outros feedbacks climáticos?",
+     "zh": "为什么云对变暖的响应比其他气候反馈要不确定得多？"
+    },
+    {
+     "ar": "لماذا يجعل النمط غير المتساوي لاحترار المحيطات سجلاتِ الحرارة الماضية دليلًا معقّدًا على الاحترار المستقبلي؟",
+     "en": "Why does the uneven pattern of ocean warming make past temperature records a tricky guide to future warming?",
+     "es": "¿Por qué el patrón desigual del calentamiento del océano hace que los registros de temperatura pasados sean una guía complicada del calentamiento futuro?",
+     "fr": "Pourquoi la répartition inégale du réchauffement des océans fait-elle des relevés de température passés un guide délicat pour le réchauffement futur ?",
+     "hi": "महासागर के असमान रूप से गर्म होने का पैटर्न पिछले तापमान रिकॉर्ड को भविष्य की गर्मी का पेचीदा संकेतक क्यों बना देता है?",
+     "pt": "Por que o padrão desigual de aquecimento dos oceanos torna os registros de temperatura do passado um guia complicado para o aquecimento futuro?",
+     "zh": "为什么海洋变暖的不均匀格局使过去的温度记录难以直接用来推断未来的变暖？"
+    },
+    {
+     "ar": "إلى أي حد يمكن للمناخات الماضية، مثل العصر الجليدي الأخير، أن تضيّق نطاق الاحترار المستقبلي؟",
+     "en": "How much can past climates, such as the last ice age, narrow the range of future warming?",
+     "es": "¿Cuánto pueden los climas del pasado, como la última glaciación, acotar el rango del calentamiento futuro?",
+     "fr": "Dans quelle mesure les climats passés, comme la dernière période glaciaire, peuvent-ils réduire la fourchette du réchauffement futur ?",
+     "hi": "पिछली जलवायु, जैसे पिछला हिमयुग, भविष्य की गर्मी के अनुमानित दायरे को कितना छोटा कर सकती है?",
+     "pt": "Quanto os climas do passado, como a última era glacial, podem estreitar a faixa do aquecimento futuro?",
+     "zh": "过去的气候（例如上一个冰期）能在多大程度上缩小未来变暖的范围？"
     }
    ]
   },
@@ -2243,6 +2408,45 @@
      "t": "1 in 4 people globally still lack access to safe drinking water (WHO/UNICEF, 2025)",
      "ty": "official",
      "u": "https://www.who.int/news/item/26-08-2025-1-in-4-people-globally-still-lack-access-to-safe-drinking-water---who--unicef"
+    },
+    {
+     "t": "Rapid groundwater decline and some cases of recovery in aquifers globally",
+     "ty": "study",
+     "u": "https://par.nsf.gov/biblio/10487940"
+    },
+    {
+     "t": "A comprehensive review of energy consumption of seawater reverse osmosis desalination plants",
+     "ty": "reference",
+     "u": "https://pure.korea.ac.kr/en/publications/a-comprehensive-review-of-energy-consumption-of-seawater-reverse-/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "لماذا تنخفض مستويات المياه الجوفية بسرعة متزايدة في كثير من طبقات المياه الجوفية في العالم؟",
+     "en": "Why are groundwater levels falling faster and faster in many of the world's aquifers?",
+     "es": "¿Por qué el nivel del agua subterránea baja cada vez más rápido en muchos acuíferos del mundo?",
+     "fr": "Pourquoi le niveau des nappes souterraines baisse-t-il de plus en plus vite dans de nombreux aquifères du monde ?",
+     "hi": "दुनिया के कई जलभृतों में भूजल का स्तर पहले से ज़्यादा तेज़ी से क्यों गिर रहा है?",
+     "pt": "Por que os níveis de água subterrânea estão caindo cada vez mais rápido em muitos aquíferos do mundo?",
+     "zh": "为什么世界上许多含水层的地下水位下降得越来越快？"
+    },
+    {
+     "ar": "في أي ظروف يمكن لطبقة مياه جوفية مستنزفة أن تتعافى؟",
+     "en": "Under what conditions can a depleted aquifer recover?",
+     "es": "¿En qué condiciones puede recuperarse un acuífero agotado?",
+     "fr": "Dans quelles conditions un aquifère épuisé peut-il se reconstituer ?",
+     "hi": "किन परिस्थितियों में एक खाली हो चुका जलभृत फिर से भर सकता है?",
+     "pt": "Em que condições um aquífero esgotado pode se recuperar?",
+     "zh": "在什么条件下，一个枯竭的含水层可以恢复？"
+    },
+    {
+     "ar": "هل يمكن أن تنجح إعادة تغذية طبقات المياه الجوفية اصطناعيًا، أو تحويل المياه السطحية، على نطاق واسع؟",
+     "en": "Can artificially refilling aquifers, or diverting surface water, work at a large scale?",
+     "es": "¿Puede funcionar a gran escala la recarga artificial de acuíferos o el desvío de aguas superficiales?",
+     "fr": "Le remplissage artificiel des aquifères, ou le détournement d'eaux de surface, peut-il fonctionner à grande échelle ?",
+     "hi": "क्या जलभृतों को कृत्रिम रूप से भरना, या सतही पानी को मोड़ना, बड़े पैमाने पर काम कर सकता है?",
+     "pt": "A recarga artificial de aquíferos, ou o desvio de águas superficiais, pode funcionar em grande escala?",
+     "zh": "人工回灌含水层或调引地表水，能否在大范围内奏效？"
     }
    ]
   },
@@ -2517,6 +2721,40 @@
      "t": "The BabyLM challenge: researchers look to infants (The Transmitter)",
      "ty": "press",
      "u": "https://www.thetransmitter.org/neuroai/the-babylm-challenge-in-search-of-more-efficient-learning-algorithms-researchers-look-to-infants/"
+    },
+    {
+     "t": "Bridging the data gap between children and large language models",
+     "ty": "reference",
+     "u": "https://sites.socsci.uci.edu/~lpearl/colareadinggroup/readings/Frank2023_ChildrenLLMs.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "ما المعارف الفطرية، إن وُجدت، التي تساعد الرضّع على تعلّم اللغة من عدد قليل جدًا من الكلمات؟",
+     "en": "What built-in knowledge, if any, helps babies learn language from so few words?",
+     "es": "¿Qué conocimientos innatos, si los hay, ayudan a los bebés a aprender el lenguaje con tan pocas palabras?",
+     "fr": "Quelles connaissances innées, s'il y en a, aident les bébés à apprendre le langage à partir de si peu de mots ?",
+     "hi": "अगर कोई जन्मजात ज्ञान है, तो वह कौन-सा है जो शिशुओं को इतने कम शब्दों से भाषा सीखने में मदद करता है?",
+     "pt": "Que conhecimentos inatos, se houver, ajudam os bebês a aprender a linguagem com tão poucas palavras?",
+     "zh": "如果存在先天知识，是哪些先天知识帮助婴儿只凭这么少的词语就学会语言？"
+    },
+    {
+     "ar": "إلى أي حد تُسرّع رؤيةُ العالم والتحدثُ مع الناس، بدلًا من مجرد قراءة النصوص، تعلّمَ اللغة؟",
+     "en": "How much does seeing the world and talking with people, rather than just reading text, speed up language learning?",
+     "es": "¿Cuánto acelera el aprendizaje del lenguaje ver el mundo y hablar con personas, en lugar de solo leer texto?",
+     "fr": "Dans quelle mesure le fait de voir le monde et de parler avec des gens, plutôt que de seulement lire du texte, accélère-t-il l'apprentissage du langage ?",
+     "hi": "सिर्फ़ पाठ पढ़ने के बजाय दुनिया को देखना और लोगों से बात करना भाषा सीखने को कितना तेज़ कर देता है?",
+     "pt": "Quanto ver o mundo e conversar com pessoas, em vez de apenas ler textos, acelera o aprendizado da linguagem?",
+     "zh": "与只阅读文本相比，观察世界并与人交谈能在多大程度上加快语言学习？"
+    },
+    {
+     "ar": "هل يمكن لنموذج لغوي دُرِّب على عدد من الكلمات لا يزيد على ما يسمعه الطفل أن يبلغ مهارات لغوية شبيهة بمهارات البشر؟",
+     "en": "Can a language model trained on only as many words as a child hears reach human-like language skills?",
+     "es": "¿Puede un modelo de lenguaje entrenado solo con tantas palabras como las que oye un niño alcanzar habilidades lingüísticas similares a las humanas?",
+     "fr": "Un modèle de langage entraîné sur autant de mots seulement qu'un enfant en entend peut-il atteindre des compétences linguistiques comparables à celles des humains ?",
+     "hi": "क्या केवल उतने ही शब्दों पर प्रशिक्षित भाषा मॉडल, जितने एक बच्चा सुनता है, इंसानों जैसी भाषा क्षमता तक पहुँच सकता है?",
+     "pt": "Um modelo de linguagem treinado apenas com tantas palavras quanto uma criança ouve consegue alcançar habilidades linguísticas semelhantes às humanas?",
+     "zh": "一个只用儿童所听到的词量训练的语言模型，能否达到类似人类的语言能力？"
     }
    ]
   },
@@ -3464,6 +3702,40 @@
      "t": "Butlin, Long et al., Consciousness in artificial intelligence: insights from the science of consciousness (arXiv)",
      "ty": "preprint",
      "u": "https://arxiv.org/pdf/2308.08708v2"
+    },
+    {
+     "t": "Identifying indicators of consciousness in AI systems",
+     "ty": "study",
+     "u": "https://researchonline.lse.ac.uk/id/eprint/130322"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل الوعي مجرد مسألة إجراء الحسابات الصحيحة، أيًّا كانت المادة التي صُنع منها النظام؟",
+     "en": "Is consciousness only a matter of performing the right computations, whatever the material the system is made of?",
+     "es": "¿Es la conciencia solo cuestión de realizar los cálculos adecuados, sin importar de qué material esté hecho el sistema?",
+     "fr": "La conscience n'est-elle qu'une question d'effectuer les bons calculs, quel que soit le matériau dont le système est fait ?",
+     "hi": "क्या चेतना केवल सही गणनाएँ करने का मामला है, चाहे वह प्रणाली किसी भी पदार्थ से बनी हो?",
+     "pt": "A consciência é apenas uma questão de realizar os cálculos certos, seja qual for o material de que o sistema é feito?",
+     "zh": "意识是否只取决于执行了正确的计算，而与系统由什么材料构成无关？"
+    },
+    {
+     "ar": "لماذا لا يمكننا ببساطة اختبار سلوك الذكاء الاصطناعي لمعرفة ما إذا كان واعيًا، ما دام قد يُدرَّب على تقليد البشر؟",
+     "en": "Why can't we just test an AI's behavior to find out if it is conscious, when it may be trained to imitate humans?",
+     "es": "¿Por qué no basta con poner a prueba el comportamiento de una IA para saber si es consciente, si puede estar entrenada para imitar a los humanos?",
+     "fr": "Pourquoi ne peut-on pas simplement tester le comportement d'une IA pour savoir si elle est consciente, alors qu'elle peut être entraînée à imiter les humains ?",
+     "hi": "जब किसी AI को इंसानों की नकल करने के लिए प्रशिक्षित किया जा सकता है, तो हम सिर्फ़ उसके व्यवहार की जाँच करके यह क्यों नहीं जान सकते कि वह सचेत है या नहीं?",
+     "pt": "Por que não podemos simplesmente testar o comportamento de uma IA para saber se ela é consciente, se ela pode ser treinada para imitar humanos?",
+     "zh": "既然人工智能可能被训练来模仿人类，为什么我们不能只靠测试它的行为来判断它是否有意识？"
+    },
+    {
+     "ar": "كيف نتجنّب الاعتقاد بأن أنظمة الذكاء الاصطناعي واعية بينما هي تبدو كذلك فحسب؟",
+     "en": "How can we avoid believing that AI systems are conscious when they only seem to be?",
+     "es": "¿Cómo evitar creer que los sistemas de IA son conscientes cuando solo lo parecen?",
+     "fr": "Comment éviter de croire que des systèmes d'IA sont conscients alors qu'ils semblent seulement l'être ?",
+     "hi": "जब AI प्रणालियाँ केवल सचेत लगती हैं, तब हम यह मानने से कैसे बचें कि वे सचमुच सचेत हैं?",
+     "pt": "Como evitar acreditar que sistemas de IA são conscientes quando eles apenas parecem ser?",
+     "zh": "当人工智能系统只是看起来有意识时，我们如何避免误以为它们真的有意识？"
     }
    ]
   },
@@ -3473,49 +3745,49 @@
    "d": "I",
    "i18n": {
     "ar": {
-     "block": "من الصعب جدًا التنبؤ بوتيرة التغيير وبكيفية توزيع المكاسب.",
+     "block": "تغطي معظم الدراسات مهامّ أو شركات قليلة؛ ولا تزال آثاره على الاقتصاد ككل غير معروفة.",
      "known": "تُظهر الدراسات الأولية مكاسب كبيرة في الإنتاجية في بعض المهام.",
      "leads": "قياس كيفية استخدام الذكاء الاصطناعي فعليًا في العمل، وسياسات للتعامل مع مراحل الانتقال.",
      "s": "الذكاء الاصطناعي والعمل",
      "t": "كيف سيغيّر الذكاء الاصطناعي العمل والاقتصاد؟"
     },
     "en": {
-     "block": "The pace of change and how gains will be shared are very hard to predict.",
+     "block": "Most studies cover a few tasks or companies; the effects on the whole economy are not yet known.",
      "known": "Early studies show large productivity gains on some tasks.",
      "leads": "Measuring how AI is actually used at work, policies for transitions.",
      "s": "AI and work",
      "t": "How will AI change work and the economy?"
     },
     "es": {
-     "block": "El ritmo del cambio y cómo se repartirán los beneficios son muy difíciles de predecir.",
+     "block": "La mayoría de los estudios abarcan pocas tareas o empresas; aún no se conocen los efectos en toda la economía.",
      "known": "Los primeros estudios muestran grandes aumentos de productividad en algunas tareas.",
      "leads": "Medir cómo se usa realmente la IA en el trabajo, políticas para las transiciones.",
      "s": "IA y trabajo",
      "t": "¿Cómo cambiará la IA el trabajo y la economía?"
     },
     "fr": {
-     "block": "Le rythme du changement et le partage des gains sont très difficiles à prévoir.",
+     "block": "La plupart des études portent sur quelques tâches ou entreprises ; les effets sur l'économie entière ne sont pas encore connus.",
      "known": "Les premières études montrent de forts gains de productivité sur certaines tâches.",
      "leads": "Mesurer l'usage réel de l'IA au travail, politiques d'accompagnement des transitions.",
      "s": "IA et travail",
      "t": "Comment l'IA va-t-elle changer le travail et l'économie ?"
     },
     "hi": {
-     "block": "बदलाव की गति और लाभों के बँटवारे का अनुमान लगाना बहुत कठिन है।",
+     "block": "ज़्यादातर अध्ययन कुछ ही कामों या कंपनियों तक सीमित हैं; पूरी अर्थव्यवस्था पर इसका असर अभी पता नहीं है।",
      "known": "शुरुआती अध्ययन कुछ कार्यों में उत्पादकता में बड़ी वृद्धि दिखाते हैं।",
      "leads": "यह मापना कि कार्यस्थल पर AI वास्तव में कैसे इस्तेमाल होता है, बदलाव के दौर के लिए नीतियाँ।",
      "s": "AI और काम",
      "t": "AI काम और अर्थव्यवस्था को कैसे बदलेगा?"
     },
     "pt": {
-     "block": "O ritmo da mudança e a forma como os ganhos serão repartidos são muito difíceis de prever.",
+     "block": "A maioria dos estudos abrange poucas tarefas ou empresas; os efeitos na economia como um todo ainda não são conhecidos.",
      "known": "Os primeiros estudos mostram grandes ganhos de produtividade em algumas tarefas.",
      "leads": "Medir como a IA é realmente usada no trabalho, políticas para as transições.",
      "s": "IA e trabalho",
      "t": "Como a IA vai mudar o trabalho e a economia?"
     },
     "zh": {
-     "block": "变化的速度以及收益如何分配,都很难预测。",
+     "block": "大多数研究只涉及少数任务或公司；对整个经济的影响尚不清楚。",
      "known": "早期研究显示,在某些任务上生产率大幅提升。",
      "leads": "衡量AI在工作中的实际使用情况,过渡期的相关政策。",
      "s": "AI与工作",
@@ -3533,6 +3805,40 @@
      "t": "Brynjolfsson, Li, Raymond, Generative AI at Work (NBER)",
      "ty": "institution",
      "u": "https://nber.org/papers/w31161"
+    },
+    {
+     "t": "Generative AI at Work",
+     "ty": "study",
+     "u": "https://econpapers.repec.org/RePEc:oup:qjecon:v:140:y:2025:i:2:p:889-942."
+    }
+   ],
+   "sub": [
+    {
+     "ar": "لماذا يستفيد العمال الجدد والأقل مهارة أكثر من غيرهم من مساعدي الذكاء الاصطناعي، بينما لا يستفيد الخبراء إلا قليلًا؟",
+     "en": "Why do newer, less-skilled workers gain the most from AI assistants, while experts gain little?",
+     "es": "¿Por qué los trabajadores novatos y menos cualificados son los que más ganan con los asistentes de IA, mientras que los expertos apenas ganan?",
+     "fr": "Pourquoi les travailleurs débutants et moins qualifiés profitent-ils le plus des assistants d'IA, alors que les experts y gagnent peu ?",
+     "hi": "नए और कम कुशल कर्मचारियों को AI सहायकों से सबसे ज़्यादा फ़ायदा क्यों होता है, जबकि विशेषज्ञों को बहुत कम?",
+     "pt": "Por que trabalhadores novatos e menos qualificados são os que mais ganham com assistentes de IA, enquanto especialistas ganham pouco?",
+     "zh": "为什么新手和技能较低的员工从人工智能助手中获益最多，而专家却获益甚少？"
+    },
+    {
+     "ar": "هل يكتسب العمال الذين يستخدمون مساعدي الذكاء الاصطناعي فعلًا مهارات تبقى معهم؟",
+     "en": "Do workers who use AI assistants actually learn skills they keep?",
+     "es": "¿Aprenden realmente habilidades duraderas los trabajadores que usan asistentes de IA?",
+     "fr": "Les travailleurs qui utilisent des assistants d'IA acquièrent-ils réellement des compétences durables ?",
+     "hi": "क्या AI सहायकों का उपयोग करने वाले कर्मचारी सचमुच ऐसे कौशल सीखते हैं जो उनके पास बने रहते हैं?",
+     "pt": "Os trabalhadores que usam assistentes de IA realmente aprendem habilidades que conservam?",
+     "zh": "使用人工智能助手的员工是否真的学到了能长期保留的技能？"
+    },
+    {
+     "ar": "لماذا يغيّر الذكاء الاصطناعي الإنتاجية بشكل مختلف إلى هذا الحد من عامل إلى آخر؟",
+     "en": "Why does AI change productivity so differently from one worker to another?",
+     "es": "¿Por qué la IA cambia la productividad de forma tan distinta de un trabajador a otro?",
+     "fr": "Pourquoi l'IA modifie-t-elle la productivité de façon si différente d'un travailleur à l'autre ?",
+     "hi": "AI अलग-अलग कर्मचारियों की उत्पादकता को इतने अलग ढंग से क्यों बदलता है?",
+     "pt": "Por que a IA muda a produtividade de forma tão diferente de um trabalhador para outro?",
+     "zh": "为什么人工智能对不同员工生产率的影响差别如此之大？"
     }
    ]
   },
@@ -3602,6 +3908,40 @@
      "t": "Energy and AI: executive summary (International Energy Agency, 2025)",
      "ty": "official",
      "u": "https://www.iea.org/reports/energy-and-ai/executive-summary"
+    },
+    {
+     "t": "Electricity Demand and Grid Impacts of AI Data Centers: Challenges and Prospects",
+     "ty": "preprint",
+     "u": "https://arxiv.org/html/2509.07218v4"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن التنبؤ بدقة باستهلاك مراكز بيانات الذكاء الاصطناعي للكهرباء بينما يمكن أن يتغير بهذه السرعة؟",
+     "en": "How can the power use of AI data centers be forecast accurately when it can change so fast?",
+     "es": "¿Cómo se puede prever con precisión el consumo eléctrico de los centros de datos de IA cuando puede cambiar tan rápido?",
+     "fr": "Comment prévoir avec précision la consommation électrique des centres de données d'IA alors qu'elle peut changer si vite ?",
+     "hi": "जब AI डेटा सेंटरों की बिजली खपत इतनी तेज़ी से बदल सकती है, तो उसका सटीक पूर्वानुमान कैसे लगाया जाए?",
+     "pt": "Como prever com precisão o consumo de eletricidade dos data centers de IA quando ele pode mudar tão rápido?",
+     "zh": "既然人工智能数据中心的用电量变化如此之快，如何才能准确预测它？"
+    },
+    {
+     "ar": "هل يمكن نقل مهام حوسبة الذكاء الاصطناعي في الزمان أو المكان لتتوافق مع أوقات وأماكن توفّر الكهرباء النظيفة؟",
+     "en": "Can AI computing jobs be shifted in time or place to match when and where clean power is available?",
+     "es": "¿Se pueden desplazar las tareas de cálculo de la IA en el tiempo o en el espacio para que coincidan con cuándo y dónde hay electricidad limpia disponible?",
+     "fr": "Peut-on décaler les calculs d'IA dans le temps ou dans l'espace pour les faire coïncider avec les moments et les lieux où l'électricité propre est disponible ?",
+     "hi": "क्या AI के कंप्यूटिंग कामों को समय या जगह के हिसाब से खिसकाया जा सकता है, ताकि वे तब और वहाँ हों जब और जहाँ स्वच्छ बिजली उपलब्ध हो?",
+     "pt": "É possível deslocar no tempo ou no espaço as tarefas de computação de IA para coincidir com quando e onde há energia limpa disponível?",
+     "zh": "能否在时间或地点上调整人工智能计算任务，使其与清洁电力的供应时间和地点相匹配？"
+    },
+    {
+     "ar": "كيف يمكن منع التقلبات المفاجئة في استهلاك مركز البيانات للكهرباء من زعزعة استقرار الشبكة الكهربائية؟",
+     "en": "How can sudden swings in a data center's power use be kept from destabilizing the electricity grid?",
+     "es": "¿Cómo evitar que los cambios bruscos en el consumo eléctrico de un centro de datos desestabilicen la red eléctrica?",
+     "fr": "Comment empêcher que les variations brusques de la consommation d'un centre de données ne déstabilisent le réseau électrique ?",
+     "hi": "डेटा सेंटर की बिजली खपत में अचानक होने वाले उतार-चढ़ाव को बिजली ग्रिड को अस्थिर करने से कैसे रोका जाए?",
+     "pt": "Como evitar que oscilações bruscas no consumo de energia de um data center desestabilizem a rede elétrica?",
+     "zh": "如何防止数据中心用电量的骤然波动扰乱电网的稳定？"
     }
    ]
   },
@@ -3671,6 +4011,40 @@
      "t": "International AI Safety Report 2025 (UK Government)",
      "ty": "official",
      "u": "https://www.gov.uk/government/publications/international-ai-safety-report-2025"
+    },
+    {
+     "t": "Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback",
+     "ty": "study",
+     "u": "https://research-collection.ethz.ch/handle/20.500.11850/651806"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن للناس التحقق من عمل الذكاء الاصطناعي في مهام أصعب من أن يحكموا عليها؟",
+     "en": "How can people check an AI's work on tasks that are too hard for them to judge?",
+     "es": "¿Cómo pueden las personas comprobar el trabajo de una IA en tareas demasiado difíciles para que ellas puedan juzgarlas?",
+     "fr": "Comment des humains peuvent-ils vérifier le travail d'une IA sur des tâches trop difficiles pour qu'ils puissent en juger ?",
+     "hi": "जो काम इतने कठिन हैं कि लोग उन्हें परख ही न सकें, उन पर लोग AI के काम की जाँच कैसे करें?",
+     "pt": "Como as pessoas podem verificar o trabalho de uma IA em tarefas difíceis demais para elas avaliarem?",
+     "zh": "对于难到人们无法评判的任务，人们如何检查人工智能的工作？"
+    },
+    {
+     "ar": "كيف نمنع الذكاء الاصطناعي من استغلال الثغرات في المكافأة التي يُدرَّب على تعظيمها؟",
+     "en": "How can we stop an AI from exploiting flaws in the reward it is trained to maximize?",
+     "es": "¿Cómo impedir que una IA aproveche los fallos de la recompensa que se la entrena para maximizar?",
+     "fr": "Comment empêcher une IA d'exploiter les failles de la récompense qu'elle est entraînée à maximiser ?",
+     "hi": "किसी AI को उस इनाम की खामियों का फ़ायदा उठाने से कैसे रोका जाए, जिसे अधिकतम करने के लिए उसे प्रशिक्षित किया गया है?",
+     "pt": "Como impedir que uma IA explore falhas na recompensa que ela é treinada para maximizar?",
+     "zh": "如何阻止人工智能利用其训练目标（奖励）中的漏洞？"
+    },
+    {
+     "ar": "لماذا قد يتصرف الذكاء الاصطناعي بشكل سيئ عند استخدامه، حتى لو كوفئ بشكل صحيح أثناء التدريب؟",
+     "en": "Why can an AI behave badly once in use, even if it was rewarded correctly during training?",
+     "es": "¿Por qué una IA puede comportarse mal una vez en uso, aunque haya sido recompensada correctamente durante el entrenamiento?",
+     "fr": "Pourquoi une IA peut-elle mal se comporter une fois utilisée, même si elle a été correctement récompensée pendant l'entraînement ?",
+     "hi": "प्रशिक्षण के दौरान सही इनाम मिलने के बावजूद, इस्तेमाल में आने पर कोई AI गलत व्यवहार क्यों कर सकता है?",
+     "pt": "Por que uma IA pode se comportar mal quando em uso, mesmo tendo sido recompensada corretamente durante o treinamento?",
+     "zh": "为什么一个人工智能即使在训练中得到了正确的奖励，投入使用后仍可能表现不当？"
     }
    ]
   },
@@ -3739,6 +4113,40 @@
      "t": "Towards Guaranteed Safe AI: a framework for robust and reliable AI systems (arXiv, 2024)",
      "ty": "preprint",
      "u": "https://arxiv.org/html/2405.06624v2"
+    },
+    {
+     "t": "Algorithms for Verifying Deep Neural Networks",
+     "ty": "reference",
+     "u": "https://nowpublishers.com/article/Details/OPT-035"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن تحويل فكرة غامضة مثل «الضرر» إلى قاعدة دقيقة يستطيع الحاسوب التحقق منها؟",
+     "en": "How can a vague idea like 'harm' be turned into a precise rule that a computer can check?",
+     "es": "¿Cómo convertir una idea vaga como el «daño» en una regla precisa que un ordenador pueda comprobar?",
+     "fr": "Comment transformer une idée floue comme le « tort » en une règle précise qu'un ordinateur peut vérifier ?",
+     "hi": "‘नुकसान’ जैसे अस्पष्ट विचार को ऐसे सटीक नियम में कैसे बदला जाए जिसे कंप्यूटर जाँच सके?",
+     "pt": "Como transformar uma ideia vaga como 'dano' em uma regra precisa que um computador possa verificar?",
+     "zh": "如何把“伤害”这样模糊的概念变成计算机能够检验的精确规则？"
+    },
+    {
+     "ar": "هل يمكننا بناء نماذج للعالم دقيقة بما يكفي لإثبات ما ستسببه أفعال الذكاء الاصطناعي؟",
+     "en": "Can we build models of the world accurate enough to prove what an AI's actions will cause?",
+     "es": "¿Podemos construir modelos del mundo lo bastante precisos como para demostrar lo que causarán las acciones de una IA?",
+     "fr": "Pouvons-nous construire des modèles du monde assez précis pour prouver ce que provoqueront les actions d'une IA ?",
+     "hi": "क्या हम दुनिया के ऐसे मॉडल बना सकते हैं जो इतने सटीक हों कि साबित कर सकें कि किसी AI के कार्यों का क्या परिणाम होगा?",
+     "pt": "Podemos construir modelos do mundo precisos o suficiente para provar o que as ações de uma IA vão causar?",
+     "zh": "我们能否建立足够精确的世界模型，以证明人工智能的行为会造成什么后果？"
+    },
+    {
+     "ar": "هل يمكن تدريب أنظمة الذكاء الاصطناعي على كتابة براهين السلامة التي تتطلب اليوم جهدًا كبيرًا جدًا من الخبراء البشر؟",
+     "en": "Can AI systems be trained to write the safety proofs that are now too much work for human experts?",
+     "es": "¿Se puede entrenar a sistemas de IA para escribir las pruebas de seguridad que hoy suponen demasiado trabajo para los expertos humanos?",
+     "fr": "Peut-on entraîner des systèmes d'IA à rédiger les preuves de sûreté qui demandent aujourd'hui trop de travail aux experts humains ?",
+     "hi": "क्या AI प्रणालियों को वे सुरक्षा प्रमाण लिखने के लिए प्रशिक्षित किया जा सकता है, जो आज मानव विशेषज्ञों के लिए बहुत ज़्यादा मेहनत वाले हैं?",
+     "pt": "Sistemas de IA podem ser treinados para escrever as provas de segurança que hoje exigem trabalho demais de especialistas humanos?",
+     "zh": "能否训练人工智能系统来编写目前对人类专家来说工作量过大的安全性证明？"
     }
    ]
   },
@@ -3807,6 +4215,40 @@
      "t": "Kalai et al., Why language models hallucinate (arXiv, 2025)",
      "ty": "preprint",
      "u": "https://arxiv.org/html/2509.04664v1"
+    },
+    {
+     "t": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+     "ty": "reference",
+     "u": "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_crossref_primary_10_1145_3703155"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن للذكاء الاصطناعي أن يتعلم إدراك حدود معرفته؟",
+     "en": "How can an AI learn to recognize the limits of its own knowledge?",
+     "es": "¿Cómo puede una IA aprender a reconocer los límites de su propio conocimiento?",
+     "fr": "Comment une IA peut-elle apprendre à reconnaître les limites de ses propres connaissances ?",
+     "hi": "कोई AI अपने ज्ञान की सीमाओं को पहचानना कैसे सीख सकता है?",
+     "pt": "Como uma IA pode aprender a reconhecer os limites do seu próprio conhecimento?",
+     "zh": "人工智能如何才能学会认识自身知识的边界？"
+    },
+    {
+     "ar": "هل سيختلق الذكاء الاصطناعي إجابات خاطئة أقل لو توقفت الاختبارات عن مكافأة التخمين بدلًا من قول «لا أعرف»؟",
+     "en": "Would AIs make up fewer false answers if tests stopped rewarding guessing over saying 'I don't know'?",
+     "es": "¿Inventarían las IA menos respuestas falsas si los exámenes dejaran de premiar adivinar en lugar de decir «no lo sé»?",
+     "fr": "Les IA inventeraient-elles moins de fausses réponses si les tests cessaient de récompenser le fait de deviner plutôt que de dire « je ne sais pas » ?",
+     "hi": "अगर परीक्षाएँ ‘मुझे नहीं पता’ कहने के बजाय अनुमान लगाने को इनाम देना बंद कर दें, तो क्या AI कम गलत जवाब गढ़ेंगे?",
+     "pt": "As IAs inventariam menos respostas falsas se os testes parassem de recompensar o chute em vez de dizer 'não sei'?",
+     "zh": "如果测试不再奖励猜测而惩罚“我不知道”，人工智能编造的错误答案会不会减少？"
+    },
+    {
+     "ar": "لماذا قد يجعل التدريب الإضافي النموذجَ أسوأ في تقدير مدى الثقة التي ينبغي أن تكون لديه؟",
+     "en": "Why can extra training make a model worse at judging how confident it should be?",
+     "es": "¿Por qué un entrenamiento adicional puede hacer que un modelo juzgue peor cuánta confianza debería tener?",
+     "fr": "Pourquoi un entraînement supplémentaire peut-il rendre un modèle moins bon pour juger de la confiance qu'il devrait avoir ?",
+     "hi": "अतिरिक्त प्रशिक्षण किसी मॉडल को यह आँकने में बदतर क्यों बना सकता है कि उसे कितना आश्वस्त होना चाहिए?",
+     "pt": "Por que um treinamento extra pode tornar um modelo pior em avaliar quanta confiança ele deveria ter?",
+     "zh": "为什么额外的训练会让模型更难判断自己应有多大把握？"
     }
    ]
   },
@@ -3882,6 +4324,26 @@
      "ty": "press",
      "u": "https://siliconangle.com/2026/03/19/autoscience-builds-automated-research-lab-machine-learning-models-14m/"
     }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن للعلماء أن يعرفوا متى لا يمكن الوثوق بنتائج أداة ذكاء اصطناعي؟",
+     "en": "How can scientists tell when an AI tool's results can't be trusted?",
+     "es": "¿Cómo pueden saber los científicos cuándo no se puede confiar en los resultados de una herramienta de IA?",
+     "fr": "Comment les scientifiques peuvent-ils savoir quand les résultats d'un outil d'IA ne sont pas fiables ?",
+     "hi": "वैज्ञानिक कैसे पहचानें कि किसी AI टूल के नतीजों पर कब भरोसा नहीं किया जा सकता?",
+     "pt": "Como os cientistas podem saber quando os resultados de uma ferramenta de IA não são confiáveis?",
+     "zh": "科学家如何判断某个人工智能工具的结果何时不可信？"
+    },
+    {
+     "ar": "هل يستطيع نظام ذكاء اصطناعي أن يبني فهمًا علميًا حقيقيًا بمفرده؟",
+     "en": "Can an AI system build real scientific understanding on its own?",
+     "es": "¿Puede un sistema de IA construir por sí mismo una comprensión científica real?",
+     "fr": "Un système d'IA peut-il acquérir par lui-même une véritable compréhension scientifique ?",
+     "hi": "क्या कोई AI प्रणाली अपने दम पर असली वैज्ञानिक समझ बना सकती है?",
+     "pt": "Um sistema de IA consegue construir por conta própria uma compreensão científica real?",
+     "zh": "人工智能系统能否独立建立真正的科学理解？"
+    }
    ]
   },
   {
@@ -3955,6 +4417,31 @@
      "t": "Collective Constitutional AI: aligning a language model with public input (Anthropic)",
      "ty": "company",
      "u": "https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input"
+    },
+    {
+     "t": "Position: Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback",
+     "ty": "study",
+     "u": "https://proceedings.mlr.press/v235/conitzer24a.html"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن دمج الآراء المتعارضة لكثير من الناس في قواعد متسقة لكيفية تصرّف الذكاء الاصطناعي؟",
+     "en": "How can conflicting views from many people be combined into consistent rules for how an AI should behave?",
+     "es": "¿Cómo combinar las opiniones contradictorias de muchas personas en reglas coherentes sobre cómo debe comportarse una IA?",
+     "fr": "Comment combiner les avis contradictoires de nombreuses personnes en règles cohérentes sur la façon dont une IA doit se comporter ?",
+     "hi": "बहुत-से लोगों के परस्पर विरोधी विचारों को इस बारे में सुसंगत नियमों में कैसे जोड़ा जाए कि किसी AI को कैसा व्यवहार करना चाहिए?",
+     "pt": "Como combinar as opiniões conflitantes de muitas pessoas em regras coerentes sobre como uma IA deve se comportar?",
+     "zh": "如何把许多人相互冲突的观点整合成一套关于人工智能应如何行事的一致规则？"
+    },
+    {
+     "ar": "هل يستطيع علم التصويت والقرارات الجماعية (الاختيار الاجتماعي) أن يخبرنا كيف نختار قيم الذكاء الاصطناعي؟",
+     "en": "Can the science of voting and group decisions (social choice) tell us how to choose an AI's values?",
+     "es": "¿Puede la ciencia del voto y de las decisiones colectivas (la elección social) decirnos cómo elegir los valores de una IA?",
+     "fr": "La science du vote et des décisions collectives (le choix social) peut-elle nous dire comment choisir les valeurs d'une IA ?",
+     "hi": "क्या मतदान और सामूहिक निर्णयों का विज्ञान (सामाजिक चयन) हमें बता सकता है कि किसी AI के मूल्य कैसे चुने जाएँ?",
+     "pt": "A ciência do voto e das decisões coletivas (escolha social) pode nos dizer como escolher os valores de uma IA?",
+     "zh": "关于投票和集体决策的科学（社会选择理论）能否告诉我们如何选择人工智能的价值观？"
     }
    ]
   },
@@ -4317,6 +4804,40 @@
      "t": "Open-sourcing circuit tracing tools (Anthropic)",
      "ty": "company",
      "u": "https://anthropic.com/research/open-source-circuit-tracing"
+    },
+    {
+     "t": "Open Problems in Mechanistic Interpretability",
+     "ty": "reference",
+     "u": "https://mlanthology.org/tmlr/2025/sharkey2025tmlr-open"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "ما الذي يُعدّ بالضبط «سمة» أو مفهومًا داخل الشبكة العصبية؟",
+     "en": "What exactly counts as a 'feature', or concept, inside a neural network?",
+     "es": "¿Qué cuenta exactamente como un «rasgo», o concepto, dentro de una red neuronal?",
+     "fr": "Qu'est-ce qui compte exactement comme une « caractéristique », ou un concept, à l'intérieur d'un réseau de neurones ?",
+     "hi": "किसी न्यूरल नेटवर्क के अंदर ठीक-ठीक किसे एक ‘फ़ीचर’ या अवधारणा माना जाए?",
+     "pt": "O que exatamente conta como uma 'característica', ou conceito, dentro de uma rede neural?",
+     "zh": "在神经网络内部，究竟什么才算一个“特征”或概念？"
+    },
+    {
+     "ar": "كيف يمكننا التحقق من أن تفسيرًا لما تفعله الشبكة صحيح فعلًا؟",
+     "en": "How can we check that an explanation of what a network is doing is actually correct?",
+     "es": "¿Cómo podemos comprobar que una explicación de lo que hace una red es realmente correcta?",
+     "fr": "Comment vérifier qu'une explication de ce que fait un réseau est réellement juste ?",
+     "hi": "हम कैसे जाँचें कि कोई नेटवर्क क्या कर रहा है, इसकी कोई व्याख्या वास्तव में सही है?",
+     "pt": "Como podemos verificar que uma explicação do que uma rede está fazendo é realmente correta?",
+     "zh": "我们如何检验对网络行为的某个解释是否真的正确？"
+    },
+    {
+     "ar": "هل يمكن أتمتة عمل فهم نماذج الذكاء الاصطناعي وإبقاؤه في المتناول مع استمرار نمو النماذج؟",
+     "en": "Can the work of understanding AI models be automated and kept affordable as models keep growing?",
+     "es": "¿Se puede automatizar el trabajo de entender los modelos de IA y mantenerlo asequible a medida que los modelos siguen creciendo?",
+     "fr": "Le travail de compréhension des modèles d'IA peut-il être automatisé et rester abordable à mesure que les modèles grandissent ?",
+     "hi": "जैसे-जैसे मॉडल बड़े होते जा रहे हैं, क्या AI मॉडलों को समझने का काम स्वचालित और किफ़ायती रखा जा सकता है?",
+     "pt": "O trabalho de entender modelos de IA pode ser automatizado e mantido acessível à medida que os modelos continuam crescendo?",
+     "zh": "随着模型不断变大，理解人工智能模型的工作能否实现自动化并保持成本可承受？"
     }
    ]
   },
@@ -5690,6 +6211,31 @@
      "t": "Intel unveils largest-ever neuromorphic computer, Hala Point (Live Science, 2024)",
      "ty": "press",
      "u": "https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain"
+    },
+    {
+     "t": "Brain-inspired computing – We need a master plan",
+     "ty": "preprint",
+     "u": "https://arxiv.org/abs/2104.14517"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "كيف يمكن للرقائق الشبيهة بالدماغ أن تتعلم باستخدام المعلومات المتاحة محليًا عند كل وصلة فقط؟",
+     "en": "How can brain-like chips learn using only the information available locally at each connection?",
+     "es": "¿Cómo pueden aprender los chips inspirados en el cerebro usando solo la información disponible localmente en cada conexión?",
+     "fr": "Comment des puces inspirées du cerveau peuvent-elles apprendre en n'utilisant que l'information disponible localement à chaque connexion ?",
+     "hi": "मस्तिष्क जैसे चिप्स हर कनेक्शन पर स्थानीय रूप से उपलब्ध जानकारी का ही उपयोग करके कैसे सीख सकते हैं?",
+     "pt": "Como chips inspirados no cérebro podem aprender usando apenas a informação disponível localmente em cada conexão?",
+     "zh": "类脑芯片如何仅利用每个连接处局部可得的信息来学习？"
+    },
+    {
+     "ar": "في أي مهام تستهلك الرقائق العصبية الشكل فعلًا طاقة أقل بكثير من المعالجات العادية؟",
+     "en": "For which tasks do neuromorphic chips really use much less energy than ordinary processors?",
+     "es": "¿En qué tareas consumen realmente los chips neuromórficos mucha menos energía que los procesadores comunes?",
+     "fr": "Pour quelles tâches les puces neuromorphiques consomment-elles réellement beaucoup moins d'énergie que les processeurs ordinaires ?",
+     "hi": "किन कामों में न्यूरोमॉर्फ़िक चिप्स सचमुच सामान्य प्रोसेसरों से बहुत कम ऊर्जा इस्तेमाल करते हैं?",
+     "pt": "Em quais tarefas os chips neuromórficos realmente usam muito menos energia do que processadores comuns?",
+     "zh": "神经形态芯片在哪些任务上真正比普通处理器耗能少得多？"
     }
    ]
   },
@@ -5803,49 +6349,49 @@
     "ar": {
      "block": "يجب أن ترتفع الغلة أكثر على أرض ومياه وأسمدة أقل.",
      "known": "ارتفعت غلة المحاصيل ارتفاعًا حادًا على مدى عقود، لكن الزراعة تسهم في إزالة الغابات والانبعاثات.",
-     "leads": "محاصيل معدَّلة بتحرير الجينات، وحبوب تثبّت نيتروجينها بنفسها، وزراعة دقيقة.",
+     "leads": "حبوب تثبّت النيتروجين بنفسها، وزراعة تحتاج إلى أسمدة أقل.",
      "s": "إطعام 10 مليارات",
      "t": "هل يمكننا إطعام 10 مليارات إنسان دون تدمير النظم البيئية؟"
     },
     "en": {
      "block": "Yields must rise further on less land, water and fertilizer.",
      "known": "Crop yields have risen sharply over decades, but farming drives deforestation and emissions.",
-     "leads": "Gene-edited crops, cereals that fix their own nitrogen, precision farming.",
+     "leads": "Cereals that fix their own nitrogen, farming that needs less fertilizer.",
      "s": "Feeding 10 billion",
      "t": "Can we feed 10 billion people without destroying ecosystems?"
     },
     "es": {
      "block": "Los rendimientos deben seguir subiendo con menos tierra, agua y fertilizante.",
      "known": "Los rendimientos agrícolas han aumentado mucho durante décadas, pero la agricultura causa deforestación y emisiones.",
-     "leads": "Cultivos editados genéticamente, cereales que fijan su propio nitrógeno, agricultura de precisión.",
+     "leads": "Cereales que fijan su propio nitrógeno, una agricultura que necesita menos fertilizantes.",
      "s": "Alimentar a 10 000 millones",
      "t": "¿Podemos alimentar a 10 000 millones de personas sin destruir los ecosistemas?"
     },
     "fr": {
      "block": "Il faut produire plus avec moins de terres, d'eau et d'engrais.",
      "known": "Les rendements ont fortement augmenté depuis des décennies, mais l'agriculture cause déforestation et émissions.",
-     "leads": "Cultures modifiées par édition génétique, céréales qui fixent leur propre azote, agriculture de précision.",
+     "leads": "Des céréales qui fixent elles-mêmes l'azote, une agriculture qui demande moins d'engrais.",
      "s": "Nourrir 10 milliards",
      "t": "Peut-on nourrir 10 milliards d'humains sans détruire les écosystèmes ?"
     },
     "hi": {
      "block": "कम ज़मीन, पानी और उर्वरक पर पैदावार को और बढ़ाना होगा।",
      "known": "दशकों में फसल की पैदावार तेज़ी से बढ़ी है, लेकिन खेती वनों की कटाई और उत्सर्जन का कारण बनती है।",
-     "leads": "जीन-संपादित फसलें, अपना नाइट्रोजन खुद स्थिर करने वाले अनाज, सटीक खेती।",
+     "leads": "ऐसे अनाज जो अपनी नाइट्रोजन खुद स्थिर करें, ऐसी खेती जिसे कम उर्वरक चाहिए।",
      "s": "10 अरब का पेट भरना",
      "t": "क्या हम पारिस्थितिक तंत्रों को नष्ट किए बिना 10 अरब लोगों का पेट भर सकते हैं?"
     },
     "pt": {
      "block": "A produtividade precisa subir ainda mais com menos terra, água e fertilizante.",
      "known": "A produtividade das lavouras cresceu muito ao longo de décadas, mas a agricultura causa desmatamento e emissões.",
-     "leads": "Culturas editadas geneticamente, cereais que fixam o próprio nitrogênio, agricultura de precisão.",
+     "leads": "Cereais que fixam o próprio nitrogênio, uma agricultura que precisa de menos fertilizantes.",
      "s": "Alimentar 10 bilhões",
      "t": "Podemos alimentar 10 bilhões de pessoas sem destruir os ecossistemas?"
     },
     "zh": {
      "block": "必须在更少的土地、水和肥料下进一步提高产量。",
      "known": "几十年来作物产量大幅提高,但农业也导致毁林和排放。",
-     "leads": "基因编辑作物,能自己固氮的谷物,精准农业。",
+     "leads": "能自行固氮的谷物，需要更少化肥的农业。",
      "s": "养活100亿人",
      "t": "我们能在不破坏生态系统的前提下养活100亿人吗?"
     }
@@ -5860,6 +6406,40 @@
      "t": "Business-as-usual not an option with future global food security in jeopardy (UN News, FAO)",
      "ty": "official",
      "u": "https://news.un.org/en/node/551972"
+    },
+    {
+     "t": "Biological nitrogen fixation and prospects for ecological intensification in cereal-based cropping systems",
+     "ty": "study",
+     "u": "https://cgspace.cgiar.org/items/a9cb8467-dfd2-496c-8ca6-14650164655a"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن تعديل الحبوب مثل القمح والأرز والذرة لتثبّت النيتروجين من الهواء بنفسها؟",
+     "en": "Can cereals like wheat, rice and maize be engineered to fix their own nitrogen from the air?",
+     "es": "¿Se pueden modificar cereales como el trigo, el arroz y el maíz para que fijen por sí mismos el nitrógeno del aire?",
+     "fr": "Peut-on modifier des céréales comme le blé, le riz et le maïs pour qu'elles fixent elles-mêmes l'azote de l'air ?",
+     "hi": "क्या गेहूँ, चावल और मक्का जैसे अनाजों को ऐसा बनाया जा सकता है कि वे हवा से ख़ुद नाइट्रोजन ले सकें?",
+     "pt": "É possível modificar cereais como trigo, arroz e milho para que fixem o próprio nitrogênio do ar?",
+     "zh": "能否改造小麦、水稻和玉米等谷物，使它们自己从空气中固氮？"
+    },
+    {
+     "ar": "ما كمية النيتروجين التي يمكن أن توفرها بكتيريا التربة الحرة لمحاصيل الحبوب؟",
+     "en": "How much nitrogen can free-living soil bacteria provide to cereal crops?",
+     "es": "¿Cuánto nitrógeno pueden aportar a los cultivos de cereales las bacterias del suelo de vida libre?",
+     "fr": "Quelle quantité d'azote les bactéries libres du sol peuvent-elles fournir aux cultures de céréales ?",
+     "hi": "मिट्टी में स्वतंत्र रूप से रहने वाले बैक्टीरिया अनाज की फ़सलों को कितनी नाइट्रोजन दे सकते हैं?",
+     "pt": "Quanto nitrogênio as bactérias de vida livre do solo podem fornecer às culturas de cereais?",
+     "zh": "土壤中自由生活的细菌能为谷类作物提供多少氮？"
+    },
+    {
+     "ar": "كيف يمكن تلبية حاجة المحاصيل إلى النيتروجين، المتوقع أن تتضاعف على الأقل بحلول 2050، دون مزيد من التلوث بالأسمدة؟",
+     "en": "How can crops' need for nitrogen, expected to at least double by 2050, be met without more fertilizer pollution?",
+     "es": "¿Cómo satisfacer la necesidad de nitrógeno de los cultivos, que se espera que al menos se duplique para 2050, sin más contaminación por fertilizantes?",
+     "fr": "Comment répondre aux besoins en azote des cultures, qui devraient au moins doubler d'ici 2050, sans davantage de pollution par les engrais ?",
+     "hi": "2050 तक फ़सलों की नाइट्रोजन की ज़रूरत कम से कम दोगुनी होने की उम्मीद है; इसे उर्वरक से ज़्यादा प्रदूषण के बिना कैसे पूरा किया जाए?",
+     "pt": "Como atender à necessidade de nitrogênio das culturas, que deve pelo menos dobrar até 2050, sem mais poluição por fertilizantes?",
+     "zh": "预计到2050年作物对氮的需求至少会翻一番，如何在不增加化肥污染的情况下满足这一需求？"
     }
    ]
   },
@@ -5928,6 +6508,40 @@
      "t": "USC study confirms the rotation of Earth's inner core has slowed (USC, 2024)",
      "ty": "institution",
      "u": "https://today.usc.edu/usc-study-confirms-the-rotation-of-earths-inner-core-has-slowed/"
+    },
+    {
+     "t": "Inner core backtracking by seismic waveform change reversals",
+     "ty": "study",
+     "u": "https://openpolar.no/Record/ftpubmed:38867052/Details"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "ما الذي يجعل اللبّ الداخلي يتسارع ثم يتباطأ بالنسبة إلى بقية الكوكب؟",
+     "en": "What makes the inner core speed up and then slow down relative to the rest of the planet?",
+     "es": "¿Qué hace que el núcleo interno se acelere y luego se frene respecto al resto del planeta?",
+     "fr": "Qu'est-ce qui fait accélérer puis ralentir la graine (noyau interne) par rapport au reste de la planète ?",
+     "hi": "आंतरिक कोर ग्रह के बाकी हिस्से की तुलना में पहले तेज़ और फिर धीमा क्यों हो जाता है?",
+     "pt": "O que faz o núcleo interno acelerar e depois desacelerar em relação ao resto do planeta?",
+     "zh": "是什么让内核相对于地球其他部分先加速、后减速？"
+    },
+    {
+     "ar": "لماذا عاد اللبّ الداخلي على مساره أبطأ مما تقدّم فيه؟",
+     "en": "Why did the inner core move back along its path more slowly than it moved forward?",
+     "es": "¿Por qué el núcleo interno retrocedió por su trayectoria más despacio de lo que había avanzado?",
+     "fr": "Pourquoi la graine est-elle revenue sur sa trajectoire plus lentement qu'elle ne l'avait parcourue en avançant ?",
+     "hi": "आंतरिक कोर अपने रास्ते पर पीछे लौटते समय आगे बढ़ने की तुलना में धीमा क्यों चला?",
+     "pt": "Por que o núcleo interno voltou pelo seu caminho mais devagar do que avançou?",
+     "zh": "为什么内核沿原路返回的速度比它向前移动时更慢？"
+    },
+    {
+     "ar": "كيف يؤثر اللبّ الداخلي الصلب واللبّ الخارجي السائل والوشاح بعضها في بعض؟",
+     "en": "How do the solid inner core, the liquid outer core and the mantle pull on one another?",
+     "es": "¿Cómo se influyen mutuamente el núcleo interno sólido, el núcleo externo líquido y el manto?",
+     "fr": "Comment la graine solide, le noyau externe liquide et le manteau agissent-ils les uns sur les autres ?",
+     "hi": "ठोस आंतरिक कोर, तरल बाहरी कोर और मेंटल एक-दूसरे को कैसे खींचते हैं?",
+     "pt": "Como o núcleo interno sólido, o núcleo externo líquido e o manto puxam uns aos outros?",
+     "zh": "固态内核、液态外核和地幔之间是如何相互牵引的？"
     }
    ]
   },
@@ -6088,14 +6702,43 @@
      "u": "https://www.scientificamerican.com/article/ocean-census-reveals-more-than-1-100-new-species/"
     },
     {
-     "t": "Only 0.001% of the deep seafloor visually observed in seventy years (EurekAlert, study in Science Advances, 2025)",
-     "ty": "press",
-     "u": "https://www.eurekalert.org/news-releases/1082535"
-    },
-    {
      "t": "Bell et al., study of how much of the deep seafloor has been visually observed (Science Advances, 2025): repository record",
      "ty": "institution",
      "u": "https://marineinfo.org/doc/publication/408357"
+    },
+    {
+     "t": "How little we've seen: A visual coverage estimate of the deep seafloor",
+     "ty": "study",
+     "u": "https://www.vliz.be/imisdocs/publications/ocrd/414029.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "ما الأماكن في أعماق البحار التي ينبغي استكشافها بعد ذلك لسدّ أكبر الثغرات فيما رأيناه؟",
+     "en": "Which deep-sea places should be explored next to fill the biggest gaps in what we have seen?",
+     "es": "¿Qué lugares del fondo marino profundo deberían explorarse a continuación para llenar los mayores vacíos de lo que hemos visto?",
+     "fr": "Quels endroits des grands fonds faudrait-il explorer en priorité pour combler les plus grandes lacunes de ce que nous avons vu ?",
+     "hi": "हमने जो देखा है उसकी सबसे बड़ी कमियों को भरने के लिए आगे गहरे समुद्र की किन जगहों की खोज की जानी चाहिए?",
+     "pt": "Quais lugares do mar profundo deveriam ser explorados a seguir para preencher as maiores lacunas do que já vimos?",
+     "zh": "下一步应该探索哪些深海地点，才能填补我们观察中最大的空白？"
+    },
+    {
+     "ar": "هل يمكن للروبوتات الذاتية الأرخص أن تجعل استكشاف أعماق البحار سريعًا بما يكفي لرؤية جزء أكبر بكثير من قاع البحر؟",
+     "en": "Can cheaper, autonomous robots make deep-sea exploration fast enough to see much more of the seafloor?",
+     "es": "¿Pueden robots autónomos más baratos hacer que la exploración de las profundidades sea lo bastante rápida como para ver mucho más del fondo marino?",
+     "fr": "Des robots autonomes moins chers peuvent-ils rendre l'exploration des grands fonds assez rapide pour voir une bien plus grande partie du plancher océanique ?",
+     "hi": "क्या सस्ते, स्वचालित रोबोट गहरे समुद्र की खोज को इतना तेज़ बना सकते हैं कि समुद्र तल का कहीं ज़्यादा हिस्सा देखा जा सके?",
+     "pt": "Robôs autônomos mais baratos podem tornar a exploração do mar profundo rápida o bastante para ver muito mais do fundo do mar?",
+     "zh": "更便宜的自主机器人能否让深海探索快到足以看到更多的海底？"
+    },
+    {
+     "ar": "إلى أي حد تعكس صورتنا عن الحياة في أعماق البحار فقط الأماكن القليلة الأكثر دراسة، مثل الأخاديد القريبة من الدول الغنية؟",
+     "en": "How much does our picture of deep-sea life reflect only the few places, like canyons near rich countries, that have been studied most?",
+     "es": "¿Hasta qué punto nuestra imagen de la vida en las profundidades refleja solo los pocos lugares más estudiados, como los cañones cercanos a países ricos?",
+     "fr": "Dans quelle mesure notre image de la vie des grands fonds ne reflète-t-elle que les quelques endroits les plus étudiés, comme les canyons proches des pays riches ?",
+     "hi": "गहरे समुद्र के जीवन की हमारी तस्वीर कितनी हद तक सिर्फ़ उन गिनी-चुनी जगहों को दर्शाती है जिनका सबसे ज़्यादा अध्ययन हुआ है, जैसे अमीर देशों के पास की घाटियाँ?",
+     "pt": "Até que ponto nossa visão da vida no mar profundo reflete apenas os poucos lugares mais estudados, como cânions perto de países ricos?",
+     "zh": "我们对深海生命的认识，在多大程度上只反映了少数研究最多的地方，例如富裕国家附近的海底峡谷？"
     }
    ]
   },
@@ -6985,6 +7628,40 @@
      "t": "Scientists engineer shortcut for photosynthetic glitch (University of Illinois, Science 2019)",
      "ty": "institution",
      "u": "https://las.illinois.edu/news/2019-01-03/scientists-engineer-shortcut-photosynthetic-glitch"
+    },
+    {
+     "t": "Synthetic glycolate metabolism pathways stimulate crop growth and productivity in the field",
+     "ty": "study",
+     "u": "https://repository.lsu.edu/biosci_pubs/3211"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل سيتحوّل النمو الإضافي الناتج عن مسار التفافي للتنفس الضوئي إلى مزيد من الحبوب أو البذور أو الدرنات في المحاصيل الغذائية؟",
+     "en": "Will the extra growth from a photorespiration bypass turn into more grain, seeds or tubers in food crops?",
+     "es": "¿Se traducirá el crecimiento adicional de un atajo de la fotorrespiración en más grano, semillas o tubérculos en los cultivos alimentarios?",
+     "fr": "La croissance supplémentaire due à un contournement de la photorespiration se traduira-t-elle par davantage de grains, de graines ou de tubercules chez les cultures vivrières ?",
+     "hi": "क्या फ़ोटोरेस्पिरेशन बाईपास से होने वाली अतिरिक्त बढ़त खाद्य फ़सलों में ज़्यादा अनाज, बीज या कंद में बदलेगी?",
+     "pt": "O crescimento extra de um atalho da fotorrespiração vai se traduzir em mais grãos, sementes ou tubérculos nas culturas alimentares?",
+     "zh": "光呼吸旁路带来的额外生长，能否在粮食作物中转化为更多的谷粒、种子或块茎？"
+    },
+    {
+     "ar": "هل يعمل المسار الالتفافي المُهندَس فعلًا داخل خلايا النبات بالطريقة التي صمّمها العلماء؟",
+     "en": "Does the engineered bypass really work inside plant cells the way scientists designed it?",
+     "es": "¿Funciona realmente el atajo diseñado dentro de las células vegetales tal como lo concibieron los científicos?",
+     "fr": "Le contournement mis au point fonctionne-t-il vraiment dans les cellules végétales comme les scientifiques l'ont conçu ?",
+     "hi": "क्या बनाया गया बाईपास पौधों की कोशिकाओं के अंदर सचमुच वैसे ही काम करता है जैसा वैज्ञानिकों ने उसे डिज़ाइन किया था?",
+     "pt": "O atalho criado funciona mesmo dentro das células vegetais do jeito que os cientistas o projetaram?",
+     "zh": "人工设计的旁路在植物细胞内是否真的按照科学家设计的方式运作？"
+    },
+    {
+     "ar": "إلى أي حد يمكن أن يساعد إصلاح هذا التفاعل المُهدِر المحاصيلَ في المناخات الحارة والجافة، حيث تكون الخسائر أكبر؟",
+     "en": "How much can fixing this wasteful reaction help crops in hot, dry climates, where the losses are greatest?",
+     "es": "¿Cuánto puede ayudar corregir esta reacción derrochadora a los cultivos en climas cálidos y secos, donde las pérdidas son mayores?",
+     "fr": "Dans quelle mesure corriger cette réaction gaspilleuse peut-il aider les cultures dans les climats chauds et secs, où les pertes sont les plus fortes ?",
+     "hi": "गर्म और सूखी जलवायु में, जहाँ नुकसान सबसे ज़्यादा होता है, इस बेकार प्रतिक्रिया को ठीक करना फ़सलों की कितनी मदद कर सकता है?",
+     "pt": "Quanto corrigir essa reação desperdiçadora pode ajudar as culturas em climas quentes e secos, onde as perdas são maiores?",
+     "zh": "在损失最大的炎热干旱气候中，修复这一浪费的反应能在多大程度上帮助作物？"
     }
    ]
   },
@@ -7057,6 +7734,40 @@
      "t": "Earth system tipping point risks (Global Tipping Points Report)",
      "ty": "official",
      "u": "https://global-tipping-points.org/summary-report/section-1/"
+    },
+    {
+     "t": "Exceeding 1.5°C global warming could trigger multiple climate tipping points",
+     "ty": "study",
+     "u": "https://ore.exeter.ac.uk/repository/handle/10871/131584"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "عند أي مستوى من الاحترار تتجاوز فعليًا كلُّ منظومة حرجة، مثل صفيحة جليدية أو الأمازون، نقطةَ تحوّلها؟",
+     "en": "At what level of warming does each tipping system, such as an ice sheet or the Amazon, actually tip?",
+     "es": "¿Con qué nivel de calentamiento se desencadena realmente cada sistema con punto de inflexión, como una capa de hielo o la Amazonía?",
+     "fr": "À quel niveau de réchauffement chaque système à point de bascule, comme une calotte glaciaire ou l'Amazonie, bascule-t-il réellement ?",
+     "hi": "कितनी गर्मी बढ़ने पर हर टिपिंग प्रणाली, जैसे कोई बर्फ़ की चादर या अमेज़न, वास्तव में पलट जाती है?",
+     "pt": "Em que nível de aquecimento cada sistema com ponto de inflexão, como um manto de gelo ou a Amazônia, realmente vira?",
+     "zh": "每个临界系统（如冰盖或亚马孙雨林）究竟会在多高的升温水平下越过临界点？"
+    },
+    {
+     "ar": "هل يمكننا بناء إنذارات مبكرة موثوقة بأن نقطة تحوّل ما تقترب؟",
+     "en": "Can we build reliable early warnings that a tipping point is getting close?",
+     "es": "¿Podemos crear alertas tempranas fiables de que un punto de inflexión se está acercando?",
+     "fr": "Pouvons-nous mettre au point des alertes précoces fiables indiquant qu'un point de bascule se rapproche ?",
+     "hi": "क्या हम भरोसेमंद शुरुआती चेतावनियाँ बना सकते हैं कि कोई टिपिंग पॉइंट पास आ रहा है?",
+     "pt": "Podemos criar alertas precoces confiáveis de que um ponto de inflexão está se aproximando?",
+     "zh": "我们能否建立可靠的早期预警，提示某个临界点正在逼近？"
+    },
+    {
+     "ar": "ما نقاط التحوّل التي قد تكون انطلقت بالفعل عند مستوى الاحترار الحالي؟",
+     "en": "Which tipping points could already be triggered at today's level of warming?",
+     "es": "¿Qué puntos de inflexión podrían desencadenarse ya con el nivel actual de calentamiento?",
+     "fr": "Quels points de bascule pourraient déjà être déclenchés au niveau de réchauffement actuel ?",
+     "hi": "आज के गर्मी के स्तर पर कौन-से टिपिंग पॉइंट पहले से ही शुरू हो सकते हैं?",
+     "pt": "Quais pontos de inflexão já poderiam ser desencadeados no nível atual de aquecimento?",
+     "zh": "在目前的升温水平下，哪些临界点可能已经被触发？"
     }
    ]
   },
@@ -7237,6 +7948,31 @@
      "t": "GenCast predicts weather and the risks of extreme conditions (Google DeepMind, Nature 2024)",
      "ty": "company",
      "u": "https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/"
+    },
+    {
+     "t": "What Is the Predictability Limit of Midlatitude Weather?",
+     "ty": "study",
+     "u": "https://texmex.mit.edu/ftp/pub/emanuel/PAPERS/Zhang_etal_2019.pdf"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن لنماذج الطقس القائمة على الذكاء الاصطناعي أن تعمل يومًا دون النماذج الفيزيائية التقليدية التي تزوّدها ببيانات التدريب والظروف الأولية؟",
+     "en": "Can AI weather models ever work without the traditional physics-based models that supply their training data and starting conditions?",
+     "es": "¿Podrán los modelos meteorológicos de IA funcionar algún día sin los modelos físicos tradicionales que les proporcionan sus datos de entrenamiento y sus condiciones iniciales?",
+     "fr": "Les modèles météo d'IA pourront-ils un jour se passer des modèles physiques traditionnels qui leur fournissent leurs données d'entraînement et leurs conditions de départ ?",
+     "hi": "क्या AI मौसम मॉडल कभी उन पारंपरिक भौतिकी-आधारित मॉडलों के बिना काम कर पाएँगे जो उन्हें प्रशिक्षण डेटा और शुरुआती स्थितियाँ देते हैं?",
+     "pt": "Os modelos meteorológicos de IA poderão um dia funcionar sem os modelos físicos tradicionais que fornecem seus dados de treinamento e condições iniciais?",
+     "zh": "人工智能天气模型能否摆脱为其提供训练数据和初始条件的传统物理模型？"
+    },
+    {
+     "ar": "كيف يمكن للتنبؤات أن تصف على أفضل وجه عدم اليقين الذي يتزايد بسرعة بعد بضعة أيام؟",
+     "en": "How can forecasts best describe the uncertainty that grows quickly beyond a few days ahead?",
+     "es": "¿Cómo pueden los pronósticos describir mejor la incertidumbre que crece rápidamente más allá de unos pocos días?",
+     "fr": "Comment les prévisions peuvent-elles le mieux décrire l'incertitude qui augmente rapidement au-delà de quelques jours ?",
+     "hi": "कुछ दिनों के बाद तेज़ी से बढ़ने वाली अनिश्चितता को पूर्वानुमान सबसे अच्छी तरह कैसे बता सकते हैं?",
+     "pt": "Como as previsões podem descrever melhor a incerteza que cresce rapidamente além de alguns dias?",
+     "zh": "预报如何才能最好地描述几天之后迅速增大的不确定性？"
     }
    ]
   },
@@ -7862,6 +8598,40 @@
      "t": "Are we truly on the verge of a humanoid robot revolution? (UC Berkeley)",
      "ty": "institution",
      "u": "https://vcresearch.berkeley.edu/news/are-we-truly-verge-humanoid-robot-revolution"
+    },
+    {
+     "t": "Foundation models in robotics: Applications, challenges, and the future",
+     "ty": "reference",
+     "u": "https://collaborate.princeton.edu/en/publications/foundation-models-in-robotics-applications-challenges-and-the-fut-2/"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "من أين يمكن للروبوتات أن تحصل على بيانات تدريب كافية عن المهام الجسدية، بينما هي قليلة جدًا مقارنةً بالنصوص؟",
+     "en": "Where can robots get enough training data about physical tasks, when there is so little compared with text?",
+     "es": "¿De dónde pueden obtener los robots suficientes datos de entrenamiento sobre tareas físicas, cuando hay tan pocos en comparación con el texto?",
+     "fr": "Où les robots peuvent-ils trouver assez de données d'entraînement sur les tâches physiques, alors qu'il y en a si peu comparé au texte ?",
+     "hi": "जब पाठ की तुलना में शारीरिक कामों का डेटा इतना कम है, तो रोबोट पर्याप्त प्रशिक्षण डेटा कहाँ से पा सकते हैं?",
+     "pt": "De onde os robôs podem obter dados de treinamento suficientes sobre tarefas físicas, quando há tão poucos em comparação com o texto?",
+     "zh": "与文本相比，物理任务的数据如此稀少，机器人从哪里能获得足够的训练数据？"
+    },
+    {
+     "ar": "كيف نضمن أن يتصرف روبوت يديره نموذج ذكاء اصطناعي كبير بأمان وأن يعرف متى يكون غير متأكد؟",
+     "en": "How can we guarantee that a robot run by a large AI model acts safely and knows when it is unsure?",
+     "es": "¿Cómo garantizar que un robot dirigido por un gran modelo de IA actúe con seguridad y sepa cuándo no está seguro?",
+     "fr": "Comment garantir qu'un robot piloté par un grand modèle d'IA agit en toute sécurité et sait quand il n'est pas sûr de lui ?",
+     "hi": "हम कैसे सुनिश्चित करें कि किसी बड़े AI मॉडल से चलने वाला रोबोट सुरक्षित रूप से काम करे और जाने कि कब वह अनिश्चित है?",
+     "pt": "Como garantir que um robô controlado por um grande modelo de IA aja com segurança e saiba quando está inseguro?",
+     "zh": "如何保证由大型人工智能模型驱动的机器人安全行事，并知道自己何时没有把握？"
+    },
+    {
+     "ar": "هل يمكن لنماذج الذكاء الاصطناعي الكبيرة أن تعمل بسرعة كافية للتحكم في روبوت في الوقت الفعلي؟",
+     "en": "Can large AI models run fast enough to control a robot in real time?",
+     "es": "¿Pueden los grandes modelos de IA funcionar lo bastante rápido como para controlar un robot en tiempo real?",
+     "fr": "Les grands modèles d'IA peuvent-ils fonctionner assez vite pour contrôler un robot en temps réel ?",
+     "hi": "क्या बड़े AI मॉडल इतनी तेज़ी से चल सकते हैं कि किसी रोबोट को वास्तविक समय में नियंत्रित कर सकें?",
+     "pt": "Grandes modelos de IA conseguem funcionar rápido o bastante para controlar um robô em tempo real?",
+     "zh": "大型人工智能模型能否运行得足够快，以实时控制机器人？"
     }
    ]
   },
@@ -8031,6 +8801,45 @@
      "t": "Can you predict earthquakes? (USGS)",
      "ty": "official",
      "u": "https://www.usgs.gov/faqs/can-you-predict-earthquakes"
+    },
+    {
+     "t": "Machine Learning in Earthquake Seismology",
+     "ty": "reference",
+     "u": "https://research.google/pubs/machine-learning-in-earthquake-seismology/"
+    },
+    {
+     "t": "Distributed acoustic sensing for seismic activity monitoring",
+     "ty": "study",
+     "u": "https://par.nsf.gov/servlets/purl/10144020"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن لفهارس الزلازل الأكثر تفصيلًا بكثير التي يبنيها الذكاء الاصطناعي أن تكشف أنماطًا جديدة في كيفية حدوث الزلازل؟",
+     "en": "Can the far more detailed earthquake catalogs built by AI reveal new patterns in how earthquakes happen?",
+     "es": "¿Pueden los catálogos de terremotos mucho más detallados creados por la IA revelar nuevos patrones en la forma en que ocurren los terremotos?",
+     "fr": "Les catalogues de séismes bien plus détaillés construits par l'IA peuvent-ils révéler de nouveaux schémas dans la façon dont les séismes se produisent ?",
+     "hi": "क्या AI द्वारा बनाए गए कहीं ज़्यादा विस्तृत भूकंप कैटलॉग यह दिखा सकते हैं कि भूकंप किस तरह आते हैं, इसके नए पैटर्न क्या हैं?",
+     "pt": "Os catálogos de terremotos muito mais detalhados criados pela IA podem revelar novos padrões na forma como os terremotos acontecem?",
+     "zh": "人工智能构建的更为详细的地震目录，能否揭示地震发生方式中的新规律？"
+    },
+    {
+     "ar": "هل يمكن لدمج الذكاء الاصطناعي مع فيزياء الصدوع أن يُنتج تنبؤات بالزلازل مفيدة فعلًا؟",
+     "en": "Can combining AI with the physics of faults produce earthquake forecasts that are actually useful?",
+     "es": "¿Puede la combinación de la IA con la física de las fallas producir pronósticos de terremotos realmente útiles?",
+     "fr": "Combiner l'IA avec la physique des failles peut-il produire des prévisions de séismes réellement utiles ?",
+     "hi": "क्या AI को भ्रंशों (फ़ॉल्ट) की भौतिकी के साथ जोड़कर ऐसे भूकंप पूर्वानुमान बनाए जा सकते हैं जो सचमुच उपयोगी हों?",
+     "pt": "Combinar a IA com a física das falhas pode produzir previsões de terremotos realmente úteis?",
+     "zh": "把人工智能与断层物理结合起来，能否做出真正有用的地震预报？"
+    },
+    {
+     "ar": "هل تحمل إشارات غير اهتزاز الأرض، مثل التغيرات الكيميائية أو الجوية، إنذارًا حقيقيًا بوقوع زلزال؟",
+     "en": "Do signals other than ground shaking, such as chemical or atmospheric changes, carry real warning of an earthquake?",
+     "es": "¿Contienen las señales distintas de la sacudida del suelo, como los cambios químicos o atmosféricos, un aviso real de un terremoto?",
+     "fr": "Des signaux autres que les secousses du sol, comme des changements chimiques ou atmosphériques, annoncent-ils vraiment un séisme ?",
+     "hi": "क्या ज़मीन के हिलने के अलावा दूसरे संकेत, जैसे रासायनिक या वायुमंडलीय बदलाव, सचमुच भूकंप की चेतावनी देते हैं?",
+     "pt": "Sinais além do tremor do solo, como mudanças químicas ou atmosféricas, trazem um aviso real de um terremoto?",
+     "zh": "地面震动以外的信号（如化学或大气变化）是否真的带有地震的预警信息？"
     }
    ]
   },
@@ -8135,51 +8944,51 @@
    "d": "T",
    "i18n": {
     "ar": {
-     "block": "لا يزال تخزين الطاقة عبر الفصول مكلفًا للغاية.",
+     "block": "يجب أن يصبح التخزين الذي يدوم أيامًا أرخص بكثير ليحلّ محل محطات الكهرباء التي تعمل عند الطلب.",
      "known": "انخفضت أسعار البطاريات بنحو 90% منذ عام 2010.",
-     "leads": "بطاريات الحديد والهواء، والهيدروجين الأخضر، وتخزين الحرارة.",
+     "leads": "تقنيات جديدة مصممة لتخزين الطاقة لمدة 100 ساعة أو أكثر.",
      "s": "تخزين الطاقة",
      "t": "كيف يمكن تخزين الطاقة المتجددة بكلفة منخفضة لفترات طويلة؟"
     },
     "en": {
-     "block": "Storing energy across seasons remains far too expensive.",
+     "block": "Storage that lasts for days must become much cheaper to replace power plants that run on demand.",
      "known": "Battery prices have fallen by about 90% since 2010.",
-     "leads": "Iron-air batteries, green hydrogen, heat storage.",
+     "leads": "New technologies designed to store energy for 100 hours or more.",
      "s": "Energy storage",
      "t": "How can renewable energy be stored cheaply for long periods?"
     },
     "es": {
-     "block": "Almacenar energía entre estaciones sigue siendo demasiado caro.",
+     "block": "El almacenamiento que dura varios días debe abaratarse mucho para sustituir a las centrales que producen a demanda.",
      "known": "Los precios de las baterías han bajado cerca de un 90 % desde 2010.",
-     "leads": "Baterías de hierro-aire, hidrógeno verde, almacenamiento de calor.",
+     "leads": "Nuevas tecnologías diseñadas para almacenar energía durante 100 horas o más.",
      "s": "Almacenar energía",
      "t": "¿Cómo se puede almacenar energía renovable de forma barata durante largos periodos?"
     },
     "fr": {
-     "block": "Stocker de l'énergie d'une saison à l'autre reste bien trop cher.",
+     "block": "Le stockage qui dure plusieurs jours doit devenir beaucoup moins cher pour remplacer les centrales pilotables.",
      "known": "Le prix des batteries a baissé d'environ 90 % depuis 2010.",
-     "leads": "Batteries fer-air, hydrogène vert, stockage de chaleur.",
+     "leads": "De nouvelles technologies conçues pour stocker l'énergie 100 heures ou plus.",
      "s": "Stockage d'énergie",
      "t": "Comment stocker l'énergie renouvelable longtemps et à bas coût ?"
     },
     "hi": {
-     "block": "मौसमों के पार ऊर्जा का भंडारण अब भी बहुत महँगा है।",
+     "block": "कई दिनों तक चलने वाले भंडारण को मांग पर बिजली देने वाले संयंत्रों की जगह लेने के लिए बहुत सस्ता होना होगा।",
      "known": "2010 से बैटरी की कीमतें लगभग 90% गिरी हैं।",
-     "leads": "आयरन-एयर बैटरियाँ, ग्रीन हाइड्रोजन, ऊष्मा भंडारण।",
+     "leads": "100 घंटे या उससे अधिक समय तक ऊर्जा संग्रहित करने के लिए बनाई गई नई तकनीकें।",
      "s": "ऊर्जा भंडारण",
      "t": "नवीकरणीय ऊर्जा को लंबे समय तक सस्ते में कैसे संग्रहित किया जा सकता है?"
     },
     "pt": {
-     "block": "Armazenar energia entre as estações do ano continua muito caro.",
+     "block": "O armazenamento que dura vários dias precisa ficar muito mais barato para substituir as usinas que produzem sob demanda.",
      "known": "Os preços das baterias caíram cerca de 90% desde 2010.",
-     "leads": "Baterias de ferro-ar, hidrogênio verde, armazenamento de calor.",
+     "leads": "Novas tecnologias projetadas para armazenar energia por 100 horas ou mais.",
      "s": "Armazenar energia",
      "t": "Como armazenar energia renovável de forma barata por longos períodos?"
     },
     "zh": {
-     "block": "跨季节储能的成本仍然高得多。",
+     "block": "可持续数天的储能必须大幅降低成本，才能取代可按需发电的电厂。",
      "known": "自2010年以来,电池价格已下降约90%。",
-     "leads": "铁空气电池,绿氢,储热。",
+     "leads": "可储能100小时以上的新技术。",
      "s": "储能",
      "t": "如何低成本、长时间地储存可再生能源?"
     }
@@ -8194,6 +9003,40 @@
      "t": "New record lows for battery prices (BloombergNEF)",
      "ty": "institution",
      "u": "https://about.bnef.com/insights/clean-transport/new-record-lows-for-battery-prices/"
+    },
+    {
+     "t": "The design space for long-duration energy storage in decarbonized power systems",
+     "ty": "study",
+     "u": "https://ideas.repec.org/a/nat/natene/v6y2021i5d10.1038_s41560-021-00796-8.html"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "هل يمكن أن تنخفض تكلفة سعة التخزين إلى نحو 20 دولارًا لكل كيلوواط ساعة، وهو المستوى اللازم لخفض تكاليف الكهرباء بشكل ملحوظ؟",
+     "en": "Can the cost of storage capacity fall to about 20 dollars per kilowatt-hour, the level needed to cut electricity costs noticeably?",
+     "es": "¿Puede el coste de la capacidad de almacenamiento bajar a unos 20 dólares por kilovatio-hora, el nivel necesario para reducir notablemente el coste de la electricidad?",
+     "fr": "Le coût de la capacité de stockage peut-il descendre à environ 20 dollars par kilowattheure, le niveau nécessaire pour réduire nettement le coût de l'électricité ?",
+     "hi": "क्या भंडारण क्षमता की लागत लगभग 20 डॉलर प्रति किलोवाट-घंटा तक गिर सकती है, जो बिजली की लागत को उल्लेखनीय रूप से घटाने के लिए ज़रूरी स्तर है?",
+     "pt": "O custo da capacidade de armazenamento pode cair para cerca de 20 dólares por quilowatt-hora, o nível necessário para reduzir visivelmente o custo da eletricidade?",
+     "zh": "储能容量的成本能否降到每千瓦时约20美元，即明显降低电力成本所需的水平？"
+    },
+    {
+     "ar": "ما التقنيات التي يمكنها تخزين الطاقة لأكثر من 100 ساعة بتكلفة منخفضة وكفاءة عالية معًا؟",
+     "en": "Which technologies could store energy for more than 100 hours both cheaply and efficiently?",
+     "es": "¿Qué tecnologías podrían almacenar energía durante más de 100 horas de forma barata y eficiente a la vez?",
+     "fr": "Quelles technologies pourraient stocker de l'énergie pendant plus de 100 heures à la fois à bas coût et efficacement ?",
+     "hi": "कौन-सी तकनीकें 100 घंटे से ज़्यादा समय तक ऊर्जा को सस्ते और कुशल, दोनों तरीक़ों से जमा कर सकती हैं?",
+     "pt": "Quais tecnologias poderiam armazenar energia por mais de 100 horas de forma barata e eficiente ao mesmo tempo?",
+     "zh": "哪些技术能以低成本、高效率储存能量超过100小时？"
+    },
+    {
+     "ar": "لماذا يصعب أكثر على التخزين أن يحلّ تمامًا محل محطات الكهرباء المستقرة منخفضة الكربون في المناطق الشمالية حيث تعمل استخدامات أكثر للطاقة بالكهرباء؟",
+     "en": "Why is it harder for storage to fully replace steady low-carbon power plants in northern regions where more energy uses run on electricity?",
+     "es": "¿Por qué es más difícil que el almacenamiento sustituya por completo a las centrales bajas en carbono estables en las regiones del norte donde más usos de la energía funcionan con electricidad?",
+     "fr": "Pourquoi est-il plus difficile pour le stockage de remplacer entièrement les centrales bas carbone pilotables dans les régions du nord où davantage d'usages de l'énergie passent à l'électricité ?",
+     "hi": "उत्तरी क्षेत्रों में, जहाँ ऊर्जा के ज़्यादा उपयोग बिजली से चलते हैं, भंडारण के लिए स्थिर कम-कार्बन बिजलीघरों की पूरी तरह जगह लेना ज़्यादा कठिन क्यों है?",
+     "pt": "Por que é mais difícil para o armazenamento substituir totalmente usinas estáveis de baixo carbono em regiões do norte onde mais usos de energia funcionam com eletricidade?",
+     "zh": "在更多能源用途改用电力的北方地区，为什么储能更难完全取代稳定的低碳发电厂？"
     }
    ]
   },
@@ -9090,6 +9933,45 @@
      "t": "InSAR and its applications to study volcanoes (USGS)",
      "ty": "official",
      "u": "https://www.usgs.gov/maps/interferometric-synthetic-aperture-radar-insar-and-its-applications-study-volcanoes-part-2"
+    },
+    {
+     "t": "Advances in volcano monitoring driven by the first decade of Sentinel-1 observations",
+     "ty": "study",
+     "u": "https://pubs.usgs.gov/publication/70274493"
+    },
+    {
+     "t": "Report Identifies Grand Challenges for Scientific Community to Better Prepare for Volcanic Eruptions",
+     "ty": "institution",
+     "u": "https://www.nationalacademies.org/news/2017/04/report-identifies-grand-challenges-for-scientific-community-to-better-prepare-for-volcanic-eruptions"
+    }
+   ],
+   "sub": [
+    {
+     "ar": "لماذا لا يزال التنبؤ بالثورانات الانفجارية الكبيرة انطلاقًا من حركات الأرض صعبًا إلى هذا الحد؟",
+     "en": "Why is it still so hard to forecast large explosive eruptions from ground movements?",
+     "es": "¿Por qué sigue siendo tan difícil pronosticar las grandes erupciones explosivas a partir de los movimientos del suelo?",
+     "fr": "Pourquoi est-il encore si difficile de prévoir les grandes éruptions explosives à partir des mouvements du sol ?",
+     "hi": "ज़मीन की हलचल से बड़े विस्फोटक ज्वालामुखी विस्फोटों का पूर्वानुमान लगाना अब भी इतना कठिन क्यों है?",
+     "pt": "Por que ainda é tão difícil prever grandes erupções explosivas a partir dos movimentos do solo?",
+     "zh": "为什么根据地面形变来预测大型爆炸性喷发仍然如此困难？"
+    },
+    {
+     "ar": "هل يستطيع ذكاء اصطناعي يفحص ملايين صور الرادار الفضائية أن يرصد بشكل موثوق البراكين التي تستيقظ؟",
+     "en": "Can AI scanning millions of satellite radar images reliably spot volcanoes that are waking up?",
+     "es": "¿Puede una IA que analiza millones de imágenes de radar por satélite detectar de forma fiable los volcanes que están despertando?",
+     "fr": "Une IA qui analyse des millions d'images radar satellitaires peut-elle repérer de façon fiable les volcans qui se réveillent ?",
+     "hi": "क्या लाखों उपग्रह रडार छवियों को जाँचने वाला AI जागते हुए ज्वालामुखियों को भरोसेमंद ढंग से पहचान सकता है?",
+     "pt": "Uma IA que analisa milhões de imagens de radar de satélite consegue identificar com confiabilidade vulcões que estão despertando?",
+     "zh": "人工智能扫描数以百万计的卫星雷达图像，能否可靠地发现正在苏醒的火山？"
+    },
+    {
+     "ar": "ما الذي يجعل الأرض عند البركان تنتفخ أو تهبط، ومتى يعني ذلك أن ثورانًا وشيكًا؟",
+     "en": "What makes the ground at a volcano swell or sink, and when does it mean an eruption is coming?",
+     "es": "¿Qué hace que el suelo de un volcán se hinche o se hunda, y cuándo significa que se acerca una erupción?",
+     "fr": "Qu'est-ce qui fait gonfler ou s'affaisser le sol d'un volcan, et quand cela annonce-t-il une éruption ?",
+     "hi": "ज्वालामुखी की ज़मीन क्यों फूलती या धँसती है, और कब इसका मतलब होता है कि विस्फोट आने वाला है?",
+     "pt": "O que faz o solo de um vulcão inchar ou afundar, e quando isso significa que uma erupção está chegando?",
+     "zh": "是什么让火山处的地面隆起或下沉？什么时候这意味着喷发即将来临？"
     }
    ]
   },
@@ -9722,6 +10604,226 @@
     {
      "q": "vieillissement",
      "f": "sub"
+    },
+    {
+     "q": "apprentissage-continu",
+     "f": "src"
+    },
+    {
+     "q": "apprentissage-continu",
+     "f": "sub"
+    },
+    {
+     "q": "biodiversite",
+     "f": "sub"
+    },
+    {
+     "q": "capture-carbone",
+     "f": "src"
+    },
+    {
+     "q": "capture-carbone",
+     "f": "sub"
+    },
+    {
+     "q": "champ-magnetique",
+     "f": "sub"
+    },
+    {
+     "q": "climat-sensibilite",
+     "f": "src"
+    },
+    {
+     "q": "climat-sensibilite",
+     "f": "sub"
+    },
+    {
+     "q": "eau-douce",
+     "f": "src"
+    },
+    {
+     "q": "eau-douce",
+     "f": "sub"
+    },
+    {
+     "q": "efficacite-donnees",
+     "f": "src"
+    },
+    {
+     "q": "efficacite-donnees",
+     "f": "sub"
+    },
+    {
+     "q": "ia-conscience",
+     "f": "src"
+    },
+    {
+     "q": "ia-conscience",
+     "f": "sub"
+    },
+    {
+     "q": "ia-economie",
+     "f": "src"
+    },
+    {
+     "q": "ia-economie",
+     "f": "sub"
+    },
+    {
+     "q": "ia-energie",
+     "f": "src"
+    },
+    {
+     "q": "ia-energie",
+     "f": "sub"
+    },
+    {
+     "q": "ia-generale",
+     "f": "src"
+    },
+    {
+     "q": "ia-generale",
+     "f": "sub"
+    },
+    {
+     "q": "ia-prouvable",
+     "f": "src"
+    },
+    {
+     "q": "ia-prouvable",
+     "f": "sub"
+    },
+    {
+     "q": "ia-raisonnement",
+     "f": "src"
+    },
+    {
+     "q": "ia-raisonnement",
+     "f": "sub"
+    },
+    {
+     "q": "ia-science",
+     "f": "sub"
+    },
+    {
+     "q": "ia-valeurs",
+     "f": "src"
+    },
+    {
+     "q": "ia-valeurs",
+     "f": "sub"
+    },
+    {
+     "q": "interpretabilite",
+     "f": "src"
+    },
+    {
+     "q": "interpretabilite",
+     "f": "sub"
+    },
+    {
+     "q": "neuromorphique",
+     "f": "src"
+    },
+    {
+     "q": "neuromorphique",
+     "f": "sub"
+    },
+    {
+     "q": "nourrir-10-milliards",
+     "f": "src"
+    },
+    {
+     "q": "nourrir-10-milliards",
+     "f": "sub"
+    },
+    {
+     "q": "noyau-terre",
+     "f": "src"
+    },
+    {
+     "q": "noyau-terre",
+     "f": "sub"
+    },
+    {
+     "q": "ocean-profond",
+     "f": "src"
+    },
+    {
+     "q": "ocean-profond",
+     "f": "sub"
+    },
+    {
+     "q": "photosynthese",
+     "f": "src"
+    },
+    {
+     "q": "photosynthese",
+     "f": "sub"
+    },
+    {
+     "q": "points-bascule",
+     "f": "src"
+    },
+    {
+     "q": "points-bascule",
+     "f": "sub"
+    },
+    {
+     "q": "previsions-meteo",
+     "f": "src"
+    },
+    {
+     "q": "previsions-meteo",
+     "f": "sub"
+    },
+    {
+     "q": "robotique",
+     "f": "src"
+    },
+    {
+     "q": "robotique",
+     "f": "sub"
+    },
+    {
+     "q": "seismes",
+     "f": "src"
+    },
+    {
+     "q": "seismes",
+     "f": "sub"
+    },
+    {
+     "q": "stockage-energie",
+     "f": "src"
+    },
+    {
+     "q": "stockage-energie",
+     "f": "sub"
+    },
+    {
+     "q": "volcans",
+     "f": "src"
+    },
+    {
+     "q": "volcans",
+     "f": "sub"
+    },
+    {
+     "q": "ia-economie",
+     "f": "block"
+    },
+    {
+     "q": "stockage-energie",
+     "f": "block"
+    },
+    {
+     "q": "stockage-energie",
+     "f": "leads"
+    },
+    {
+     "q": "nourrir-10-milliards",
+     "f": "leads"
     }
    ]
   }

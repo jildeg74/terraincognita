@@ -63,6 +63,40 @@
    "t": "Scientists engineer shortcut for photosynthetic glitch (University of Illinois, Science 2019)",
    "ty": "institution",
    "u": "https://las.illinois.edu/news/2019-01-03/scientists-engineer-shortcut-photosynthetic-glitch"
+  },
+  {
+   "t": "Synthetic glycolate metabolism pathways stimulate crop growth and productivity in the field",
+   "ty": "study",
+   "u": "https://repository.lsu.edu/biosci_pubs/3211"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل سيتحوّل النمو الإضافي الناتج عن مسار التفافي للتنفس الضوئي إلى مزيد من الحبوب أو البذور أو الدرنات في المحاصيل الغذائية؟",
+   "en": "Will the extra growth from a photorespiration bypass turn into more grain, seeds or tubers in food crops?",
+   "es": "¿Se traducirá el crecimiento adicional de un atajo de la fotorrespiración en más grano, semillas o tubérculos en los cultivos alimentarios?",
+   "fr": "La croissance supplémentaire due à un contournement de la photorespiration se traduira-t-elle par davantage de grains, de graines ou de tubercules chez les cultures vivrières ?",
+   "hi": "क्या फ़ोटोरेस्पिरेशन बाईपास से होने वाली अतिरिक्त बढ़त खाद्य फ़सलों में ज़्यादा अनाज, बीज या कंद में बदलेगी?",
+   "pt": "O crescimento extra de um atalho da fotorrespiração vai se traduzir em mais grãos, sementes ou tubérculos nas culturas alimentares?",
+   "zh": "光呼吸旁路带来的额外生长，能否在粮食作物中转化为更多的谷粒、种子或块茎？"
+  },
+  {
+   "ar": "هل يعمل المسار الالتفافي المُهندَس فعلًا داخل خلايا النبات بالطريقة التي صمّمها العلماء؟",
+   "en": "Does the engineered bypass really work inside plant cells the way scientists designed it?",
+   "es": "¿Funciona realmente el atajo diseñado dentro de las células vegetales tal como lo concibieron los científicos?",
+   "fr": "Le contournement mis au point fonctionne-t-il vraiment dans les cellules végétales comme les scientifiques l'ont conçu ?",
+   "hi": "क्या बनाया गया बाईपास पौधों की कोशिकाओं के अंदर सचमुच वैसे ही काम करता है जैसा वैज्ञानिकों ने उसे डिज़ाइन किया था?",
+   "pt": "O atalho criado funciona mesmo dentro das células vegetais do jeito que os cientistas o projetaram?",
+   "zh": "人工设计的旁路在植物细胞内是否真的按照科学家设计的方式运作？"
+  },
+  {
+   "ar": "إلى أي حد يمكن أن يساعد إصلاح هذا التفاعل المُهدِر المحاصيلَ في المناخات الحارة والجافة، حيث تكون الخسائر أكبر؟",
+   "en": "How much can fixing this wasteful reaction help crops in hot, dry climates, where the losses are greatest?",
+   "es": "¿Cuánto puede ayudar corregir esta reacción derrochadora a los cultivos en climas cálidos y secos, donde las pérdidas son mayores?",
+   "fr": "Dans quelle mesure corriger cette réaction gaspilleuse peut-il aider les cultures dans les climats chauds et secs, où les pertes sont les plus fortes ?",
+   "hi": "गर्म और सूखी जलवायु में, जहाँ नुकसान सबसे ज़्यादा होता है, इस बेकार प्रतिक्रिया को ठीक करना फ़सलों की कितनी मदद कर सकता है?",
+   "pt": "Quanto corrigir essa reação desperdiçadora pode ajudar as culturas em climas quentes e secos, onde as perdas são maiores?",
+   "zh": "在损失最大的炎热干旱气候中，修复这一浪费的反应能在多大程度上帮助作物？"
   }
  ]
 }

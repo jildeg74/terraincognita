@@ -68,6 +68,40 @@
    "t": "The BabyLM challenge: researchers look to infants (The Transmitter)",
    "ty": "press",
    "u": "https://www.thetransmitter.org/neuroai/the-babylm-challenge-in-search-of-more-efficient-learning-algorithms-researchers-look-to-infants/"
+  },
+  {
+   "t": "Bridging the data gap between children and large language models",
+   "ty": "reference",
+   "u": "https://sites.socsci.uci.edu/~lpearl/colareadinggroup/readings/Frank2023_ChildrenLLMs.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "ما المعارف الفطرية، إن وُجدت، التي تساعد الرضّع على تعلّم اللغة من عدد قليل جدًا من الكلمات؟",
+   "en": "What built-in knowledge, if any, helps babies learn language from so few words?",
+   "es": "¿Qué conocimientos innatos, si los hay, ayudan a los bebés a aprender el lenguaje con tan pocas palabras?",
+   "fr": "Quelles connaissances innées, s'il y en a, aident les bébés à apprendre le langage à partir de si peu de mots ?",
+   "hi": "अगर कोई जन्मजात ज्ञान है, तो वह कौन-सा है जो शिशुओं को इतने कम शब्दों से भाषा सीखने में मदद करता है?",
+   "pt": "Que conhecimentos inatos, se houver, ajudam os bebês a aprender a linguagem com tão poucas palavras?",
+   "zh": "如果存在先天知识，是哪些先天知识帮助婴儿只凭这么少的词语就学会语言？"
+  },
+  {
+   "ar": "إلى أي حد تُسرّع رؤيةُ العالم والتحدثُ مع الناس، بدلًا من مجرد قراءة النصوص، تعلّمَ اللغة؟",
+   "en": "How much does seeing the world and talking with people, rather than just reading text, speed up language learning?",
+   "es": "¿Cuánto acelera el aprendizaje del lenguaje ver el mundo y hablar con personas, en lugar de solo leer texto?",
+   "fr": "Dans quelle mesure le fait de voir le monde et de parler avec des gens, plutôt que de seulement lire du texte, accélère-t-il l'apprentissage du langage ?",
+   "hi": "सिर्फ़ पाठ पढ़ने के बजाय दुनिया को देखना और लोगों से बात करना भाषा सीखने को कितना तेज़ कर देता है?",
+   "pt": "Quanto ver o mundo e conversar com pessoas, em vez de apenas ler textos, acelera o aprendizado da linguagem?",
+   "zh": "与只阅读文本相比，观察世界并与人交谈能在多大程度上加快语言学习？"
+  },
+  {
+   "ar": "هل يمكن لنموذج لغوي دُرِّب على عدد من الكلمات لا يزيد على ما يسمعه الطفل أن يبلغ مهارات لغوية شبيهة بمهارات البشر؟",
+   "en": "Can a language model trained on only as many words as a child hears reach human-like language skills?",
+   "es": "¿Puede un modelo de lenguaje entrenado solo con tantas palabras como las que oye un niño alcanzar habilidades lingüísticas similares a las humanas?",
+   "fr": "Un modèle de langage entraîné sur autant de mots seulement qu'un enfant en entend peut-il atteindre des compétences linguistiques comparables à celles des humains ?",
+   "hi": "क्या केवल उतने ही शब्दों पर प्रशिक्षित भाषा मॉडल, जितने एक बच्चा सुनता है, इंसानों जैसी भाषा क्षमता तक पहुँच सकता है?",
+   "pt": "Um modelo de linguagem treinado apenas com tantas palavras quanto uma criança ouve consegue alcançar habilidades linguísticas semelhantes às humanas?",
+   "zh": "一个只用儿童所听到的词量训练的语言模型，能否达到类似人类的语言能力？"
   }
  ]
 }

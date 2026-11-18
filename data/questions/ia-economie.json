@@ -3,49 +3,49 @@
  "d": "I",
  "i18n": {
   "ar": {
-   "block": "من الصعب جدًا التنبؤ بوتيرة التغيير وبكيفية توزيع المكاسب.",
+   "block": "تغطي معظم الدراسات مهامّ أو شركات قليلة؛ ولا تزال آثاره على الاقتصاد ككل غير معروفة.",
    "known": "تُظهر الدراسات الأولية مكاسب كبيرة في الإنتاجية في بعض المهام.",
    "leads": "قياس كيفية استخدام الذكاء الاصطناعي فعليًا في العمل، وسياسات للتعامل مع مراحل الانتقال.",
    "s": "الذكاء الاصطناعي والعمل",
    "t": "كيف سيغيّر الذكاء الاصطناعي العمل والاقتصاد؟"
   },
   "en": {
-   "block": "The pace of change and how gains will be shared are very hard to predict.",
+   "block": "Most studies cover a few tasks or companies; the effects on the whole economy are not yet known.",
    "known": "Early studies show large productivity gains on some tasks.",
    "leads": "Measuring how AI is actually used at work, policies for transitions.",
    "s": "AI and work",
    "t": "How will AI change work and the economy?"
   },
   "es": {
-   "block": "El ritmo del cambio y cómo se repartirán los beneficios son muy difíciles de predecir.",
+   "block": "La mayoría de los estudios abarcan pocas tareas o empresas; aún no se conocen los efectos en toda la economía.",
    "known": "Los primeros estudios muestran grandes aumentos de productividad en algunas tareas.",
    "leads": "Medir cómo se usa realmente la IA en el trabajo, políticas para las transiciones.",
    "s": "IA y trabajo",
    "t": "¿Cómo cambiará la IA el trabajo y la economía?"
   },
   "fr": {
-   "block": "Le rythme du changement et le partage des gains sont très difficiles à prévoir.",
+   "block": "La plupart des études portent sur quelques tâches ou entreprises ; les effets sur l'économie entière ne sont pas encore connus.",
    "known": "Les premières études montrent de forts gains de productivité sur certaines tâches.",
    "leads": "Mesurer l'usage réel de l'IA au travail, politiques d'accompagnement des transitions.",
    "s": "IA et travail",
    "t": "Comment l'IA va-t-elle changer le travail et l'économie ?"
   },
   "hi": {
-   "block": "बदलाव की गति और लाभों के बँटवारे का अनुमान लगाना बहुत कठिन है।",
+   "block": "ज़्यादातर अध्ययन कुछ ही कामों या कंपनियों तक सीमित हैं; पूरी अर्थव्यवस्था पर इसका असर अभी पता नहीं है।",
    "known": "शुरुआती अध्ययन कुछ कार्यों में उत्पादकता में बड़ी वृद्धि दिखाते हैं।",
    "leads": "यह मापना कि कार्यस्थल पर AI वास्तव में कैसे इस्तेमाल होता है, बदलाव के दौर के लिए नीतियाँ।",
    "s": "AI और काम",
    "t": "AI काम और अर्थव्यवस्था को कैसे बदलेगा?"
   },
   "pt": {
-   "block": "O ritmo da mudança e a forma como os ganhos serão repartidos são muito difíceis de prever.",
+   "block": "A maioria dos estudos abrange poucas tarefas ou empresas; os efeitos na economia como um todo ainda não são conhecidos.",
    "known": "Os primeiros estudos mostram grandes ganhos de produtividade em algumas tarefas.",
    "leads": "Medir como a IA é realmente usada no trabalho, políticas para as transições.",
    "s": "IA e trabalho",
    "t": "Como a IA vai mudar o trabalho e a economia?"
   },
   "zh": {
-   "block": "变化的速度以及收益如何分配,都很难预测。",
+   "block": "大多数研究只涉及少数任务或公司；对整个经济的影响尚不清楚。",
    "known": "早期研究显示,在某些任务上生产率大幅提升。",
    "leads": "衡量AI在工作中的实际使用情况,过渡期的相关政策。",
    "s": "AI与工作",
@@ -63,6 +63,40 @@
    "t": "Brynjolfsson, Li, Raymond, Generative AI at Work (NBER)",
    "ty": "institution",
    "u": "https://nber.org/papers/w31161"
+  },
+  {
+   "t": "Generative AI at Work",
+   "ty": "study",
+   "u": "https://econpapers.repec.org/RePEc:oup:qjecon:v:140:y:2025:i:2:p:889-942."
+  }
+ ],
+ "sub": [
+  {
+   "ar": "لماذا يستفيد العمال الجدد والأقل مهارة أكثر من غيرهم من مساعدي الذكاء الاصطناعي، بينما لا يستفيد الخبراء إلا قليلًا؟",
+   "en": "Why do newer, less-skilled workers gain the most from AI assistants, while experts gain little?",
+   "es": "¿Por qué los trabajadores novatos y menos cualificados son los que más ganan con los asistentes de IA, mientras que los expertos apenas ganan?",
+   "fr": "Pourquoi les travailleurs débutants et moins qualifiés profitent-ils le plus des assistants d'IA, alors que les experts y gagnent peu ?",
+   "hi": "नए और कम कुशल कर्मचारियों को AI सहायकों से सबसे ज़्यादा फ़ायदा क्यों होता है, जबकि विशेषज्ञों को बहुत कम?",
+   "pt": "Por que trabalhadores novatos e menos qualificados são os que mais ganham com assistentes de IA, enquanto especialistas ganham pouco?",
+   "zh": "为什么新手和技能较低的员工从人工智能助手中获益最多，而专家却获益甚少？"
+  },
+  {
+   "ar": "هل يكتسب العمال الذين يستخدمون مساعدي الذكاء الاصطناعي فعلًا مهارات تبقى معهم؟",
+   "en": "Do workers who use AI assistants actually learn skills they keep?",
+   "es": "¿Aprenden realmente habilidades duraderas los trabajadores que usan asistentes de IA?",
+   "fr": "Les travailleurs qui utilisent des assistants d'IA acquièrent-ils réellement des compétences durables ?",
+   "hi": "क्या AI सहायकों का उपयोग करने वाले कर्मचारी सचमुच ऐसे कौशल सीखते हैं जो उनके पास बने रहते हैं?",
+   "pt": "Os trabalhadores que usam assistentes de IA realmente aprendem habilidades que conservam?",
+   "zh": "使用人工智能助手的员工是否真的学到了能长期保留的技能？"
+  },
+  {
+   "ar": "لماذا يغيّر الذكاء الاصطناعي الإنتاجية بشكل مختلف إلى هذا الحد من عامل إلى آخر؟",
+   "en": "Why does AI change productivity so differently from one worker to another?",
+   "es": "¿Por qué la IA cambia la productividad de forma tan distinta de un trabajador a otro?",
+   "fr": "Pourquoi l'IA modifie-t-elle la productivité de façon si différente d'un travailleur à l'autre ?",
+   "hi": "AI अलग-अलग कर्मचारियों की उत्पादकता को इतने अलग ढंग से क्यों बदलता है?",
+   "pt": "Por que a IA muda a produtividade de forma tão diferente de um trabalhador para outro?",
+   "zh": "为什么人工智能对不同员工生产率的影响差别如此之大？"
   }
  ]
 }

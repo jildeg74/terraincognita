@@ -63,6 +63,40 @@
    "t": "Energy and AI: executive summary (International Energy Agency, 2025)",
    "ty": "official",
    "u": "https://www.iea.org/reports/energy-and-ai/executive-summary"
+  },
+  {
+   "t": "Electricity Demand and Grid Impacts of AI Data Centers: Challenges and Prospects",
+   "ty": "preprint",
+   "u": "https://arxiv.org/html/2509.07218v4"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن التنبؤ بدقة باستهلاك مراكز بيانات الذكاء الاصطناعي للكهرباء بينما يمكن أن يتغير بهذه السرعة؟",
+   "en": "How can the power use of AI data centers be forecast accurately when it can change so fast?",
+   "es": "¿Cómo se puede prever con precisión el consumo eléctrico de los centros de datos de IA cuando puede cambiar tan rápido?",
+   "fr": "Comment prévoir avec précision la consommation électrique des centres de données d'IA alors qu'elle peut changer si vite ?",
+   "hi": "जब AI डेटा सेंटरों की बिजली खपत इतनी तेज़ी से बदल सकती है, तो उसका सटीक पूर्वानुमान कैसे लगाया जाए?",
+   "pt": "Como prever com precisão o consumo de eletricidade dos data centers de IA quando ele pode mudar tão rápido?",
+   "zh": "既然人工智能数据中心的用电量变化如此之快，如何才能准确预测它？"
+  },
+  {
+   "ar": "هل يمكن نقل مهام حوسبة الذكاء الاصطناعي في الزمان أو المكان لتتوافق مع أوقات وأماكن توفّر الكهرباء النظيفة؟",
+   "en": "Can AI computing jobs be shifted in time or place to match when and where clean power is available?",
+   "es": "¿Se pueden desplazar las tareas de cálculo de la IA en el tiempo o en el espacio para que coincidan con cuándo y dónde hay electricidad limpia disponible?",
+   "fr": "Peut-on décaler les calculs d'IA dans le temps ou dans l'espace pour les faire coïncider avec les moments et les lieux où l'électricité propre est disponible ?",
+   "hi": "क्या AI के कंप्यूटिंग कामों को समय या जगह के हिसाब से खिसकाया जा सकता है, ताकि वे तब और वहाँ हों जब और जहाँ स्वच्छ बिजली उपलब्ध हो?",
+   "pt": "É possível deslocar no tempo ou no espaço as tarefas de computação de IA para coincidir com quando e onde há energia limpa disponível?",
+   "zh": "能否在时间或地点上调整人工智能计算任务，使其与清洁电力的供应时间和地点相匹配？"
+  },
+  {
+   "ar": "كيف يمكن منع التقلبات المفاجئة في استهلاك مركز البيانات للكهرباء من زعزعة استقرار الشبكة الكهربائية؟",
+   "en": "How can sudden swings in a data center's power use be kept from destabilizing the electricity grid?",
+   "es": "¿Cómo evitar que los cambios bruscos en el consumo eléctrico de un centro de datos desestabilicen la red eléctrica?",
+   "fr": "Comment empêcher que les variations brusques de la consommation d'un centre de données ne déstabilisent le réseau électrique ?",
+   "hi": "डेटा सेंटर की बिजली खपत में अचानक होने वाले उतार-चढ़ाव को बिजली ग्रिड को अस्थिर करने से कैसे रोका जाए?",
+   "pt": "Como evitar que oscilações bruscas no consumo de energia de um data center desestabilizem a rede elétrica?",
+   "zh": "如何防止数据中心用电量的骤然波动扰乱电网的稳定？"
   }
  ]
 }

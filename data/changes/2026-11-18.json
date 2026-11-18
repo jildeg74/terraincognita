@@ -528,6 +528,226 @@
   {
    "q": "vieillissement",
    "f": "sub"
+  },
+  {
+   "q": "apprentissage-continu",
+   "f": "src"
+  },
+  {
+   "q": "apprentissage-continu",
+   "f": "sub"
+  },
+  {
+   "q": "biodiversite",
+   "f": "sub"
+  },
+  {
+   "q": "capture-carbone",
+   "f": "src"
+  },
+  {
+   "q": "capture-carbone",
+   "f": "sub"
+  },
+  {
+   "q": "champ-magnetique",
+   "f": "sub"
+  },
+  {
+   "q": "climat-sensibilite",
+   "f": "src"
+  },
+  {
+   "q": "climat-sensibilite",
+   "f": "sub"
+  },
+  {
+   "q": "eau-douce",
+   "f": "src"
+  },
+  {
+   "q": "eau-douce",
+   "f": "sub"
+  },
+  {
+   "q": "efficacite-donnees",
+   "f": "src"
+  },
+  {
+   "q": "efficacite-donnees",
+   "f": "sub"
+  },
+  {
+   "q": "ia-conscience",
+   "f": "src"
+  },
+  {
+   "q": "ia-conscience",
+   "f": "sub"
+  },
+  {
+   "q": "ia-economie",
+   "f": "src"
+  },
+  {
+   "q": "ia-economie",
+   "f": "sub"
+  },
+  {
+   "q": "ia-energie",
+   "f": "src"
+  },
+  {
+   "q": "ia-energie",
+   "f": "sub"
+  },
+  {
+   "q": "ia-generale",
+   "f": "src"
+  },
+  {
+   "q": "ia-generale",
+   "f": "sub"
+  },
+  {
+   "q": "ia-prouvable",
+   "f": "src"
+  },
+  {
+   "q": "ia-prouvable",
+   "f": "sub"
+  },
+  {
+   "q": "ia-raisonnement",
+   "f": "src"
+  },
+  {
+   "q": "ia-raisonnement",
+   "f": "sub"
+  },
+  {
+   "q": "ia-science",
+   "f": "sub"
+  },
+  {
+   "q": "ia-valeurs",
+   "f": "src"
+  },
+  {
+   "q": "ia-valeurs",
+   "f": "sub"
+  },
+  {
+   "q": "interpretabilite",
+   "f": "src"
+  },
+  {
+   "q": "interpretabilite",
+   "f": "sub"
+  },
+  {
+   "q": "neuromorphique",
+   "f": "src"
+  },
+  {
+   "q": "neuromorphique",
+   "f": "sub"
+  },
+  {
+   "q": "nourrir-10-milliards",
+   "f": "src"
+  },
+  {
+   "q": "nourrir-10-milliards",
+   "f": "sub"
+  },
+  {
+   "q": "noyau-terre",
+   "f": "src"
+  },
+  {
+   "q": "noyau-terre",
+   "f": "sub"
+  },
+  {
+   "q": "ocean-profond",
+   "f": "src"
+  },
+  {
+   "q": "ocean-profond",
+   "f": "sub"
+  },
+  {
+   "q": "photosynthese",
+   "f": "src"
+  },
+  {
+   "q": "photosynthese",
+   "f": "sub"
+  },
+  {
+   "q": "points-bascule",
+   "f": "src"
+  },
+  {
+   "q": "points-bascule",
+   "f": "sub"
+  },
+  {
+   "q": "previsions-meteo",
+   "f": "src"
+  },
+  {
+   "q": "previsions-meteo",
+   "f": "sub"
+  },
+  {
+   "q": "robotique",
+   "f": "src"
+  },
+  {
+   "q": "robotique",
+   "f": "sub"
+  },
+  {
+   "q": "seismes",
+   "f": "src"
+  },
+  {
+   "q": "seismes",
+   "f": "sub"
+  },
+  {
+   "q": "stockage-energie",
+   "f": "src"
+  },
+  {
+   "q": "stockage-energie",
+   "f": "sub"
+  },
+  {
+   "q": "volcans",
+   "f": "src"
+  },
+  {
+   "q": "volcans",
+   "f": "sub"
+  },
+  {
+   "q": "ia-economie",
+   "f": "block"
+  },
+  {
+   "q": "stockage-energie",
+   "f": "block"
+  },
+  {
+   "q": "stockage-energie",
+   "f": "leads"
+  },
+  {
+   "q": "nourrir-10-milliards",
+   "f": "leads"
   }
  ]
 }

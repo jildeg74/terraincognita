@@ -63,5 +63,34 @@
    "ty": "study",
    "u": "https://journals.plos.org/plosbiology/article/info:doi/10.1371/journal.pbio.1001127"
   }
+ ],
+ "sub": [
+  {
+   "ar": "كم عدد أنواع البكتيريا والميكروبات الأخرى، في حين أن تقديراتنا لا تعطي سوى حدّ أدنى؟",
+   "en": "How many kinds of bacteria and other microbes are there, when our counts are only a lower limit?",
+   "es": "¿Cuántos tipos de bacterias y otros microbios existen, si nuestros recuentos solo dan un límite inferior?",
+   "fr": "Combien existe-t-il de sortes de bactéries et d'autres microbes, alors que nos décomptes ne donnent qu'une limite inférieure ?",
+   "hi": "बैक्टीरिया और दूसरे सूक्ष्मजीवों की कितनी किस्में हैं, जब हमारी गिनती सिर्फ़ एक न्यूनतम सीमा बताती है?",
+   "pt": "Quantos tipos de bactérias e outros micróbios existem, se nossas contagens são apenas um limite mínimo?",
+   "zh": "细菌和其他微生物究竟有多少种？我们目前的统计只是一个下限。"
+  },
+  {
+   "ar": "كيف يمكن تسريع وصف ملايين الأنواع المجهولة، بينما قد يستغرق ذلك قرونًا بالوتيرة الحالية؟",
+   "en": "How can the naming of millions of unknown species be sped up, when it could take centuries at today's pace?",
+   "es": "¿Cómo acelerar la descripción de millones de especies desconocidas, si al ritmo actual podría llevar siglos?",
+   "fr": "Comment accélérer la description de millions d'espèces inconnues, alors que cela pourrait prendre des siècles au rythme actuel ?",
+   "hi": "आज की रफ़्तार से लाखों अज्ञात प्रजातियों का वर्णन करने में सदियाँ लग सकती हैं; इसे तेज़ कैसे किया जाए?",
+   "pt": "Como acelerar a descrição de milhões de espécies desconhecidas, se no ritmo atual isso pode levar séculos?",
+   "zh": "按现在的速度，描述数以百万计的未知物种可能需要几个世纪，怎样才能加快这一进程？"
+  },
+  {
+   "ar": "كم عدد الأنواع التي تنقرض قبل أن نعرف حتى بوجودها؟",
+   "en": "How many species are going extinct before we even know they exist?",
+   "es": "¿Cuántas especies se están extinguiendo antes incluso de que sepamos que existen?",
+   "fr": "Combien d'espèces disparaissent avant même que nous sachions qu'elles existent ?",
+   "hi": "कितनी प्रजातियाँ हमारे यह जानने से पहले ही विलुप्त हो रही हैं कि वे मौजूद थीं?",
+   "pt": "Quantas espécies estão se extinguindo antes mesmo de sabermos que existem?",
+   "zh": "有多少物种在我们知道它们存在之前就已经灭绝了？"
+  }
  ]
 }

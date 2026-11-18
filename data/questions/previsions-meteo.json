@@ -67,6 +67,31 @@
    "t": "GenCast predicts weather and the risks of extreme conditions (Google DeepMind, Nature 2024)",
    "ty": "company",
    "u": "https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/"
+  },
+  {
+   "t": "What Is the Predictability Limit of Midlatitude Weather?",
+   "ty": "study",
+   "u": "https://texmex.mit.edu/ftp/pub/emanuel/PAPERS/Zhang_etal_2019.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن لنماذج الطقس القائمة على الذكاء الاصطناعي أن تعمل يومًا دون النماذج الفيزيائية التقليدية التي تزوّدها ببيانات التدريب والظروف الأولية؟",
+   "en": "Can AI weather models ever work without the traditional physics-based models that supply their training data and starting conditions?",
+   "es": "¿Podrán los modelos meteorológicos de IA funcionar algún día sin los modelos físicos tradicionales que les proporcionan sus datos de entrenamiento y sus condiciones iniciales?",
+   "fr": "Les modèles météo d'IA pourront-ils un jour se passer des modèles physiques traditionnels qui leur fournissent leurs données d'entraînement et leurs conditions de départ ?",
+   "hi": "क्या AI मौसम मॉडल कभी उन पारंपरिक भौतिकी-आधारित मॉडलों के बिना काम कर पाएँगे जो उन्हें प्रशिक्षण डेटा और शुरुआती स्थितियाँ देते हैं?",
+   "pt": "Os modelos meteorológicos de IA poderão um dia funcionar sem os modelos físicos tradicionais que fornecem seus dados de treinamento e condições iniciais?",
+   "zh": "人工智能天气模型能否摆脱为其提供训练数据和初始条件的传统物理模型？"
+  },
+  {
+   "ar": "كيف يمكن للتنبؤات أن تصف على أفضل وجه عدم اليقين الذي يتزايد بسرعة بعد بضعة أيام؟",
+   "en": "How can forecasts best describe the uncertainty that grows quickly beyond a few days ahead?",
+   "es": "¿Cómo pueden los pronósticos describir mejor la incertidumbre que crece rápidamente más allá de unos pocos días?",
+   "fr": "Comment les prévisions peuvent-elles le mieux décrire l'incertitude qui augmente rapidement au-delà de quelques jours ?",
+   "hi": "कुछ दिनों के बाद तेज़ी से बढ़ने वाली अनिश्चितता को पूर्वानुमान सबसे अच्छी तरह कैसे बता सकते हैं?",
+   "pt": "Como as previsões podem descrever melhor a incerteza que cresce rapidamente além de alguns dias?",
+   "zh": "预报如何才能最好地描述几天之后迅速增大的不确定性？"
   }
  ]
 }

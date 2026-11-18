@@ -61,6 +61,45 @@
    "t": "Can you predict earthquakes? (USGS)",
    "ty": "official",
    "u": "https://www.usgs.gov/faqs/can-you-predict-earthquakes"
+  },
+  {
+   "t": "Machine Learning in Earthquake Seismology",
+   "ty": "reference",
+   "u": "https://research.google/pubs/machine-learning-in-earthquake-seismology/"
+  },
+  {
+   "t": "Distributed acoustic sensing for seismic activity monitoring",
+   "ty": "study",
+   "u": "https://par.nsf.gov/servlets/purl/10144020"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "هل يمكن لفهارس الزلازل الأكثر تفصيلًا بكثير التي يبنيها الذكاء الاصطناعي أن تكشف أنماطًا جديدة في كيفية حدوث الزلازل؟",
+   "en": "Can the far more detailed earthquake catalogs built by AI reveal new patterns in how earthquakes happen?",
+   "es": "¿Pueden los catálogos de terremotos mucho más detallados creados por la IA revelar nuevos patrones en la forma en que ocurren los terremotos?",
+   "fr": "Les catalogues de séismes bien plus détaillés construits par l'IA peuvent-ils révéler de nouveaux schémas dans la façon dont les séismes se produisent ?",
+   "hi": "क्या AI द्वारा बनाए गए कहीं ज़्यादा विस्तृत भूकंप कैटलॉग यह दिखा सकते हैं कि भूकंप किस तरह आते हैं, इसके नए पैटर्न क्या हैं?",
+   "pt": "Os catálogos de terremotos muito mais detalhados criados pela IA podem revelar novos padrões na forma como os terremotos acontecem?",
+   "zh": "人工智能构建的更为详细的地震目录，能否揭示地震发生方式中的新规律？"
+  },
+  {
+   "ar": "هل يمكن لدمج الذكاء الاصطناعي مع فيزياء الصدوع أن يُنتج تنبؤات بالزلازل مفيدة فعلًا؟",
+   "en": "Can combining AI with the physics of faults produce earthquake forecasts that are actually useful?",
+   "es": "¿Puede la combinación de la IA con la física de las fallas producir pronósticos de terremotos realmente útiles?",
+   "fr": "Combiner l'IA avec la physique des failles peut-il produire des prévisions de séismes réellement utiles ?",
+   "hi": "क्या AI को भ्रंशों (फ़ॉल्ट) की भौतिकी के साथ जोड़कर ऐसे भूकंप पूर्वानुमान बनाए जा सकते हैं जो सचमुच उपयोगी हों?",
+   "pt": "Combinar a IA com a física das falhas pode produzir previsões de terremotos realmente úteis?",
+   "zh": "把人工智能与断层物理结合起来，能否做出真正有用的地震预报？"
+  },
+  {
+   "ar": "هل تحمل إشارات غير اهتزاز الأرض، مثل التغيرات الكيميائية أو الجوية، إنذارًا حقيقيًا بوقوع زلزال؟",
+   "en": "Do signals other than ground shaking, such as chemical or atmospheric changes, carry real warning of an earthquake?",
+   "es": "¿Contienen las señales distintas de la sacudida del suelo, como los cambios químicos o atmosféricos, un aviso real de un terremoto?",
+   "fr": "Des signaux autres que les secousses du sol, comme des changements chimiques ou atmosphériques, annoncent-ils vraiment un séisme ?",
+   "hi": "क्या ज़मीन के हिलने के अलावा दूसरे संकेत, जैसे रासायनिक या वायुमंडलीय बदलाव, सचमुच भूकंप की चेतावनी देते हैं?",
+   "pt": "Sinais além do tremor do solo, como mudanças químicas ou atmosféricas, trazem um aviso real de um terremoto?",
+   "zh": "地面震动以外的信号（如化学或大气变化）是否真的带有地震的预警信息？"
   }
  ]
 }

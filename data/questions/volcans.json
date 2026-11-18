@@ -61,6 +61,45 @@
    "t": "InSAR and its applications to study volcanoes (USGS)",
    "ty": "official",
    "u": "https://www.usgs.gov/maps/interferometric-synthetic-aperture-radar-insar-and-its-applications-study-volcanoes-part-2"
+  },
+  {
+   "t": "Advances in volcano monitoring driven by the first decade of Sentinel-1 observations",
+   "ty": "study",
+   "u": "https://pubs.usgs.gov/publication/70274493"
+  },
+  {
+   "t": "Report Identifies Grand Challenges for Scientific Community to Better Prepare for Volcanic Eruptions",
+   "ty": "institution",
+   "u": "https://www.nationalacademies.org/news/2017/04/report-identifies-grand-challenges-for-scientific-community-to-better-prepare-for-volcanic-eruptions"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "لماذا لا يزال التنبؤ بالثورانات الانفجارية الكبيرة انطلاقًا من حركات الأرض صعبًا إلى هذا الحد؟",
+   "en": "Why is it still so hard to forecast large explosive eruptions from ground movements?",
+   "es": "¿Por qué sigue siendo tan difícil pronosticar las grandes erupciones explosivas a partir de los movimientos del suelo?",
+   "fr": "Pourquoi est-il encore si difficile de prévoir les grandes éruptions explosives à partir des mouvements du sol ?",
+   "hi": "ज़मीन की हलचल से बड़े विस्फोटक ज्वालामुखी विस्फोटों का पूर्वानुमान लगाना अब भी इतना कठिन क्यों है?",
+   "pt": "Por que ainda é tão difícil prever grandes erupções explosivas a partir dos movimentos do solo?",
+   "zh": "为什么根据地面形变来预测大型爆炸性喷发仍然如此困难？"
+  },
+  {
+   "ar": "هل يستطيع ذكاء اصطناعي يفحص ملايين صور الرادار الفضائية أن يرصد بشكل موثوق البراكين التي تستيقظ؟",
+   "en": "Can AI scanning millions of satellite radar images reliably spot volcanoes that are waking up?",
+   "es": "¿Puede una IA que analiza millones de imágenes de radar por satélite detectar de forma fiable los volcanes que están despertando?",
+   "fr": "Une IA qui analyse des millions d'images radar satellitaires peut-elle repérer de façon fiable les volcans qui se réveillent ?",
+   "hi": "क्या लाखों उपग्रह रडार छवियों को जाँचने वाला AI जागते हुए ज्वालामुखियों को भरोसेमंद ढंग से पहचान सकता है?",
+   "pt": "Uma IA que analisa milhões de imagens de radar de satélite consegue identificar com confiabilidade vulcões que estão despertando?",
+   "zh": "人工智能扫描数以百万计的卫星雷达图像，能否可靠地发现正在苏醒的火山？"
+  },
+  {
+   "ar": "ما الذي يجعل الأرض عند البركان تنتفخ أو تهبط، ومتى يعني ذلك أن ثورانًا وشيكًا؟",
+   "en": "What makes the ground at a volcano swell or sink, and when does it mean an eruption is coming?",
+   "es": "¿Qué hace que el suelo de un volcán se hinche o se hunda, y cuándo significa que se acerca una erupción?",
+   "fr": "Qu'est-ce qui fait gonfler ou s'affaisser le sol d'un volcan, et quand cela annonce-t-il une éruption ?",
+   "hi": "ज्वालामुखी की ज़मीन क्यों फूलती या धँसती है, और कब इसका मतलब होता है कि विस्फोट आने वाला है?",
+   "pt": "O que faz o solo de um vulcão inchar ou afundar, e quando isso significa que uma erupção está chegando?",
+   "zh": "是什么让火山处的地面隆起或下沉？什么时候这意味着喷发即将来临？"
   }
  ]
 }

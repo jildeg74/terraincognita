@@ -69,5 +69,25 @@
    "ty": "press",
    "u": "https://siliconangle.com/2026/03/19/autoscience-builds-automated-research-lab-machine-learning-models-14m/"
   }
+ ],
+ "sub": [
+  {
+   "ar": "كيف يمكن للعلماء أن يعرفوا متى لا يمكن الوثوق بنتائج أداة ذكاء اصطناعي؟",
+   "en": "How can scientists tell when an AI tool's results can't be trusted?",
+   "es": "¿Cómo pueden saber los científicos cuándo no se puede confiar en los resultados de una herramienta de IA?",
+   "fr": "Comment les scientifiques peuvent-ils savoir quand les résultats d'un outil d'IA ne sont pas fiables ?",
+   "hi": "वैज्ञानिक कैसे पहचानें कि किसी AI टूल के नतीजों पर कब भरोसा नहीं किया जा सकता?",
+   "pt": "Como os cientistas podem saber quando os resultados de uma ferramenta de IA não são confiáveis?",
+   "zh": "科学家如何判断某个人工智能工具的结果何时不可信？"
+  },
+  {
+   "ar": "هل يستطيع نظام ذكاء اصطناعي أن يبني فهمًا علميًا حقيقيًا بمفرده؟",
+   "en": "Can an AI system build real scientific understanding on its own?",
+   "es": "¿Puede un sistema de IA construir por sí mismo una comprensión científica real?",
+   "fr": "Un système d'IA peut-il acquérir par lui-même une véritable compréhension scientifique ?",
+   "hi": "क्या कोई AI प्रणाली अपने दम पर असली वैज्ञानिक समझ बना सकती है?",
+   "pt": "Um sistema de IA consegue construir por conta própria uma compreensão científica real?",
+   "zh": "人工智能系统能否独立建立真正的科学理解？"
+  }
  ]
 }

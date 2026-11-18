@@ -67,6 +67,40 @@
    "t": "Open-sourcing circuit tracing tools (Anthropic)",
    "ty": "company",
    "u": "https://anthropic.com/research/open-source-circuit-tracing"
+  },
+  {
+   "t": "Open Problems in Mechanistic Interpretability",
+   "ty": "reference",
+   "u": "https://mlanthology.org/tmlr/2025/sharkey2025tmlr-open"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "ما الذي يُعدّ بالضبط «سمة» أو مفهومًا داخل الشبكة العصبية؟",
+   "en": "What exactly counts as a 'feature', or concept, inside a neural network?",
+   "es": "¿Qué cuenta exactamente como un «rasgo», o concepto, dentro de una red neuronal?",
+   "fr": "Qu'est-ce qui compte exactement comme une « caractéristique », ou un concept, à l'intérieur d'un réseau de neurones ?",
+   "hi": "किसी न्यूरल नेटवर्क के अंदर ठीक-ठीक किसे एक ‘फ़ीचर’ या अवधारणा माना जाए?",
+   "pt": "O que exatamente conta como uma 'característica', ou conceito, dentro de uma rede neural?",
+   "zh": "在神经网络内部，究竟什么才算一个“特征”或概念？"
+  },
+  {
+   "ar": "كيف يمكننا التحقق من أن تفسيرًا لما تفعله الشبكة صحيح فعلًا؟",
+   "en": "How can we check that an explanation of what a network is doing is actually correct?",
+   "es": "¿Cómo podemos comprobar que una explicación de lo que hace una red es realmente correcta?",
+   "fr": "Comment vérifier qu'une explication de ce que fait un réseau est réellement juste ?",
+   "hi": "हम कैसे जाँचें कि कोई नेटवर्क क्या कर रहा है, इसकी कोई व्याख्या वास्तव में सही है?",
+   "pt": "Como podemos verificar que uma explicação do que uma rede está fazendo é realmente correta?",
+   "zh": "我们如何检验对网络行为的某个解释是否真的正确？"
+  },
+  {
+   "ar": "هل يمكن أتمتة عمل فهم نماذج الذكاء الاصطناعي وإبقاؤه في المتناول مع استمرار نمو النماذج؟",
+   "en": "Can the work of understanding AI models be automated and kept affordable as models keep growing?",
+   "es": "¿Se puede automatizar el trabajo de entender los modelos de IA y mantenerlo asequible a medida que los modelos siguen creciendo?",
+   "fr": "Le travail de compréhension des modèles d'IA peut-il être automatisé et rester abordable à mesure que les modèles grandissent ?",
+   "hi": "जैसे-जैसे मॉडल बड़े होते जा रहे हैं, क्या AI मॉडलों को समझने का काम स्वचालित और किफ़ायती रखा जा सकता है?",
+   "pt": "O trabalho de entender modelos de IA pode ser automatizado e mantido acessível à medida que os modelos continuam crescendo?",
+   "zh": "随着模型不断变大，理解人工智能模型的工作能否实现自动化并保持成本可承受？"
   }
  ]
 }

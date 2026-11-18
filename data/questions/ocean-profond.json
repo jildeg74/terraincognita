@@ -65,14 +65,43 @@
    "u": "https://www.scientificamerican.com/article/ocean-census-reveals-more-than-1-100-new-species/"
   },
   {
-   "t": "Only 0.001% of the deep seafloor visually observed in seventy years (EurekAlert, study in Science Advances, 2025)",
-   "ty": "press",
-   "u": "https://www.eurekalert.org/news-releases/1082535"
-  },
-  {
    "t": "Bell et al., study of how much of the deep seafloor has been visually observed (Science Advances, 2025): repository record",
    "ty": "institution",
    "u": "https://marineinfo.org/doc/publication/408357"
+  },
+  {
+   "t": "How little we've seen: A visual coverage estimate of the deep seafloor",
+   "ty": "study",
+   "u": "https://www.vliz.be/imisdocs/publications/ocrd/414029.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "ما الأماكن في أعماق البحار التي ينبغي استكشافها بعد ذلك لسدّ أكبر الثغرات فيما رأيناه؟",
+   "en": "Which deep-sea places should be explored next to fill the biggest gaps in what we have seen?",
+   "es": "¿Qué lugares del fondo marino profundo deberían explorarse a continuación para llenar los mayores vacíos de lo que hemos visto?",
+   "fr": "Quels endroits des grands fonds faudrait-il explorer en priorité pour combler les plus grandes lacunes de ce que nous avons vu ?",
+   "hi": "हमने जो देखा है उसकी सबसे बड़ी कमियों को भरने के लिए आगे गहरे समुद्र की किन जगहों की खोज की जानी चाहिए?",
+   "pt": "Quais lugares do mar profundo deveriam ser explorados a seguir para preencher as maiores lacunas do que já vimos?",
+   "zh": "下一步应该探索哪些深海地点，才能填补我们观察中最大的空白？"
+  },
+  {
+   "ar": "هل يمكن للروبوتات الذاتية الأرخص أن تجعل استكشاف أعماق البحار سريعًا بما يكفي لرؤية جزء أكبر بكثير من قاع البحر؟",
+   "en": "Can cheaper, autonomous robots make deep-sea exploration fast enough to see much more of the seafloor?",
+   "es": "¿Pueden robots autónomos más baratos hacer que la exploración de las profundidades sea lo bastante rápida como para ver mucho más del fondo marino?",
+   "fr": "Des robots autonomes moins chers peuvent-ils rendre l'exploration des grands fonds assez rapide pour voir une bien plus grande partie du plancher océanique ?",
+   "hi": "क्या सस्ते, स्वचालित रोबोट गहरे समुद्र की खोज को इतना तेज़ बना सकते हैं कि समुद्र तल का कहीं ज़्यादा हिस्सा देखा जा सके?",
+   "pt": "Robôs autônomos mais baratos podem tornar a exploração do mar profundo rápida o bastante para ver muito mais do fundo do mar?",
+   "zh": "更便宜的自主机器人能否让深海探索快到足以看到更多的海底？"
+  },
+  {
+   "ar": "إلى أي حد تعكس صورتنا عن الحياة في أعماق البحار فقط الأماكن القليلة الأكثر دراسة، مثل الأخاديد القريبة من الدول الغنية؟",
+   "en": "How much does our picture of deep-sea life reflect only the few places, like canyons near rich countries, that have been studied most?",
+   "es": "¿Hasta qué punto nuestra imagen de la vida en las profundidades refleja solo los pocos lugares más estudiados, como los cañones cercanos a países ricos?",
+   "fr": "Dans quelle mesure notre image de la vie des grands fonds ne reflète-t-elle que les quelques endroits les plus étudiés, comme les canyons proches des pays riches ?",
+   "hi": "गहरे समुद्र के जीवन की हमारी तस्वीर कितनी हद तक सिर्फ़ उन गिनी-चुनी जगहों को दर्शाती है जिनका सबसे ज़्यादा अध्ययन हुआ है, जैसे अमीर देशों के पास की घाटियाँ?",
+   "pt": "Até que ponto nossa visão da vida no mar profundo reflete apenas os poucos lugares mais estudados, como cânions perto de países ricos?",
+   "zh": "我们对深海生命的认识，在多大程度上只反映了少数研究最多的地方，例如富裕国家附近的海底峡谷？"
   }
  ]
 }

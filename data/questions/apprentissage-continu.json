@@ -60,8 +60,42 @@
  "src": [
   {
    "t": "Kirkpatrick et al., Overcoming catastrophic forgetting in neural networks (PNAS, 2017)",
-   "ty": "preprint",
+   "ty": "study",
    "u": "https://arxiv.org/abs/1612.00796"
+  },
+  {
+   "t": "Three types of incremental learning",
+   "ty": "study",
+   "u": "https://www.nature.com/articles/s42256-022-00568-3.pdf"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "لماذا لا يزال من الصعب جدًا على الذكاء الاصطناعي أن يتعلم نوعًا جديدًا من البيانات دون أن ينسى ما تعلمه من قبل؟",
+   "en": "Why is it still so hard for an AI to learn a new kind of data without forgetting what it learned before?",
+   "es": "¿Por qué sigue siendo tan difícil que una IA aprenda un nuevo tipo de datos sin olvidar lo que aprendió antes?",
+   "fr": "Pourquoi est-il encore si difficile pour une IA d'apprendre un nouveau type de données sans oublier ce qu'elle a appris avant ?",
+   "hi": "किसी AI के लिए पहले सीखी बातें भूले बिना नए प्रकार का डेटा सीखना अब भी इतना कठिन क्यों है?",
+   "pt": "Por que ainda é tão difícil para uma IA aprender um novo tipo de dados sem esquecer o que aprendeu antes?",
+   "zh": "为什么人工智能在学习一种新类型的数据时，仍然很难不忘记之前学到的东西？"
+  },
+  {
+   "ar": "هل يمكن للذكاء الاصطناعي أن يواصل التعلم دون تخزين الأمثلة القديمة وإعادة عرضها؟",
+   "en": "Can an AI keep learning without storing and replaying old examples?",
+   "es": "¿Puede una IA seguir aprendiendo sin almacenar y volver a reproducir ejemplos antiguos?",
+   "fr": "Une IA peut-elle continuer à apprendre sans stocker et rejouer d'anciens exemples ?",
+   "hi": "क्या कोई AI पुराने उदाहरणों को सहेजे और दोहराए बिना सीखना जारी रख सकता है?",
+   "pt": "Uma IA pode continuar aprendendo sem armazenar e reproduzir exemplos antigos?",
+   "zh": "人工智能能否在不存储和重放旧样本的情况下持续学习？"
+  },
+  {
+   "ar": "كيف يمكن أن يجعل تعلّمُ مهمة جديدة الذكاءَ الاصطناعي أفضل في المهام السابقة بدلًا من أن يجعله أسوأ؟",
+   "en": "How can learning a new task make an AI better at earlier tasks, instead of worse?",
+   "es": "¿Cómo puede aprender una nueva tarea hacer que una IA sea mejor en las tareas anteriores, en lugar de peor?",
+   "fr": "Comment l'apprentissage d'une nouvelle tâche peut-il rendre une IA meilleure aux tâches précédentes, au lieu de moins bonne ?",
+   "hi": "नया काम सीखने से कोई AI पुराने कामों में बदतर होने के बजाय बेहतर कैसे बन सकता है?",
+   "pt": "Como aprender uma nova tarefa pode tornar uma IA melhor nas tarefas anteriores, em vez de pior?",
+   "zh": "怎样才能让学习新任务使人工智能在以前的任务上变得更好，而不是更差？"
   }
  ]
 }

@@ -62,6 +62,45 @@
    "t": "Direct Air Capture: executive summary (IEA)",
    "ty": "official",
    "u": "https://www.iea.org/reports/direct-air-capture-3/executive-summary"
+  },
+  {
+   "t": "A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage",
+   "ty": "study",
+   "u": "https://pubs.rsc.org/en/content/articlehtml/2023/ee/d3ee01008b"
+  },
+  {
+   "t": "Potential for large-scale CO2 removal via enhanced rock weathering with croplands",
+   "ty": "study",
+   "u": "https://ore.exeter.ac.uk/repository/handle/10871/122894"
+  }
+ ],
+ "sub": [
+  {
+   "ar": "ما مواد الالتقاط التي يمكنها أن تتحمّل آلاف دورات الالتقاط والإطلاق في هواء حقيقي رطب؟",
+   "en": "Which capture materials can survive thousands of capture-and-release cycles in real, humid air?",
+   "es": "¿Qué materiales de captura pueden resistir miles de ciclos de captura y liberación en aire real y húmedo?",
+   "fr": "Quels matériaux de captage peuvent résister à des milliers de cycles de captage et de libération dans un air réel et humide ?",
+   "hi": "कौन-सी कैप्चर सामग्रियाँ असली, नम हवा में हज़ारों बार पकड़ने और छोड़ने के चक्र झेल सकती हैं?",
+   "pt": "Quais materiais de captura conseguem resistir a milhares de ciclos de captura e liberação em ar real e úmido?",
+   "zh": "哪些捕集材料能在真实的潮湿空气中经受住成千上万次捕集与释放循环？"
+  },
+  {
+   "ar": "كيف يمكن خفض الطاقة اللازمة لالتقاط كل طن من ثاني أكسيد الكربون من الهواء خفضًا كبيرًا؟",
+   "en": "How can the energy needed to capture each ton of CO2 from the air be cut sharply?",
+   "es": "¿Cómo se puede reducir drásticamente la energía necesaria para capturar cada tonelada de CO2 del aire?",
+   "fr": "Comment réduire fortement l'énergie nécessaire pour capter chaque tonne de CO2 dans l'air ?",
+   "hi": "हवा से हर टन CO2 पकड़ने में लगने वाली ऊर्जा को बहुत कम कैसे किया जा सकता है?",
+   "pt": "Como reduzir drasticamente a energia necessária para capturar cada tonelada de CO2 do ar?",
+   "zh": "怎样才能大幅减少从空气中捕集每吨二氧化碳所需的能量？"
+  },
+  {
+   "ar": "هل يمكن توسيع نطاق تخزين ثاني أكسيد الكربون بتحويله إلى صخر تحت الأرض بشكل آمن؟",
+   "en": "Can storing CO2 by turning it into rock underground be scaled up safely?",
+   "es": "¿Se puede ampliar de forma segura el almacenamiento de CO2 convirtiéndolo en roca bajo tierra?",
+   "fr": "Peut-on développer à grande échelle et en toute sécurité le stockage du CO2 en le transformant en roche sous terre ?",
+   "hi": "क्या CO2 को ज़मीन के नीचे चट्टान में बदलकर जमा करने को सुरक्षित रूप से बड़े पैमाने पर किया जा सकता है?",
+   "pt": "É possível ampliar com segurança o armazenamento de CO2 transformando-o em rocha no subsolo?",
+   "zh": "通过在地下把二氧化碳变成岩石来封存它，能否安全地扩大规模？"
   }
  ]
 }

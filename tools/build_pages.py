@@ -3,7 +3,7 @@ Called by build_site.py. Uses the UI strings of the page template (extracted wit
 """
 import json, os, re, subprocess, html
 
-BASE = 'https://www.terraincognita.ca'
+BASE = 'https://terraincognita.ca'
 LANGS = ['en', 'fr', 'zh', 'es', 'hi', 'ar', 'pt']
 LNAME = {'en': 'English', 'zh': '中文', 'es': 'Español', 'hi': 'हिन्दी', 'ar': 'العربية', 'fr': 'Français', 'pt': 'Português'}
 DKEYS = ['P', 'V', 'E', 'M', 'I', 'T', 'H']

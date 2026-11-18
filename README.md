@@ -2,7 +2,7 @@
 
 A living map of what humanity does not know yet: great open scientific questions, linked together, each with what we know, what blocks us, current leads and sources. Seven languages: English, 中文, Español, हिन्दी, العربية, Français, Português.
 
-Website: https://www.terraincognita.ca
+Website: https://terraincognita.ca
 
 ## Contents
 - `data/questions/` — one JSON file per open question: the source of truth.

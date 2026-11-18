@@ -3,7 +3,7 @@
 Everyone can help: researchers, students, translators, curious people.
 
 ## Without GitHub
-Use the form at the bottom of https://www.terraincognita.ca to propose a new question, report an error, or volunteer as a reviewer.
+Use the form at the bottom of https://terraincognita.ca to propose a new question, report an error, or volunteer as a reviewer.
 
 ## With GitHub
 1. Edit the file of the question in `data/questions/` (or add a new one). The format and rules are in `AGENT.md`.

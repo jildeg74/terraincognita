@@ -30,8 +30,8 @@ head = '''<!doctype html>
 <meta name="description" content="A living map of what humanity does not know yet: great open questions, linked and sourced, in seven languages.">
 <meta property="og:title" content="Terra Incognita">
 <meta property="og:description" content="A living map of what humanity does not know yet.">
-<meta property="og:url" content="https://www.terraincognita.ca/">
-<link rel="canonical" href="https://www.terraincognita.ca/">
+<meta property="og:url" content="https://terraincognita.ca/">
+<link rel="canonical" href="https://terraincognita.ca/">
 <style>*,*::before,*::after{box-sizing:border-box}body{margin:0}[hidden]{display:none!important}</style>
 '''
 te = page.index('</title>') + len('</title>')
@@ -43,11 +43,11 @@ html = html.replace('const EXTRA={};', 'const EXTRA=' + dump(extra) + ';', 1)
 open(os.path.join(out, 'index.html'), 'w').write(html)
 updated = max([d.get('checked', '') for d in docs] + [c.get('date', '') for c in changes])
 open(os.path.join(out, 'data.json'), 'w').write(json.dumps({
-    'name': 'Terra Incognita', 'license': 'CC BY 4.0', 'url': 'https://www.terraincognita.ca/',
+    'name': 'Terra Incognita', 'license': 'CC BY 4.0', 'url': 'https://terraincognita.ca/',
     'updated': updated, 'questions': docs, 'changes': changes, 'digests': digests}, ensure_ascii=False, indent=1))
-open(os.path.join(out, 'robots.txt'), 'w').write('User-agent: *\nAllow: /\nSitemap: https://www.terraincognita.ca/sitemap.xml\n')
+open(os.path.join(out, 'robots.txt'), 'w').write('User-agent: *\nAllow: /\nSitemap: https://terraincognita.ca/sitemap.xml\n')
 locs = [''] + urls
 open(os.path.join(out, 'sitemap.xml'), 'w').write(
     '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
-    ''.join(f'<url><loc>https://www.terraincognita.ca/{u}</loc><lastmod>{updated}</lastmod></url>\n' for u in locs) + '</urlset>\n')
+    ''.join(f'<url><loc>https://terraincognita.ca/{u}</loc><lastmod>{updated}</lastmod></url>\n' for u in locs) + '</urlset>\n')
 print(f'built {len(docs)} questions, {len(urls)} pages, {len(changes)} change entries, updated {updated}')

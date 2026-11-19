@@ -44,7 +44,8 @@
   "page": "This question's page",
   "history": "History of this question",
   "status": "Status",
-  "histNone": "No change since the first survey."
+  "histNone": "No change since the first survey.",
+  "newq": "New question"
  },
  "fr": {
   "list": "Toutes les questions",
@@ -91,7 +92,8 @@
   "page": "Page de cette question",
   "history": "Historique de cette question",
   "status": "Statut",
-  "histNone": "Aucun changement depuis le premier relevé."
+  "histNone": "Aucun changement depuis le premier relevé.",
+  "newq": "Nouvelle question"
  },
  "es": {
   "list": "Todas las preguntas",
@@ -138,7 +140,8 @@
   "page": "Página de esta pregunta",
   "history": "Historial de esta pregunta",
   "status": "Estado",
-  "histNone": "Sin cambios desde el primer relevamiento."
+  "histNone": "Sin cambios desde el primer relevamiento.",
+  "newq": "Nueva pregunta"
  },
  "pt": {
   "list": "Todas as perguntas",
@@ -185,7 +188,8 @@
   "page": "Página desta pergunta",
   "history": "Histórico desta pergunta",
   "status": "Situação",
-  "histNone": "Nenhuma mudança desde o primeiro levantamento."
+  "histNone": "Nenhuma mudança desde o primeiro levantamento.",
+  "newq": "Nova pergunta"
  },
  "zh": {
   "list": "全部问题",
@@ -232,7 +236,8 @@
   "page": "本问题页面",
   "history": "本问题的修改记录",
   "status": "状态",
-  "histNone": "自首次整理以来没有修改。"
+  "histNone": "自首次整理以来没有修改。",
+  "newq": "新问题"
  },
  "hi": {
   "list": "सभी प्रश्न",
@@ -279,7 +284,8 @@
   "page": "इस प्रश्न का पेज",
   "history": "इस प्रश्न का इतिहास",
   "status": "स्थिति",
-  "histNone": "पहले सर्वेक्षण के बाद से कोई बदलाव नहीं।"
+  "histNone": "पहले सर्वेक्षण के बाद से कोई बदलाव नहीं।",
+  "newq": "नया प्रश्न"
  },
  "ar": {
   "list": "كل الأسئلة",
@@ -326,6 +332,7 @@
   "page": "صفحة هذا السؤال",
   "history": "سجل هذا السؤال",
   "status": "الحالة",
-  "histNone": "لا تغيير منذ المسح الأول."
+  "histNone": "لا تغيير منذ المسح الأول.",
+  "newq": "سؤال جديد"
  }
 }

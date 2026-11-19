@@ -48,6 +48,9 @@ Read `PROJECT.md` first: it explains the project, its history, decisions, servic
 7. Run `python3 tools/validate.py` (must show 0 errors), then `python3 tools/build_site.py page/index.html data/questions data/changes site data/digests`.
 8. Commit with a message saying what changed and push to `main`. Netlify publishes `site/` automatically.
 
+## Growing the map
+During the first update session of each month (the one that writes the monthly digest), add **up to 5 new questions**. Priority: (1) serious proposals received from the public, (2) the domains with the fewest questions, (3) open questions that recent research has made prominent. Never add a question just to reach the number: zero is fine if nothing qualifies. Each new question must meet every rule below, have 3 sub-questions, and pass the independent verification; otherwise it is not added. Log each one in the change log as `{"q": "<id>", "f": "new"}` and mention it in the monthly digest.
+
 ## Adding a new question
 Only for a genuine open question recognized in the scientific literature, not already on the map, with at least one `study` or `reference` source. Give it a short lowercase id with hyphens, link it to existing related questions, and add the reverse links.
 

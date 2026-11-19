@@ -216,7 +216,7 @@ ar:{sub:"خريطة لما لا تعرفه البشرية بعد. كل نقطة 
  pick:"اختر سؤالًا على الخريطة لترى ما نعرفه وما يعيقنا والمسارات الحالية.",fb:"لم تُترجم بعد إلى هذه اللغة. تُعرض بالإنجليزية.",
  foot:"مسح أعدّه Claude: جرى التحقق من كل سؤال بالمصادر المذكورة، نوفمبر 2026. لم يراجعه المختصون بعد. اسحب لتحريك الخريطة، واستخدم العجلة أو الضم للتكبير.",news:"ما الجديد",newsEmpty:"لا توجد تحديثات بعد.",srcAll:"أُضيفت المصادر إلى {n} سؤالًا",upd:"حُدِّث",prop:"اقترح سؤالًا أو تصحيحًا",propQ:"سؤالك أو تصحيحك",propS:"المصدر (رابط، اختياري)",propE:"البريد الإلكتروني (اختياري، إن أردت ردًّا)",send:"إرسال",sent:"شكرًا، تم الإرسال.",failed:"تعذّر الإرسال. حاول لاحقًا.",data:"تنزيل البيانات (CC BY 4.0)",subq:"أسئلة فرعية",revBy:"راجعه",notRev:"لم يراجعه مختص بعد.",dig:"ما الذي تغيّر هذا الشهر على حدود المعرفة",digEmpty:"سيظهر أول تقرير شهري هنا في بداية الشهر المقبل.",nl:"تلقَّ التقرير الشهري بالبريد الإلكتروني",nlBtn:"اشترك",nlOk:"شكرًا، تم اشتراكك.",kind:"النوع",k0:"سؤال جديد",k1:"تصحيح",k2:"أنا باحث وأريد مراجعة مجال",ty:{"study": "دراسة محكَّمة", "preprint": "نسخة أولية (غير محكَّمة بعد)", "official": "هيئة رسمية", "institution": "مؤسسة بحثية", "reference": "مرجع أكاديمي", "press": "صحافة", "company": "شركة (طرف معني)", "encyclopedia": "موسوعة"},map:"خريطة الأسئلة المفتوحة"}
 };
-const EXTRA={"en":{"list":"All questions","about":"About","solved":"Solved","page":"This question's page"},"fr":{"list":"Toutes les questions","about":"À propos","solved":"Résolue","page":"Page de cette question"},"zh":{"list":"全部问题","about":"关于","solved":"已解决","page":"本问题页面"},"es":{"list":"Todas las preguntas","about":"Acerca de","solved":"Resuelta","page":"Página de esta pregunta"},"hi":{"list":"सभी प्रश्न","about":"परिचय","solved":"हल हो चुका","page":"इस प्रश्न का पेज"},"ar":{"list":"كل الأسئلة","about":"عن المشروع","solved":"محلول","page":"صفحة هذا السؤال"},"pt":{"list":"Todas as perguntas","about":"Sobre","solved":"Resolvida","page":"Página desta pergunta"}};let hashOK=false;
+const EXTRA={"en":{"list":"All questions","about":"About","solved":"Solved","page":"This question's page","newq":"New question"},"fr":{"list":"Toutes les questions","about":"À propos","solved":"Résolue","page":"Page de cette question","newq":"Nouvelle question"},"zh":{"list":"全部问题","about":"关于","solved":"已解决","page":"本问题页面","newq":"新问题"},"es":{"list":"Todas las preguntas","about":"Acerca de","solved":"Resuelta","page":"Página de esta pregunta","newq":"Nueva pregunta"},"hi":{"list":"सभी प्रश्न","about":"परिचय","solved":"हल हो चुका","page":"इस प्रश्न का पेज","newq":"नया प्रश्न"},"ar":{"list":"كل الأسئلة","about":"عن المشروع","solved":"محلول","page":"صفحة هذا السؤال","newq":"سؤال جديد"},"pt":{"list":"Todas as perguntas","about":"Sobre","solved":"Resolvida","page":"Página desta pergunta","newq":"Nova pergunta"}};let hashOK=false;
 const DKEYS=["P","V","E","M","I","T","H"];
 const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 const $=id=>document.getElementById(id);
@@ -406,12 +406,12 @@ function renderNews(){
       if(it.k==='sources'){ul.append(el('li',{textContent:t.srcAll.replace('{n}',it.n)}));continue}
       if(!byId[it.q])continue;
       if(!grp.has(it.q))grp.set(it.q,[]);
-      const lab=(it.f==='sub'?t.subq:t[it.f])||'';if(lab&&!grp.get(it.q).includes(lab))grp.get(it.q).push(lab);
+      const lab=(it.f==='new'?((EXTRA[lang]||EXTRA.en||{}).newq||'New'):it.f==='sub'?t.subq:t[it.f])||'';if(lab&&!grp.get(it.q).includes(lab))grp.get(it.q).push(lab);
     }
     for(const [q,labs] of grp){
       const n=byId[q];
       const b=el('button',{type:'button',textContent:tx(n).t});b.onclick=()=>{select(n);$('cv').scrollIntoView({behavior:'smooth',block:'center'})};
-      ul.append(el('li',null,b,' · '+labs.join(', ')+' '+t.upd));
+      const nq=(EXTRA[lang]||EXTRA.en||{}).newq;const rest=labs.filter(x=>x!==nq);ul.append(el('li',null,b,' · '+(labs.includes(nq)?nq:'')+(labs.includes(nq)&&rest.length?' · ':'')+(rest.length?rest.join(', ')+' '+t.upd:'')));
     }
     const lis=[...ul.children];
     if(lis.length>11){lis.slice(11).forEach(li=>li.hidden=true);

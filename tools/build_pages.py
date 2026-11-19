@@ -97,7 +97,7 @@ def build(page, docs, out, changes=()):
         os.makedirs(os.path.join(out, lang), exist_ok=True)
         tx = lambda d: {**d['i18n'].get('en', {}), **d['i18n'].get(lang, {})}
         near = lambda d: (X['solved'] + (' · ' + d['solved'] if d.get('solved') else '')) if d['n'] == 3 else t['near'][d['n']]
-        flab = {'known': t['known'], 'block': t['block'], 'leads': t['leads'], 'src': t['src'], 'sub': t['subq'], 'n': X['status'], 'links': t['rel']}
+        flab = {'known': t['known'], 'block': t['block'], 'leads': t['leads'], 'src': t['src'], 'sub': t['subq'], 'n': X['status'], 'links': t['rel'], 'new': X['newq']}
         for d in docs:
             a = tx(d)
             subs = ''.join(f'<li>{e(s.get(lang) or s.get("en"))}</li>' for s in d.get('sub', []))
@@ -139,4 +139,4 @@ def build(page, docs, out, changes=()):
         open(os.path.join(out, lang, 'about.html'), 'w', encoding='utf-8').write(
             shell(lang, f'{X["aboutTitle"]}', X['aboutBody'][0][1], f'{lang}/about.html', body, tokens, 'about.html'))
         urls += [f'{lang}/index.html', f'{lang}/about.html']
-    return urls, {l: {k: S[l][k] for k in ('list', 'about', 'solved', 'page')} for l in LANGS}
+    return urls, {l: {k: S[l][k] for k in ('list', 'about', 'solved', 'page', 'newq')} for l in LANGS}

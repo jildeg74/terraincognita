@@ -70,7 +70,7 @@ site/                      site public généré (ne pas éditer à la main)
 ## 6. Fonctionnement courant
 
 - **Chaque semaine** : la veille revérifie ~25 questions (un quart de la carte), règle d'abord `OPEN_ISSUES.md`, met à jour textes et sources dans les 7 langues, fait vérifier par un second agent indépendant, valide, construit, publie, et envoie un rapport.
-- **Début de chaque mois** : bilan mensuel dans `data/digests/`.
+- **Début de chaque mois** : bilan mensuel dans `data/digests/`, et jusqu'à 5 nouvelles questions (règles dans `AGENT.md`, « Growing the map ») : environ 160 questions après un an.
 - **Messages du public** : arrivent à contact@juvason.com via Netlify. Les propositions sérieuses sont traitées comme une mise à jour normale (source obligatoire).
 - **Ajouter une question** : voir `AGENT.md` (question réellement ouverte, reconnue dans la littérature, au moins une étude ou référence, 7 langues, liens dans les deux sens).
 - **Ajouter une langue** : ajouter la langue dans `UI` et `LANGS` (page/index.html), dans `tools/strings.json`, dans `LANGS` de `tools/build_pages.py` et `tools/validate.py`, puis traduire toutes les questions et sous-questions, avec vérification. Décision du 18/11/2026 : ne pas ajouter de langue tant que les visiteurs ne le demandent pas (voir les pays dans Search Console). Ordre envisagé : russe, puis bengali et indonésien, idéalement avec un relecteur humain.
@@ -96,5 +96,6 @@ site/                      site public généré (ne pas éditer à la main)
 
 ## 9. Journal
 
+- **2026-11-18** — Règle de croissance : jusqu'à 5 nouvelles questions par mois, vérifiées.
 - **2026-11-18** — Version v1.0 archivée sur Zenodo, DOI 10.5281/zenodo.24356516. Search Console validé, sitemap envoyé.
 - **2026-11-18** — Création. 100 questions en 7 langues, site en ligne sur terraincognita.ca. Rattrapage par 4 agents + 4 vérificateurs indépendants : études relues ajoutées (39 → 99/100), 273 sous-questions, une dizaine d'affirmations corrigées ou retirées. Dépôt GitHub devenu source de vérité, règles `AGENT.md`, contrôle automatique. Pages par question, liste, à propos, éditeur Juvason. Formulaires Netlify activés (→ contact@juvason.com). Plan Netlify payant après épuisement des crédits gratuits. Questions résolues, image d'aperçu, chargement par langue, historique par question.

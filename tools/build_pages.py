@@ -43,6 +43,7 @@ li{margin:4px 0}
 .meta{font:12.5px var(--f-mono);color:var(--muted);margin-top:28px}
 .near[data-n="3"]{background:var(--accent);border-color:var(--accent);color:var(--bg2)}
 .hist{font-size:14px;color:var(--muted)}.hist time{font-family:var(--f-mono);color:var(--fg)}
+.why{font-size:17px;border-inline-start:3px solid var(--accent);padding-inline-start:12px}
 .cta{display:inline-block;margin-top:18px;font-weight:600}
 .group{margin-top:26px}
 .group h2{display:flex;align-items:center;gap:8px}
@@ -122,6 +123,7 @@ def build(page, docs, out, changes=()):
             body = (top(lang, d['id'] + '.html') +
                     f'<div class="dom" style="--c:var(--d-{d["d"]})"><i></i>{e(t["dom"][d["d"]])}</div>'
                     f'<h1>{e(a["t"])}</h1><span class="near"{' data-n="3"' if d["n"] == 3 else ''}>{e(near(d))}</span>'
+                    + (f'<h2>{e(X["why"])}</h2><p class="why">{e(a["why"])}</p>' if a.get('why') else '') +
                     f'<h2>{e(t["known"])}</h2><p>{e(a["known"])}</p>'
                     f'<h2>{e(t["block"])}</h2><p>{e(a["block"])}</p>'
                     f'<h2>{e(t["leads"])}</h2><p>{e(a["leads"])}</p>' +
@@ -131,9 +133,9 @@ def build(page, docs, out, changes=()):
                     f'<p class="meta">{e(X["checked"])}: {e(d.get("checked", ""))}</p>' + hsec +
                     f'<a class="cta" href="../?lang={lang}#{d["id"]}">{e(X["map"])} {"←" if lang == "ar" else "→"}</a>' + foot(lang, X))
             open(os.path.join(out, lang, d['id'] + '.html'), 'w', encoding='utf-8').write(
-                shell(lang, f'{a["t"]} · Terra Incognita', a['known'], f'{lang}/{d["id"]}.html', body, tokens, d['id'] + '.html', {
+                shell(lang, f'{a["t"]} · Terra Incognita', a.get('why') or a['known'], f'{lang}/{d["id"]}.html', body, tokens, d['id'] + '.html', {
                     '@context': 'https://schema.org', '@type': 'WebPage', 'url': f'{BASE}/{lang}/{d["id"]}.html',
-                    'name': a['t'], 'description': a['known'], 'inLanguage': lang, 'dateModified': d.get('checked', ''),
+                    'name': a['t'], 'description': a.get('why') or a['known'], 'inLanguage': lang, 'dateModified': d.get('checked', ''),
                     'license': 'https://creativecommons.org/licenses/by/4.0/',
                     'isPartOf': {'@type': 'Dataset', 'name': 'Terra Incognita', 'url': BASE + '/', 'identifier': DOI},
                     'mainEntity': {'@type': 'Question', 'name': a['t'], 'text': a['t'], 'about': t['dom'][d['d']]},
@@ -154,4 +156,4 @@ def build(page, docs, out, changes=()):
         open(os.path.join(out, lang, 'about.html'), 'w', encoding='utf-8').write(
             shell(lang, f'{X["aboutTitle"]}', X['aboutBody'][0][1], f'{lang}/about.html', body, tokens, 'about.html'))
         urls += [f'{lang}/index.html', f'{lang}/about.html']
-    return urls, {l: {k: S[l][k] for k in ('list', 'about', 'solved', 'page', 'newq')} for l in LANGS}
+    return urls, {l: {k: S[l][k] for k in ('list', 'about', 'solved', 'page', 'newq', 'why')} for l in LANGS}

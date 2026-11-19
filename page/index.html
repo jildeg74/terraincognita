@@ -80,6 +80,7 @@ footer{color:var(--muted);font-size:12.5px}
 #propForm button{align-self:flex-start;margin-top:8px;font:600 14px var(--f-body);background:var(--accent);color:var(--bg);border:0;border-radius:8px;padding:9px 16px;cursor:pointer}
 #pMsg{margin:0;font-size:13px;color:var(--muted)}
 footer a{color:var(--accent)}
+aside .why{border-inline-start:3px solid var(--accent);padding-inline-start:10px}
 aside .qpage{margin:0;font-size:13.5px}aside .qpage a{color:var(--accent)}
 footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-size:14px}
 .sublist{margin:0;padding-inline-start:18px;display:flex;flex-direction:column;gap:4px;font-size:14px}
@@ -347,6 +348,7 @@ function select(n){
   const h=el('h2',{textContent:a.t||''});if(a.fb)h.lang='en';
   panel.append(dom,h,near);
   if(a.fb)panel.append(el('p',{className:'fallback',textContent:t.fb}));
+  if(a.why){const X=EXTRA[lang]||EXTRA.en||{};const p=el('p',{className:'why',textContent:a.why});if(a.fb)p.lang='en';panel.append(el('section',null,el('h3',{textContent:X.why||'Why it matters'}),p))}
   for(const k of ['known','block','leads'])if(a[k]){const p=el('p',{textContent:a[k]});if(a.fb)p.lang='en';panel.append(el('section',null,el('h3',{textContent:t[k]}),p))}
   if(Array.isArray(n.sub)&&n.sub.length){const ul=el('ul',{className:'sublist'});n.sub.forEach(q=>{const s=q&&(q[lang]||q.en);if(s)ul.append(el('li',{textContent:s}))});if(ul.childElementCount)panel.append(el('section',null,el('h3',{textContent:t.subq}),ul))}
   const rel=new Set();edges.forEach(e=>{if(e[0]===n.id)rel.add(e[1]);if(e[1]===n.id)rel.add(e[0])});

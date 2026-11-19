@@ -29,7 +29,7 @@ Read `PROJECT.md` first: it explains the project, its history, decisions, servic
 }
 ```
 - All seven languages are mandatory for every text field. English is written first; the other six are faithful translations, never additions.
-- `known` = established facts, `block` = what prevents progress, `leads` = active research directions. Short, plain sentences a curious 15-year-old understands.
+- `why` (recommended) = why it matters: what would change for people if the question were answered, 1-2 sentences, at most 45 words in English, every consequence supported by a source you opened. `known` = established facts, `block` = what prevents progress, `leads` = active research directions. Short, plain sentences a curious 15-year-old understands.
 
 ## Sources
 - 1 to 3 per question, `https` only, title copied exactly from the page.

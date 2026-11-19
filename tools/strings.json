@@ -45,7 +45,8 @@
   "history": "History of this question",
   "status": "Status",
   "histNone": "No change since the first survey.",
-  "newq": "New question"
+  "newq": "New question",
+  "why": "Why it matters"
  },
  "fr": {
   "list": "Toutes les questions",
@@ -93,7 +94,8 @@
   "history": "Historique de cette question",
   "status": "Statut",
   "histNone": "Aucun changement depuis le premier relevé.",
-  "newq": "Nouvelle question"
+  "newq": "Nouvelle question",
+  "why": "Pourquoi c'est important"
  },
  "es": {
   "list": "Todas las preguntas",
@@ -141,7 +143,8 @@
   "history": "Historial de esta pregunta",
   "status": "Estado",
   "histNone": "Sin cambios desde el primer relevamiento.",
-  "newq": "Nueva pregunta"
+  "newq": "Nueva pregunta",
+  "why": "Por qué importa"
  },
  "pt": {
   "list": "Todas as perguntas",
@@ -189,7 +192,8 @@
   "history": "Histórico desta pergunta",
   "status": "Situação",
   "histNone": "Nenhuma mudança desde o primeiro levantamento.",
-  "newq": "Nova pergunta"
+  "newq": "Nova pergunta",
+  "why": "Por que isso importa"
  },
  "zh": {
   "list": "全部问题",
@@ -237,7 +241,8 @@
   "history": "本问题的修改记录",
   "status": "状态",
   "histNone": "自首次整理以来没有修改。",
-  "newq": "新问题"
+  "newq": "新问题",
+  "why": "为什么重要"
  },
  "hi": {
   "list": "सभी प्रश्न",
@@ -285,7 +290,8 @@
   "history": "इस प्रश्न का इतिहास",
   "status": "स्थिति",
   "histNone": "पहले सर्वेक्षण के बाद से कोई बदलाव नहीं।",
-  "newq": "नया प्रश्न"
+  "newq": "नया प्रश्न",
+  "why": "यह क्यों महत्वपूर्ण है"
  },
  "ar": {
   "list": "كل الأسئلة",
@@ -333,6 +339,7 @@
   "history": "سجل هذا السؤال",
   "status": "الحالة",
   "histNone": "لا تغيير منذ المسح الأول.",
-  "newq": "سؤال جديد"
+  "newq": "سؤال جديد",
+  "why": "لماذا يهمّ"
  }
 }

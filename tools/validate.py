@@ -39,6 +39,9 @@ for i, q in qs.items():
         for k in FIELDS:
             if not str(i18n.get(lang, {}).get(k, '')).strip():
                 err(f'{i}: missing {lang}.{k}')
+    whys = [lang for lang in LANGS if str(i18n.get(lang, {}).get('why', '')).strip()]
+    if whys and len(whys) < len(LANGS): err(f'{i}: "why" must be in all 7 languages or none (has {whys})')
+    if not whys: warn(f'{i}: no "why it matters" yet')
     src = q.get('src', [])
     if not 1 <= len(src) <= 3: err(f'{i}: needs 1 to 3 sources (has {len(src)})')
     for s in src:

@@ -1,9 +1,27 @@
 {
  "checked": "2026-11-18",
  "d": "E",
+ "dsrc": [
+  {
+   "t": "Theories of consciousness (Seth & Bayne, Nature Reviews Neuroscience, 2022, accepted version)",
+   "ty": "reference",
+   "u": "https://sro.sussex.ac.uk/id/eprint/105030/1/SethBayne_NRN_accepted.pdf"
+  },
+  {
+   "t": "Adversarial testing of global neuronal workspace and integrated information theories of consciousness (Nature, 2025)",
+   "ty": "study",
+   "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12137136/"
+  }
+ ],
  "i18n": {
   "ar": {
    "block": "لا نعرف لماذا ينتج النشاط الفيزيائي تجربة، وليس لدينا مقياس موضوعي للوعي.",
+   "detail": {
+    "ideas": "تربط نظرية مساحة العمل العصبية الشاملة التجربة الواعية بـ«اشتعال» مفاجئ وواسع النطاق للنشاط الدماغي يشمل القشرة الجبهية الأمامية [2]. أما نظرية المعلومات المتكاملة فتربطها بنشاط مستمر ومتكامل في الجزء الخلفي من القشرة الدماغية [2].",
+    "recent": "في عام 2025 نُشر في مجلة Nature اختبار من هذا النوع شمل 256 مشاركًا وثلاث طرق (التصوير بالرنين المغناطيسي الوظيفي، والتخطيط المغناطيسي للدماغ، وتسجيلات بأقطاب كهربائية مزروعة داخل الدماغ) [2]. وطعنت نتائجه في ادعاءات أساسية للنظريتين: فلم يُرصد التزامن المستمر في الجزء الخلفي من القشرة الذي توقعته نظرية المعلومات المتكاملة، وغاب إلى حد كبير اشتعال النشاط الذي توقعته نظرية مساحة العمل الشاملة عند اختفاء المنبّه [2].",
+    "settle": "يدعو مؤلفا المراجعة إلى ممارسة ناضجة لاختبار النظريات بعضها في مواجهة بعض [1]. وفي «التعاون التنافسي» يصمم أنصار النظريات المتنافسة معًا تجارب تختبر تنبؤات كل نظرية [2].",
+    "state": "تصف مراجعة مهمة صدرت عام 2022 أربع عائلات بارزة من النظريات: النظريات العليا الرتبة، ونظريات مساحة العمل الشاملة، ونظريات إعادة الدخول والمعالجة التنبؤية، ونظرية المعلومات المتكاملة [1]. ويشير مؤلفاها إلى أنه ليس واضحًا كيف ترتبط هذه النظريات ببعضها، ولا ما إذا كانت التجارب قادرة على التمييز بينها [1]."
+   },
    "known": "حُدّدت مناطق وإيقاعات دماغية ترتبط بالتجربة الواعية.",
    "leads": "تختبر فرق متنافسة نظرياتها (المعلومات المتكاملة، والفضاء العالمي) معًا في تجارب مشتركة.",
    "s": "الوعي",
@@ -12,6 +30,12 @@
   },
   "en": {
    "block": "We don't know why physical activity produces experience, and we have no objective measure of consciousness.",
+   "detail": {
+    "ideas": "Global neuronal workspace theory links conscious experience to a sudden, widespread ignition of brain activity involving the prefrontal cortex [2]. Integrated information theory instead links it to sustained, integrated activity in the back of the cortex [2].",
+    "recent": "In 2025, such a test, involving 256 participants and three methods (functional MRI, magnetoencephalography and recordings from electrodes inside the brain), was published in Nature [2]. Its results challenged key claims of both theories: the sustained synchronization in the back of the cortex expected by integrated information theory was not found, and the ignition of activity expected by global workspace theory when a stimulus disappears was largely absent [2].",
+    "settle": "The review's authors call for a mature practice of testing theories against each other [1]. In an adversarial collaboration, supporters of rival theories jointly design experiments that test the predictions of each one [2].",
+    "state": "A major 2022 review describes four prominent families of theories: higher-order theories, global workspace theories, re-entry and predictive processing theories, and integrated information theory [1]. Its authors note that it is unclear how these theories relate to each other, or whether experiments can tell them apart [1]."
+   },
    "known": "Brain areas and rhythms associated with conscious experience have been identified.",
    "leads": "Rival teams test their theories (integrated information, global workspace) together in shared experiments.",
    "s": "Consciousness",
@@ -20,6 +44,12 @@
   },
   "es": {
    "block": "No sabemos por qué la actividad física produce experiencia, y no tenemos ninguna medida objetiva de la conciencia.",
+   "detail": {
+    "ideas": "La teoría del espacio de trabajo neuronal global vincula la experiencia consciente con una «ignición» repentina y extendida de la actividad cerebral en la que interviene la corteza prefrontal [2]. La teoría de la información integrada, en cambio, la vincula con una actividad sostenida e integrada en la parte posterior de la corteza [2].",
+    "recent": "En 2025 se publicó en Nature una prueba de este tipo, con 256 participantes y tres métodos (resonancia magnética funcional, magnetoencefalografía y registros con electrodos dentro del cerebro) [2]. Sus resultados cuestionaron afirmaciones clave de ambas teorías: no se encontró la sincronización sostenida en la parte posterior de la corteza que esperaba la teoría de la información integrada, y la ignición de actividad que esperaba la teoría del espacio de trabajo global al desaparecer un estímulo estuvo en gran parte ausente [2].",
+    "settle": "Los autores de la revisión reclaman una práctica madura de poner a prueba unas teorías frente a otras [1]. En una colaboración adversarial, los defensores de teorías rivales diseñan juntos experimentos que ponen a prueba las predicciones de cada una [2].",
+    "state": "Una importante revisión de 2022 describe cuatro grandes familias de teorías: las teorías de orden superior, las teorías del espacio de trabajo global, las teorías de reentrada y procesamiento predictivo, y la teoría de la información integrada [1]. Sus autores señalan que no está claro cómo se relacionan estas teorías entre sí ni si los experimentos pueden distinguirlas [1]."
+   },
    "known": "Se han identificado áreas y ritmos cerebrales asociados con la experiencia consciente.",
    "leads": "Equipos rivales ponen a prueba juntos sus teorías (información integrada, espacio de trabajo global) en experimentos compartidos.",
    "s": "Conciencia",
@@ -28,6 +58,12 @@
   },
   "fr": {
    "block": "On ne sait pas pourquoi une activité physique produit un vécu, et on n'a aucune mesure objective de la conscience.",
+   "detail": {
+    "ideas": "La théorie de l'espace de travail neuronal global relie l'expérience consciente à un « embrasement » soudain et étendu de l'activité cérébrale impliquant le cortex préfrontal [2]. La théorie de l'information intégrée la relie plutôt à une activité soutenue et intégrée à l'arrière du cortex [2].",
+    "recent": "En 2025, un tel test, portant sur 256 participants et trois méthodes (IRM fonctionnelle, magnétoencéphalographie et enregistrements par électrodes placées dans le cerveau), a été publié dans Nature [2]. Ses résultats remettent en cause des affirmations clés des deux théories : la synchronisation soutenue à l'arrière du cortex attendue par la théorie de l'information intégrée n'a pas été observée, et l'embrasement d'activité attendu par la théorie de l'espace de travail global à la disparition d'un stimulus était en grande partie absent [2].",
+    "settle": "Les auteurs de la synthèse appellent à une pratique mûre de mise à l'épreuve des théories les unes contre les autres [1]. Dans une collaboration contradictoire, les partisans de théories rivales conçoivent ensemble des expériences qui testent les prédictions de chacune [2].",
+    "state": "Une importante synthèse de 2022 décrit quatre grandes familles de théories : les théories d'ordre supérieur, les théories de l'espace de travail global, les théories de la réentrée et du traitement prédictif, et la théorie de l'information intégrée [1]. Ses auteurs notent que l'on ne sait pas clairement comment ces théories s'articulent entre elles, ni si des expériences peuvent les départager [1]."
+   },
    "known": "On a repéré des zones et des rythmes cérébraux associés à l'expérience consciente.",
    "leads": "Des équipes rivales testent ensemble leurs théories (information intégrée, espace de travail global) dans des expériences communes.",
    "s": "Conscience",
@@ -36,6 +72,12 @@
   },
   "hi": {
    "block": "हम नहीं जानते कि भौतिक गतिविधि से अनुभव क्यों पैदा होता है, और चेतना का कोई वस्तुनिष्ठ माप हमारे पास नहीं है।",
+   "detail": {
+    "ideas": "ग्लोबल न्यूरोनल वर्कस्पेस सिद्धांत सचेत अनुभव को मस्तिष्क की गतिविधि के अचानक और व्यापक \"प्रज्वलन\" से जोड़ता है, जिसमें प्रीफ़्रंटल कॉर्टेक्स शामिल होता है [2]। इसके विपरीत, इंटीग्रेटेड इन्फ़ॉर्मेशन सिद्धांत इसे कॉर्टेक्स के पिछले हिस्से में निरंतर, एकीकृत गतिविधि से जोड़ता है [2]।",
+    "recent": "2025 में ऐसा एक परीक्षण Nature में प्रकाशित हुआ, जिसमें 256 प्रतिभागी और तीन विधियाँ (फ़ंक्शनल MRI, मैग्नेटोएन्सेफ़ैलोग्राफ़ी और मस्तिष्क के भीतर लगाए गए इलेक्ट्रोडों से रिकॉर्डिंग) शामिल थीं [2]। इसके परिणामों ने दोनों सिद्धांतों के मुख्य दावों को चुनौती दी: इंटीग्रेटेड इन्फ़ॉर्मेशन सिद्धांत द्वारा अपेक्षित कॉर्टेक्स के पिछले हिस्से में निरंतर समकालिकता नहीं मिली, और उत्तेजना के ग़ायब होने पर ग्लोबल वर्कस्पेस सिद्धांत द्वारा अपेक्षित गतिविधि का प्रज्वलन बड़े पैमाने पर अनुपस्थित था [2]।",
+    "settle": "समीक्षा के लेखक सिद्धांतों को एक-दूसरे के विरुद्ध परखने की एक परिपक्व पद्धति की माँग करते हैं [1]। एक \"प्रतिद्वंद्वी सहयोग\" में प्रतिस्पर्धी सिद्धांतों के समर्थक मिलकर ऐसे प्रयोग बनाते हैं जो हर सिद्धांत की भविष्यवाणियों को परखते हैं [2]।",
+    "state": "2022 की एक प्रमुख समीक्षा सिद्धांतों के चार प्रमुख परिवारों का वर्णन करती है: उच्च-क्रम सिद्धांत, ग्लोबल वर्कस्पेस सिद्धांत, री-एंट्री और प्रेडिक्टिव प्रोसेसिंग सिद्धांत, और इंटीग्रेटेड इन्फ़ॉर्मेशन सिद्धांत [1]। इसके लेखक बताते हैं कि यह स्पष्ट नहीं है कि ये सिद्धांत एक-दूसरे से कैसे जुड़ते हैं, या प्रयोग इन्हें अलग-अलग पहचान सकते हैं या नहीं [1]।"
+   },
    "known": "चेतन अनुभव से जुड़े मस्तिष्क क्षेत्रों और लयों की पहचान हो चुकी है।",
    "leads": "प्रतिद्वंद्वी टीमें अपने सिद्धांतों (एकीकृत सूचना, वैश्विक कार्यक्षेत्र) को साझा प्रयोगों में एक साथ परखती हैं।",
    "s": "चेतना",
@@ -44,6 +86,12 @@
   },
   "pt": {
    "block": "Não sabemos por que a atividade física produz experiência, e não temos uma medida objetiva da consciência.",
+   "detail": {
+    "ideas": "A teoria do espaço de trabalho neuronal global liga a experiência consciente a uma «ignição» súbita e generalizada da atividade cerebral que envolve o córtex pré-frontal [2]. A teoria da informação integrada liga-a antes a uma atividade sustentada e integrada na parte posterior do córtex [2].",
+    "recent": "Em 2025, foi publicado na Nature um teste deste tipo, com 256 participantes e três métodos (ressonância magnética funcional, magnetoencefalografia e registos com elétrodos no interior do cérebro) [2]. Os resultados puseram em causa afirmações centrais de ambas as teorias: a sincronização sustentada na parte posterior do córtex esperada pela teoria da informação integrada não foi encontrada, e a ignição de atividade esperada pela teoria do espaço de trabalho global quando um estímulo desaparece esteve em grande parte ausente [2].",
+    "settle": "Os autores da revisão apelam a uma prática madura de testar as teorias umas contra as outras [1]. Numa colaboração adversarial, os defensores de teorias rivais concebem em conjunto experiências que testam as previsões de cada uma [2].",
+    "state": "Uma importante revisão de 2022 descreve quatro grandes famílias de teorias: as teorias de ordem superior, as teorias do espaço de trabalho global, as teorias de reentrada e de processamento preditivo, e a teoria da informação integrada [1]. Os autores notam que não é claro como estas teorias se relacionam entre si, nem se as experiências conseguem distingui-las [1]."
+   },
    "known": "Foram identificadas áreas e ritmos cerebrais associados à experiência consciente.",
    "leads": "Equipes rivais testam juntas suas teorias (informação integrada, espaço de trabalho global) em experimentos compartilhados.",
    "s": "Consciência",
@@ -52,6 +100,12 @@
   },
   "zh": {
    "block": "我们不知道为什么物理活动会产生体验,也没有客观的意识测量手段。",
+   "detail": {
+    "ideas": "全局神经工作空间理论把意识体验与一种涉及前额叶皮层、突然而广泛的大脑活动“点燃”联系起来[2]。整合信息理论则把意识与大脑皮层后部持续、整合的活动联系起来[2]。",
+    "recent": "2025年，《自然》发表了这样一项检验，涉及256名参与者和三种方法（功能性磁共振成像、脑磁图以及植入大脑内部的电极记录）[2]。结果对两种理论的关键主张都提出了挑战：整合信息理论预期的皮层后部持续同步并未出现，而全局工作空间理论预期的刺激消失时的活动“点燃”也基本不存在[2]。",
+    "settle": "该综述的作者呼吁建立一套成熟的、让理论相互检验的做法[1]。在“对抗性合作”中，对立理论的支持者共同设计实验，检验每种理论的预测[2]。",
+    "state": "2022年的一篇重要综述介绍了四大类主要理论：高阶理论、全局工作空间理论、再入与预测加工理论，以及整合信息理论[1]。作者指出，这些理论之间如何关联尚不清楚，实验能否区分它们也不清楚[1]。"
+   },
    "known": "已经确认了与有意识体验相关的脑区和脑节律。",
    "leads": "相互竞争的团队在共同的实验中一起检验各自的理论(整合信息理论、全局工作空间理论)。",
    "s": "意识",

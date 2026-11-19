@@ -52,6 +52,30 @@ for i, q in qs.items():
         warn(f'{i}: no peer-reviewed study or academic reference yet')
     if src and all(s.get('ty') in ('press', 'company', 'encyclopedia') for s in src):
         err(f'{i}: sources are only press/company/encyclopedia')
+    dsrc = q.get('dsrc', [])
+    dets = [lang for lang in LANGS if i18n.get(lang, {}).get('detail')]
+    if dets or dsrc:
+        if len(dets) < len(LANGS): err(f'{i}: "detail" must be in all 7 languages (has {dets})')
+        if not 1 <= len(dsrc) <= 12: err(f'{i}: "detail" needs 1 to 12 sources in "dsrc" (has {len(dsrc)})')
+        for s in dsrc:
+            if not str(s.get('u', '')).startswith('https://'): err(f'{i}: dsrc url must be https: {s.get("u")}')
+            if not str(s.get('t', '')).strip() or s.get('ty') not in TYPES: err(f'{i}: dsrc entry needs a title and a valid type')
+        en = i18n.get('en', {}).get('detail', {}) or {}
+        used = set()
+        for k in ('state', 'ideas', 'settle', 'recent'):
+            ref = re.findall(r'\[(\d+)\]', str(en.get(k, '')))
+            if not str(en.get(k, '')).strip(): err(f'{i}: detail.{k} missing in en')
+            # every English sentence must carry at least one citation
+            for sent in re.split(r'(?<=[.!?])(?<!\s[A-Z]\.)\s+(?=[A-Z])', str(en.get(k, '')).strip()):
+                if sent and not re.search(r'\[\d+\]', sent): err(f'{i}: detail.{k} (en) sentence without a citation: {sent[:60]}')
+            for r in ref:
+                used.add(int(r))
+                if not 1 <= int(r) <= len(dsrc): err(f'{i}: detail.{k} cites [{r}] but dsrc has {len(dsrc)} entries')
+            for lang in LANGS:
+                other = re.findall(r'\[(\d+)\]', str((i18n.get(lang, {}).get('detail') or {}).get(k, '')))
+                if sorted(other) != sorted(ref): err(f'{i}: detail.{k} in {lang} does not cite the same sources as English ({other} vs {ref})')
+        for n in range(1, len(dsrc) + 1):
+            if n not in used: warn(f'{i}: dsrc [{n}] is never cited')
     for n, sq in enumerate(q.get('sub', [])):
         for lang in LANGS:
             if not str(sq.get(lang, '')).strip(): err(f'{i}: sub-question {n} missing {lang}')

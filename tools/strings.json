@@ -46,7 +46,13 @@
   "status": "Status",
   "histNone": "No change since the first survey.",
   "newq": "New question",
-  "why": "Why it matters"
+  "why": "Why it matters",
+  "detail": "In depth",
+  "dState": "Where things stand",
+  "dIdeas": "Competing ideas",
+  "dSettle": "What would settle it",
+  "dRecent": "Latest developments",
+  "dSrc": "Sources for this section"
  },
  "fr": {
   "list": "Toutes les questions",
@@ -95,7 +101,13 @@
   "status": "Statut",
   "histNone": "Aucun changement depuis le premier relevé.",
   "newq": "Nouvelle question",
-  "why": "Pourquoi c'est important"
+  "why": "Pourquoi c'est important",
+  "detail": "En détail",
+  "dState": "Où en est-on",
+  "dIdeas": "Les hypothèses en présence",
+  "dSettle": "Ce qui permettrait de trancher",
+  "dRecent": "Dernières avancées",
+  "dSrc": "Sources de cette section"
  },
  "es": {
   "list": "Todas las preguntas",
@@ -144,7 +156,13 @@
   "status": "Estado",
   "histNone": "Sin cambios desde el primer relevamiento.",
   "newq": "Nueva pregunta",
-  "why": "Por qué importa"
+  "why": "Por qué importa",
+  "detail": "En detalle",
+  "dState": "Dónde estamos",
+  "dIdeas": "Las hipótesis en juego",
+  "dSettle": "Qué permitiría zanjarlo",
+  "dRecent": "Últimos avances",
+  "dSrc": "Fuentes de esta sección"
  },
  "pt": {
   "list": "Todas as perguntas",
@@ -193,7 +211,13 @@
   "status": "Situação",
   "histNone": "Nenhuma mudança desde o primeiro levantamento.",
   "newq": "Nova pergunta",
-  "why": "Por que isso importa"
+  "why": "Por que isso importa",
+  "detail": "Em detalhe",
+  "dState": "Onde estamos",
+  "dIdeas": "As hipóteses em jogo",
+  "dSettle": "O que permitiria decidir",
+  "dRecent": "Avanços recentes",
+  "dSrc": "Fontes desta secção"
  },
  "zh": {
   "list": "全部问题",
@@ -242,7 +266,13 @@
   "status": "状态",
   "histNone": "自首次整理以来没有修改。",
   "newq": "新问题",
-  "why": "为什么重要"
+  "why": "为什么重要",
+  "detail": "深入了解",
+  "dState": "研究现状",
+  "dIdeas": "相互竞争的观点",
+  "dSettle": "什么能给出定论",
+  "dRecent": "最新进展",
+  "dSrc": "本节来源"
  },
  "hi": {
   "list": "सभी प्रश्न",
@@ -291,7 +321,13 @@
   "status": "स्थिति",
   "histNone": "पहले सर्वेक्षण के बाद से कोई बदलाव नहीं।",
   "newq": "नया प्रश्न",
-  "why": "यह क्यों महत्वपूर्ण है"
+  "why": "यह क्यों महत्वपूर्ण है",
+  "detail": "विस्तार से",
+  "dState": "अभी स्थिति क्या है",
+  "dIdeas": "प्रतिस्पर्धी विचार",
+  "dSettle": "किस बात से फ़ैसला होगा",
+  "dRecent": "हाल की प्रगति",
+  "dSrc": "इस खंड के स्रोत"
  },
  "ar": {
   "list": "كل الأسئلة",
@@ -340,6 +376,12 @@
   "status": "الحالة",
   "histNone": "لا تغيير منذ المسح الأول.",
   "newq": "سؤال جديد",
-  "why": "لماذا يهمّ"
+  "why": "لماذا يهمّ",
+  "detail": "بالتفصيل",
+  "dState": "أين وصلنا",
+  "dIdeas": "الفرضيات المتنافسة",
+  "dSettle": "ما الذي قد يحسم المسألة",
+  "dRecent": "أحدث التطورات",
+  "dSrc": "مصادر هذا القسم"
  }
 }

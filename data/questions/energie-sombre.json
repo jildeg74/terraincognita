@@ -1,9 +1,47 @@
 {
  "checked": "2026-11-18",
  "d": "P",
+ "dsrc": [
+  {
+   "t": "The Nobel Prize in Physics 2011: press release",
+   "ty": "institution",
+   "u": "https://nobelprize.org/prizes/physics/2011/press-release"
+  },
+  {
+   "t": "Planck 2018 results. VI. Cosmological parameters",
+   "ty": "study",
+   "u": "https://arxiv.org/pdf/1807.06209"
+  },
+  {
+   "t": "TASI Lectures on the Cosmological Constant",
+   "ty": "reference",
+   "u": "https://arxiv.org/pdf/0708.4231"
+  },
+  {
+   "t": "DESI DR2 Results II: Measurements of Baryon Acoustic Oscillations and Cosmological Constraints",
+   "ty": "study",
+   "u": "https://arxiv.org/abs/2503.14738v1"
+  },
+  {
+   "t": "Euclid. I. Overview of the Euclid mission",
+   "ty": "study",
+   "u": "https://arxiv.org/pdf/2405.13491"
+  },
+  {
+   "t": "Science Goals | Rubin Observatory",
+   "ty": "institution",
+   "u": "https://rubinobservatory.org/explore/science-goals"
+  }
+ ],
  "i18n": {
   "ar": {
    "block": "تتنبأ فيزياء الكم بقيمة أكبر بنحو 60 إلى 120 رتبة من حيث المقدار مما تسمح به الأرصاد. وهذه أزمة خطيرة في الفيزياء.",
+   "detail": {
+    "ideas": "إذا كانت الطاقة المظلمة هي طاقة الفراغ، فإن فيزياء الكم تتنبأ بقيمة أكبر من القيمة المرصودة بنحو 60 إلى 120 رتبة من حيث المقدار [3]. ومن البدائل المقترحة حقل جديد تتغير طاقته مع الزمن، يُسمّى أحيانًا «الجوهر الخامس»، وتعديلات على نظرية أينشتاين في الجاذبية، لكن مراجعة علمية ترى أن بناءها صعب من دون ضبط دقيق، أو أنها لا تزيل اللغز الأساسي [3]. ويقترح تصور آخر مرتبط بنظرية الأوتار وجود عدد هائل من القيم الممكنة، وأننا نرصد قيمة صغيرة لأن مثل هذه القيم وحدها تسمح بوجود المجرات والراصدين [3].",
+    "recent": "في عام 2025، أفاد مسح DESI، اعتمادًا على أكثر من 14 مليون مجرة وكوازار رُصدت على مدى ثلاث سنوات، بأن بياناته، عند دمجها مع قياسات أخرى، تُرجّح طاقة مظلمة تتغير مع الزمن [4]. وتتراوح قوة هذا الترجيح بين 2.8 و4.2 انحراف معياري بحسب عيّنة المستعرات العظمى المستخدمة [4].",
+    "settle": "السؤال الأساسي هو: هل تبقى كثافة الطاقة المظلمة ثابتة تمامًا مع الزمن، كما يقتضي الثابت الكوني، أم أنها تتغير [4]؟ ويقوم تلسكوب إقليدس التابع لوكالة الفضاء الأوروبية، الذي أُطلق في يوليو 2023، بمسح نحو 14000 درجة مربعة من السماء وقياس أشكال أكثر من مليار مجرة لحسم ذلك [5]. وسيصوّر مرصد فيرا سي. روبن السماء طوال عشر سنوات، ويُعدّ فهم الطاقة المظلمة أحد أهدافه العلمية الأربعة الرئيسية [6].",
+    "state": "في عام 1998، اكتشف فريقان كانا يدرسان مستعرات عظمى بعيدة من النوع Ia أن تمدد الكون يتسارع، وهو اكتشاف كُرّم بجائزة نوبل في الفيزياء لعام 2011 [1]. وتشير قياسات إشعاع الخلفية الكونية الميكروي التي أجراها القمر الصناعي بلانك إلى أن الطاقة المظلمة تشكّل نحو 68% من محتوى الكون من الطاقة، مقابل نحو 32% للمادة [2]. وأبسط تفسير هو الثابت الكوني: طاقة للفراغ لا تتخفف مع تمدد الكون [3]."
+   },
    "known": "يتسارع تمدد الكون. ويُسمّى سبب ذلك الطاقة المظلمة، وهي تشكّل نحو 70% من محتواه من الطاقة.",
    "leads": "تلمّح مسوح DESI إلى أنها قد تتغير مع الزمن؛ وسيقيسها تلسكوب إقليدس ومرصد روبن بدقة أكبر.",
    "s": "الطاقة المظلمة",
@@ -12,6 +50,12 @@
   },
   "en": {
    "block": "Quantum physics predicts a value some 60 to 120 orders of magnitude larger than observations allow. This is a serious crisis in physics.",
+   "detail": {
+    "ideas": "If dark energy is the energy of empty space, quantum physics predicts a value 60 to 120 orders of magnitude larger than the one observed [3]. Alternatives include a new field whose energy changes over time, sometimes called quintessence, and changes to Einstein's theory of gravity, but a review argues that these are hard to build without fine-tuning or do not remove the underlying puzzle [3]. Another proposal, linked to string theory, is that a huge number of possible values exist and that we observe a small one because only such values allow galaxies and observers [3].",
+    "recent": "In 2025, the DESI survey, using more than 14 million galaxies and quasars from three years of observations, reported that its data combined with other measurements favour a dark energy that changes over time [4]. The strength of this preference ranges from 2.8 to 4.2 standard deviations depending on the supernova sample used [4].",
+    "settle": "The key question is whether the density of dark energy stays exactly constant over time, as a cosmological constant requires, or changes [4]. The European Space Agency's Euclid telescope, launched in July 2023, is surveying about 14,000 square degrees of sky and measuring the shapes of more than a billion galaxies to pin this down [5]. The Vera C. Rubin Observatory will film the sky for ten years, and understanding dark energy is one of its four main science goals [6].",
+    "state": "In 1998, two teams studying distant type Ia supernovae found that the expansion of the universe is speeding up, a discovery honoured with the 2011 Nobel Prize in Physics [1]. Measurements of the cosmic microwave background by the Planck satellite indicate that dark energy makes up about 68% of the universe's energy content, against about 32% for matter [2]. The simplest explanation is a cosmological constant: an energy of empty space that does not dilute as the universe expands [3]."
+   },
    "known": "The expansion of the universe is accelerating. The cause, called dark energy, makes up about 70% of its energy content.",
    "leads": "DESI surveys hint that it may change over time; Euclid and the Rubin Observatory will measure it more precisely.",
    "s": "Dark energy",
@@ -20,6 +64,12 @@
   },
   "es": {
    "block": "La física cuántica predice un valor entre 60 y 120 órdenes de magnitud mayor de lo que permiten las observaciones. Es una crisis seria para la física.",
+   "detail": {
+    "ideas": "Si la energía oscura es la energía del vacío, la física cuántica predice un valor entre 60 y 120 órdenes de magnitud mayor que el observado [3]. Otras propuestas son un nuevo campo cuya energía cambia con el tiempo, a veces llamado quintaesencia, y modificaciones de la teoría de la gravedad de Einstein, pero una revisión sostiene que son difíciles de construir sin ajuste fino o que no eliminan el enigma de fondo [3]. Otra propuesta, ligada a la teoría de cuerdas, plantea que existe una enorme cantidad de valores posibles y que observamos uno pequeño porque solo esos valores permiten que existan galaxias y observadores [3].",
+    "recent": "En 2025, el sondeo DESI, con más de 14 millones de galaxias y cuásares observados durante tres años, informó de que sus datos, combinados con otras mediciones, favorecen una energía oscura que cambia con el tiempo [4]. La fuerza de esta preferencia va de 2,8 a 4,2 desviaciones estándar según la muestra de supernovas utilizada [4].",
+    "settle": "La cuestión clave es si la densidad de la energía oscura se mantiene exactamente constante en el tiempo, como exige una constante cosmológica, o si cambia [4]. El telescopio Euclid de la Agencia Espacial Europea, lanzado en julio de 2023, cartografía unos 14 000 grados cuadrados de cielo y mide la forma de más de mil millones de galaxias para resolverlo [5]. El Observatorio Vera C. Rubin filmará el cielo durante diez años, y comprender la energía oscura es uno de sus cuatro grandes objetivos científicos [6].",
+    "state": "En 1998, dos equipos que estudiaban supernovas lejanas de tipo Ia descubrieron que la expansión del universo se está acelerando, un hallazgo premiado con el Nobel de Física de 2011 [1]. Las mediciones del fondo cósmico de microondas del satélite Planck indican que la energía oscura constituye cerca del 68 % del contenido energético del universo, frente a cerca del 32 % de la materia [2]. La explicación más sencilla es una constante cosmológica: una energía del vacío que no se diluye cuando el universo se expande [3]."
+   },
    "known": "La expansión del universo se está acelerando. La causa, llamada energía oscura, constituye cerca del 70 % de su contenido energético.",
    "leads": "Los estudios de DESI sugieren que podría cambiar con el tiempo; Euclid y el Observatorio Rubin la medirán con más precisión.",
    "s": "Energía oscura",
@@ -28,6 +78,12 @@
   },
   "fr": {
    "block": "La physique quantique prédit une valeur de 60 à 120 ordres de grandeur plus grande que ce que permettent les observations. C'est une crise sérieuse pour la physique.",
+   "detail": {
+    "ideas": "Si l'énergie sombre est l'énergie du vide, la physique quantique prédit une valeur de 60 à 120 ordres de grandeur plus grande que celle observée [3]. Parmi les autres pistes figurent un nouveau champ dont l'énergie varie dans le temps, parfois appelé quintessence, et des modifications de la théorie de la gravitation d'Einstein, mais une synthèse estime qu'elles sont difficiles à construire sans ajustement fin ou qu'elles ne lèvent pas l'énigme de fond [3]. Une autre proposition, liée à la théorie des cordes, suppose qu'un nombre immense de valeurs possibles existe et que nous en observons une petite parce que seules de telles valeurs permettent l'existence de galaxies et d'observateurs [3].",
+    "recent": "En 2025, le relevé DESI, à partir de plus de 14 millions de galaxies et de quasars observés en trois ans, a indiqué que ses données, combinées à d'autres mesures, favorisent une énergie sombre qui varie dans le temps [4]. La force de cette préférence va de 2,8 à 4,2 écarts-types selon l'échantillon de supernovas utilisé [4].",
+    "settle": "La question clé est de savoir si la densité de l'énergie sombre reste exactement constante dans le temps, comme l'exige une constante cosmologique, ou si elle varie [4]. Le télescope Euclid de l'Agence spatiale européenne, lancé en juillet 2023, cartographie environ 14 000 degrés carrés de ciel et mesure la forme de plus d'un milliard de galaxies pour trancher [5]. L'observatoire Vera C. Rubin va filmer le ciel pendant dix ans, et comprendre l'énergie sombre fait partie de ses quatre grands objectifs scientifiques [6].",
+    "state": "En 1998, deux équipes qui étudiaient des supernovas lointaines de type Ia ont découvert que l'expansion de l'Univers accélère, une découverte récompensée par le prix Nobel de physique 2011 [1]. Les mesures du fond diffus cosmologique par le satellite Planck indiquent que l'énergie sombre représente environ 68 % du contenu énergétique de l'Univers, contre environ 32 % pour la matière [2]. L'explication la plus simple est une constante cosmologique : une énergie du vide, qui ne se dilue pas quand l'Univers s'étend [3]."
+   },
    "known": "L'expansion de l'univers accélère. La cause, appelée énergie sombre, représente environ 70 % de son contenu énergétique.",
    "leads": "Les relevés DESI suggèrent qu'elle pourrait varier dans le temps ; Euclid et l'observatoire Rubin la mesureront plus précisément.",
    "s": "Énergie sombre",
@@ -36,6 +92,12 @@
   },
   "hi": {
    "block": "क्वांटम भौतिकी जो मान बताती है, वह प्रेक्षणों द्वारा अनुमत मान से 60 से 120 परिमाण-कोटि (ऑर्डर ऑफ़ मैग्निट्यूड) अधिक है। यह भौतिकी के लिए एक गंभीर संकट है।",
+   "detail": {
+    "ideas": "यदि डार्क एनर्जी खाली स्थान की ऊर्जा है, तो क्वांटम भौतिकी जो मान बताती है वह देखे गए मान से 60 से 120 परिमाण-कोटि अधिक है [3]। अन्य विकल्पों में एक नया क्षेत्र (फ़ील्ड) शामिल है जिसकी ऊर्जा समय के साथ बदलती है, जिसे कभी-कभी क्विंटेसेंस कहा जाता है, और आइंस्टीन के गुरुत्व सिद्धांत में बदलाव भी; लेकिन एक समीक्षा के अनुसार इन्हें बारीक समायोजन (फ़ाइन-ट्यूनिंग) के बिना बनाना कठिन है या ये मूल पहेली को दूर नहीं करते [3]। स्ट्रिंग सिद्धांत से जुड़ा एक अन्य प्रस्ताव यह है कि संभव मानों की संख्या बहुत विशाल है, और हमें एक छोटा मान इसलिए दिखता है क्योंकि केवल ऐसे मान ही आकाशगंगाओं और प्रेक्षकों के अस्तित्व की अनुमति देते हैं [3]।",
+    "recent": "2025 में DESI सर्वेक्षण ने तीन वर्षों के प्रेक्षणों से 1.4 करोड़ से अधिक आकाशगंगाओं और क्वासरों के आधार पर बताया कि उसके आँकड़े, अन्य मापनों के साथ मिलाकर, समय के साथ बदलने वाली डार्क एनर्जी के पक्ष में हैं [4]। इस झुकाव की प्रबलता, इस्तेमाल किए गए सुपरनोवा नमूने के अनुसार, 2.8 से 4.2 मानक विचलन के बीच है [4]।",
+    "settle": "मुख्य प्रश्न यह है कि डार्क एनर्जी का घनत्व समय के साथ बिल्कुल स्थिर रहता है, जैसा कॉस्मोलॉजिकल स्थिरांक के लिए ज़रूरी है, या बदलता है [4]। यूरोपीय अंतरिक्ष एजेंसी का यूक्लिड टेलीस्कोप, जो जुलाई 2023 में प्रक्षेपित हुआ, यह तय करने के लिए आकाश के लगभग 14,000 वर्ग डिग्री का सर्वेक्षण कर रहा है और एक अरब से अधिक आकाशगंगाओं की आकृतियाँ माप रहा है [5]। वेरा सी. रुबिन वेधशाला दस वर्षों तक आकाश की \"फ़िल्म\" बनाएगी, और डार्क एनर्जी को समझना उसके चार मुख्य वैज्ञानिक लक्ष्यों में से एक है [6]।",
+    "state": "1998 में दूर के टाइप Ia सुपरनोवा का अध्ययन कर रही दो टीमों ने पाया कि ब्रह्मांड का विस्तार तेज़ हो रहा है; इस खोज को 2011 का भौतिकी का नोबेल पुरस्कार मिला [1]। प्लैंक उपग्रह द्वारा कॉस्मिक माइक्रोवेव पृष्ठभूमि के मापन बताते हैं कि ब्रह्मांड की कुल ऊर्जा में डार्क एनर्जी का हिस्सा लगभग 68% है, जबकि पदार्थ का लगभग 32% [2]। सबसे सरल व्याख्या एक कॉस्मोलॉजिकल स्थिरांक है: खाली स्थान की ऐसी ऊर्जा जो ब्रह्मांड के फैलने पर पतली (विरल) नहीं होती [3]।"
+   },
    "known": "ब्रह्मांड का विस्तार तेज़ हो रहा है। इसका कारण, जिसे डार्क एनर्जी कहा जाता है, उसकी कुल ऊर्जा सामग्री का लगभग 70% है।",
    "leads": "DESI सर्वेक्षण संकेत देते हैं कि यह समय के साथ बदल सकती है; Euclid और रुबिन वेधशाला इसे और अधिक सटीकता से मापेंगे।",
    "s": "डार्क एनर्जी",
@@ -44,6 +106,12 @@
   },
   "pt": {
    "block": "A física quântica prevê um valor de 60 a 120 ordens de grandeza maior do que as observações permitem. É uma crise séria para a física.",
+   "detail": {
+    "ideas": "Se a energia escura for a energia do vácuo, a física quântica prevê um valor 60 a 120 ordens de grandeza maior do que o observado [3]. Outras hipóteses incluem um novo campo cuja energia muda com o tempo, por vezes chamado quintessência, e alterações à teoria da gravidade de Einstein, mas uma revisão defende que são difíceis de construir sem ajuste fino ou que não eliminam o enigma de fundo [3]. Outra proposta, ligada à teoria das cordas, é que existe um número enorme de valores possíveis e que observamos um valor pequeno porque só esses valores permitem a existência de galáxias e de observadores [3].",
+    "recent": "Em 2025, o levantamento DESI, com mais de 14 milhões de galáxias e quasares observados ao longo de três anos, relatou que os seus dados, combinados com outras medições, favorecem uma energia escura que muda com o tempo [4]. A força desta preferência varia entre 2,8 e 4,2 desvios-padrão, consoante a amostra de supernovas utilizada [4].",
+    "settle": "A questão central é saber se a densidade da energia escura se mantém exatamente constante ao longo do tempo, como exige uma constante cosmológica, ou se muda [4]. O telescópio Euclid, da Agência Espacial Europeia, lançado em julho de 2023, está a mapear cerca de 14 000 graus quadrados de céu e a medir a forma de mais de mil milhões de galáxias para o determinar [5]. O Observatório Vera C. Rubin vai filmar o céu durante dez anos, e compreender a energia escura é um dos seus quatro grandes objetivos científicos [6].",
+    "state": "Em 1998, duas equipas que estudavam supernovas distantes do tipo Ia descobriram que a expansão do universo está a acelerar, uma descoberta premiada com o Nobel da Física de 2011 [1]. As medições da radiação cósmica de fundo feitas pelo satélite Planck indicam que a energia escura constitui cerca de 68% do conteúdo energético do universo, contra cerca de 32% para a matéria [2]. A explicação mais simples é uma constante cosmológica: uma energia do vácuo que não se dilui quando o universo se expande [3]."
+   },
    "known": "A expansão do universo está se acelerando. A causa, chamada energia escura, responde por cerca de 70% do seu conteúdo energético.",
    "leads": "Os levantamentos do DESI sugerem que ela pode mudar com o tempo; o Euclid e o Observatório Rubin vão medi-la com mais precisão.",
    "s": "Energia escura",
@@ -52,6 +120,12 @@
   },
   "zh": {
    "block": "量子物理预测的数值比观测所允许的大60到120个数量级。这是物理学中的一场严重危机。",
+   "detail": {
+    "ideas": "如果暗能量是真空的能量，量子物理预测的数值要比观测值大60到120个数量级[3]。其他设想包括一种能量随时间变化的新场（有时称为“精质”），以及对爱因斯坦引力理论的修改，但一篇综述认为，这些方案难以在不进行精细调节的情况下构建，或无法消除根本的谜题[3]。另一种与弦理论相关的设想认为，存在数量巨大的可能取值，而我们观测到一个很小的值，是因为只有这样的值才允许星系和观测者存在[3]。",
+    "recent": "2025年，DESI巡天利用三年观测到的超过1400万个星系和类星体，报告称其数据与其他测量结合后，更支持一种随时间变化的暗能量[4]。根据所用超新星样本的不同，这一倾向的强度在2.8到4.2个标准差之间[4]。",
+    "settle": "关键问题在于，暗能量的密度是否像宇宙学常数所要求的那样随时间严格保持不变，还是会发生变化[4]。欧洲空间局的欧几里得望远镜于2023年7月发射，正在巡测约14000平方度的天区，并测量超过十亿个星系的形状，以确定这一点[5]。薇拉·鲁宾天文台将对天空进行为期十年的“拍摄”，理解暗能量是其四大科学目标之一[6]。",
+    "state": "1998年，两个研究遥远Ia型超新星的团队发现宇宙的膨胀正在加速，这一发现获得了2011年诺贝尔物理学奖[1]。普朗克卫星对宇宙微波背景的测量表明，暗能量约占宇宙能量总量的68%，物质约占32%[2]。最简单的解释是宇宙学常数：一种不会随宇宙膨胀而被稀释的真空能量[3]。"
+   },
    "known": "宇宙的膨胀正在加速。其成因被称为暗能量,约占宇宙能量总量的70%。",
    "leads": "DESI巡天暗示它可能随时间变化；欧几里得望远镜和鲁宾天文台将更精确地测量它。",
    "s": "暗能量",

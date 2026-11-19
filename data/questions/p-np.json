@@ -1,9 +1,27 @@
 {
  "checked": "2026-11-18",
  "d": "M",
+ "dsrc": [
+  {
+   "t": "P vs NP (Clay Mathematics Institute)",
+   "ty": "institution",
+   "u": "https://www.claymath.org/millennium/p-vs-np/"
+  },
+  {
+   "t": "P =? NP (Scott Aaronson, survey, 2016)",
+   "ty": "reference",
+   "u": "https://www.scottaaronson.com/papers/pvsnp.pdf"
+  }
+ ],
  "i18n": {
   "ar": {
    "block": "ثبت أن عدة عائلات رئيسية من تقنيات البرهان غير كافية.",
+   "detail": {
+    "ideas": "يرجّح معظم علماء الحاسوب أن P لا تساوي NP؛ ففي استطلاع أُجري عام 2002 توقع 61 مشاركًا أن تختلف P عن NP، وتوقع 9 أن تتساويا [2]. ولو كانت P تساوي NP وكانت الخوارزمية فعّالة عمليًا، لانكسر تقريبًا كل التشفير المستخدم اليوم على الإنترنت [2].",
+    "recent": "جاء التقدم على شكل خطوات أصغر، مثل برهان رايان ويليامز على أن فئة مقيّدة من الدارات تُسمّى ACC لا تستطيع حل كل المسائل في فئة ضخمة تُسمّى NEXP [2]. ويعرض المسح ذلك مثالًا على تحويل الخوارزميات السريعة إلى براهين على الحدود، وهو نهج يسميه مؤلفه «نظرية التعقيد الساخرة» [2].",
+    "settle": "على أي برهان على أن P تختلف عن NP أن يتجاوز ثلاث عقبات معروفة تُسمّى النسبنة والبراهين الطبيعية والجبرنة، وتُظهر كل منها أن عائلة كاملة من التقنيات لا تستطيع وحدها حسم المسألة [2]. أما نظرية التعقيد الهندسية، التي تستند إلى الهندسة الجبرية ونظرية التمثيلات، فهي برنامج طموح جدًا لتجاوز هذه العقبات [2].",
+    "state": "تسأل مسألة P مقابل NP: هل كل مسألة يسهل التحقق من حلّها يسهل حلّها أيضًا [1]؟ وقد صاغها ستيفن كوك وليونيد ليفين كلٌّ على حدة عام 1971، وهي من مسائل الألفية لدى معهد كلاي للرياضيات [1]. فمثلًا، التحقق من قائمة مقترحة بالطلاب الذين يُمنحون أماكن في السكن وفق قواعد معيّنة أمر سهل، لكن إعداد قائمة كهذه من الصفر يبدو صعبًا إلى حد يجعله غير عملي [1]."
+   },
    "known": "طُرحت عام 1971: إذا كان التحقق من مسألة سهلًا، فهل حلّها سهل أيضًا؟",
    "leads": "نظرية التعقيد الهندسية، والحدود الدنيا للدارات.",
    "s": "P مقابل NP",
@@ -12,6 +30,12 @@
   },
   "en": {
    "block": "Several major families of proof techniques have been proven insufficient.",
+   "detail": {
+    "ideas": "Most computer scientists conjecture that P is not equal to NP; in a 2002 poll, 61 respondents expected P to differ from NP and 9 expected them to be equal [2]. If P equalled NP and the algorithm were efficient in practice, essentially all the cryptography used on the internet today would be broken [2].",
+    "recent": "Progress has come in smaller steps, such as Ryan Williams's proof that a restricted class of circuits, called ACC, cannot solve every problem in a huge class called NEXP [2]. The survey presents this as an example of turning fast algorithms into proofs of limits, an approach its author calls ironic complexity theory [2].",
+    "settle": "Any proof that P differs from NP must get past three known barriers, called relativization, natural proofs and algebrization, each showing that a whole family of techniques cannot settle the question on its own [2]. Geometric complexity theory, which draws on algebraic geometry and representation theory, is a very ambitious program to get past them [2].",
+    "state": "P versus NP asks whether every problem whose solution is easy to check is also easy to solve [1]. Stephen Cook and Leonid Levin formulated it independently in 1971, and it is one of the Millennium Problems of the Clay Mathematics Institute [1]. For example, checking a proposed list of students to be given dormitory places under given rules is easy, but producing such a list from scratch seems impractically hard [1]."
+   },
    "known": "Posed in 1971: if a problem is easy to check, is it also easy to solve?",
    "leads": "Geometric complexity theory, circuit lower bounds.",
    "s": "P vs NP",
@@ -20,6 +44,12 @@
   },
   "es": {
    "block": "Se ha demostrado que varias grandes familias de técnicas de demostración son insuficientes.",
+   "detail": {
+    "ideas": "La mayoría de los informáticos conjetura que P es distinto de NP; en una encuesta de 2002, 61 participantes esperaban que P fuera distinto de NP y 9 que fueran iguales [2]. Si P fuera igual a NP y el algoritmo resultara eficiente en la práctica, prácticamente toda la criptografía que se usa hoy en internet quedaría rota [2].",
+    "recent": "Los avances llegan en pasos pequeños, como la demostración de Ryan Williams de que una clase restringida de circuitos, llamada ACC, no puede resolver todos los problemas de una clase enorme llamada NEXP [2]. La revisión lo presenta como un ejemplo de cómo los algoritmos rápidos pueden convertirse en pruebas de límites, un enfoque que su autor llama teoría de la complejidad irónica [2].",
+    "settle": "Cualquier prueba de que P es distinto de NP debe superar tres obstáculos conocidos, llamados relativización, pruebas naturales y algebrización, cada uno de los cuales muestra que toda una familia de técnicas no puede resolver la cuestión por sí sola [2]. La teoría geométrica de la complejidad, que se apoya en la geometría algebraica y la teoría de representaciones, es un programa muy ambicioso para superarlos [2].",
+    "state": "El problema P contra NP pregunta si todo problema cuya solución es fácil de comprobar es también fácil de resolver [1]. Stephen Cook y Leonid Levin lo formularon de forma independiente en 1971, y es uno de los problemas del milenio del Instituto de Matemáticas Clay [1]. Por ejemplo, comprobar una lista propuesta de estudiantes a los que dar plaza en una residencia según unas reglas dadas es fácil, pero elaborar esa lista desde cero parece de una dificultad impracticable [1]."
+   },
    "known": "Planteado en 1971: si un problema es fácil de comprobar, ¿es también fácil de resolver?",
    "leads": "Teoría de la complejidad geométrica, cotas inferiores para circuitos.",
    "s": "P contra NP",
@@ -28,6 +58,12 @@
   },
   "fr": {
    "block": "On a prouvé que plusieurs grandes familles de techniques de preuve ne peuvent pas suffire.",
+   "detail": {
+    "ideas": "La plupart des informaticiens conjecturent que P est différent de NP ; dans un sondage de 2002, 61 répondants s'attendaient à ce que P diffère de NP et 9 à ce qu'ils soient égaux [2]. Si P était égal à NP et que l'algorithme était efficace en pratique, la quasi-totalité de la cryptographie utilisée aujourd'hui sur Internet serait cassée [2].",
+    "recent": "Les progrès se font par petites étapes, comme la preuve de Ryan Williams qu'une classe restreinte de circuits, appelée ACC, ne peut pas résoudre tous les problèmes d'une classe immense appelée NEXP [2]. La synthèse y voit un exemple de la façon dont des algorithmes rapides peuvent devenir des preuves de limites, une approche que son auteur appelle la théorie de la complexité ironique [2].",
+    "settle": "Toute preuve que P diffère de NP doit franchir trois obstacles connus, appelés relativisation, preuves naturelles et algébrisation, chacun montrant qu'une famille entière de techniques ne peut pas trancher la question à elle seule [2]. La théorie géométrique de la complexité, qui s'appuie sur la géométrie algébrique et la théorie des représentations, est un programme très ambitieux pour les surmonter [2].",
+    "state": "Le problème P contre NP demande si tout problème dont la solution est facile à vérifier est aussi facile à résoudre [1]. Stephen Cook et Leonid Levin l'ont formulé indépendamment en 1971, et il fait partie des problèmes du millénaire de l'Institut de mathématiques Clay [1]. Par exemple, vérifier une liste proposée d'étudiants à qui attribuer des places en résidence selon des règles données est facile, mais produire une telle liste à partir de rien semble d'une difficulté impraticable [1]."
+   },
    "known": "La question est posée depuis 1971. Si un problème est facile à vérifier, est-il aussi facile à résoudre ?",
    "leads": "Théorie géométrique de la complexité, bornes inférieures sur les circuits.",
    "s": "P = NP ?",
@@ -36,6 +72,12 @@
   },
   "hi": {
    "block": "प्रमाण की कई प्रमुख तकनीकों के परिवार अपर्याप्त सिद्ध हो चुके हैं।",
+   "detail": {
+    "ideas": "अधिकांश कंप्यूटर वैज्ञानिकों का अनुमान है कि P, NP के बराबर नहीं है; 2002 के एक सर्वेक्षण में 61 उत्तरदाताओं ने P को NP से भिन्न और 9 ने दोनों को बराबर माना [2]। यदि P, NP के बराबर हो और एल्गोरिथ्म व्यवहार में भी कुशल हो, तो आज इंटरनेट पर इस्तेमाल होने वाली लगभग सारी क्रिप्टोग्राफ़ी टूट जाएगी [2]।",
+    "recent": "प्रगति छोटे कदमों में हुई है, जैसे रयान विलियम्स का यह प्रमाण कि ACC नामक परिपथों का एक सीमित वर्ग NEXP नामक एक विशाल वर्ग की सभी समस्याएँ हल नहीं कर सकता [2]। सर्वेक्षण इसे इस बात के उदाहरण के रूप में प्रस्तुत करता है कि तेज़ एल्गोरिथ्म को सीमाओं के प्रमाण में कैसे बदला जा सकता है, जिसे इसके लेखक \"आयरनिक कॉम्प्लेक्सिटी थ्योरी\" कहते हैं [2]।",
+    "settle": "P के NP से भिन्न होने का कोई भी प्रमाण तीन ज्ञात बाधाओं को पार करना चाहिए, जिन्हें रिलेटिवाइज़ेशन, नेचुरल प्रूफ़ और अल्जेब्राइज़ेशन कहा जाता है; हर बाधा दिखाती है कि तकनीकों का एक पूरा परिवार अकेले इस प्रश्न को हल नहीं कर सकता [2]। ज्यामितीय जटिलता सिद्धांत, जो बीजीय ज्यामिति और निरूपण सिद्धांत का सहारा लेता है, इन बाधाओं को पार करने का एक अत्यंत महत्वाकांक्षी कार्यक्रम है [2]।",
+    "state": "P बनाम NP यह पूछता है कि क्या हर वह समस्या, जिसके हल को जाँचना आसान है, हल करने में भी आसान है [1]। स्टीफ़न कुक और लियोनिद लेविन ने 1971 में स्वतंत्र रूप से इसे प्रस्तुत किया, और यह क्ले गणित संस्थान की मिलेनियम समस्याओं में से एक है [1]। उदाहरण के लिए, दिए गए नियमों के अनुसार छात्रावास में जगह पाने वाले छात्रों की किसी प्रस्तावित सूची को जाँचना आसान है, लेकिन ऐसी सूची शुरू से बनाना अव्यावहारिक रूप से कठिन लगता है [1]।"
+   },
    "known": "1971 में उठाया गया प्रश्न: यदि किसी समस्या का हल जाँचना आसान है, तो क्या उसे हल करना भी आसान है?",
    "leads": "ज्यामितीय जटिलता सिद्धांत, परिपथ निचली सीमाएँ।",
    "s": "P बनाम NP",
@@ -44,6 +86,12 @@
   },
   "pt": {
    "block": "Várias famílias importantes de técnicas de demonstração se mostraram insuficientes.",
+   "detail": {
+    "ideas": "A maioria dos cientistas da computação conjetura que P é diferente de NP; numa sondagem de 2002, 61 inquiridos esperavam que P fosse diferente de NP e 9 que fossem iguais [2]. Se P fosse igual a NP e o algoritmo fosse eficiente na prática, praticamente toda a criptografia usada hoje na internet ficaria quebrada [2].",
+    "recent": "Os avanços têm surgido em pequenos passos, como a demonstração de Ryan Williams de que uma classe restrita de circuitos, chamada ACC, não consegue resolver todos os problemas de uma classe enorme chamada NEXP [2]. A revisão apresenta isto como um exemplo de como algoritmos rápidos se podem transformar em provas de limites, uma abordagem a que o seu autor chama teoria da complexidade irónica [2].",
+    "settle": "Qualquer prova de que P é diferente de NP tem de ultrapassar três obstáculos conhecidos, chamados relativização, provas naturais e algebrização, cada um mostrando que toda uma família de técnicas não consegue resolver a questão sozinha [2]. A teoria geométrica da complexidade, que se apoia na geometria algébrica e na teoria das representações, é um programa muito ambicioso para os ultrapassar [2].",
+    "state": "O problema P versus NP pergunta se todo o problema cuja solução é fácil de verificar é também fácil de resolver [1]. Stephen Cook e Leonid Levin formularam-no de forma independente em 1971, e é um dos problemas do milénio do Instituto de Matemática Clay [1]. Por exemplo, verificar uma lista proposta de estudantes a quem dar lugar numa residência segundo regras dadas é fácil, mas produzir essa lista do zero parece de uma dificuldade impraticável [1]."
+   },
    "known": "Formulado em 1971: se um problema é fácil de verificar, ele também é fácil de resolver?",
    "leads": "Teoria da complexidade geométrica, limites inferiores para circuitos.",
    "s": "P versus NP",
@@ -52,6 +100,12 @@
   },
   "zh": {
    "block": "好几大类证明技术已被证明不够用。",
+   "detail": {
+    "ideas": "大多数计算机科学家猜想P不等于NP；在2002年的一次调查中，61位受访者认为P不同于NP，9位认为两者相等[2]。如果P等于NP，并且相应算法在实践中也高效，那么当今互联网上使用的几乎所有密码学都将被攻破[2]。",
+    "recent": "进展是以较小的步伐取得的，例如瑞安·威廉姆斯证明了一类受限的电路（称为ACC）无法解决一个称为NEXP的庞大类别中的所有问题[2]。该综述将此视为把快速算法转化为“极限证明”的一个例子，作者称这种方法为“反讽复杂性理论”[2]。",
+    "settle": "任何证明P不等于NP的尝试都必须越过三道已知的障碍，即相对化、自然证明和代数化，每一道都表明一整类技术无法单独解决这个问题[2]。几何复杂性理论借助代数几何和表示论，是一个旨在越过这些障碍的极其宏大的研究纲领[2]。",
+    "state": "P与NP问题问的是：每一个答案容易验证的问题，是否也容易求解[1]。斯蒂芬·库克和列昂尼德·列文于1971年分别独立提出了这一问题，它是克雷数学研究所的千禧年大奖难题之一[1]。例如，按给定规则拟定的一份可获得宿舍名额的学生名单，检查起来很容易，但从零开始编出这样一份名单似乎难到不切实际[1]。"
+   },
    "known": "1971年提出:如果一个问题容易验证,它是否也容易求解?",
    "leads": "几何复杂性理论,电路下界。",
    "s": "P vs NP",

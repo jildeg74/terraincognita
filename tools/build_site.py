@@ -66,8 +66,8 @@ os.makedirs(os.path.join(out, 'q'), exist_ok=True)
 for l in build_pages.LANGS:
     part = []
     for d in docs:
-        x = {k: v for k, v in d.items() if k not in ('i18n', 'sub')}
-        x['i18n'] = {l: d['i18n'][l]}
+        x = {k: v for k, v in d.items() if k not in ('i18n', 'sub', 'dsrc')}
+        x['i18n'] = {l: {k: v for k, v in d['i18n'][l].items() if k != 'detail'}}  # 'In depth' text only on question pages
         if d.get('sub'):
             x['sub'] = [{l: q[l]} for q in d['sub']]
         part.append(x)

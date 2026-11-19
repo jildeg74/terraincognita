@@ -1,9 +1,37 @@
 {
  "checked": "2026-11-18",
  "d": "V",
+ "dsrc": [
+  {
+   "t": "The Lancet standing commission on dementia prevention, intervention and care (2024, accepted version)",
+   "ty": "reference",
+   "u": "https://discovery.ucl.ac.uk/id/eprint/10196488/1/Livingston_Lancet%20Commission%20accepted%20version.pdf"
+  },
+  {
+   "t": "In 2024, the amyloid-cascade-hypothesis still remains a working hypothesis, no less but certainly no more (Frontiers in Aging Neuroscience, 2024)",
+   "ty": "reference",
+   "u": "https://www.frontiersin.org/articles/10.3389/fnagi.2024.1459224/full"
+  },
+  {
+   "t": "Lecanemab in Early Alzheimer's Disease (New England Journal of Medicine, 2023)",
+   "ty": "study",
+   "u": "https://www.unboundmedicine.com/medline/citation/36449413/full_citation"
+  },
+  {
+   "t": "FDA Clears First Blood Test Used in Diagnosing Alzheimer's Disease (2025)",
+   "ty": "official",
+   "u": "https://www.fda.gov/news-events/press-announcements/fda-clears-first-blood-test-used-diagnosing-alzheimers-disease"
+  }
+ ],
  "i18n": {
   "ar": {
    "block": "فرضية الأميلويد لا تفسّر كل شيء، ويبدأ التلف قبل الأعراض بسنوات.",
+   "detail": {
+    "ideas": "تقول فرضية شلال الأميلويد السائدة إن تراكم الأميلويد هو ما يطلق المرض، ومع ذلك فإن 30 إلى 40% من كبار السن السليمين إدراكيًا لديهم ترسبات أميلويد في أدمغتهم [2]. ويشير المنتقدون إلى أن معظم العلاجات التي استهدفت الأميلويد تقريبًا فشلت على مدى ثلاثة عقود، ويرون أن الأميلويد قد يدخل في العملية متأخرًا لا في بدايتها [2]. وتركز فرضيات بديلة على بروتين تاو، وعلى خلل الأنظمة التي تعيد تدوير فضلات الخلية وبروتيناتها، وعلى الجهاز المناعي الفطري، وعلى جين APOE المشارك في نقل الدهون [2].",
+    "recent": "في تجربة أُجريت عام 2023 على 1795 شخصًا مصابين بألزهايمر في مرحلة مبكرة، أبطأ الجسم المضاد ليكانيماب، الذي يستهدف الأميلويد، التدهور بمقدار 0.45 نقطة على مقياس تقييم سريري خلال 18 شهرًا مقارنة بالدواء الوهمي [3]. وظهر تورم في الدماغ أو تجمع للسوائل في صور الأشعة لدى 12.6% من المرضى المعالجين [3]. وفي ما يخص فحص الدم الذي أُجيز عام 2025، تأكدت 91.7% من النتائج الإيجابية في دراسة شملت 499 بالغًا بتصوير الدماغ أو بتحليل السائل النخاعي [4].",
+    "settle": "يرى كاتب مقال رأي علمي صدر عام 2024 أن شلال الأميلويد لا يزال فرضية عمل، لا أقل ولا أكثر، لأن المرض لا يزال غير مفهوم بما يكفي [2]. وتقلّل الفحوص الأبسط الحاجة إلى تصوير الدماغ والبزل القطني: فأول فحص دم للمساعدة في تشخيص ألزهايمر، الذي أجازته إدارة الغذاء والدواء الأمريكية في مايو 2025، يقيس النسبة بين بروتينين هما pTau217 وبيتا أميلويد 1-42، لدى البالغين في سن 55 عامًا فأكثر ممن تظهر عليهم الأعراض [4].",
+    "state": "يُقدَّر أن 57 مليون شخص كانوا يعيشون مع الخرف في العالم عام 2019، ويُتوقع أن يصل العدد إلى 153 مليونًا بحلول عام 2050 [1]. ويُعرَّف مرض ألزهايمر في الدماغ بلويحات الأميلويد وتشابكات بروتين تاو، لكن معظم المرضى تظهر لديهم أيضًا أنواع أخرى من التلف في الوقت نفسه [2]. وقدّرت لجنة تابعة لمجلة لانسيت عام 2024 أن 14 عامل خطر قابلًا للتعديل، منها ضعف البصر غير المعالج وارتفاع الكوليسترول الضار LDL، تفسّر قرابة نصف خطر الإصابة بالخرف [1]."
+   },
    "known": "تتراكم لويحات الأميلويد وبروتين تاو. وتبطئ الأجسام المضادة لـ الأميلويد التدهور بعض الشيء.",
    "leads": "الالتهاب العصبي، ودور محتمل للعدوى الفيروسية، ومؤشرات حيوية في الدم للتشخيص المبكر.",
    "s": "ألزهايمر",
@@ -12,6 +40,12 @@
   },
   "en": {
    "block": "The amyloid hypothesis doesn't explain everything, and damage starts years before symptoms.",
+   "detail": {
+    "ideas": "The dominant amyloid cascade hypothesis holds that amyloid build-up triggers the disease, yet 30 to 40% of cognitively normal older people have amyloid deposits in their brains [2]. Critics point out that almost all treatments aimed at amyloid failed over three decades, and argue that amyloid may enter the process late rather than at the start [2]. Alternative ideas focus on tau, on failures in the systems that recycle the cell's waste and proteins, on the innate immune system, and on the APOE gene, which is involved in transporting fats [2].",
+    "recent": "In a 2023 trial of 1,795 people with early Alzheimer's, the antibody lecanemab, which targets amyloid, slowed decline on a clinical rating scale by 0.45 points over 18 months compared with placebo [3]. Brain swelling or fluid build-up visible on scans occurred in 12.6% of treated patients [3]. For the blood test cleared in 2025, 91.7% of positive results in a study of 499 adults were confirmed by a brain scan or a spinal fluid test [4].",
+    "settle": "The author of a 2024 perspective argues that the amyloid cascade remains a working hypothesis, no less but no more, because the disease is still not understood well enough [2]. Simpler tests reduce the need for brain scans and spinal taps: the first blood test to help diagnose Alzheimer's, cleared by the US FDA in May 2025, measures the ratio of two proteins, pTau217 and beta-amyloid 1-42, in adults aged 55 and older with symptoms [4].",
+    "state": "An estimated 57 million people lived with dementia worldwide in 2019, a number projected to reach 153 million by 2050 [1]. Alzheimer's disease is defined in the brain by amyloid plaques and tau tangles, but most patients also show other kinds of damage at the same time [2]. A 2024 Lancet Commission estimated that 14 modifiable risk factors, including untreated vision loss and high LDL cholesterol, account for nearly half of the risk of dementia [1]."
+   },
    "known": "Amyloid plaques and tau protein build up. Anti-amyloid antibodies slow decline somewhat.",
    "leads": "Neuroinflammation, a possible role for viral infections, blood biomarkers for early diagnosis.",
    "s": "Alzheimer's",
@@ -20,6 +54,12 @@
   },
   "es": {
    "block": "La hipótesis amiloide no lo explica todo, y el daño empieza años antes de los síntomas.",
+   "detail": {
+    "ideas": "La hipótesis dominante de la cascada amiloide sostiene que la acumulación de amiloide desencadena la enfermedad, pero entre el 30 y el 40 % de las personas mayores sin deterioro cognitivo tienen depósitos de amiloide en el cerebro [2]. Los críticos señalan que casi todos los tratamientos dirigidos contra el amiloide fracasaron durante tres décadas, y sostienen que el amiloide podría intervenir tarde en el proceso y no al principio [2]. Otras hipótesis se centran en la proteína tau, en los fallos de los sistemas que reciclan los desechos y las proteínas de la célula, en la inmunidad innata y en el gen APOE, que interviene en el transporte de grasas [2].",
+    "recent": "En un ensayo de 2023 con 1795 personas con Alzheimer temprano, el anticuerpo lecanemab, dirigido contra el amiloide, frenó el deterioro en 0,45 puntos en una escala de evaluación clínica a lo largo de 18 meses frente al placebo [3]. En el 12,6 % de los pacientes tratados apareció inflamación cerebral o acumulación de líquido visible en las imágenes [3]. En el análisis de sangre autorizado en 2025, el 91,7 % de los resultados positivos de un estudio con 499 adultos se confirmó mediante un escáner cerebral o un análisis del líquido cefalorraquídeo [4].",
+    "settle": "El autor de un artículo de perspectiva de 2024 sostiene que la cascada amiloide sigue siendo una hipótesis de trabajo, ni más ni menos, porque la enfermedad aún no se comprende lo suficiente [2]. Las pruebas más sencillas reducen la necesidad de escáneres cerebrales y punciones lumbares: el primer análisis de sangre para ayudar a diagnosticar el Alzheimer, autorizado por la FDA de Estados Unidos en mayo de 2025, mide la proporción entre dos proteínas, pTau217 y beta-amiloide 1-42, en adultos de 55 años o más con síntomas [4].",
+    "state": "Se estima que 57 millones de personas vivían con demencia en el mundo en 2019, una cifra que podría llegar a 153 millones en 2050 [1]. En el cerebro, la enfermedad de Alzheimer se define por placas amiloides y ovillos de proteína tau, pero la mayoría de los pacientes presentan también otros tipos de daño al mismo tiempo [2]. Una comisión de The Lancet de 2024 estimó que 14 factores de riesgo modificables, entre ellos la pérdida de visión no tratada y el colesterol LDL alto, explican casi la mitad del riesgo de demencia [1]."
+   },
    "known": "Se acumulan placas de amiloide y proteína tau. Los anticuerpos contra el amiloide frenan algo el deterioro.",
    "leads": "Neuroinflamación, un posible papel de las infecciones víricas, biomarcadores en sangre para el diagnóstico temprano.",
    "s": "Alzheimer",
@@ -28,6 +68,12 @@
   },
   "fr": {
    "block": "L'hypothèse amyloïde n'explique pas tout, et les dégâts commencent des années avant les symptômes.",
+   "detail": {
+    "ideas": "L'hypothèse dominante de la cascade amyloïde veut que l'accumulation d'amyloïde déclenche la maladie, pourtant 30 à 40 % des personnes âgées sans trouble cognitif ont des dépôts amyloïdes dans le cerveau [2]. Les critiques soulignent que presque tous les traitements visant l'amyloïde ont échoué en trois décennies, et soutiennent que l'amyloïde pourrait intervenir tard dans le processus plutôt qu'au début [2]. D'autres hypothèses mettent l'accent sur la protéine tau, sur les défaillances des systèmes qui recyclent les déchets et les protéines de la cellule, sur l'immunité innée et sur le gène APOE, qui intervient dans le transport des graisses [2].",
+    "recent": "Dans un essai de 2023 portant sur 1 795 personnes au stade précoce d'Alzheimer, l'anticorps lécanémab, qui cible l'amyloïde, a ralenti le déclin de 0,45 point sur une échelle d'évaluation clinique en 18 mois par rapport au placebo [3]. Un gonflement cérébral ou une accumulation de liquide visibles à l'imagerie sont survenus chez 12,6 % des patients traités [3]. Pour le test sanguin autorisé en 2025, 91,7 % des résultats positifs d'une étude sur 499 adultes ont été confirmés par imagerie cérébrale ou analyse du liquide céphalorachidien [4].",
+    "settle": "L'auteur d'un article de perspective de 2024 estime que la cascade amyloïde reste une hypothèse de travail, ni plus ni moins, car on ne comprend pas encore assez bien la maladie [2]. Des tests plus simples réduisent le recours à l'imagerie cérébrale et à la ponction lombaire : le premier test sanguin d'aide au diagnostic d'Alzheimer, autorisé par la FDA américaine en mai 2025, mesure le rapport entre deux protéines, pTau217 et bêta-amyloïde 1-42, chez les adultes de 55 ans et plus présentant des symptômes [4].",
+    "state": "On estime que 57 millions de personnes vivaient avec une démence dans le monde en 2019, un nombre qui pourrait atteindre 153 millions d'ici 2050 [1]. Dans le cerveau, la maladie d'Alzheimer se définit par des plaques amyloïdes et des enchevêtrements de protéine tau, mais la plupart des patients présentent aussi d'autres lésions en même temps [2]. Une commission du Lancet de 2024 a estimé que 14 facteurs de risque modifiables, dont une perte de vision non corrigée et un taux élevé de cholestérol LDL, représentent près de la moitié du risque de démence [1]."
+   },
    "known": "Les plaques amyloïdes et la protéine tau s'accumulent. Les anticorps anti-amyloïdes ralentissent un peu le déclin.",
    "leads": "Neuro-inflammation, rôle possible d'infections virales, biomarqueurs sanguins pour diagnostiquer tôt.",
    "s": "Alzheimer",
@@ -36,6 +82,12 @@
   },
   "hi": {
    "block": "एमिलॉइड परिकल्पना सब कुछ नहीं समझाती, और क्षति लक्षणों से वर्षों पहले शुरू हो जाती है।",
+   "detail": {
+    "ideas": "प्रमुख एमिलॉइड कैस्केड परिकल्पना के अनुसार एमिलॉइड का जमाव रोग को शुरू करता है, फिर भी संज्ञानात्मक रूप से सामान्य 30 से 40% बुज़ुर्गों के मस्तिष्क में एमिलॉइड जमा होता है [2]। आलोचक बताते हैं कि तीन दशकों में एमिलॉइड को निशाना बनाने वाले लगभग सभी उपचार विफल रहे, और उनका तर्क है कि एमिलॉइड प्रक्रिया में शुरुआत में नहीं बल्कि देर से आ सकता है [2]। वैकल्पिक विचार टाउ पर, कोशिका के कचरे और प्रोटीन को पुनर्चक्रित करने वाले तंत्रों की विफलता पर, जन्मजात प्रतिरक्षा तंत्र पर, और वसा के परिवहन में शामिल APOE जीन पर केंद्रित हैं [2]।",
+    "recent": "2023 के एक परीक्षण में, जिसमें शुरुआती अल्ज़ाइमर वाले 1,795 लोग शामिल थे, एमिलॉइड को निशाना बनाने वाली एंटीबॉडी लेकानेमैब ने प्लेसीबो की तुलना में 18 महीनों में एक नैदानिक मूल्यांकन पैमाने पर गिरावट को 0.45 अंक धीमा किया [3]। उपचार पाने वाले 12.6% रोगियों में स्कैन पर दिखने वाली मस्तिष्क की सूजन या द्रव-जमाव हुआ [3]। 2025 में मंज़ूर रक्त परीक्षण के लिए, 499 वयस्कों के एक अध्ययन में 91.7% सकारात्मक परिणामों की पुष्टि मस्तिष्क स्कैन या रीढ़ के द्रव की जाँच से हुई [4]।",
+    "settle": "2024 के एक परिप्रेक्ष्य लेख के लेखक का तर्क है कि एमिलॉइड कैस्केड अब भी एक कार्यकारी परिकल्पना है, न कम न ज़्यादा, क्योंकि इस रोग को अभी पर्याप्त रूप से समझा नहीं गया है [2]। सरल परीक्षण मस्तिष्क स्कैन और रीढ़ से द्रव निकालने की ज़रूरत घटाते हैं: अल्ज़ाइमर के निदान में मदद करने वाला पहला रक्त परीक्षण, जिसे अमेरिकी FDA ने मई 2025 में मंज़ूरी दी, लक्षणों वाले 55 वर्ष और उससे अधिक उम्र के वयस्कों में दो प्रोटीनों, pTau217 और बीटा-एमिलॉइड 1-42, का अनुपात मापता है [4]।",
+    "state": "अनुमान है कि 2019 में दुनिया भर में 5.7 करोड़ लोग डिमेंशिया के साथ जी रहे थे, और 2050 तक यह संख्या 15.3 करोड़ तक पहुँच सकती है [1]। मस्तिष्क में अल्ज़ाइमर रोग की पहचान एमिलॉइड प्लाक और टाउ प्रोटीन के उलझे गुच्छों से होती है, लेकिन अधिकांश रोगियों में साथ-साथ अन्य प्रकार की क्षति भी दिखती है [2]। 2024 के एक लैंसेट आयोग ने अनुमान लगाया कि 14 बदले जा सकने वाले जोखिम कारक, जिनमें बिना इलाज की दृष्टि-हानि और ऊँचा LDL कोलेस्ट्रॉल शामिल हैं, डिमेंशिया के लगभग आधे जोखिम के लिए ज़िम्मेदार हैं [1]।"
+   },
    "known": "एमिलॉइड प्लाक और टाउ प्रोटीन जमा होते हैं। एंटी-एमिलॉइड एंटीबॉडी गिरावट को कुछ हद तक धीमा करती हैं।",
    "leads": "तंत्रिका-सूजन, वायरल संक्रमणों की संभावित भूमिका, शुरुआती निदान के लिए रक्त बायोमार्कर।",
    "s": "अल्ज़ाइमर",
@@ -44,6 +96,12 @@
   },
   "pt": {
    "block": "A hipótese do amiloide não explica tudo, e o dano começa anos antes dos sintomas.",
+   "detail": {
+    "ideas": "A hipótese dominante da cascata amiloide defende que a acumulação de amiloide desencadeia a doença, mas 30 a 40% das pessoas idosas sem défice cognitivo têm depósitos de amiloide no cérebro [2]. Os críticos apontam que quase todos os tratamentos dirigidos ao amiloide falharam ao longo de três décadas e defendem que o amiloide pode entrar tarde no processo, e não no início [2]. Outras hipóteses centram-se na proteína tau, em falhas nos sistemas que reciclam os resíduos e as proteínas da célula, na imunidade inata e no gene APOE, que participa no transporte de gorduras [2].",
+    "recent": "Num ensaio de 2023 com 1795 pessoas com Alzheimer em fase inicial, o anticorpo lecanemab, dirigido ao amiloide, abrandou o declínio em 0,45 pontos numa escala de avaliação clínica ao longo de 18 meses, em comparação com o placebo [3]. Inchaço cerebral ou acumulação de líquido visíveis nos exames ocorreram em 12,6% dos doentes tratados [3]. No teste sanguíneo aprovado em 2025, 91,7% dos resultados positivos num estudo com 499 adultos foram confirmados por exame cerebral ou análise do líquido cefalorraquidiano [4].",
+    "settle": "O autor de um artigo de perspetiva de 2024 defende que a cascata amiloide continua a ser uma hipótese de trabalho, nem mais nem menos, porque a doença ainda não é suficientemente compreendida [2]. Testes mais simples reduzem a necessidade de exames cerebrais e punções lombares: o primeiro teste sanguíneo para ajudar a diagnosticar o Alzheimer, aprovado pela FDA dos Estados Unidos em maio de 2025, mede a razão entre duas proteínas, pTau217 e beta-amiloide 1-42, em adultos com 55 anos ou mais que apresentam sintomas [4].",
+    "state": "Estima-se que 57 milhões de pessoas viviam com demência no mundo em 2019, um número que poderá chegar a 153 milhões em 2050 [1]. No cérebro, a doença de Alzheimer define-se por placas amiloides e emaranhados de proteína tau, mas a maioria dos doentes apresenta também outros tipos de lesões ao mesmo tempo [2]. Uma comissão da revista The Lancet de 2024 estimou que 14 fatores de risco modificáveis, incluindo a perda de visão não corrigida e o colesterol LDL elevado, explicam quase metade do risco de demência [1]."
+   },
    "known": "Placas de amiloide e a proteína tau se acumulam. Anticorpos anti-amiloide retardam um pouco o declínio.",
    "leads": "Neuroinflamação, um possível papel de infecções virais, biomarcadores no sangue para diagnóstico precoce.",
    "s": "Alzheimer",
@@ -52,6 +110,12 @@
   },
   "zh": {
    "block": "淀粉样蛋白假说并不能解释一切,而且损伤在症状出现前数年就已开始。",
+   "detail": {
+    "ideas": "占主导地位的淀粉样蛋白级联假说认为，淀粉样蛋白的积累引发了这种疾病，然而30%至40%认知正常的老年人大脑中也有淀粉样蛋白沉积[2]。批评者指出，三十年来几乎所有针对淀粉样蛋白的疗法都失败了，并认为淀粉样蛋白可能是在病程后期而非开始时才介入[2]。其他观点关注tau蛋白、细胞回收废物和蛋白质的系统失灵、先天免疫系统，以及参与脂肪运输的APOE基因[2]。",
+    "recent": "在2023年一项涉及1795名早期阿尔茨海默病患者的试验中，针对淀粉样蛋白的抗体仑卡奈单抗在18个月内使临床评分量表上的衰退比安慰剂减缓了0.45分[3]。12.6%的接受治疗患者在影像上出现了脑水肿或积液[3]。对于2025年获批的血液检测，在一项涉及499名成年人的研究中，91.7%的阳性结果经脑部扫描或脑脊液检测得到证实[4]。",
+    "settle": "一篇2024年观点文章的作者认为，淀粉样蛋白级联仍然只是一个工作假说，不多也不少，因为人们对这种疾病的了解仍然不够[2]。更简便的检测减少了对脑部扫描和腰椎穿刺的依赖：美国FDA于2025年5月批准了首个辅助诊断阿尔茨海默病的血液检测，它测量两种蛋白质pTau217与β-淀粉样蛋白1-42的比值，适用于55岁及以上、有症状的成年人[4]。",
+    "state": "据估计，2019年全球约有5700万人患有痴呆症，预计到2050年将达到1.53亿人[1]。阿尔茨海默病在大脑中的标志是淀粉样斑块和tau蛋白缠结，但大多数患者同时还存在其他类型的损伤[2]。2024年《柳叶刀》委员会估计，14个可改变的风险因素（包括未矫正的视力丧失和高LDL胆固醇）约占痴呆风险的近一半[1]。"
+   },
    "known": "淀粉样斑块和tau蛋白会不断堆积。抗淀粉样蛋白抗体能在一定程度上减缓衰退。",
    "leads": "神经炎症,病毒感染可能起的作用,用于早期诊断的血液生物标志物。",
    "s": "阿尔茨海默病",

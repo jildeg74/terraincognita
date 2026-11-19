@@ -31,6 +31,13 @@ Read `PROJECT.md` first: it explains the project, its history, decisions, servic
 - All seven languages are mandatory for every text field. English is written first; the other six are faithful translations, never additions.
 - `why` (recommended) = why it matters: what would change for people if the question were answered, 1-2 sentences, at most 45 words in English, every consequence supported by a source you opened. `known` = established facts, `block` = what prevents progress, `leads` = active research directions. Short, plain sentences a curious 15-year-old understands.
 
+## "In depth" section (optional, being rolled out)
+Each question page can carry a longer section for readers who do research: `i18n.<lang>.detail = {"state": "...", "ideas": "...", "settle": "...", "recent": "..."}` (where things stand, competing ideas, what would settle it, latest developments), with its own numbered source list `dsrc` (1 to 12 entries, same format as `src`).
+- About 250 to 350 words in English. Every English sentence ends with at least one citation marker `[n]` pointing to `dsrc[n-1]`, and the sentence must be supported by that source, opened and read in this session. `tools/validate.py` rejects an English sentence without a marker, and any language whose markers differ from the English ones in a section.
+- Same plain style as the rest of the fiche. Numbers, dates and names exactly as in the source. Results from a preprint or a press release are described as such.
+- This text appears only on the question pages, not on the map (the map stays light).
+- Roll-out: about 10 questions per weekly session, starting with those that have none (`dsrc` absent), until all questions have one. Each batch goes through the independent verification like any other change.
+
 ## Sources
 - 1 to 3 per question, `https` only, title copied exactly from the page.
 - Types `ty`: `study` (peer-reviewed article), `reference` (academic review, textbook, official problem statement), `preprint` (arXiv, bioRxiv, medRxiv… not yet peer-reviewed), `official` (agency, intergovernmental body), `institution` (university, lab, observatory), `press` (journalism), `company`, `encyclopedia`.

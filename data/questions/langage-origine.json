@@ -1,9 +1,32 @@
 {
  "checked": "2026-11-18",
  "d": "H",
+ "dsrc": [
+  {
+   "t": "The mystery of language evolution (Hauser et al., Frontiers in Psychology, 2014)",
+   "ty": "reference",
+   "u": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00401/full"
+  },
+  {
+   "t": "Extensive compositionality in the vocal system of bonobos (Science, 2025)",
+   "ty": "study",
+   "u": "https://kokolopori.hsites.harvard.edu/publication/extensive-compositionality-vocal-system-bonobos"
+  },
+  {
+   "t": "No Evidence for Recent Selection at FOXP2 among Diverse Human Populations (Cell, 2018)",
+   "ty": "study",
+   "u": "https://escholarship.org/uc/item/45v626k8"
+  }
+ ],
  "i18n": {
   "ar": {
    "block": "اللغة لا تترك أحافير.",
+   "detail": {
+    "ideas": "يدور أحد النقاشات حول الحيوانات: فقد رأت مراجعة 2014 أن تواصل الحيوانات لا يقدّم تقريبًا أي أوجه شبه ذات صلة، لأن إشاراتها فطرية في معظمها ولا تُركَّب في بنى جديدة [1]. وتشير المراجعة نفسها إلى أنه لم يُربط بعدُ أي جين، خطوة بخطوة، بالقدرة على اللغة [1]. وكان يُعتقد أن جين FOXP2، الذي عُرف أولًا بدوره في الكلام البشري، قد حظي بانتقاء طبيعي حديث في نوعنا، لكن تحليلًا أُجري عام 2018 لمئات الجينومات من أنحاء العالم لم يجد دليلًا على ذلك [3].",
+    "recent": "في عام 2025، وجدت دراسة على قرود البونوبو البرية، باستخدام أساليب مستمدة من اللسانيات، أن كل نوع من نداءات ذخيرتها يظهر في تركيب تركيبيّ واحد على الأقل [2]. وأظهرت ثلاثة تراكيب «تركيبية غير بسيطة»، وهي خاصية كان يُعتقد أنها غائبة لدى الحيوانات، ما يكشف أوجه شبه مع اللغة البشرية أقوى مما كان يُظن [2].",
+    "settle": "يرى مؤلفو المراجعة أن نماذج تطور اللغة استندت حتى الآن إلى افتراضات لا أساس لها ولم تقدّم اختبارات تجريبية [1]. وفي رأيهم، فإن ما يحتاج إلى تفسير هو العملية الحسابية الكامنة، ومنها القدرة على تركيب العناصر في بنى جديدة، وهو ما لا تكشفه الأحافير ولا المصنوعات [1].",
+    "state": "خلصت مراجعة صدرت عام 2014 بتوقيع ثمانية باحثين، منهم نعوم تشومسكي، إلى أن أكثر الأسئلة جوهرية حول أصل قدرتنا اللغوية لا تزال غامضة كما كانت دائمًا [1]. فالأحافير والأدوات الحجرية تكشف حجم أدمغة أسلافنا وتقنياتهم، لكنها لا تكشف قواعد ما ربما قالوه ولا معناه [1]."
+   },
    "known": "توجد لدى حيوانات أخرى عدة قدرات تحتاجها اللغة، لكن لا يجمعها كلها أي حيوان.",
    "leads": "علم الوراثة المقارن، ودراسات تواصل الحيوانات، ونماذج لكيفية تطور اللغات.",
    "s": "أصل اللغة",
@@ -12,6 +35,12 @@
   },
   "en": {
    "block": "Language leaves no fossils.",
+   "detail": {
+    "ideas": "One debate concerns animals: the 2014 review argued that animal communication offers virtually no relevant parallels, since animal signals are largely innate and are not combined into new structures [1]. The same review notes that no gene has yet been linked step by step to the capacity for language [1]. FOXP2, first identified for its role in human speech, was thought to have been favoured by recent natural selection in our species, but a 2018 analysis of hundreds of genomes from around the world found no evidence of this [3].",
+    "recent": "In 2025, a study of wild bonobos using methods from linguistics found that every call type in their repertoire appears in at least one compositional combination [2]. Three combinations showed non-trivial compositionality, a property thought to be absent in animals, revealing stronger parallels with human language than previously thought [2].",
+    "settle": "The review's authors argue that models of language evolution have so far rested on unfounded assumptions and offered no empirical tests [1]. In their view, what needs explaining is the underlying computation, including the ability to combine elements into new structures, which neither fossils nor artifacts reveal [1].",
+    "state": "A 2014 review by eight researchers, including Noam Chomsky, concluded that the most fundamental questions about the origins of our capacity for language remain as mysterious as ever [1]. Fossils and stone tools show the size of our ancestors' brains and their technology, but not the grammar or the meaning of anything they may have said [1]."
+   },
    "known": "Several of the abilities it needs exist in other animals, but none combines them all.",
    "leads": "Comparative genetics, animal communication studies, models of how languages evolve.",
    "s": "Origin of language",
@@ -20,6 +49,12 @@
   },
   "es": {
    "block": "El lenguaje no deja fósiles.",
+   "detail": {
+    "ideas": "Un debate se refiere a los animales: la revisión de 2014 sostenía que la comunicación animal no ofrece prácticamente ningún paralelo relevante, porque las señales de los animales son en gran parte innatas y no se combinan en estructuras nuevas [1]. La misma revisión señala que todavía no se ha vinculado ningún gen, paso a paso, con la capacidad de lenguaje [1]. Se pensaba que FOXP2, identificado primero por su papel en el habla humana, había sido favorecido por una selección natural reciente en nuestra especie, pero un análisis de 2018 con cientos de genomas de todo el mundo no encontró pruebas de ello [3].",
+    "recent": "En 2025, un estudio sobre bonobos salvajes con métodos procedentes de la lingüística halló que cada tipo de llamada de su repertorio aparece en al menos una combinación composicional [2]. Tres combinaciones mostraron una composicionalidad no trivial, una propiedad que se creía ausente en los animales, lo que revela paralelos con el lenguaje humano más fuertes de lo que se pensaba [2].",
+    "settle": "Los autores de la revisión sostienen que los modelos de la evolución del lenguaje se han basado hasta ahora en supuestos infundados y no han ofrecido pruebas empíricas [1]. Para ellos, lo que hay que explicar es el cálculo subyacente, incluida la capacidad de combinar elementos en estructuras nuevas, algo que ni los fósiles ni los artefactos revelan [1].",
+    "state": "Una revisión de 2014 firmada por ocho investigadores, entre ellos Noam Chomsky, concluyó que las preguntas más fundamentales sobre el origen de nuestra capacidad de lenguaje siguen siendo tan misteriosas como siempre [1]. Los fósiles y las herramientas de piedra muestran el tamaño del cerebro de nuestros antepasados y su tecnología, pero no la gramática ni el significado de lo que pudieran haber dicho [1]."
+   },
    "known": "Varias de las capacidades que requiere existen en otros animales, pero ninguno las reúne todas.",
    "leads": "Genética comparada, estudios de comunicación animal, modelos de cómo evolucionan las lenguas.",
    "s": "Origen del lenguaje",
@@ -28,6 +63,12 @@
   },
   "fr": {
    "block": "Le langage ne laisse pas de fossiles.",
+   "detail": {
+    "ideas": "Un débat porte sur les animaux : la synthèse de 2014 soutient que la communication animale n'offre pratiquement aucun parallèle pertinent, car les signaux des animaux sont en grande partie innés et ne sont pas combinés en structures nouvelles [1]. La même synthèse note qu'aucun gène n'a encore été relié pas à pas à la capacité de langage [1]. FOXP2, identifié d'abord pour son rôle dans la parole humaine, passait pour avoir été favorisé par une sélection naturelle récente dans notre espèce, mais une analyse de 2018 portant sur des centaines de génomes du monde entier n'en a trouvé aucune trace [3].",
+    "recent": "En 2025, une étude sur des bonobos sauvages, menée avec des méthodes issues de la linguistique, a montré que chaque type de cri de leur répertoire apparaît dans au moins une combinaison compositionnelle [2]. Trois combinaisons présentaient une compositionnalité non triviale, une propriété que l'on croyait absente chez les animaux, ce qui révèle des parallèles plus forts qu'on ne le pensait avec le langage humain [2].",
+    "settle": "Les auteurs de la synthèse estiment que les modèles de l'évolution du langage reposent jusqu'ici sur des hypothèses non fondées et n'ont proposé aucun test empirique [1]. Selon eux, ce qu'il faut expliquer, c'est le calcul sous-jacent, dont la capacité à combiner des éléments en structures nouvelles, que ni les fossiles ni les objets fabriqués ne révèlent [1].",
+    "state": "Une synthèse de 2014 signée par huit chercheurs, dont Noam Chomsky, a conclu que les questions les plus fondamentales sur l'origine de notre capacité de langage restent aussi mystérieuses que jamais [1]. Les fossiles et les outils de pierre révèlent la taille du cerveau de nos ancêtres et leur technologie, mais ni la grammaire ni le sens de ce qu'ils ont pu dire [1]."
+   },
    "known": "Plusieurs capacités nécessaires existent chez d'autres animaux, mais aucun ne combine tout.",
    "leads": "Génétique comparée, études de communication animale, modèles d'évolution des langues.",
    "s": "Origine du langage",
@@ -36,6 +77,12 @@
   },
   "hi": {
    "block": "भाषा कोई जीवाश्म नहीं छोड़ती।",
+   "detail": {
+    "ideas": "एक बहस जानवरों को लेकर है: 2014 की समीक्षा का तर्क था कि जानवरों का संचार लगभग कोई प्रासंगिक समानता नहीं देता, क्योंकि उनके संकेत अधिकतर जन्मजात होते हैं और नई संरचनाओं में जोड़े नहीं जाते [1]। वही समीक्षा बताती है कि अब तक किसी भी जीन को कदम-दर-कदम भाषा-क्षमता से नहीं जोड़ा जा सका है [1]। FOXP2, जिसे पहली बार मानव वाणी में उसकी भूमिका के लिए पहचाना गया, के बारे में माना जाता था कि हमारी प्रजाति में हाल के प्राकृतिक चयन ने उसे बढ़ावा दिया, लेकिन 2018 में दुनिया भर के सैकड़ों जीनोम के विश्लेषण में इसका कोई प्रमाण नहीं मिला [3]।",
+    "recent": "2025 में भाषाविज्ञान की विधियों से जंगली बोनोबो पर किए गए एक अध्ययन में पाया गया कि उनकी हर प्रकार की पुकार कम से कम एक संरचनात्मक संयोजन में आती है [2]। तीन संयोजनों में \"गैर-तुच्छ संरचनात्मकता\" दिखी, एक ऐसा गुण जिसे जानवरों में अनुपस्थित माना जाता था, जिससे मानव भाषा के साथ पहले की सोच से अधिक मज़बूत समानताएँ सामने आईं [2]।",
+    "settle": "समीक्षा के लेखकों का तर्क है कि भाषा के विकास के मॉडल अब तक निराधार मान्यताओं पर टिके रहे हैं और उन्होंने कोई अनुभवजन्य परीक्षण प्रस्तुत नहीं किया [1]। उनके अनुसार जिसे समझाना है वह भीतर की गणना है, जिसमें तत्वों को नई संरचनाओं में जोड़ने की क्षमता शामिल है, और इसे न जीवाश्म दिखाते हैं न मानव-निर्मित वस्तुएँ [1]।",
+    "state": "2014 में नोम चॉम्स्की सहित आठ शोधकर्ताओं की एक समीक्षा ने निष्कर्ष निकाला कि हमारी भाषा-क्षमता की उत्पत्ति के सबसे बुनियादी प्रश्न आज भी उतने ही रहस्यमय हैं जितने पहले थे [1]। जीवाश्म और पत्थर के औज़ार हमारे पूर्वजों के मस्तिष्क का आकार और उनकी तकनीक तो दिखाते हैं, लेकिन उन्होंने जो कुछ कहा हो उसका व्याकरण या अर्थ नहीं [1]।"
+   },
    "known": "इसके लिए आवश्यक कई क्षमताएँ अन्य जानवरों में भी हैं, पर कोई भी उन सबको एक साथ नहीं रखता।",
    "leads": "तुलनात्मक आनुवंशिकी, पशु संचार के अध्ययन, भाषाओं के विकास के मॉडल।",
    "s": "भाषा की उत्पत्ति",
@@ -44,6 +91,12 @@
   },
   "pt": {
    "block": "A linguagem não deixa fósseis.",
+   "detail": {
+    "ideas": "Um dos debates diz respeito aos animais: a revisão de 2014 defendia que a comunicação animal não oferece praticamente nenhum paralelo relevante, porque os sinais dos animais são em grande parte inatos e não se combinam em estruturas novas [1]. A mesma revisão nota que nenhum gene foi ainda ligado, passo a passo, à capacidade de linguagem [1]. Pensava-se que o FOXP2, identificado primeiro pelo seu papel na fala humana, tinha sido favorecido por seleção natural recente na nossa espécie, mas uma análise de 2018 com centenas de genomas de todo o mundo não encontrou provas disso [3].",
+    "recent": "Em 2025, um estudo sobre bonobos selvagens, com métodos vindos da linguística, concluiu que cada tipo de chamamento do seu repertório aparece em pelo menos uma combinação composicional [2]. Três combinações mostraram composicionalidade não trivial, uma propriedade que se julgava ausente nos animais, o que revela paralelos com a linguagem humana mais fortes do que se pensava [2].",
+    "settle": "Os autores da revisão defendem que os modelos da evolução da linguagem se basearam até agora em pressupostos infundados e não ofereceram testes empíricos [1]. Para eles, o que é preciso explicar é o cálculo subjacente, incluindo a capacidade de combinar elementos em estruturas novas, que nem os fósseis nem os artefactos revelam [1].",
+    "state": "Uma revisão de 2014 assinada por oito investigadores, entre os quais Noam Chomsky, concluiu que as questões mais fundamentais sobre a origem da nossa capacidade de linguagem continuam tão misteriosas como sempre [1]. Os fósseis e os utensílios de pedra mostram o tamanho do cérebro dos nossos antepassados e a sua tecnologia, mas não a gramática nem o significado do que possam ter dito [1]."
+   },
    "known": "Várias das capacidades de que ela precisa existem em outros animais, mas nenhum os reúne todas.",
    "leads": "Genética comparada, estudos de comunicação animal, modelos de como as línguas evoluem.",
    "s": "Origem da linguagem",
@@ -52,6 +105,12 @@
   },
   "zh": {
    "block": "语言不会留下化石。",
+   "detail": {
+    "ideas": "争论之一涉及动物：这篇2014年的综述认为，动物交流几乎没有提供任何相关的类比，因为动物信号大多是先天的，也不会组合成新的结构[1]。同一综述还指出，迄今还没有任何基因被一步步地与语言能力联系起来[1]。FOXP2最初因其在人类言语中的作用而被发现，人们曾认为它在我们这个物种中受到了近期自然选择的青睐，但2018年一项对全球数百个基因组的分析没有发现这方面的证据[3]。",
+    "recent": "2025年，一项借助语言学方法对野生倭黑猩猩开展的研究发现，它们叫声库中的每一种叫声都至少出现在一种组合式搭配中[2]。其中三种组合表现出“非平凡的组合性”，这一特性此前被认为在动物中不存在，表明倭黑猩猩的发声与人类语言的相似之处比以往认为的更多[2]。",
+    "settle": "该综述的作者认为，迄今为止的语言演化模型都建立在缺乏依据的假设之上，也没有提供实证检验[1]。在他们看来，需要解释的是背后的计算能力，包括把要素组合成新结构的能力，而这是化石和人工制品都无法揭示的[1]。",
+    "state": "2014年，包括诺姆·乔姆斯基在内的八位研究者在一篇综述中得出结论：关于人类语言能力起源的最根本问题，至今仍像过去一样神秘[1]。化石和石器能显示祖先的脑容量和技术水平，却无法揭示他们可能说过的话的语法或含义[1]。"
+   },
    "known": "语言所需的若干能力在其他动物身上也存在,但没有哪种动物集齐了全部能力。",
    "leads": "比较遗传学,动物交流研究,语言演化模型。",
    "s": "语言起源",

@@ -1,9 +1,32 @@
 {
  "checked": "2026-11-18",
  "d": "V",
+ "dsrc": [
+  {
+   "t": "The nature of the last universal common ancestor and its impact on the early Earth system (Nature Ecology & Evolution, 2024)",
+   "ty": "study",
+   "u": "https://ui.adsabs.harvard.edu/abs/2024NatEE...8.1654M"
+  },
+  {
+   "t": "Life as a Guide to its Own Origins (Annual Review of Ecology, Evolution, and Systematics, 2023)",
+   "ty": "reference",
+   "u": "https://discovery.ucl.ac.uk/10177411/1/Harrison%20et%20al%20Annu%20Rev%20Ecol%20Evol%20System%202023.pdf"
+  },
+  {
+   "t": "Common origins of RNA, protein and lipid precursors in a cyanosulfidic protometabolism (Nature Chemistry, 2015)",
+   "ty": "study",
+   "u": "https://ui.adsabs.harvard.edu/abs/2015NatCh...7..301P/abstract"
+  }
+ ],
  "i18n": {
   "ar": {
    "block": "لا يوجد مسار كيميائي كامل يفسّر الانتقال من جزيئات بسيطة إلى أول خلية.",
+   "detail": {
+    "ideas": "تضع مجموعة من الفرضيات البداية في الأنظمة الحرارية المائية في قاع البحر، حيث يمكن لتدفقات طبيعية من الطاقة والمواد الكيميائية، بعيدة عن التوازن، أن تكون قد حرّكت أول عملية أيض [2]. وتعتمد فرضية أخرى على الأشعة فوق البنفسجية وجزيئات بسيطة مثل سيانيد الهيدروجين: ففي عام 2015 أظهر كيميائيون أن شبكة واحدة من هذه التفاعلات يمكن أن تنتج معًا سلائف الحمض النووي الريبي (RNA) والبروتينات والدهون [3]. ومن الألغاز المحورية كيف تجمّع الـRNA، الذي يحمل المعلومات الوراثية، أول مرة من دون إنزيمات؛ فقد تحقق ربط وحداته في سلاسل في بيئات مثل دورات الترطيب والتجفيف، لكن ليس بعدُ في ظروف تشبه ظروف الخلايا الأولى [2].",
+    "recent": "في عام 2024، قدّرت دراسة واسعة قارنت جينات الكائنات الحية أن LUCA عاش قبل نحو 4.2 مليار سنة، بين 4.09 و4.33 مليار سنة [1]. وخلصت أيضًا إلى أن LUCA كان يعيش من دون أكسجين، وينتج الأسيتات، ويمتلك بالفعل جهازًا مناعيًا بدائيًا [1].",
+    "settle": "يقوم أحد المناهج على اتخاذ الكيمياء المشتركة بين كل الخلايا الحية دليلًا لمعرفة التفاعلات التي كانت ممكنة في البداية [2]. ومن الاختبارات الحاسمة صنع النيوكليوتيدات، وهي وحدات بناء الـRNA، بكيمياء معقولة على الأرض المبكرة، ولا سيما البيورينات، التي يعدّها مؤلفو مراجعة حديثة أكبر مشكلة لم تُحل [2].",
+    "state": "تنحدر كل الكائنات الحية من سلف مشترك عالمي أخير يُسمّى LUCA [1]. وكان LUCA بالفعل خلية بتعقيد البكتيريا والعتائق الحالية، يشفّر جينومه نحو 2600 بروتين [1]. ولم يتمكن الباحثون بعدُ من إعادة إنتاج المسار الكيميائي الكامل من الجزيئات البسيطة إلى مثل هذه الخلايا [2]."
+   },
    "known": "توجد الحياة على الأرض منذ 3.5 مليار سنة على الأقل.",
    "leads": "عالم الحمض الريبي النووي، والفتحات الحرمائية، والكيمياء ما قبل الحيوية، والتطور الموجَّه في المختبر.",
    "s": "أصل الحياة",
@@ -12,6 +35,12 @@
   },
   "en": {
    "block": "No complete chemical pathway explains the step from simple molecules to a first cell.",
+   "detail": {
+    "ideas": "One family of ideas places the start in hydrothermal systems on the sea floor, where natural flows of energy and chemicals, far from equilibrium, could drive the first metabolism [2]. Another relies on ultraviolet light and simple molecules such as hydrogen cyanide: in 2015, chemists showed that one network of such reactions can produce precursors of RNA, proteins and lipids together [3]. A central puzzle is how RNA, which carries genetic information, was first assembled without enzymes; joining its building blocks into chains has been achieved in settings such as wet and dry cycles, but not yet in conditions resembling early cells [2].",
+    "recent": "In 2024, a large study comparing genes across living organisms estimated that LUCA lived about 4.2 billion years ago, between 4.09 and 4.33 billion years [1]. It also concluded that LUCA lived without oxygen, produced acetate, and already had an early immune system [1].",
+    "settle": "One approach uses the chemistry shared by all living cells as a guide to which reactions were possible at the very start [2]. A key test is to make nucleotides, the building blocks of RNA, by plausible early-Earth chemistry, and in particular the purines, which the authors of a recent review call the biggest unsolved problem [2].",
+    "state": "All living things descend from a last universal common ancestor, called LUCA [1]. LUCA was already a cell as complex as today's bacteria and archaea, with a genome encoding roughly 2,600 proteins [1]. Researchers have not yet reproduced the full chemical path from simple molecules to such cells [2]."
+   },
    "known": "Life has existed on Earth for at least 3.5 billion years.",
    "leads": "The RNA world, hydrothermal vents, prebiotic chemistry and directed evolution in the lab.",
    "s": "Origin of life",
@@ -20,6 +49,12 @@
   },
   "es": {
    "block": "Ninguna vía química completa explica el paso de moléculas simples a una primera célula.",
+   "detail": {
+    "ideas": "Una familia de hipótesis sitúa el comienzo en los sistemas hidrotermales del fondo marino, donde flujos naturales de energía y de sustancias químicas, lejos del equilibrio, podrían haber impulsado el primer metabolismo [2]. Otra se basa en la luz ultravioleta y en moléculas simples como el cianuro de hidrógeno: en 2015, unos químicos mostraron que una misma red de reacciones de este tipo puede producir a la vez precursores del ARN, de las proteínas y de los lípidos [3]. Un enigma central es cómo se ensambló por primera vez el ARN, que porta la información genética, sin enzimas; unir sus piezas en cadenas se ha logrado en entornos como ciclos de humedad y sequedad, pero aún no en condiciones parecidas a las de las primeras células [2].",
+    "recent": "En 2024, un amplio estudio que comparó genes de organismos vivos estimó que LUCA vivió hace unos 4200 millones de años, entre 4090 y 4330 millones de años [1]. También concluyó que LUCA vivía sin oxígeno, producía acetato y ya tenía un sistema inmunitario primitivo [1].",
+    "settle": "Un enfoque usa la química que comparten todas las células vivas como guía para saber qué reacciones eran posibles al principio [2]. Una prueba clave sería fabricar nucleótidos, las piezas del ARN, mediante una química plausible en la Tierra primitiva, en particular las purinas, que los autores de una revisión reciente consideran el mayor problema sin resolver [2].",
+    "state": "Todos los seres vivos descienden de un último antepasado común universal, llamado LUCA [1]. LUCA ya era una célula tan compleja como las bacterias y arqueas actuales, con un genoma que codificaba unas 2600 proteínas [1]. Los investigadores aún no han reproducido todo el camino químico que lleva de moléculas simples a células así [2]."
+   },
    "known": "Hay vida en la Tierra desde hace al menos 3500 millones de años.",
    "leads": "El mundo de ARN, las fuentes hidrotermales, la química prebiótica y la evolución dirigida en el laboratorio.",
    "s": "Origen de la vida",
@@ -28,6 +63,12 @@
   },
   "fr": {
    "block": "Aucune voie chimique complète n'explique le passage de molécules simples à une première cellule.",
+   "detail": {
+    "ideas": "Une famille d'hypothèses situe le départ dans les systèmes hydrothermaux du fond des océans, où des flux naturels d'énergie et de substances chimiques, loin de l'équilibre, auraient pu entraîner le premier métabolisme [2]. Une autre repose sur la lumière ultraviolette et des molécules simples comme le cyanure d'hydrogène : en 2015, des chimistes ont montré qu'un même réseau de réactions de ce type peut produire ensemble des précurseurs de l'ARN, des protéines et des lipides [3]. Une énigme centrale est de savoir comment l'ARN, qui porte l'information génétique, a été assemblé pour la première fois sans enzymes ; relier ses briques en chaînes a été réalisé dans des conditions comme des cycles d'humidité et de sécheresse, mais pas encore dans des conditions proches de celles des premières cellules [2].",
+    "recent": "En 2024, une vaste étude comparant les gènes des organismes vivants a estimé que LUCA vivait il y a environ 4,2 milliards d'années, entre 4,09 et 4,33 milliards d'années [1]. Elle conclut aussi que LUCA vivait sans oxygène, produisait de l'acétate et possédait déjà un système immunitaire primitif [1].",
+    "settle": "Une approche consiste à prendre la chimie commune à toutes les cellules vivantes comme guide pour savoir quelles réactions étaient possibles tout au début [2]. Un test clé serait de fabriquer des nucléotides, les briques de l'ARN, par une chimie plausible sur la Terre primitive, en particulier les purines, que les auteurs d'une synthèse récente considèrent comme le plus grand problème non résolu [2].",
+    "state": "Tous les êtres vivants descendent d'un dernier ancêtre commun universel, appelé LUCA [1]. LUCA était déjà une cellule aussi complexe que les bactéries et les archées actuelles, avec un génome codant environ 2 600 protéines [1]. Les chercheurs n'ont pas encore reproduit tout le chemin chimique qui mène de molécules simples à de telles cellules [2]."
+   },
    "known": "La vie existe sur Terre depuis au moins 3,5 milliards d'années.",
    "leads": "Le monde à ARN, les sources hydrothermales, la chimie prébiotique et l'évolution dirigée en laboratoire.",
    "s": "Origine de la vie",
@@ -36,6 +77,12 @@
   },
   "hi": {
    "block": "सरल अणुओं से पहली कोशिका तक के कदम को कोई पूर्ण रासायनिक मार्ग नहीं समझाता।",
+   "detail": {
+    "ideas": "विचारों का एक समूह शुरुआत को समुद्र तल के हाइड्रोथर्मल तंत्रों में रखता है, जहाँ संतुलन से दूर ऊर्जा और रसायनों के प्राकृतिक प्रवाह पहले चयापचय (मेटाबॉलिज़्म) को चला सकते थे [2]। एक अन्य विचार पराबैंगनी प्रकाश और हाइड्रोजन साइनाइड जैसे सरल अणुओं पर आधारित है: 2015 में रसायनविदों ने दिखाया कि ऐसी अभिक्रियाओं का एक ही जाल RNA, प्रोटीन और लिपिड के पूर्ववर्ती अणु एक साथ बना सकता है [3]। एक केंद्रीय पहेली यह है कि आनुवंशिक जानकारी ले जाने वाला RNA पहली बार एंज़ाइमों के बिना कैसे जुड़ा; इसकी इकाइयों को शृंखलाओं में जोड़ना गीले-सूखे चक्रों जैसे परिवेशों में संभव हुआ है, लेकिन अभी शुरुआती कोशिकाओं जैसी परिस्थितियों में नहीं [2]।",
+    "recent": "2024 में जीवित जीवों के जीनों की तुलना करने वाले एक बड़े अध्ययन ने अनुमान लगाया कि LUCA लगभग 4.2 अरब वर्ष पहले, 4.09 से 4.33 अरब वर्ष के बीच, रहता था [1]। उसने यह निष्कर्ष भी निकाला कि LUCA ऑक्सीजन के बिना रहता था, एसीटेट बनाता था और उसके पास पहले से एक आरंभिक प्रतिरक्षा तंत्र था [1]।",
+    "settle": "एक तरीका यह है कि सभी जीवित कोशिकाओं में साझा रसायन को मार्गदर्शक मानकर पता लगाया जाए कि बिल्कुल शुरुआत में कौन-सी अभिक्रियाएँ संभव थीं [2]। एक महत्वपूर्ण परीक्षा होगी आरंभिक पृथ्वी के संभावित रसायन से RNA की इकाइयाँ, यानी न्यूक्लियोटाइड, बनाना, ख़ासकर प्यूरीन, जिन्हें एक हालिया समीक्षा के लेखक सबसे बड़ी अनसुलझी समस्या मानते हैं [2]।",
+    "state": "सभी जीवित प्राणी एक अंतिम सार्वभौमिक साझा पूर्वज से उत्पन्न हुए हैं, जिसे LUCA कहा जाता है [1]। LUCA पहले से ही आज के बैक्टीरिया और आर्किया जितनी जटिल कोशिका था, जिसके जीनोम में लगभग 2,600 प्रोटीन का कोड था [1]। शोधकर्ता अभी तक सरल अणुओं से ऐसी कोशिकाओं तक का पूरा रासायनिक मार्ग दोबारा नहीं बना पाए हैं [2]।"
+   },
    "known": "पृथ्वी पर जीवन कम से कम 3.5 अरब वर्षों से मौजूद है।",
    "leads": "RNA विश्व, जलतापीय छिद्र, प्रयोगशाला में प्रीबायोटिक रसायन और निर्देशित विकास।",
    "s": "जीवन की उत्पत्ति",
@@ -44,6 +91,12 @@
   },
   "pt": {
    "block": "Nenhum caminho químico completo explica a passagem de moléculas simples para uma primeira célula.",
+   "detail": {
+    "ideas": "Uma família de hipóteses situa o início em sistemas hidrotermais do fundo do mar, onde fluxos naturais de energia e de substâncias químicas, longe do equilíbrio, poderiam ter impulsionado o primeiro metabolismo [2]. Outra baseia-se na luz ultravioleta e em moléculas simples como o cianeto de hidrogénio: em 2015, químicos mostraram que uma mesma rede de reações deste tipo pode produzir em conjunto precursores do ARN, das proteínas e dos lípidos [3]. Um enigma central é saber como o ARN, que transporta a informação genética, foi montado pela primeira vez sem enzimas; ligar os seus blocos em cadeias já foi conseguido em ambientes como ciclos de humidade e secagem, mas ainda não em condições semelhantes às das primeiras células [2].",
+    "recent": "Em 2024, um grande estudo que comparou genes de organismos vivos estimou que o LUCA viveu há cerca de 4,2 mil milhões de anos, entre 4,09 e 4,33 mil milhões de anos [1]. Concluiu também que o LUCA vivia sem oxigénio, produzia acetato e já tinha um sistema imunitário primitivo [1].",
+    "settle": "Uma abordagem usa a química partilhada por todas as células vivas como guia para saber que reações eram possíveis no início [2]. Um teste fundamental seria produzir nucleótidos, os blocos do ARN, através de uma química plausível na Terra primitiva, em particular as purinas, que os autores de uma revisão recente consideram o maior problema por resolver [2].",
+    "state": "Todos os seres vivos descendem de um último ancestral comum universal, chamado LUCA [1]. O LUCA já era uma célula tão complexa como as bactérias e arqueias atuais, com um genoma que codificava cerca de 2600 proteínas [1]. Os investigadores ainda não reproduziram todo o caminho químico que vai de moléculas simples até células assim [2]."
+   },
    "known": "A vida existe na Terra há pelo menos 3,5 bilhões de anos.",
    "leads": "O mundo de RNA, fontes hidrotermais, química pré-biótica e evolução dirigida em laboratório.",
    "s": "Origem da vida",
@@ -52,6 +105,12 @@
   },
   "zh": {
    "block": "目前没有完整的化学路径,能解释从简单分子到第一个细胞的这一步。",
+   "detail": {
+    "ideas": "一类观点认为生命起源于海底热液系统，那里远离平衡态的天然能量流和化学物质流可能驱动了最初的新陈代谢[2]。另一类观点依赖紫外线和氰化氢等简单分子：2015年，化学家证明，同一个这样的反应网络可以同时生成RNA、蛋白质和脂质的前体[3]。一个核心谜题是，携带遗传信息的RNA最初是如何在没有酶的情况下组装起来的；把它的构件连接成链已在干湿循环等环境中实现，但尚未在类似最早细胞的条件下实现[2]。",
+    "recent": "2024年，一项比较多种现存生物基因的大型研究估计，LUCA生活在约42亿年前，介于40.9亿至43.3亿年之间[1]。该研究还认为，LUCA生活在无氧环境中，能产生乙酸，并且已经拥有早期的免疫系统[1]。",
+    "settle": "一种思路是以所有活细胞共有的化学反应为指引，推断最初可能发生哪些反应[2]。一项关键检验是用早期地球上合理的化学过程制造出RNA的构件——核苷酸，尤其是嘌呤；一篇近期综述的作者认为这是最大的未解难题[2]。",
+    "state": "所有生物都起源于一个被称为LUCA的最后共同祖先[1]。LUCA已经是一个与今天的细菌和古菌同样复杂的细胞，其基因组编码约2600种蛋白质[1]。研究人员尚未重现从简单分子到这类细胞的完整化学路径[2]。"
+   },
    "known": "地球上的生命至少已存在35亿年。",
    "leads": "RNA世界,热液喷口,前生物化学以及实验室中的定向演化。",
    "s": "生命起源",

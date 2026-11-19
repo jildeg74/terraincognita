@@ -3,7 +3,7 @@
  "items": [
   {
    "k": "sources",
-   "n": 16
+   "n": 47
   },
   {
    "f": "block",
@@ -100,6 +100,46 @@
   {
    "f": "src",
    "q": "yang-mills"
+  },
+  {
+   "f": "detail",
+   "q": "energie-sombre"
+  },
+  {
+   "f": "detail",
+   "q": "matiere-noire"
+  },
+  {
+   "f": "detail",
+   "q": "origine-vie"
+  },
+  {
+   "f": "detail",
+   "q": "alzheimer"
+  },
+  {
+   "f": "detail",
+   "q": "antibioresistance"
+  },
+  {
+   "f": "detail",
+   "q": "conscience"
+  },
+  {
+   "f": "detail",
+   "q": "p-np"
+  },
+  {
+   "f": "detail",
+   "q": "interpretabilite"
+  },
+  {
+   "f": "detail",
+   "q": "climat-sensibilite"
+  },
+  {
+   "f": "detail",
+   "q": "langage-origine"
   }
  ]
 }

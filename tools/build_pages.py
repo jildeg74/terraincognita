@@ -43,6 +43,7 @@ li{margin:4px 0}
 .meta{font:12.5px var(--f-mono);color:var(--muted);margin-top:28px}
 .near[data-n="3"]{background:var(--accent);border-color:var(--accent);color:var(--bg2)}
 .hist{font-size:14px;color:var(--muted)}.hist time{font-family:var(--f-mono);color:var(--fg)}
+.detail h3{font-size:16px;margin:18px 0 4px}.detail sup a{text-decoration:none;font-size:11px;padding:0 1px}.dsrc{font-size:14px}.dsrc li:target{background:var(--line)}
 .why{font-size:17px;border-inline-start:3px solid var(--accent);padding-inline-start:12px}
 .cta{display:inline-block;margin-top:18px;font-weight:600}
 .group{margin-top:26px}
@@ -107,7 +108,7 @@ def build(page, docs, out, changes=()):
         os.makedirs(os.path.join(out, lang), exist_ok=True)
         tx = lambda d: {**d['i18n'].get('en', {}), **d['i18n'].get(lang, {})}
         near = lambda d: (X['solved'] + (' · ' + d['solved'] if d.get('solved') else '')) if d['n'] == 3 else t['near'][d['n']]
-        flab = {'known': t['known'], 'block': t['block'], 'leads': t['leads'], 'src': t['src'], 'sub': t['subq'], 'n': X['status'], 'links': t['rel'], 'new': X['newq']}
+        flab = {'known': t['known'], 'block': t['block'], 'leads': t['leads'], 'src': t['src'], 'sub': t['subq'], 'n': X['status'], 'links': t['rel'], 'new': X['newq'], 'detail': X['detail']}
         for d in docs:
             a = tx(d)
             subs = ''.join(f'<li>{e(s.get(lang) or s.get("en"))}</li>' for s in d.get('sub', []))
@@ -115,6 +116,15 @@ def build(page, docs, out, changes=()):
             srcs = ''.join(
                 f'<li><a href="{e(s["u"])}" rel="noopener">{e(s["t"])}</a><span class="ty{" s" if s["ty"] in ("study", "reference") else ""}">{e(t["ty"].get(s["ty"], s["ty"]))}</span></li>'
                 for s in d['src'])
+            det = a.get('detail') if d.get('dsrc') else None
+            dsec = ''
+            if det:
+                cite = lambda txt: re.sub(r'\[(\d+)\]', lambda m: f'<sup><a href="#r{m.group(1)}">{m.group(1)}</a></sup>', e(txt))
+                dsec = f'<section class="detail"><h2>{e(X["detail"])}</h2>' + ''.join(
+                    f'<h3>{e(X[h])}</h3><p>{cite(det[k])}</p>' for k, h in (('state', 'dState'), ('ideas', 'dIdeas'), ('settle', 'dSettle'), ('recent', 'dRecent')) if det.get(k))
+                dsec += f'<h3>{e(X["dSrc"])}</h3><ol class="dsrc">' + ''.join(
+                    f'<li id="r{n}"><a href="{e(s["u"])}" rel="noopener">{e(s["t"])}</a><span class="ty{" s" if s["ty"] in ("study", "reference") else ""}">{e(t["ty"].get(s["ty"], s["ty"]))}</span></li>'
+                    for n, s in enumerate(d['dsrc'], 1)) + '</ol></section>'
             revs = d.get('rev', [])
             rv = (f'<p>{e(t["revBy"])} ' + ', '.join(e(r["name"]) + (f' ({e(r["affil"])})' if r.get('affil') else '') for r in revs) + '</p>') if revs else f'<p class="meta">{e(t["notRev"])}</p>'
             hs = hist.get(d['id'], {})
@@ -127,6 +137,7 @@ def build(page, docs, out, changes=()):
                     f'<h2>{e(t["known"])}</h2><p>{e(a["known"])}</p>'
                     f'<h2>{e(t["block"])}</h2><p>{e(a["block"])}</p>'
                     f'<h2>{e(t["leads"])}</h2><p>{e(a["leads"])}</p>' +
+                    dsec +
                     (f'<h2>{e(t["subq"])}</h2><ul>{subs}</ul>' if subs else '') +
                     (f'<h2>{e(t["rel"])}</h2><ul>{rel}</ul>' if rel else '') +
                     f'<h2>{e(t["src"])}</h2><ul>{srcs}</ul>{rv}'
@@ -139,7 +150,7 @@ def build(page, docs, out, changes=()):
                     'license': 'https://creativecommons.org/licenses/by/4.0/',
                     'isPartOf': {'@type': 'Dataset', 'name': 'Terra Incognita', 'url': BASE + '/', 'identifier': DOI},
                     'mainEntity': {'@type': 'Question', 'name': a['t'], 'text': a['t'], 'about': t['dom'][d['d']]},
-                    'citation': [{'@type': 'CreativeWork', 'name': s['t'], 'url': s['u']} for s in d['src']]}))
+                    'citation': [{'@type': 'CreativeWork', 'name': s['t'], 'url': s['u']} for s in d['src'] + d.get('dsrc', [])]}))
             urls.append(f'{lang}/{d["id"]}.html')
         groups = ''
         for k in DKEYS:

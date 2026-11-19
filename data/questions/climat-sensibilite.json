@@ -1,9 +1,32 @@
 {
  "checked": "2026-11-18",
  "d": "T",
+ "dsrc": [
+  {
+   "t": "IPCC AR6 Working Group I, Frequently Asked Questions, Chapter 7",
+   "ty": "official",
+   "u": "https://www.ipcc.ch/report/ar6/wg1/downloads/faqs/IPCC_AR6_WGI_FAQ_Chapter_07.pdf"
+  },
+  {
+   "t": "An assessment of Earth's climate sensitivity using multiple lines of evidence (Reviews of Geophysics, 2020)",
+   "ty": "study",
+   "u": "https://ntrs.nasa.gov/api/citations/20205004845/downloads/GSchmidtRevGeophysAssessmentAccepted.pdf"
+  },
+  {
+   "t": "NextGEMS: The Start of a New Era in Climate Research (Max Planck Institute for Meteorology, 2025)",
+   "ty": "institution",
+   "u": "https://mpimet.mpg.de/en/communication/news/nextgems-the-start-of-a-new-era-in-climate-research"
+  }
+ ],
  "i18n": {
   "ar": {
    "block": "السحب هي أكثر التغذيات الراجعة غموضًا: فهي تتشكّل عبر عمليات أصغر بكثير مما تستطيع النماذج المناخية العالمية تمثيله.",
+   "detail": {
+    "ideas": "بدلًا من الاعتماد على النماذج المناخية وحدها، يجمع العلماء الآن بين ثلاثة خطوط أدلة مستقلة إلى حد كبير: فهم عمليات التغذية الراجعة كلٌّ على حدة، وسجل درجات الحرارة منذ العصر الصناعي، ومناخات الماضي [2]. ووجد تقييم صدر عام 2020 باتباع هذا النهج نطاقًا مرجّحًا من 2.6 إلى 3.9 درجة، وخلص إلى أن الخطوط الثلاثة يصعب التوفيق بينها وبين حساسية أقل من درجتين [2]. وتقدّم مناخات الماضي أقوى حجة ضد القيم المرتفعة: فبرودة العصر الجليدي الأخير تعارض بقوة حساسية تزيد على 4.5 درجة [2].",
+    "recent": "تسعى النماذج المناخية بدقة الكيلومتر إلى تمثيل العواصف والدوامات المحيطية وغيرها من العمليات الصغيرة تمثيلًا فيزيائيًا بدلًا من تقريب أثرها [3]. وقد أنتج المشروع الأوروبي nextGEMS، الذي امتد من 2021 إلى 2025، أولى المحاكاة الممتدة 30 عامًا بهذه الدقة، بشبكة جوية تبلغ نحو 10 كيلومترات، وتمثّل نماذجه السحب الركامية الطبقية شبه الاستوائية تمثيلًا جيدًا [3].",
+    "settle": "تبقى السحب أكثر التغذيات الراجعة غموضًا، لأنها تتشكّل عبر عمليات أصغر بكثير مما تستطيع النماذج المناخية العالمية تمثيله [1]. وقد تحسّن الفهم بفضل أرصاد أفضل، وتتوقع الهيئة أن تتراجع السحب المنخفضة فوق المحيطات شبه الاستوائية مع احترار المناخ، ما سيضخّم الاحترار [1].",
+    "state": "حساسية المناخ عند التوازن هي الاحترار العالمي على المدى الطويل الناجم عن مضاعفة تركيز ثاني أكسيد الكربون فوق مستواه قبل الصناعي [1]. ويعطي أحدث تقييم للهيئة الحكومية الدولية المعنية بتغير المناخ أفضل تقدير قدره 3.0 درجات مئوية، واحتمالًا بنسبة 90% أو أكثر أن تقع بين 2 و5 درجات [1]. ويمثّل ذلك تضييقًا كبيرًا مقارنة بالتقييم السابق الذي أعطى نطاقًا مرجّحًا من 1.5 إلى 4.5 درجة [1]."
+   },
    "known": "يضع الفريق الحكومي الدولي المعني بتغير المناخ الإجابة المرجّحة بين 2.5 و4 درجات مئوية.",
    "leads": "نماذج مناخية بدقة كيلومترية، ومحاكيات مناخية بالذكاء الاصطناعي.",
    "s": "حساسية المناخ",
@@ -12,6 +35,12 @@
   },
   "en": {
    "block": "Clouds are the most uncertain feedback: they form through processes far smaller than global climate models can represent.",
+   "detail": {
+    "ideas": "Instead of relying on climate models alone, scientists now combine three largely independent lines of evidence: the understanding of individual feedback processes, the temperature record since the industrial era, and past climates [2]. A 2020 assessment using this approach found a likely range of 2.6 to 3.9 °C and concluded that all three lines are difficult to reconcile with a sensitivity below 2 °C [2]. Past climates provide the strongest case against high values: the cooling of the last ice age argues strongly against a sensitivity above 4.5 °C [2].",
+    "recent": "Kilometre-scale climate models aim to represent storms, ocean eddies and other small-scale processes physically instead of approximating their effect [3]. The European nextGEMS project, which ran from 2021 to 2025, produced the first 30-year simulations at this scale, with an atmospheric grid of about 10 km, and its models represent subtropical stratocumulus clouds well [3].",
+    "settle": "Clouds remain the most uncertain feedback, because they form through processes far smaller than global climate models can represent [1]. Understanding has improved with better observations, and the IPCC expects low clouds over subtropical oceans to decrease as the climate warms, which would amplify the warming [1].",
+    "state": "Equilibrium climate sensitivity is the long-term global warming caused by doubling the concentration of carbon dioxide above its pre-industrial level [1]. The IPCC's latest assessment gives a best estimate of 3.0 °C and a 90% or greater chance that it lies between 2 and 5 °C [1]. This is a significant narrowing compared with the previous assessment, which gave a likely range of 1.5 to 4.5 °C [1]."
+   },
    "known": "The IPCC puts the likely answer between 2.5 and 4 °C.",
    "leads": "Kilometer-scale climate models, AI climate emulators.",
    "s": "Climate sensitivity",
@@ -20,6 +49,12 @@
   },
   "es": {
    "block": "Las nubes son la retroalimentación más incierta: se forman mediante procesos mucho más pequeños de lo que los modelos climáticos globales pueden representar.",
+   "detail": {
+    "ideas": "En lugar de depender solo de los modelos climáticos, los científicos combinan ahora tres líneas de evidencia en gran medida independientes: la comprensión de cada proceso de retroalimentación, el registro de temperaturas desde la era industrial y los climas del pasado [2]. Una evaluación de 2020 basada en este enfoque encontró un rango probable de 2,6 a 3,9 °C y concluyó que las tres líneas son difíciles de conciliar con una sensibilidad inferior a 2 °C [2]. Los climas del pasado ofrecen el argumento más sólido contra los valores altos: el enfriamiento de la última glaciación se opone firmemente a una sensibilidad superior a 4,5 °C [2].",
+    "recent": "Los modelos climáticos a escala de kilómetro buscan representar físicamente las tormentas, los remolinos oceánicos y otros procesos de pequeña escala en lugar de aproximar su efecto [3]. El proyecto europeo nextGEMS, desarrollado entre 2021 y 2025, produjo las primeras simulaciones de 30 años a esta escala, con una malla atmosférica de unos 10 km, y sus modelos representan bien los estratocúmulos subtropicales [3].",
+    "settle": "Las nubes siguen siendo la retroalimentación más incierta, porque se forman mediante procesos mucho más pequeños de lo que los modelos climáticos globales pueden representar [1]. La comprensión ha mejorado con mejores observaciones, y el IPCC prevé que las nubes bajas sobre los océanos subtropicales disminuyan a medida que el clima se calienta, lo que amplificaría el calentamiento [1].",
+    "state": "La sensibilidad climática de equilibrio es el calentamiento global a largo plazo que causaría duplicar la concentración de dióxido de carbono respecto a su nivel preindustrial [1]. La última evaluación del IPCC da una estimación central de 3,0 °C y una probabilidad del 90 % o más de que esté entre 2 y 5 °C [1]. Es un estrechamiento importante respecto a la evaluación anterior, que daba un rango probable de 1,5 a 4,5 °C [1]."
+   },
    "known": "El IPCC sitúa la respuesta probable entre 2,5 y 4 °C.",
    "leads": "Modelos climáticos a escala de kilómetros, emuladores climáticos de IA.",
    "s": "Sensibilidad climática",
@@ -28,6 +63,12 @@
   },
   "fr": {
    "block": "Les nuages sont la rétroaction la plus incertaine : ils se forment par des processus bien plus petits que ce que les modèles climatiques mondiaux peuvent représenter.",
+   "detail": {
+    "ideas": "Au lieu de s'appuyer seulement sur les modèles climatiques, les scientifiques combinent désormais trois sources de preuves largement indépendantes : la compréhension des différentes rétroactions, les relevés de température depuis l'ère industrielle et les climats du passé [2]. Une évaluation de 2020 fondée sur cette approche a trouvé une fourchette probable de 2,6 à 3,9 °C et conclu que les trois sources sont difficiles à concilier avec une sensibilité inférieure à 2 °C [2]. Les climats passés fournissent l'argument le plus solide contre les valeurs élevées : le refroidissement de la dernière période glaciaire plaide fortement contre une sensibilité supérieure à 4,5 °C [2].",
+    "recent": "Les modèles climatiques à l'échelle du kilomètre visent à représenter physiquement les tempêtes, les tourbillons océaniques et d'autres processus de petite taille au lieu d'en approximer l'effet [3]. Le projet européen nextGEMS, mené de 2021 à 2025, a produit les premières simulations de 30 ans à cette échelle, avec une grille atmosphérique d'environ 10 km, et ses modèles représentent bien les stratocumulus subtropicaux [3].",
+    "settle": "Les nuages restent la rétroaction la plus incertaine, car ils se forment par des processus bien plus petits que ce que les modèles climatiques mondiaux peuvent représenter [1]. La compréhension a progressé grâce à de meilleures observations, et le GIEC s'attend à ce que les nuages bas au-dessus des océans subtropicaux diminuent à mesure que le climat se réchauffe, ce qui amplifierait le réchauffement [1].",
+    "state": "La sensibilité climatique à l'équilibre est le réchauffement mondial à long terme causé par un doublement de la concentration de dioxyde de carbone par rapport à son niveau préindustriel [1]. La dernière évaluation du GIEC donne une meilleure estimation de 3,0 °C et une probabilité d'au moins 90 % qu'elle se situe entre 2 et 5 °C [1]. C'est un net resserrement par rapport à l'évaluation précédente, qui donnait une fourchette probable de 1,5 à 4,5 °C [1]."
+   },
    "known": "Le GIEC estime la réponse probable entre 2,5 et 4 °C.",
    "leads": "Modèles climatiques à résolution kilométrique, émulateurs climatiques par IA.",
    "s": "Sensibilité climatique",
@@ -36,6 +77,12 @@
   },
   "hi": {
    "block": "बादल सबसे अनिश्चित फ़ीडबैक हैं: वे ऐसी प्रक्रियाओं से बनते हैं जो वैश्विक जलवायु मॉडल जितना दर्शा सकते हैं उससे कहीं छोटे पैमाने पर होती हैं।",
+   "detail": {
+    "ideas": "केवल जलवायु मॉडलों पर निर्भर रहने के बजाय वैज्ञानिक अब साक्ष्य की तीन काफ़ी हद तक स्वतंत्र धाराओं को जोड़ते हैं: अलग-अलग फ़ीडबैक प्रक्रियाओं की समझ, औद्योगिक युग से तापमान का रिकॉर्ड, और बीते समय की जलवायु [2]। इस तरीके पर आधारित 2020 के एक आकलन ने 2.6 से 3.9 °C की संभावित सीमा पाई और निष्कर्ष निकाला कि तीनों धाराओं का 2 °C से कम संवेदनशीलता से मेल बैठाना कठिन है [2]। ऊँचे मानों के विरुद्ध सबसे मज़बूत तर्क बीती जलवायु से मिलता है: पिछले हिमयुग की ठंडक 4.5 °C से अधिक संवेदनशीलता के विरुद्ध दृढ़ता से जाती है [2]।",
+    "recent": "किलोमीटर-पैमाने के जलवायु मॉडल तूफ़ानों, समुद्री भँवरों और अन्य छोटे पैमाने की प्रक्रियाओं के प्रभाव का अनुमान लगाने के बजाय उन्हें भौतिक रूप से दर्शाने का लक्ष्य रखते हैं [3]। यूरोपीय nextGEMS परियोजना, जो 2021 से 2025 तक चली, ने इस पैमाने पर पहली 30-वर्षीय सिमुलेशन बनाईं, जिनमें वायुमंडलीय ग्रिड लगभग 10 किमी का था, और इसके मॉडल उपोष्णकटिबंधीय स्ट्रैटोक्यूम्यलस बादलों को अच्छी तरह दर्शाते हैं [3]।",
+    "settle": "बादल सबसे अनिश्चित फ़ीडबैक बने हुए हैं, क्योंकि वे ऐसी प्रक्रियाओं से बनते हैं जो वैश्विक जलवायु मॉडल जितना दर्शा सकते हैं उससे कहीं छोटे पैमाने पर होती हैं [1]। बेहतर प्रेक्षणों से समझ बढ़ी है, और IPCC का अनुमान है कि जलवायु गर्म होने के साथ उपोष्णकटिबंधीय महासागरों के ऊपर निचले बादल घटेंगे, जिससे तापवृद्धि और बढ़ेगी [1]।",
+    "state": "संतुलन जलवायु संवेदनशीलता वह दीर्घकालिक वैश्विक तापवृद्धि है जो कार्बन डाइऑक्साइड की सांद्रता को पूर्व-औद्योगिक स्तर से दोगुना करने पर होती है [1]। IPCC का नवीनतम आकलन इसका सर्वोत्तम अनुमान 3.0 °C देता है, और 90% या उससे अधिक संभावना बताता है कि यह 2 से 5 °C के बीच है [1]। यह पिछले आकलन की तुलना में एक उल्लेखनीय संकुचन है, जिसने 1.5 से 4.5 °C की संभावित सीमा दी थी [1]।"
+   },
    "known": "IPCC के अनुसार संभावित उत्तर 2.5 से 4 °C के बीच है।",
    "leads": "किलोमीटर-पैमाने के जलवायु मॉडल, AI जलवायु अनुकारक।",
    "s": "जलवायु संवेदनशीलता",
@@ -44,6 +91,12 @@
   },
   "pt": {
    "block": "As nuvens são a retroação mais incerta: formam-se por processos muito menores do que os modelos climáticos globais conseguem representar.",
+   "detail": {
+    "ideas": "Em vez de dependerem apenas dos modelos climáticos, os cientistas combinam agora três linhas de evidência em grande parte independentes: a compreensão de cada processo de retroação, o registo de temperaturas desde a era industrial e os climas do passado [2]. Uma avaliação de 2020 baseada nesta abordagem encontrou um intervalo provável de 2,6 a 3,9 °C e concluiu que as três linhas são difíceis de conciliar com uma sensibilidade inferior a 2 °C [2]. Os climas do passado dão o argumento mais forte contra valores elevados: o arrefecimento da última glaciação pesa fortemente contra uma sensibilidade superior a 4,5 °C [2].",
+    "recent": "Os modelos climáticos à escala do quilómetro procuram representar fisicamente tempestades, turbilhões oceânicos e outros processos de pequena escala, em vez de aproximarem o seu efeito [3]. O projeto europeu nextGEMS, que decorreu de 2021 a 2025, produziu as primeiras simulações de 30 anos a esta escala, com uma grelha atmosférica de cerca de 10 km, e os seus modelos representam bem os estratocúmulos subtropicais [3].",
+    "settle": "As nuvens continuam a ser a retroação mais incerta, porque se formam por processos muito menores do que os modelos climáticos globais conseguem representar [1]. A compreensão melhorou com melhores observações, e o IPCC prevê que as nuvens baixas sobre os oceanos subtropicais diminuam à medida que o clima aquece, o que amplificaria o aquecimento [1].",
+    "state": "A sensibilidade climática de equilíbrio é o aquecimento global a longo prazo causado pela duplicação da concentração de dióxido de carbono em relação ao nível pré-industrial [1]. A avaliação mais recente do IPCC dá uma melhor estimativa de 3,0 °C e uma probabilidade de 90% ou mais de que esteja entre 2 e 5 °C [1]. É um estreitamento significativo em relação à avaliação anterior, que dava um intervalo provável de 1,5 a 4,5 °C [1]."
+   },
    "known": "O IPCC situa a resposta provável entre 2,5 e 4 °C.",
    "leads": "Modelos climáticos em escala de quilômetros, emuladores climáticos de IA.",
    "s": "Sensibilidade climática",
@@ -52,6 +105,12 @@
   },
   "zh": {
    "block": "云是最不确定的反馈：它们通过远小于全球气候模型所能表示尺度的过程形成。",
+   "detail": {
+    "ideas": "科学家不再仅仅依赖气候模型，而是结合三条在很大程度上相互独立的证据：对各个反馈过程的理解、工业时代以来的温度记录，以及过去的气候[2]。2020年一项采用这一方法的评估得出2.6°C至3.9°C的“可能”范围，并认为三条证据都难以与低于2°C的敏感度相吻合[2]。过去的气候为排除高值提供了最有力的论据：末次冰期的降温强烈表明敏感度不会高于4.5°C[2]。",
+    "recent": "公里尺度的气候模型力求以物理方式表示风暴、海洋涡旋和其他小尺度过程，而不是近似估计其影响[3]。欧洲nextGEMS项目于2021年至2025年开展，首次完成了这一尺度上长达30年的模拟，其大气网格约为10公里，模型对副热带层积云的表现良好[3]。",
+    "settle": "云仍是最不确定的反馈，因为它们通过远小于全球气候模型所能表示尺度的过程形成[1]。随着观测改进，人们对云的理解有所提高；IPCC预计，随着气候变暖，副热带海洋上空的低云将减少，从而加剧升温[1]。",
+    "state": "平衡气候敏感度是指二氧化碳浓度比工业化前水平翻一番所导致的长期全球升温[1]。政府间气候变化专门委员会（IPCC）最新评估给出的最佳估计为3.0°C，并认为其有90%或更高的可能性介于2°C至5°C之间[1]。与此前评估给出的1.5°C至4.5°C“可能”范围相比，这是一次显著的收窄[1]。"
+   },
    "known": "政府间气候变化专门委员会(IPCC)认为,可能的答案在2.5到4摄氏度之间。",
    "leads": "公里尺度的气候模型,AI气候模拟器。",
    "s": "气候敏感度",

@@ -1,9 +1,27 @@
 {
  "checked": "2026-11-18",
  "d": "P",
+ "dsrc": [
+  {
+   "t": "A New Era in the Quest for Dark Matter (Bertone & Tait, Nature, 2018)",
+   "ty": "reference",
+   "u": "https://arxiv.org/pdf/1810.01668"
+  },
+  {
+   "t": "LZ Sees Surprising Result in Search for Dark Matter (US Department of Energy, 2026)",
+   "ty": "official",
+   "u": "https://www.energy.gov/science/articles/lz-sees-surprising-result-search-dark-matter"
+  }
+ ],
  "i18n": {
   "ar": {
    "block": "لم تؤكد عقود من تجارب الرصد المباشر أي شيء؛ وفي عام 2026 أعلنت تجربة LZ عن حدث مرشح واحد، أدنى بكثير من عتبة الاكتشاف.",
+   "detail": {
+    "ideas": "ظل المرشح الأبرز لعقود جسيمًا ثقيلًا ضعيف التفاعل (WIMP)، بدت وفرته المتوقعة متوافقة مع ما يُرصد [1]. ولم يُكتشف حتى الآن على نحو مقنع أي جسيم جديد من هذا النوع، وترى مراجعة علمية أن أبسط صيغه ربما كانت خيطًا مضلِّلًا، وإن ظلت هذه الجسيمات ممكنة [1]. ومن المرشحين الآخرين الأكسيون، وهو جسيم خفيف جدًا اقتُرح في الأصل لحل لغز في القوة النووية الشديدة [1]. أما النظريات التي تعدّل الجاذبية بدلًا من إضافة مادة، فقد نجحت أساسًا في تفسير دوران المجرات، وما زال عليها أن تعيد إنتاج آثار المادة المظلمة على المقاييس الكونية [1].",
+    "recent": "في عام 2026، أعلنت تجربة LZ، التي تستخدم 10 أطنان من الزينون السائل فائق النقاء على عمق نحو 1.6 كيلومتر تحت الأرض في ولاية داكوتا الجنوبية، عن حدث منفرد يصعب تفسيره بمصادر الخلفية المعروفة [2]. وتبلغ دلالته الإحصائية 2.6 انحراف معياري، وهي دون عتبة الاكتشاف، ويؤكد الفريق أنه لا يدّعي رؤية المادة المظلمة [2]. ولو كان مادة مظلمة، لكانت كتلة الجسيم على الأرجح 200 غيغا إلكترون فولت على الأقل، وستكشف بيانات إضافية ما إذا كانت الإشارة ستقوى أم ستتلاشى [2].",
+    "settle": "لا يعلن الفيزيائيون اكتشافًا إلا عندما تبلغ الإشارة 5 انحرافات معيارية [2]. ويرى مؤلفا المراجعة أن الجمع بين تجارب فيزياء الجسيمات والمسوح الفلكية وأرصاد موجات الجاذبية هو أفضل أمل لإحراز تقدم [1]. وقد استبعدت تجارب الأكسيون مثل ADMX جزءًا من الكتل الممكنة، وتسعى إلى تغطية نطاق أوسع [1].",
+    "state": "تدعم أرصاد متنوعة وجود المادة المظلمة: دوران المجرات، وانحناء الضوء بفعل عناقيد المجرات، والأنماط في إشعاع الخلفية الكونية الميكروي [1]. ولا يوجد في النموذج القياسي لفيزياء الجسيمات أي جسيم يمكنه تفسير هذه الأرصاد [1]."
+   },
    "known": "نحو 85% من المادة في الكون غير مرئية. ولا نرصدها إلا عبر جاذبيتها المؤثرة في المجرات والضوء.",
    "leads": "جسيمات ضخمة (WIMPs)، والأكسيونات، وكواشف الجيل التالي تحت الأرض، أو تعديل الجاذبية.",
    "s": "المادة المظلمة",
@@ -12,6 +30,12 @@
   },
   "en": {
    "block": "Decades of direct-detection experiments have confirmed nothing; in 2026 LZ reported one candidate event, far below the threshold for a discovery.",
+   "detail": {
+    "ideas": "For decades the leading candidate was a weakly interacting massive particle (WIMP), whose expected abundance seemed to match what is observed [1]. No new particle of this kind has been convincingly detected, and a review suggests that the simplest versions may have been a red herring, although WIMPs remain possible [1]. Another candidate is the axion, a very light particle first proposed to solve a puzzle in the strong nuclear force [1]. Theories that modify gravity instead of adding matter have succeeded mainly for the rotation of galaxies, and must still reproduce the effects of dark matter on cosmic scales [1].",
+    "recent": "In 2026, the LZ experiment, which uses 10 tonnes of ultrapure liquid xenon nearly a mile underground in South Dakota, reported a single event that is hard to explain with known backgrounds [2]. Its significance is 2.6 standard deviations, below the discovery threshold, and the team stresses that it is not claiming to have seen dark matter [2]. If it were dark matter, the particle would likely weigh at least 200 GeV, and more data will show whether the signal grows or fades [2].",
+    "settle": "Physicists only claim a discovery when a signal reaches 5 standard deviations [2]. The review's authors argue that combining particle experiments, astronomical surveys and gravitational-wave observations is the best hope of progress [1]. Axion experiments such as ADMX have already ruled out part of the possible masses and aim to cover a wider range [1].",
+    "state": "A variety of observations support the existence of dark matter: the rotation of galaxies, the bending of light by galaxy clusters, and patterns in the cosmic microwave background [1]. No particle in the Standard Model of particle physics can explain these observations [1]."
+   },
    "known": "About 85% of the matter in the universe is invisible. We detect it only through its gravitational pull on galaxies and light.",
    "leads": "Massive particles (WIMPs), axions, next-generation underground detectors, or a modification of gravity.",
    "s": "Dark matter",
@@ -20,6 +44,12 @@
   },
   "es": {
    "block": "Décadas de experimentos de detección directa no han confirmado nada; en 2026, LZ informó de un evento candidato, muy por debajo del umbral de descubrimiento.",
+   "detail": {
+    "ideas": "Durante décadas, el candidato favorito fue una partícula masiva de interacción débil (WIMP), cuya abundancia esperada parecía coincidir con lo observado [1]. No se ha detectado de forma convincente ninguna partícula nueva de este tipo, y una revisión sugiere que las versiones más simples pudieron ser una pista falsa, aunque las WIMP siguen siendo posibles [1]. Otro candidato es el axión, una partícula muy ligera propuesta originalmente para resolver un enigma de la fuerza nuclear fuerte [1]. Las teorías que modifican la gravedad en lugar de añadir materia funcionan sobre todo para la rotación de las galaxias, y aún deben reproducir los efectos de la materia oscura a escala cósmica [1].",
+    "recent": "En 2026, el experimento LZ, que usa 10 toneladas de xenón líquido ultrapuro a casi 1,6 km bajo tierra en Dakota del Sur, informó de un único evento difícil de explicar con los fondos conocidos [2]. Su significancia es de 2,6 desviaciones estándar, por debajo del umbral de descubrimiento, y el equipo insiste en que no afirma haber visto materia oscura [2]. Si fuera materia oscura, la partícula pesaría probablemente al menos 200 GeV, y más datos dirán si la señal crece o se desvanece [2].",
+    "settle": "Los físicos solo anuncian un descubrimiento cuando una señal alcanza 5 desviaciones estándar [2]. Los autores de la revisión sostienen que combinar experimentos de partículas, sondeos astronómicos y observaciones de ondas gravitacionales es la mejor esperanza de avanzar [1]. Experimentos de axiones como ADMX ya han descartado parte de las masas posibles y buscan cubrir un rango más amplio [1].",
+    "state": "Observaciones variadas respaldan la existencia de la materia oscura: la rotación de las galaxias, la desviación de la luz por los cúmulos de galaxias y los patrones del fondo cósmico de microondas [1]. Ninguna partícula del modelo estándar de la física de partículas puede explicar estas observaciones [1]."
+   },
    "known": "Cerca del 85 % de la materia del universo es invisible. Solo la detectamos por su atracción gravitatoria sobre las galaxias y la luz.",
    "leads": "Partículas masivas (WIMP), axiones, detectores subterráneos de nueva generación, o una modificación de la gravedad.",
    "s": "Materia oscura",
@@ -28,6 +58,12 @@
   },
   "fr": {
    "block": "Des décennies d'expériences de détection directe n'ont rien confirmé ; en 2026, LZ a signalé un événement candidat, bien en dessous du seuil de découverte.",
+   "detail": {
+    "ideas": "Pendant des décennies, le candidat favori a été une particule massive interagissant faiblement (WIMP), dont l'abondance attendue semblait correspondre aux observations [1]. Aucune nouvelle particule de ce genre n'a été détectée de façon convaincante, et une synthèse suggère que les versions les plus simples ont pu être une fausse piste, même si les WIMP restent possibles [1]. Un autre candidat est l'axion, une particule très légère proposée à l'origine pour résoudre une énigme de l'interaction nucléaire forte [1]. Les théories qui modifient la gravité au lieu d'ajouter de la matière réussissent surtout pour la rotation des galaxies, et doivent encore reproduire les effets de la matière noire à l'échelle cosmique [1].",
+    "recent": "En 2026, l'expérience LZ, qui utilise 10 tonnes de xénon liquide ultrapur à près de 1,6 km sous terre dans le Dakota du Sud, a signalé un unique événement difficile à expliquer par les bruits de fond connus [2]. Sa significativité est de 2,6 écarts-types, sous le seuil de découverte, et l'équipe insiste sur le fait qu'elle n'affirme pas avoir vu la matière noire [2]. S'il s'agissait de matière noire, la particule pèserait probablement au moins 200 GeV, et de nouvelles données diront si le signal se renforce ou s'efface [2].",
+    "settle": "Les physiciens n'annoncent une découverte que lorsqu'un signal atteint 5 écarts-types [2]. Les auteurs de la synthèse estiment que combiner expériences de physique des particules, relevés astronomiques et observations d'ondes gravitationnelles est le meilleur espoir de progrès [1]. Des expériences sur les axions comme ADMX ont déjà exclu une partie des masses possibles et visent à couvrir une plage plus large [1].",
+    "state": "Des observations variées appuient l'existence de la matière noire : la rotation des galaxies, la déviation de la lumière par les amas de galaxies et les motifs du fond diffus cosmologique [1]. Aucune particule du modèle standard de la physique des particules ne peut expliquer ces observations [1]."
+   },
    "known": "Environ 85 % de la matière de l'univers est invisible. On ne la détecte que par son effet gravitationnel sur les galaxies et la lumière.",
    "leads": "Particules massives (WIMP), axions, détecteurs souterrains de nouvelle génération, ou une modification de la gravité.",
    "s": "Matière noire",
@@ -36,6 +72,12 @@
   },
   "hi": {
    "block": "दशकों के प्रत्यक्ष-खोज प्रयोगों ने कुछ भी पुष्ट नहीं किया है; 2026 में LZ ने एक संभावित घटना दर्ज की, जो खोज की सीमा से बहुत नीचे है।",
+   "detail": {
+    "ideas": "दशकों तक सबसे प्रमुख उम्मीदवार एक कमज़ोर अंतःक्रिया वाला भारी कण (WIMP) था, जिसकी अपेक्षित मात्रा प्रेक्षणों से मेल खाती लगती थी [1]। इस तरह का कोई नया कण अब तक विश्वसनीय रूप से नहीं मिला है, और एक समीक्षा के अनुसार इसके सबसे सरल रूप शायद एक भ्रामक सुराग थे, हालाँकि WIMP अब भी संभव हैं [1]। एक अन्य उम्मीदवार एक्सियॉन है, एक बहुत हल्का कण जिसे मूल रूप से प्रबल नाभिकीय बल की एक पहेली सुलझाने के लिए प्रस्तावित किया गया था [1]। पदार्थ जोड़ने की बजाय गुरुत्व में बदलाव करने वाले सिद्धांत मुख्यतः आकाशगंगाओं के घूर्णन के लिए सफल रहे हैं, और उन्हें अभी ब्रह्मांडीय पैमाने पर डार्क मैटर के प्रभावों को दोहराना बाकी है [1]।",
+    "recent": "2026 में LZ प्रयोग ने, जो साउथ डकोटा में ज़मीन के लगभग 1.6 किलोमीटर नीचे 10 टन अति-शुद्ध तरल ज़ेनॉन का उपयोग करता है, एक ऐसी अकेली घटना की सूचना दी जिसे ज्ञात पृष्ठभूमि से समझाना कठिन है [2]। इसकी सार्थकता 2.6 मानक विचलन है, जो खोज की सीमा से नीचे है, और टीम ज़ोर देकर कहती है कि वह डार्क मैटर देखने का दावा नहीं कर रही [2]। यदि यह डार्क मैटर होता, तो कण का द्रव्यमान संभवतः कम से कम 200 GeV होता, और अधिक आँकड़े बताएँगे कि संकेत मज़बूत होता है या ग़ायब हो जाता है [2]।",
+    "settle": "भौतिक विज्ञानी किसी खोज की घोषणा तभी करते हैं जब संकेत 5 मानक विचलन तक पहुँच जाए [2]। समीक्षा के लेखकों का तर्क है कि कण प्रयोगों, खगोलीय सर्वेक्षणों और गुरुत्वीय तरंगों के प्रेक्षणों को मिलाना प्रगति की सबसे अच्छी उम्मीद है [1]। ADMX जैसे एक्सियॉन प्रयोग संभावित द्रव्यमानों के एक हिस्से को पहले ही खारिज कर चुके हैं और एक व्यापक दायरे को जाँचना चाहते हैं [1]।",
+    "state": "तरह-तरह के प्रेक्षण डार्क मैटर के अस्तित्व का समर्थन करते हैं: आकाशगंगाओं का घूर्णन, आकाशगंगा-समूहों द्वारा प्रकाश का मुड़ना, और कॉस्मिक माइक्रोवेव पृष्ठभूमि के पैटर्न [1]। कण भौतिकी के मानक मॉडल का कोई भी कण इन प्रेक्षणों की व्याख्या नहीं कर सकता [1]।"
+   },
    "known": "ब्रह्मांड का लगभग 85% पदार्थ अदृश्य है। हम इसे केवल आकाशगंगाओं और प्रकाश पर इसके गुरुत्वीय खिंचाव से पहचानते हैं।",
    "leads": "भारी कण (WIMP), एक्सियॉन, अगली पीढ़ी के भूमिगत संसूचक, या गुरुत्व में संशोधन।",
    "s": "डार्क मैटर",
@@ -44,6 +86,12 @@
   },
   "pt": {
    "block": "Décadas de experimentos de detecção direta não confirmaram nada; em 2026, o LZ relatou um evento candidato, muito abaixo do limiar de descoberta.",
+   "detail": {
+    "ideas": "Durante décadas, o candidato favorito foi uma partícula massiva de interação fraca (WIMP), cuja abundância esperada parecia corresponder ao observado [1]. Nenhuma partícula nova deste tipo foi detetada de forma convincente, e uma revisão sugere que as versões mais simples podem ter sido uma pista falsa, embora as WIMP continuem possíveis [1]. Outro candidato é o axião, uma partícula muito leve proposta originalmente para resolver um enigma da força nuclear forte [1]. As teorias que modificam a gravidade em vez de acrescentar matéria têm êxito sobretudo na rotação das galáxias e ainda têm de reproduzir os efeitos da matéria escura à escala cósmica [1].",
+    "recent": "Em 2026, a experiência LZ, que usa 10 toneladas de xénon líquido ultrapuro a quase 1,6 km de profundidade no Dakota do Sul, relatou um único evento difícil de explicar com os ruídos de fundo conhecidos [2]. A sua significância é de 2,6 desvios-padrão, abaixo do limiar de descoberta, e a equipa sublinha que não afirma ter visto matéria escura [2]. Se fosse matéria escura, a partícula pesaria provavelmente pelo menos 200 GeV, e mais dados mostrarão se o sinal cresce ou desaparece [2].",
+    "settle": "Os físicos só anunciam uma descoberta quando um sinal atinge 5 desvios-padrão [2]. Os autores da revisão defendem que combinar experiências de física de partículas, levantamentos astronómicos e observações de ondas gravitacionais é a melhor esperança de progresso [1]. Experiências de axiões como o ADMX já excluíram parte das massas possíveis e pretendem cobrir um intervalo mais amplo [1].",
+    "state": "Observações variadas sustentam a existência de matéria escura: a rotação das galáxias, o desvio da luz por enxames de galáxias e os padrões da radiação cósmica de fundo [1]. Nenhuma partícula do modelo padrão da física de partículas consegue explicar estas observações [1]."
+   },
    "known": "Cerca de 85% da matéria do universo é invisível. Só a detectamos pela sua atração gravitacional sobre galáxias e luz.",
    "leads": "Partículas massivas (WIMPs), áxions, detectores subterrâneos de nova geração, ou uma modificação da gravidade.",
    "s": "Matéria escura",
@@ -52,6 +100,12 @@
   },
   "zh": {
    "block": "数十年的直接探测实验没有确认任何结果;2026年,LZ实验报告了一个候选事件,但远未达到发现的标准。",
+   "detail": {
+    "ideas": "几十年来，最受青睐的候选者是一种弱相互作用大质量粒子（WIMP），其预期丰度似乎与观测相符[1]。迄今尚未令人信服地探测到这类新粒子，一篇综述认为，最简单的版本可能只是一条误导性的线索，不过WIMP仍有可能存在[1]。另一个候选者是轴子，这是一种极轻的粒子，最初是为解决强核力中的一个谜题而提出的[1]。用修改引力代替增加物质的理论主要在星系旋转方面取得成功，但仍需在宇宙尺度上重现暗物质的效应[1]。",
+    "recent": "2026年，LZ实验在美国南达科他州地下近1.6公里处使用10吨超纯液态氙，报告了一个难以用已知本底解释的单一事件[2]。其显著性为2.6个标准差，低于发现阈值，团队强调他们并未声称看到了暗物质[2]。如果这是暗物质，该粒子的质量可能至少为200 GeV，更多数据将显示这一信号是会增强还是消失[2]。",
+    "settle": "物理学家只有在信号达到5个标准差时才会宣布发现[2]。该综述的作者认为，把粒子实验、天文巡天和引力波观测结合起来，是取得进展的最大希望[1]。ADMX等轴子实验已经排除了部分可能的质量范围，并计划覆盖更宽的范围[1]。",
+    "state": "多种观测都支持暗物质的存在：星系的旋转、星系团对光线的弯曲，以及宇宙微波背景中的图案[1]。粒子物理标准模型中没有任何粒子能够解释这些观测[1]。"
+   },
    "known": "宇宙中约85%的物质是看不见的。我们只能通过它对星系和光的引力作用探测到它。",
    "leads": "大质量粒子(WIMP)、轴子、下一代地下探测器,或者对引力的修正。",
    "s": "暗物质",

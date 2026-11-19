@@ -120,7 +120,7 @@ def build(page, docs, out, changes=()):
             dsec = ''
             if det:
                 cite = lambda txt: re.sub(r'\[(\d+)\]', lambda m: f'<sup><a href="#r{m.group(1)}">{m.group(1)}</a></sup>', e(txt))
-                dsec = f'<section class="detail"><h2>{e(X["detail"])}</h2>' + ''.join(
+                dsec = f'<section class="detail" id="detail"><h2>{e(X["detail"])}</h2>' + ''.join(
                     f'<h3>{e(X[h])}</h3><p>{cite(det[k])}</p>' for k, h in (('state', 'dState'), ('ideas', 'dIdeas'), ('settle', 'dSettle'), ('recent', 'dRecent')) if det.get(k))
                 dsec += f'<h3>{e(X["dSrc"])}</h3><ol class="dsrc">' + ''.join(
                     f'<li id="r{n}"><a href="{e(s["u"])}" rel="noopener">{e(s["t"])}</a><span class="ty{" s" if s["ty"] in ("study", "reference") else ""}">{e(t["ty"].get(s["ty"], s["ty"]))}</span></li>'
@@ -167,4 +167,4 @@ def build(page, docs, out, changes=()):
         open(os.path.join(out, lang, 'about.html'), 'w', encoding='utf-8').write(
             shell(lang, f'{X["aboutTitle"]}', X['aboutBody'][0][1], f'{lang}/about.html', body, tokens, 'about.html'))
         urls += [f'{lang}/index.html', f'{lang}/about.html']
-    return urls, {l: {k: S[l][k] for k in ('list', 'about', 'solved', 'page', 'newq', 'why')} for l in LANGS}
+    return urls, {l: {k: S[l][k] for k in ('list', 'about', 'solved', 'page', 'newq', 'why', 'readMore', 'readMeta')} for l in LANGS}

@@ -52,7 +52,9 @@
   "dIdeas": "Competing ideas",
   "dSettle": "What would settle it",
   "dRecent": "Latest developments",
-  "dSrc": "Sources for this section"
+  "dSrc": "Sources for this section",
+  "readMore": "Read in depth",
+  "readMeta": "{m} min read · {n} sources, every sentence cited"
  },
  "fr": {
   "list": "Toutes les questions",
@@ -107,7 +109,9 @@
   "dIdeas": "Les hypothèses en présence",
   "dSettle": "Ce qui permettrait de trancher",
   "dRecent": "Dernières avancées",
-  "dSrc": "Sources de cette section"
+  "dSrc": "Sources de cette section",
+  "readMore": "Lire en détail",
+  "readMeta": "{m} min de lecture · {n} sources, chaque phrase citée"
  },
  "es": {
   "list": "Todas las preguntas",
@@ -162,7 +166,9 @@
   "dIdeas": "Las hipótesis en juego",
   "dSettle": "Qué permitiría zanjarlo",
   "dRecent": "Últimos avances",
-  "dSrc": "Fuentes de esta sección"
+  "dSrc": "Fuentes de esta sección",
+  "readMore": "Leer en detalle",
+  "readMeta": "{m} min de lectura · {n} fuentes, cada frase citada"
  },
  "pt": {
   "list": "Todas as perguntas",
@@ -217,7 +223,9 @@
   "dIdeas": "As hipóteses em jogo",
   "dSettle": "O que permitiria decidir",
   "dRecent": "Avanços recentes",
-  "dSrc": "Fontes desta secção"
+  "dSrc": "Fontes desta secção",
+  "readMore": "Ler em detalhe",
+  "readMeta": "{m} min de leitura · {n} fontes, cada frase citada"
  },
  "zh": {
   "list": "全部问题",
@@ -272,7 +280,9 @@
   "dIdeas": "相互竞争的观点",
   "dSettle": "什么能给出定论",
   "dRecent": "最新进展",
-  "dSrc": "本节来源"
+  "dSrc": "本节来源",
+  "readMore": "深入阅读",
+  "readMeta": "阅读约{m}分钟 · {n}个来源，每句均注明出处"
  },
  "hi": {
   "list": "सभी प्रश्न",
@@ -327,7 +337,9 @@
   "dIdeas": "प्रतिस्पर्धी विचार",
   "dSettle": "किस बात से फ़ैसला होगा",
   "dRecent": "हाल की प्रगति",
-  "dSrc": "इस खंड के स्रोत"
+  "dSrc": "इस खंड के स्रोत",
+  "readMore": "विस्तार से पढ़ें",
+  "readMeta": "लगभग {m} मिनट का पाठ · {n} स्रोत, हर वाक्य का स्रोत दिया गया"
  },
  "ar": {
   "list": "كل الأسئلة",
@@ -382,6 +394,8 @@
   "dIdeas": "الفرضيات المتنافسة",
   "dSettle": "ما الذي قد يحسم المسألة",
   "dRecent": "أحدث التطورات",
-  "dSrc": "مصادر هذا القسم"
+  "dSrc": "مصادر هذا القسم",
+  "readMore": "اقرأ بالتفصيل",
+  "readMeta": "قراءة نحو {m} دقائق · المصادر: {n}، ولكل جملة مصدرها"
  }
 }

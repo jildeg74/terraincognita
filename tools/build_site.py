@@ -2,7 +2,7 @@
 Usage: python3 build_site.py PAGE_HTML QUESTIONS_DIR CHANGES_DIR OUT_DIR [DIGESTS_DIR]
 QUESTIONS_DIR / CHANGES_DIR: one JSON file per document (as saved by ArtifactData list with out_dir).
 """
-import json, glob, os, sys
+import re, json, glob, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import build_pages
 
@@ -68,6 +68,9 @@ for l in build_pages.LANGS:
     for d in docs:
         x = {k: v for k, v in d.items() if k not in ('i18n', 'sub', 'dsrc')}
         x['i18n'] = {l: {k: v for k, v in d['i18n'][l].items() if k != 'detail'}}  # 'In depth' text only on question pages
+        if d.get('dsrc'):  # flags only: the 'In depth' text stays on the question pages
+            x['dn'] = len(d['dsrc'])
+            x['dm'] = max(1, round(sum(len(re.sub(r'\[\d+\]', '', v).split()) for v in d['i18n']['en']['detail'].values()) / 200))
         if d.get('sub'):
             x['sub'] = [{l: q[l]} for q in d['sub']]
         part.append(x)

@@ -148,9 +148,9 @@ footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-si
       <form name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field" id="nlForm" hidden>
         <input type="hidden" name="form-name" value="newsletter">
         <p hidden><label>Leave empty <input name="bot-field"></label></p>
-        <label for="nlE" id="nlL"></label>
+        <label for="nlE" id="nlL">Email</label>
         <input id="nlE" name="email" type="email" required maxlength="200" autocomplete="email">
-        <input type="hidden" name="lang" id="nlLang" value="en">
+        <input type="hidden" name="lang" id="nlLang" value="en" aria-label="Language">
         <button type="submit" id="nlBtn"></button><p id="nlMsg" role="status"></p>
       </form>
     </section>
@@ -159,10 +159,10 @@ footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-si
       <form name="propose" method="POST" data-netlify="true" netlify-honeypot="bot-field" id="propForm">
         <input type="hidden" name="form-name" value="propose">
         <p hidden><label>Leave empty <input name="bot-field"></label></p>
-        <label for="pk" id="pkL"></label><select id="pk" name="kind"><option value="question" id="pk0"></option><option value="correction" id="pk1"></option><option value="reviewer" id="pk2"></option></select>
-        <label for="pq" id="pqL"></label><textarea id="pq" name="message" rows="4" required maxlength="3000"></textarea>
-        <label for="ps" id="psL"></label><input id="ps" name="source" type="url" maxlength="500">
-        <label for="pe" id="peL"></label><input id="pe" name="email" type="email" maxlength="200">
+        <label for="pk" id="pkL">Type</label><select id="pk" name="kind"><option value="question" id="pk0">New question</option><option value="correction" id="pk1">Correction</option><option value="reviewer" id="pk2">Reviewer</option></select>
+        <label for="pq" id="pqL">Message</label><textarea id="pq" name="message" rows="4" required maxlength="3000"></textarea>
+        <label for="ps" id="psL">Source</label><input id="ps" name="source" type="url" maxlength="500">
+        <label for="pe" id="peL">Email</label><input id="pe" name="email" type="email" maxlength="200">
         <button type="submit" id="pBtn"></button><p id="pMsg" role="status"></p>
       </form>
     </section>

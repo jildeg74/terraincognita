@@ -3,7 +3,7 @@
  "d": "T",
  "i18n": {
   "ar": {
-   "block": "تهيمن السحب، الأصغر من أن تلتقطها النماذج الحالية، على عدم اليقين.",
+   "block": "السحب هي أكثر التغذيات الراجعة غموضًا: فهي تتشكّل عبر عمليات أصغر بكثير مما تستطيع النماذج المناخية العالمية تمثيله.",
    "known": "يضع الفريق الحكومي الدولي المعني بتغير المناخ الإجابة المرجّحة بين 2.5 و4 درجات مئوية.",
    "leads": "نماذج مناخية بدقة كيلومترية، ومحاكيات مناخية بالذكاء الاصطناعي.",
    "s": "حساسية المناخ",
@@ -11,7 +11,7 @@
    "why": "تشير حساسية المناخ إلى مدى سرعة احترار الأرض عند مستوى معيّن من الانبعاثات. وتحديدها بدقة سيوضح كمية ثاني أكسيد الكربون التي لا يزال يمكن إطلاقها مع تحقيق أهداف اتفاق باريس، والتغيرات المحلية في الحرارة والجفاف المتوقعة."
   },
   "en": {
-   "block": "Clouds, too small for current models, dominate the uncertainty.",
+   "block": "Clouds are the most uncertain feedback: they form through processes far smaller than global climate models can represent.",
    "known": "The IPCC puts the likely answer between 2.5 and 4 °C.",
    "leads": "Kilometer-scale climate models, AI climate emulators.",
    "s": "Climate sensitivity",
@@ -19,7 +19,7 @@
    "why": "Climate sensitivity indicates how fast Earth will warm for a given level of emissions. Pinning it down would clarify how much more CO2 can be emitted while meeting the Paris Agreement goals, and what local changes in heat and dryness to expect."
   },
   "es": {
-   "block": "Las nubes, demasiado pequeñas para los modelos actuales, dominan la incertidumbre.",
+   "block": "Las nubes son la retroalimentación más incierta: se forman mediante procesos mucho más pequeños de lo que los modelos climáticos globales pueden representar.",
    "known": "El IPCC sitúa la respuesta probable entre 2,5 y 4 °C.",
    "leads": "Modelos climáticos a escala de kilómetros, emuladores climáticos de IA.",
    "s": "Sensibilidad climática",
@@ -27,7 +27,7 @@
    "why": "La sensibilidad climática indica a qué ritmo se calentará la Tierra para un nivel dado de emisiones. Precisarla aclararía cuánto CO2 más puede emitirse sin dejar de cumplir los objetivos del Acuerdo de París, y qué cambios locales de calor y sequedad cabe esperar."
   },
   "fr": {
-   "block": "Les nuages, trop petits pour les modèles actuels, dominent l'incertitude.",
+   "block": "Les nuages sont la rétroaction la plus incertaine : ils se forment par des processus bien plus petits que ce que les modèles climatiques mondiaux peuvent représenter.",
    "known": "Le GIEC estime la réponse probable entre 2,5 et 4 °C.",
    "leads": "Modèles climatiques à résolution kilométrique, émulateurs climatiques par IA.",
    "s": "Sensibilité climatique",
@@ -35,7 +35,7 @@
    "why": "La sensibilité climatique indique à quelle vitesse la Terre se réchauffera pour un niveau d'émissions donné. La préciser permettrait de mieux savoir combien de CO2 peut encore être émis tout en respectant les objectifs de l'accord de Paris, et à quels changements locaux de chaleur et de sécheresse s'attendre."
   },
   "hi": {
-   "block": "बादल, जो मौजूदा मॉडलों के लिए बहुत छोटे हैं, अनिश्चितता पर हावी हैं।",
+   "block": "बादल सबसे अनिश्चित फ़ीडबैक हैं: वे ऐसी प्रक्रियाओं से बनते हैं जो वैश्विक जलवायु मॉडल जितना दर्शा सकते हैं उससे कहीं छोटे पैमाने पर होती हैं।",
    "known": "IPCC के अनुसार संभावित उत्तर 2.5 से 4 °C के बीच है।",
    "leads": "किलोमीटर-पैमाने के जलवायु मॉडल, AI जलवायु अनुकारक।",
    "s": "जलवायु संवेदनशीलता",
@@ -43,7 +43,7 @@
    "why": "जलवायु संवेदनशीलता बताती है कि उत्सर्जन के किसी दिए गए स्तर पर पृथ्वी कितनी तेज़ी से गर्म होगी। इसे सटीक रूप से तय करने से यह साफ़ होगा कि पेरिस समझौते के लक्ष्यों को पूरा करते हुए और कितना CO2 छोड़ा जा सकता है, और स्थानीय स्तर पर गर्मी और सूखेपन में कैसे बदलाव की उम्मीद करनी चाहिए।"
   },
   "pt": {
-   "block": "As nuvens, pequenas demais para os modelos atuais, dominam a incerteza.",
+   "block": "As nuvens são a retroação mais incerta: formam-se por processos muito menores do que os modelos climáticos globais conseguem representar.",
    "known": "O IPCC situa a resposta provável entre 2,5 e 4 °C.",
    "leads": "Modelos climáticos em escala de quilômetros, emuladores climáticos de IA.",
    "s": "Sensibilidade climática",
@@ -51,7 +51,7 @@
    "why": "A sensibilidade climática indica a rapidez com que a Terra vai aquecer para um dado nível de emissões. Determiná-la com precisão esclareceria quanto CO2 ainda pode ser emitido cumprindo as metas do Acordo de Paris, e que mudanças locais de calor e secura esperar."
   },
   "zh": {
-   "block": "云太小,现有模型无法分辨,它们是不确定性的主要来源。",
+   "block": "云是最不确定的反馈：它们通过远小于全球气候模型所能表示尺度的过程形成。",
    "known": "政府间气候变化专门委员会(IPCC)认为,可能的答案在2.5到4摄氏度之间。",
    "leads": "公里尺度的气候模型,AI气候模拟器。",
    "s": "气候敏感度",
@@ -67,9 +67,9 @@
  "n": 1,
  "src": [
   {
-   "t": "Global warming unlikely to be small: new study (Met Office, 2020)",
+   "t": "IPCC AR6 Working Group I, Frequently Asked Questions, Chapter 7",
    "ty": "official",
-   "u": "https://www.metoffice.gov.uk/research/news/2020/new-science-shows-global-warming-unlikely-to-be-small"
+   "u": "https://www.ipcc.ch/report/ar6/wg1/downloads/faqs/IPCC_AR6_WGI_FAQ_Chapter_07.pdf"
   },
   {
    "t": "IPCC AR6 Working Group I, Chapter 1",

@@ -2,7 +2,7 @@
  "name": "Terra Incognita",
  "license": "CC BY 4.0",
  "url": "https://terraincognita.ca/",
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "questions": [
   {
    "id": "addiction",
@@ -73,9 +73,9 @@
    "n": 1,
    "src": [
     {
-     "t": "USC: weight-loss drug semaglutide shows promise in reducing alcohol cravings (on a 2025 JAMA Psychiatry trial)",
-     "ty": "institution",
-     "u": "https://today.usc.edu/popular-weight-loss-diabetes-drug-shows-promise-in-reducing-cravings-for-alcohol/"
+     "t": "Once-Weekly Semaglutide in Adults With Alcohol Use Disorder: A Randomized Clinical Trial (JAMA Psychiatry, 2025)",
+     "ty": "study",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11822619/"
     },
     {
      "t": "Substance use disorders: a comprehensive update of classification, epidemiology, neurobiology, clinical aspects, treatment and prevention",
@@ -728,9 +728,9 @@
    "n": 0,
    "src": [
     {
-     "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+     "t": "Birch and Swinnerton-Dyer Conjecture (Clay Mathematics Institute)",
      "ty": "reference",
-     "u": "https://www.claymath.org/millennium-problems"
+     "u": "https://www.claymath.org/millennium/birch-and-swinnerton-dyer-conjecture/"
     }
    ],
    "sub": [
@@ -1092,57 +1092,57 @@
    "d": "V",
    "i18n": {
     "ar": {
-     "block": "تحتوي الخلية البشرية مليارات الجزيئات المتفاعلة، والبيانات ناقصة.",
+     "block": "الخلية البشرية أعقد بكثير، إذ تضم أعدادًا هائلة من المكوّنات المتفاعلة، كما أن إجراء تجارب مضبوطة داخل جسم الإنسان محدود.",
      "known": "في عام 2026 حاكى فريق دورة الحياة الكاملة لخلية بكتيرية دنيا، من نموها حتى انقسامها.",
-     "leads": "نماذج أساسية مدرَّبة على أطالس لملايين الخلايا.",
+     "leads": "نماذج ذكاء اصطناعي للخلية مدرَّبة على مجموعات بيانات مرجعية كبيرة، مثل أطالس لأنواع كثيرة من الخلايا.",
      "s": "الخلية الافتراضية",
      "t": "هل يمكننا محاكاة خلية حية كاملة؟",
      "why": "إن نموذجًا حاسوبيًا كاملًا لخلية حية سيتيح للعلماء إجراء ما يعادل مئات التجارب دفعة واحدة، ورؤية كيف تؤثر عمليات الخلية بعضها في بعض، مما يعمّق فهمنا لكيفية عمل الحياة."
     },
     "en": {
-     "block": "A human cell holds billions of interacting molecules, and the data are incomplete.",
+     "block": "A human cell is far more complex, with huge numbers of interacting components, and controlled experiments inside the human body are limited.",
      "known": "In 2026, a team simulated the complete life cycle of a minimal bacterial cell, from growth to division.",
-     "leads": "Foundation models trained on atlases of millions of cells.",
+     "leads": "AI models of the cell trained on large reference datasets, such as atlases of many cell types.",
      "s": "Virtual cell",
      "t": "Can we simulate an entire living cell?",
      "why": "A full computer model of a living cell would let scientists run the equivalent of hundreds of experiments at once and see how a cell's processes affect each other, deepening our understanding of how life works."
     },
     "es": {
-     "block": "Una célula humana contiene miles de millones de moléculas que interactúan, y los datos están incompletos.",
+     "block": "Una célula humana es mucho más compleja, con una cantidad enorme de componentes que interactúan, y los experimentos controlados dentro del cuerpo humano son limitados.",
      "known": "En 2026, un equipo simuló el ciclo de vida completo de una célula bacteriana mínima, desde su crecimiento hasta su división.",
-     "leads": "Modelos fundacionales entrenados con atlas de millones de células.",
+     "leads": "Modelos de IA de la célula entrenados con grandes conjuntos de datos de referencia, como atlas de muchos tipos de células.",
      "s": "Célula virtual",
      "t": "¿Podemos simular una célula viva entera?",
      "why": "Un modelo informático completo de una célula viva permitiría a los científicos realizar el equivalente a cientos de experimentos a la vez y ver cómo los procesos de una célula se influyen entre sí, profundizando nuestra comprensión de cómo funciona la vida."
     },
     "fr": {
-     "block": "Une cellule humaine compte des milliards de molécules en interaction, et les données sont incomplètes.",
+     "block": "Une cellule humaine est bien plus complexe, avec un nombre immense de composants en interaction, et les expériences contrôlées dans le corps humain sont limitées.",
      "known": "En 2026, une équipe a simulé le cycle de vie complet d'une cellule bactérienne minimale, de sa croissance à sa division.",
-     "leads": "Modèles de fondation entraînés sur des atlas de millions de cellules.",
+     "leads": "Des modèles d'IA de la cellule entraînés sur de grands jeux de données de référence, comme les atlas de nombreux types de cellules.",
      "s": "Cellule virtuelle",
      "t": "Peut-on simuler une cellule vivante entière ?",
      "why": "Un modèle informatique complet d'une cellule vivante permettrait de réaliser l'équivalent de centaines d'expériences à la fois et de voir comment les processus d'une cellule s'influencent mutuellement, ce qui approfondirait la compréhension du fonctionnement du vivant."
     },
     "hi": {
-     "block": "एक मानव कोशिका में अरबों परस्पर क्रिया करने वाले अणु होते हैं, और आँकड़े अधूरे हैं।",
+     "block": "मानव कोशिका कहीं ज़्यादा जटिल है, जिसमें आपस में क्रिया करने वाले अनगिनत घटक होते हैं, और मानव शरीर के भीतर नियंत्रित प्रयोग करने की क्षमता सीमित है।",
      "known": "2026 में एक टीम ने एक न्यूनतम जीवाणु कोशिका के पूरे जीवन-चक्र का, उसकी वृद्धि से विभाजन तक, सिमुलेशन किया।",
-     "leads": "लाखों कोशिकाओं के एटलस पर प्रशिक्षित फ़ाउंडेशन मॉडल।",
+     "leads": "बड़े संदर्भ डेटासेट, जैसे कई प्रकार की कोशिकाओं के एटलस, पर प्रशिक्षित कोशिका के AI मॉडल।",
      "s": "आभासी कोशिका",
      "t": "क्या हम एक पूरी जीवित कोशिका का अनुकरण कर सकते हैं?",
      "why": "किसी जीवित कोशिका का पूरा कंप्यूटर मॉडल वैज्ञानिकों को एक साथ सैकड़ों प्रयोगों के बराबर काम करने और यह देखने देगा कि कोशिका की प्रक्रियाएँ एक-दूसरे को कैसे प्रभावित करती हैं, जिससे जीवन कैसे काम करता है इसकी हमारी समझ गहरी होगी।"
     },
     "pt": {
-     "block": "Uma célula humana contém bilhões de moléculas que interagem, e os dados são incompletos.",
+     "block": "Uma célula humana é muito mais complexa, com um número enorme de componentes que interagem, e as experiências controladas dentro do corpo humano são limitadas.",
      "known": "Em 2026, uma equipe simulou o ciclo de vida completo de uma célula bacteriana mínima, do crescimento à divisão.",
-     "leads": "Modelos de base treinados com atlas de milhões de células.",
+     "leads": "Modelos de IA da célula treinados com grandes conjuntos de dados de referência, como atlas de muitos tipos de células.",
      "s": "Célula virtual",
      "t": "Podemos simular uma célula viva inteira?",
      "why": "Um modelo computacional completo de uma célula viva permitiria aos cientistas realizar o equivalente a centenas de experimentos ao mesmo tempo e ver como os processos de uma célula se influenciam, aprofundando nossa compreensão de como a vida funciona."
     },
     "zh": {
-     "block": "人类细胞含有数十亿个相互作用的分子,而且数据并不完整。",
+     "block": "人类细胞要复杂得多，含有海量相互作用的组分，而在人体内进行受控实验的能力有限。",
      "known": "2026年,一个团队模拟了一个最小细菌细胞从生长到分裂的完整生命周期。",
-     "leads": "用数百万个细胞图谱训练的基础模型。",
+     "leads": "利用大型参考数据集（例如涵盖多种细胞类型的细胞图谱）训练的细胞人工智能模型。",
      "s": "虚拟细胞",
      "t": "我们能模拟一个完整的活细胞吗?",
      "why": "一个完整的活细胞计算机模型，能让科学家同时完成相当于数百个实验的工作，看清细胞内的各种过程如何相互影响，从而加深我们对生命如何运作的理解。"
@@ -1161,9 +1161,14 @@
      "u": "https://chemistry.illinois.edu/news/2026-03-09/team-simulates-living-cell-grows-and-divides"
     },
     {
-     "t": "Bringing the genetically minimal cell to life on a computer in 4D",
+     "t": "Bringing the genetically minimal cell to life on a computer in 4D (Cell, 2026)",
      "ty": "study",
      "u": "https://www.jcvi.org/publications/bringing-genetically-minimal-cell-life-computer-4d"
+    },
+    {
+     "t": "How to build the virtual cell with artificial intelligence: Priorities and opportunities (Cell, 2024)",
+     "ty": "reference",
+     "u": "https://portal.fis.tum.de/en/publications/how-to-build-the-virtual-cell-with-artificial-intelligence-priori/"
     }
    ],
    "sub": [
@@ -1310,7 +1315,7 @@
    "d": "T",
    "i18n": {
     "ar": {
-     "block": "تهيمن السحب، الأصغر من أن تلتقطها النماذج الحالية، على عدم اليقين.",
+     "block": "السحب هي أكثر التغذيات الراجعة غموضًا: فهي تتشكّل عبر عمليات أصغر بكثير مما تستطيع النماذج المناخية العالمية تمثيله.",
      "known": "يضع الفريق الحكومي الدولي المعني بتغير المناخ الإجابة المرجّحة بين 2.5 و4 درجات مئوية.",
      "leads": "نماذج مناخية بدقة كيلومترية، ومحاكيات مناخية بالذكاء الاصطناعي.",
      "s": "حساسية المناخ",
@@ -1318,7 +1323,7 @@
      "why": "تشير حساسية المناخ إلى مدى سرعة احترار الأرض عند مستوى معيّن من الانبعاثات. وتحديدها بدقة سيوضح كمية ثاني أكسيد الكربون التي لا يزال يمكن إطلاقها مع تحقيق أهداف اتفاق باريس، والتغيرات المحلية في الحرارة والجفاف المتوقعة."
     },
     "en": {
-     "block": "Clouds, too small for current models, dominate the uncertainty.",
+     "block": "Clouds are the most uncertain feedback: they form through processes far smaller than global climate models can represent.",
      "known": "The IPCC puts the likely answer between 2.5 and 4 °C.",
      "leads": "Kilometer-scale climate models, AI climate emulators.",
      "s": "Climate sensitivity",
@@ -1326,7 +1331,7 @@
      "why": "Climate sensitivity indicates how fast Earth will warm for a given level of emissions. Pinning it down would clarify how much more CO2 can be emitted while meeting the Paris Agreement goals, and what local changes in heat and dryness to expect."
     },
     "es": {
-     "block": "Las nubes, demasiado pequeñas para los modelos actuales, dominan la incertidumbre.",
+     "block": "Las nubes son la retroalimentación más incierta: se forman mediante procesos mucho más pequeños de lo que los modelos climáticos globales pueden representar.",
      "known": "El IPCC sitúa la respuesta probable entre 2,5 y 4 °C.",
      "leads": "Modelos climáticos a escala de kilómetros, emuladores climáticos de IA.",
      "s": "Sensibilidad climática",
@@ -1334,7 +1339,7 @@
      "why": "La sensibilidad climática indica a qué ritmo se calentará la Tierra para un nivel dado de emisiones. Precisarla aclararía cuánto CO2 más puede emitirse sin dejar de cumplir los objetivos del Acuerdo de París, y qué cambios locales de calor y sequedad cabe esperar."
     },
     "fr": {
-     "block": "Les nuages, trop petits pour les modèles actuels, dominent l'incertitude.",
+     "block": "Les nuages sont la rétroaction la plus incertaine : ils se forment par des processus bien plus petits que ce que les modèles climatiques mondiaux peuvent représenter.",
      "known": "Le GIEC estime la réponse probable entre 2,5 et 4 °C.",
      "leads": "Modèles climatiques à résolution kilométrique, émulateurs climatiques par IA.",
      "s": "Sensibilité climatique",
@@ -1342,7 +1347,7 @@
      "why": "La sensibilité climatique indique à quelle vitesse la Terre se réchauffera pour un niveau d'émissions donné. La préciser permettrait de mieux savoir combien de CO2 peut encore être émis tout en respectant les objectifs de l'accord de Paris, et à quels changements locaux de chaleur et de sécheresse s'attendre."
     },
     "hi": {
-     "block": "बादल, जो मौजूदा मॉडलों के लिए बहुत छोटे हैं, अनिश्चितता पर हावी हैं।",
+     "block": "बादल सबसे अनिश्चित फ़ीडबैक हैं: वे ऐसी प्रक्रियाओं से बनते हैं जो वैश्विक जलवायु मॉडल जितना दर्शा सकते हैं उससे कहीं छोटे पैमाने पर होती हैं।",
      "known": "IPCC के अनुसार संभावित उत्तर 2.5 से 4 °C के बीच है।",
      "leads": "किलोमीटर-पैमाने के जलवायु मॉडल, AI जलवायु अनुकारक।",
      "s": "जलवायु संवेदनशीलता",
@@ -1350,7 +1355,7 @@
      "why": "जलवायु संवेदनशीलता बताती है कि उत्सर्जन के किसी दिए गए स्तर पर पृथ्वी कितनी तेज़ी से गर्म होगी। इसे सटीक रूप से तय करने से यह साफ़ होगा कि पेरिस समझौते के लक्ष्यों को पूरा करते हुए और कितना CO2 छोड़ा जा सकता है, और स्थानीय स्तर पर गर्मी और सूखेपन में कैसे बदलाव की उम्मीद करनी चाहिए।"
     },
     "pt": {
-     "block": "As nuvens, pequenas demais para os modelos atuais, dominam a incerteza.",
+     "block": "As nuvens são a retroação mais incerta: formam-se por processos muito menores do que os modelos climáticos globais conseguem representar.",
      "known": "O IPCC situa a resposta provável entre 2,5 e 4 °C.",
      "leads": "Modelos climáticos em escala de quilômetros, emuladores climáticos de IA.",
      "s": "Sensibilidade climática",
@@ -1358,7 +1363,7 @@
      "why": "A sensibilidade climática indica a rapidez com que a Terra vai aquecer para um dado nível de emissões. Determiná-la com precisão esclareceria quanto CO2 ainda pode ser emitido cumprindo as metas do Acordo de Paris, e que mudanças locais de calor e secura esperar."
     },
     "zh": {
-     "block": "云太小,现有模型无法分辨,它们是不确定性的主要来源。",
+     "block": "云是最不确定的反馈：它们通过远小于全球气候模型所能表示尺度的过程形成。",
      "known": "政府间气候变化专门委员会(IPCC)认为,可能的答案在2.5到4摄氏度之间。",
      "leads": "公里尺度的气候模型,AI气候模拟器。",
      "s": "气候敏感度",
@@ -1374,9 +1379,9 @@
    "n": 1,
    "src": [
     {
-     "t": "Global warming unlikely to be small: new study (Met Office, 2020)",
+     "t": "IPCC AR6 Working Group I, Frequently Asked Questions, Chapter 7",
      "ty": "official",
-     "u": "https://www.metoffice.gov.uk/research/news/2020/new-science-shows-global-warming-unlikely-to-be-small"
+     "u": "https://www.ipcc.ch/report/ar6/wg1/downloads/faqs/IPCC_AR6_WGI_FAQ_Chapter_07.pdf"
     },
     {
      "t": "IPCC AR6 Working Group I, Chapter 1",
@@ -1647,7 +1652,7 @@
    "d": "E",
    "i18n": {
     "ar": {
-     "block": "يعني دماغ بشري كامل كمية هائلة من البيانات، تقارب زيتابايت.",
+     "block": "أنتجت خريطة مليمتر مكعب واحد فقط من القشرة الدماغية البشرية نحو 1.4 بيتابايت من البيانات، لذا فإن دماغًا كاملًا يعني كمية هائلة من البيانات.",
      "known": "نُشر عام 2024 مخطط الوصلات الكامل لدماغ ذبابة الفاكهة. ورُسمت خريطة لمليمتر مكعب واحد من القشرة الدماغية البشرية.",
      "leads": "المجهرية التمددية، والتجزئة الآلية بالذكاء الاصطناعي.",
      "s": "الموصولية البشرية",
@@ -1655,7 +1660,7 @@
      "why": "يتطلب فهم طريقة عمل الدماغ معرفة كيفية اتصال خلاياه العصبية. وقد تسلّط خريطة كاملة لتوصيلات الدماغ البشري الضوء على اضطرابات دماغية لا تزال مستعصية على العلاج، يُرجَّح أنها تنشأ عند اختلال هذه الدوائر."
     },
     "en": {
-     "block": "A whole human brain would mean a gigantic amount of data, on the order of a zettabyte.",
+     "block": "Mapping just one cubic millimeter of human cortex already produced about 1.4 petabytes of data, so a whole brain would mean an enormous amount.",
      "known": "The complete wiring diagram of the fruit fly brain was published in 2024. A cubic millimeter of human cortex has been mapped.",
      "leads": "Expansion microscopy, automatic segmentation by AI.",
      "s": "Human connectome",
@@ -1663,7 +1668,7 @@
      "why": "Understanding how the brain works requires knowing how its neurons are connected. A full map of human brain wiring could shed light on brain disorders, still incurable, that likely arise when these circuits are disrupted."
     },
     "es": {
-     "block": "Un cerebro humano completo supondría una cantidad gigantesca de datos, del orden de un zettabyte.",
+     "block": "Cartografiar un solo milímetro cúbico de corteza humana ya produjo unos 1,4 petabytes de datos, así que un cerebro entero supondría una cantidad enorme.",
      "known": "El diagrama de cableado completo del cerebro de la mosca de la fruta se publicó en 2024. Se ha mapeado un milímetro cúbico de corteza humana.",
      "leads": "Microscopía de expansión, segmentación automática mediante IA.",
      "s": "Conectoma humano",
@@ -1671,7 +1676,7 @@
      "why": "Entender cómo funciona el cerebro exige saber cómo están conectadas sus neuronas. Un mapa completo del cableado del cerebro humano podría arrojar luz sobre trastornos cerebrales, todavía incurables, que probablemente surgen cuando estos circuitos se alteran."
     },
     "fr": {
-     "block": "Un cerveau humain entier représenterait une masse de données gigantesque, de l'ordre du zettaoctet.",
+     "block": "Cartographier un seul millimètre cube de cortex humain a déjà produit environ 1,4 pétaoctet de données ; un cerveau entier représenterait donc une quantité énorme.",
      "known": "Le schéma complet du cerveau de la mouche drosophile a été publié en 2024. Un millimètre cube de cortex humain a été cartographié.",
      "leads": "Microscopie par expansion, segmentation automatique par IA.",
      "s": "Connectome humain",
@@ -1679,7 +1684,7 @@
      "why": "Comprendre le fonctionnement du cerveau exige de savoir comment ses neurones sont connectés. Une carte complète du câblage du cerveau humain pourrait éclairer des troubles cérébraux encore incurables, qui proviennent probablement d'une perturbation de ces circuits."
     },
     "hi": {
-     "block": "पूरे मानव मस्तिष्क के लिए विशाल मात्रा में आँकड़े चाहिए होंगे, लगभग एक ज़ेटाबाइट।",
+     "block": "मानव कॉर्टेक्स के सिर्फ़ एक घन मिलीमीटर का नक्शा बनाने में ही लगभग 1.4 पेटाबाइट डेटा बना, इसलिए पूरे मस्तिष्क का मतलब होगा बहुत विशाल मात्रा में डेटा।",
      "known": "फल-मक्खी के मस्तिष्क का पूरा वायरिंग आरेख 2024 में प्रकाशित हुआ। मानव कॉर्टेक्स के एक घन मिलीमीटर का नक्शा बनाया जा चुका है।",
      "leads": "एक्सपेंशन माइक्रोस्कोपी, AI द्वारा स्वचालित खंडीकरण।",
      "s": "मानव कनेक्टोम",
@@ -1687,7 +1692,7 @@
      "why": "मस्तिष्क कैसे काम करता है, यह समझने के लिए जानना ज़रूरी है कि उसके न्यूरॉन आपस में कैसे जुड़े हैं। मानव मस्तिष्क की वायरिंग का पूरा नक्शा उन मस्तिष्क विकारों पर रोशनी डाल सकता है जो अभी तक लाइलाज हैं और संभवतः इन सर्किटों के बिगड़ने से पैदा होते हैं।"
     },
     "pt": {
-     "block": "Um cérebro humano inteiro significaria uma quantidade gigantesca de dados, da ordem de um zettabyte.",
+     "block": "Mapear apenas um milímetro cúbico de córtex humano já gerou cerca de 1,4 petabyte de dados, por isso um cérebro inteiro significaria uma quantidade enorme.",
      "known": "O diagrama completo das conexões do cérebro da mosca-das-frutas foi publicado em 2024. Foi mapeado um milímetro cúbico de córtex humano.",
      "leads": "Microscopia de expansão, segmentação automática por IA.",
      "s": "Conectoma humano",
@@ -1695,7 +1700,7 @@
      "why": "Entender como o cérebro funciona exige saber como seus neurônios estão conectados. Um mapa completo da fiação do cérebro humano poderia esclarecer distúrbios cerebrais, ainda incuráveis, que provavelmente surgem quando esses circuitos são perturbados."
     },
     "zh": {
-     "block": "整个人脑意味着海量数据,约为一泽字节(ZB)的量级。",
+     "block": "仅绘制一立方毫米的人类皮层就已产生约1.4拍字节的数据，因此整个大脑意味着极其庞大的数据量。",
      "known": "果蝇大脑完整的连接图谱已于2024年发表。一立方毫米的人类皮层也已绘制完成。",
      "leads": "膨胀显微术,人工智能自动分割。",
      "s": "人脑连接组",
@@ -1718,11 +1723,6 @@
      "t": "A petavoxel fragment of human cerebral cortex reconstructed at nanoscale resolution",
      "ty": "study",
      "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11718559/"
-    },
-    {
-     "t": "The burgeoning field of brain mapping",
-     "ty": "press",
-     "u": "https://www.technologyreview.com/2024/05/10/1092230/the-burgeoning-field-of-brain-mapping/amp/"
     }
    ],
    "sub": [
@@ -2359,8 +2359,13 @@
    "n": 2,
    "src": [
     {
-     "t": "The Nobel Prize in Physiology or Medicine 2022: press release (Nobel Prize)",
+     "t": "Evolution of Homo in the Middle and Late Pleistocene",
      "ty": "reference",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9703123/"
+    },
+    {
+     "t": "The Nobel Prize in Physiology or Medicine 2022: press release (Nobel Prize)",
+     "ty": "institution",
      "u": "https://www.nobelprize.org/prizes/medicine/2022/press-release/"
     },
     {
@@ -3059,7 +3064,7 @@
    "i18n": {
     "ar": {
      "block": "تتنبأ فيزياء الكم بقيمة أكبر بنحو 60 إلى 120 رتبة من حيث المقدار مما تسمح به الأرصاد. وهذه أزمة خطيرة في الفيزياء.",
-     "known": "القيمة التي تتنبأ بها الفيزياء الكمومية تخطئ بنحو 120 رتبة قدر، وهو أسوأ تباين في الفيزياء كلها.",
+     "known": "يتسارع تمدد الكون. ويُسمّى سبب ذلك الطاقة المظلمة، وهي تشكّل نحو 70% من محتواه من الطاقة.",
      "leads": "تلمّح مسوح DESI إلى أنها قد تتغير مع الزمن؛ وسيقيسها تلسكوب إقليدس ومرصد روبن بدقة أكبر.",
      "s": "الطاقة المظلمة",
      "t": "ما الطاقة المظلمة؟",
@@ -3091,7 +3096,7 @@
     },
     "hi": {
      "block": "क्वांटम भौतिकी जो मान बताती है, वह प्रेक्षणों द्वारा अनुमत मान से 60 से 120 परिमाण-कोटि (ऑर्डर ऑफ़ मैग्निट्यूड) अधिक है। यह भौतिकी के लिए एक गंभीर संकट है।",
-     "known": "क्वांटम भौतिकी द्वारा अनुमानित मान लगभग 120 कोटि परिमाण (ऑर्डर ऑफ मैग्नीट्यूड) गलत है, जो पूरी भौतिकी का सबसे बड़ा बेमेल है।",
+     "known": "ब्रह्मांड का विस्तार तेज़ हो रहा है। इसका कारण, जिसे डार्क एनर्जी कहा जाता है, उसकी कुल ऊर्जा सामग्री का लगभग 70% है।",
      "leads": "DESI सर्वेक्षण संकेत देते हैं कि यह समय के साथ बदल सकती है; Euclid और रुबिन वेधशाला इसे और अधिक सटीकता से मापेंगे।",
      "s": "डार्क एनर्जी",
      "t": "डार्क एनर्जी क्या है?",
@@ -3122,9 +3127,9 @@
    "n": 1,
    "src": [
     {
-     "t": "DESI results suggest dark energy may evolve over time (UKRI)",
-     "ty": "official",
-     "u": "https://ukri.org/news/desi-results-suggest-dark-energy-may-evolve-over-time"
+     "t": "Planck 2018 results. VI. Cosmological parameters",
+     "ty": "study",
+     "u": "https://arxiv.org/pdf/1807.06209"
     },
     {
      "t": "DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints",
@@ -4923,9 +4928,9 @@
    "n": 0,
    "src": [
     {
-     "t": "What makes us human? Comparing brain development in humans and great apes (TU Dresden, 2026)",
+     "t": "What Makes Us Human? Researchers Compare Brain Development in Humans and Great Apes (TU Dresden, 2026)",
      "ty": "institution",
-     "u": "https://tu-dresden.de/tu-dresden/newsportal/news/what-makes-us-human-researchers-compare-brain-development-in-humans-and-great-apes"
+     "u": "https://tu-dresden.de/cmcb/crtd/news-termine/pressemitteilungen/what-makes-us-human-researchers-compare-brain-development-in-humans-and-great-apes?set_language=en"
     },
     {
      "t": "Genetics of human brain development",
@@ -5692,6 +5697,11 @@
      "t": "Constraint on the matter–antimatter symmetry-violating phase in neutrino oscillations",
      "ty": "study",
      "u": "https://eprints.whiterose.ac.uk/160770"
+    },
+    {
+     "t": "Experimental perspectives on the matter-antimatter asymmetry puzzle: developments in electron EDM and antihydrogen experiments",
+     "ty": "preprint",
+     "u": "https://arxiv.org/pdf/2311.05899"
     }
    ],
    "sub": [
@@ -6533,9 +6543,9 @@
    "n": 1,
    "src": [
     {
-     "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+     "t": "Navier-Stokes Equation (Clay Mathematics Institute)",
      "ty": "reference",
-     "u": "https://www.claymath.org/millennium-problems"
+     "u": "https://www.claymath.org/millennium/navier-stokes-equation/"
     }
    ],
    "sub": [
@@ -6859,6 +6869,11 @@
      "t": "Biological nitrogen fixation and prospects for ecological intensification in cereal-based cropping systems",
      "ty": "study",
      "u": "https://cgspace.cgiar.org/items/a9cb8467-dfd2-496c-8ca6-14650164655a"
+    },
+    {
+     "t": "Trends in Global Agricultural Land Use: Implications for Environmental Health and Food Security (Annual Review of Plant Biology, 2018)",
+     "ty": "reference",
+     "u": "https://www.zoology.ubc.ca/~ttkelly/Kremen_lab/wp-content/uploads/2022/07/Ramankutty-N.-Mehrabi-Z.-Waha-K.-Kremen-C.-Herrero-M.-Rieseberg-L.-H.-2018.-Trends-in-global-agricultural-land-use-implications-for-environmental-health-and-food-security.pdf"
     }
    ],
    "sub": [
@@ -7723,9 +7738,9 @@
    "n": 0,
    "src": [
     {
-     "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+     "t": "P vs NP (Clay Mathematics Institute)",
      "ty": "reference",
-     "u": "https://www.claymath.org/millennium-problems"
+     "u": "https://www.claymath.org/millennium/p-vs-np/"
     }
    ],
    "sub": [
@@ -8536,7 +8551,7 @@
    "i18n": {
     "ar": {
      "block": "مشكلات القياس، واحتمال أن الأفكار الجديدة أصبحت أصعب منالًا.",
-     "known": "ضعف نمو الإنتاجية في الدول الغنية منذ منتصف العقد الأول من القرن الحادي والعشرين.",
+     "known": "تباطأ نمو الإنتاجية منذ منتصف العقد الأول من الألفية الثالثة، في الولايات المتحدة وفي عشرات البلدان الأخرى.",
      "leads": "الذكاء الاصطناعي بوصفه تقنية عامة الأغراض، وإصلاحات تسرّع البناء والبحث.",
      "s": "تباطؤ الإنتاجية",
      "t": "لماذا تباطأ نمو الإنتاجية في الدول الغنية؟",
@@ -8544,7 +8559,7 @@
     },
     "en": {
      "block": "Measurement problems and the possibility that new ideas are getting harder to find.",
-     "known": "Productivity growth in rich countries has been weaker since the mid-2000s.",
+     "known": "Productivity growth has slowed since the mid-2000s, in the United States and in dozens of other countries.",
      "leads": "AI as a general-purpose technology, reforms that speed up building and research.",
      "s": "Productivity slowdown",
      "t": "Why has productivity growth slowed in rich countries?",
@@ -8552,7 +8567,7 @@
     },
     "es": {
      "block": "Problemas de medición y la posibilidad de que cada vez sea más difícil encontrar ideas nuevas.",
-     "known": "El crecimiento de la productividad en los países ricos es más débil desde mediados de la década de 2000.",
+     "known": "El crecimiento de la productividad se ha desacelerado desde mediados de la década de 2000, en Estados Unidos y en decenas de otros países.",
      "leads": "La IA como tecnología de propósito general, reformas que aceleren la construcción y la investigación.",
      "s": "Freno de la productividad",
      "t": "¿Por qué se ha ralentizado el crecimiento de la productividad en los países ricos?",
@@ -8560,7 +8575,7 @@
     },
     "fr": {
      "block": "Problèmes de mesure, et possibilité que les idées nouvelles soient de plus en plus difficiles à trouver.",
-     "known": "La productivité progresse plus lentement dans les pays riches depuis le milieu des années 2000.",
+     "known": "La croissance de la productivité ralentit depuis le milieu des années 2000, aux États-Unis et dans des dizaines d'autres pays.",
      "leads": "L'IA comme technologie à usage général, réformes qui accélèrent la construction et la recherche.",
      "s": "Ralentissement de la productivité",
      "t": "Pourquoi la croissance de la productivité a-t-elle ralenti dans les pays riches ?",
@@ -8568,7 +8583,7 @@
     },
     "hi": {
      "block": "मापन की समस्याएँ और यह संभावना कि नए विचार खोजना कठिन होता जा रहा है।",
-     "known": "2000 के दशक के मध्य से अमीर देशों में उत्पादकता वृद्धि कमज़ोर रही है।",
+     "known": "2000 के दशक के मध्य से अमेरिका और दर्जनों अन्य देशों में उत्पादकता की वृद्धि धीमी हो गई है।",
      "leads": "सामान्य-उद्देश्य प्रौद्योगिकी के रूप में AI, निर्माण और शोध को तेज़ करने वाले सुधार।",
      "s": "उत्पादकता में सुस्ती",
      "t": "अमीर देशों में उत्पादकता वृद्धि धीमी क्यों हुई है?",
@@ -8576,7 +8591,7 @@
     },
     "pt": {
      "block": "Problemas de medição e a possibilidade de que novas ideias estejam ficando mais difíceis de encontrar.",
-     "known": "O crescimento da produtividade nos países ricos está mais fraco desde meados dos anos 2000.",
+     "known": "O crescimento da produtividade abrandou desde meados dos anos 2000, nos Estados Unidos e em dezenas de outros países.",
      "leads": "A IA como tecnologia de uso geral, reformas que aceleram a construção e a pesquisa.",
      "s": "Queda da produtividade",
      "t": "Por que o crescimento da produtividade desacelerou nos países ricos?",
@@ -8584,7 +8599,7 @@
     },
     "zh": {
      "block": "测量上的问题,以及新想法可能越来越难找到。",
-     "known": "自2000年代中期以来,富裕国家的生产率增长一直较弱。",
+     "known": "自2000年代中期以来，美国和其他数十个国家的生产率增长都放缓了。",
      "leads": "把AI视为通用技术,加快建设和研究的改革。",
      "s": "生产率放缓",
      "t": "为什么富裕国家的生产率增长放缓了?",
@@ -8598,14 +8613,14 @@
    "n": 1,
    "src": [
     {
-     "t": "Bloom, Jones, Van Reenen, Webb, Are ideas getting harder to find? (NBER)",
-     "ty": "institution",
-     "u": "https://www.nber.org/papers/w23782.pdf"
-    },
-    {
      "t": "Are Ideas Getting Harder to Find?",
      "ty": "study",
      "u": "https://www.aeaweb.org/doi/10.1257/aer.20180338"
+    },
+    {
+     "t": "Challenges to Mismeasurement Explanations for the US Productivity Slowdown",
+     "ty": "study",
+     "u": "https://econpapers.repec.org/RePEc:aea:jecper:v:31:y:2017:i:2:p:165-86"
     }
    ],
    "sub": [
@@ -8746,56 +8761,56 @@
    "d": "V",
    "i18n": {
     "ar": {
-     "block": "لا نعرف ما الذي يوقف التجدد لدى الثدييات.",
-     "known": "تعيد السمندلات نمو أطراف كاملة؛ ويستطيع الكبد البشري إعادة نمو جزء منه.",
+     "block": "عادةً ما تلتئم جروح الثدييات بتكوّن ندبة تمنع إعادة النمو؛ ولا يزال العلماء يحاولون فهم سبب تجنّب السمندرات للتندّب.",
+     "known": "تستطيع السمندرات إعادة إنماء أطرافها المبتورة، ويستطيع الكبد أن يتجدد ليستعيد حجمه ووظيفته بعد استئصال جزء منه.",
      "leads": "العُضيّات، والإشارات الكهروحيوية التي توجّه شكل الأنسجة، ودراسات تنظيم الجينات في الحيوانات المتجددة.",
      "s": "التجدد",
      "t": "هل يستطيع البشر إعادة نمو الأطراف والأعضاء المفقودة؟",
      "why": "قد يمتلك البشر قدرة على التجدد لم تُستغل بعد. وإطلاقها قد يساعد الناس على إعادة إنماء أنسجة وأعضاء فُقدت بسبب المرض أو الإصابة، وعلى تحسين علاج أمراض القلب والكلى والكبد والرئة التي يؤدي فيها التندّب دورًا رئيسيًا."
     },
     "en": {
-     "block": "We don't know what switches regeneration off in mammals.",
-     "known": "Salamanders regrow whole limbs; the human liver can partly regrow itself.",
+     "block": "Mammals usually heal injuries with a scar that blocks regrowth; why salamanders avoid scarring is still being worked out.",
+     "known": "Salamanders regrow amputated limbs, and the liver can regrow to restore its size and function after part of it is removed.",
      "leads": "Organoids, bioelectric signals that guide tissue shape, gene regulation studies in regenerating animals.",
      "s": "Regeneration",
      "t": "Can humans regrow lost limbs and organs?",
      "why": "Humans may have untapped potential to regenerate. Unlocking it could help people regrow tissues and organs lost to disease or injury, and improve treatment of heart, kidney, liver and lung diseases in which scarring plays a major role."
     },
     "es": {
-     "block": "No sabemos qué apaga la regeneración en los mamíferos.",
-     "known": "Las salamandras regeneran extremidades enteras; el hígado humano puede regenerarse en parte.",
+     "block": "Los mamíferos suelen curar las heridas con una cicatriz que impide la regeneración; aún se investiga por qué las salamandras evitan cicatrizar.",
+     "known": "Las salamandras regeneran las extremidades amputadas, y el hígado puede regenerarse hasta recuperar su tamaño y su función tras extirpar una parte.",
      "leads": "Organoides, señales bioeléctricas que guían la forma de los tejidos, estudios de regulación génica en animales que se regeneran.",
      "s": "Regeneración",
      "t": "¿Pueden los humanos regenerar miembros y órganos perdidos?",
      "why": "Es posible que los seres humanos tengan un potencial de regeneración sin explotar. Liberarlo podría ayudar a regenerar tejidos y órganos perdidos por enfermedad o lesión, y mejorar el tratamiento de enfermedades del corazón, el riñón, el hígado y el pulmón en las que la cicatrización tiene un papel importante."
     },
     "fr": {
-     "block": "On ignore ce qui éteint la régénération chez les mammifères.",
-     "known": "La salamandre fait repousser un membre entier ; le foie humain se régénère en partie.",
+     "block": "Les mammifères guérissent généralement leurs blessures en formant une cicatrice qui empêche la repousse ; on cherche encore à comprendre pourquoi les salamandres y échappent.",
+     "known": "Les salamandres font repousser un membre amputé, et le foie peut se régénérer pour retrouver sa taille et sa fonction après l'ablation d'une partie.",
      "leads": "Organoïdes, signaux bioélectriques qui guident la forme des tissus, étude des gènes des animaux qui se régénèrent.",
      "s": "Régénération",
      "t": "L'humain peut-il faire repousser des membres ou des organes ?",
      "why": "Les humains ont peut-être un potentiel de régénération inexploité. Le libérer pourrait aider à faire repousser des tissus et des organes perdus à cause d'une maladie ou d'une blessure, et améliorer le traitement des maladies du cœur, des reins, du foie et des poumons dans lesquelles la cicatrisation joue un rôle majeur."
     },
     "hi": {
-     "block": "हम नहीं जानते कि स्तनधारियों में पुनर्जनन को क्या बंद कर देता है।",
-     "known": "सैलामैंडर पूरे अंग फिर से उगा लेते हैं; मानव यकृत आंशिक रूप से खुद को दोबारा उगा सकता है।",
+     "block": "स्तनधारियों में चोट आमतौर पर एक निशान (स्कार) बनकर भरती है, जो दोबारा उगने को रोकता है; सैलामैंडर निशान बनने से क्यों बच जाते हैं, यह अभी भी समझा जा रहा है।",
+     "known": "सैलामैंडर कटे हुए अंग फिर से उगा लेते हैं, और यकृत (लिवर) का एक हिस्सा निकाल दिए जाने के बाद वह फिर से बढ़कर अपना आकार और कार्य वापस पा सकता है।",
      "leads": "ऑर्गेनॉइड, ऊतक के आकार को निर्देशित करने वाले जैवविद्युत संकेत, पुनर्जनन करने वाले जानवरों में जीन नियमन के अध्ययन।",
      "s": "पुनर्जनन",
      "t": "क्या मनुष्य खोए हुए अंग फिर से उगा सकते हैं?",
      "why": "मनुष्यों में पुनर्जनन की ऐसी क्षमता हो सकती है जिसका अभी उपयोग नहीं हुआ है। इसे जगाना बीमारी या चोट में खोए ऊतकों और अंगों को फिर से उगाने में मदद कर सकता है, और हृदय, गुर्दे, यकृत व फेफड़ों की उन बीमारियों के इलाज को बेहतर बना सकता है जिनमें निशान (स्कार) बनना बड़ी भूमिका निभाता है।"
     },
     "pt": {
-     "block": "Não sabemos o que desliga a regeneração nos mamíferos.",
-     "known": "As salamandras regeneram membros inteiros; o fígado humano consegue se regenerar em parte.",
+     "block": "Os mamíferos costumam curar ferimentos com uma cicatriz que impede a regeneração; ainda se investiga por que as salamandras evitam a cicatrização.",
+     "known": "As salamandras regeneram membros amputados, e o fígado pode regenerar-se até recuperar o tamanho e a função depois de ser retirada uma parte dele.",
      "leads": "Organoides, sinais bioelétricos que orientam a forma dos tecidos, estudos de regulação gênica em animais que se regeneram.",
      "s": "Regeneração",
      "t": "Os humanos podem regenerar membros e órgãos perdidos?",
      "why": "Os seres humanos podem ter um potencial de regeneração inexplorado. Desbloqueá-lo poderia ajudar as pessoas a regenerar tecidos e órgãos perdidos por doença ou lesão, e melhorar o tratamento de doenças do coração, rins, fígado e pulmões nas quais a cicatrização tem papel importante."
     },
     "zh": {
-     "block": "我们不知道是什么在哺乳动物身上关闭了再生。",
-     "known": "蝾螈能再生整条肢体;人类的肝脏可以部分自行再生。",
+     "block": "哺乳动物受伤后通常会形成疤痕，而疤痕会阻碍再生；蝾螈为何能避免留疤仍在研究之中。",
+     "known": "蝾螈能重新长出被截断的肢体；肝脏在被切除一部分后也能再生，恢复原有的大小和功能。",
      "leads": "类器官,引导组织形态的生物电信号,对再生动物的基因调控研究。",
      "s": "再生",
      "t": "人类能再生失去的肢体和器官吗?",
@@ -8814,7 +8829,12 @@
      "u": "https://pubmed.ncbi.nlm.nih.gov/40399677/"
     },
     {
-     "t": "New insight into regeneration in mammals (ScienceDaily)",
+     "t": "Liver regeneration — mechanisms and models to clinical application",
+     "ty": "reference",
+     "u": "https://www.nature.com/articles/nrgastro.2016.97"
+    },
+    {
+     "t": "Scientist identifies signaling underlying regeneration (ScienceDaily)",
      "ty": "press",
      "u": "https://www.sciencedaily.com/releases/2021/06/210602153417.htm"
     }
@@ -9083,9 +9103,9 @@
    "n": 0,
    "src": [
     {
-     "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+     "t": "Riemann Hypothesis (Clay Mathematics Institute)",
      "ty": "reference",
-     "u": "https://www.claymath.org/millennium-problems"
+     "u": "https://www.claymath.org/millennium/riemann-hypothesis/"
     },
     {
      "t": "The Riemann hypothesis is true up to 3·10^12",
@@ -10737,9 +10757,9 @@
    "n": 0,
    "src": [
     {
-     "t": "The Millennium Prize Problems (Clay Mathematics Institute)",
+     "t": "Yang-Mills & the Mass Gap (Clay Mathematics Institute)",
      "ty": "reference",
-     "u": "https://www.claymath.org/millennium-problems"
+     "u": "https://www.claymath.org/millennium/yang-mills-the-maths-gap/"
     }
    ],
    "sub": [
@@ -11524,6 +11544,111 @@
     {
      "q": "nourrir-10-milliards",
      "f": "leads"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "items": [
+    {
+     "k": "sources",
+     "n": 16
+    },
+    {
+     "f": "block",
+     "q": "connectome"
+    },
+    {
+     "f": "src",
+     "q": "connectome"
+    },
+    {
+     "f": "known",
+     "q": "regeneration"
+    },
+    {
+     "f": "block",
+     "q": "regeneration"
+    },
+    {
+     "f": "src",
+     "q": "regeneration"
+    },
+    {
+     "f": "block",
+     "q": "cellule-virtuelle"
+    },
+    {
+     "f": "leads",
+     "q": "cellule-virtuelle"
+    },
+    {
+     "f": "src",
+     "q": "cellule-virtuelle"
+    },
+    {
+     "f": "known",
+     "q": "energie-sombre"
+    },
+    {
+     "f": "src",
+     "q": "energie-sombre"
+    },
+    {
+     "f": "block",
+     "q": "climat-sensibilite"
+    },
+    {
+     "f": "src",
+     "q": "climat-sensibilite"
+    },
+    {
+     "f": "known",
+     "q": "productivite"
+    },
+    {
+     "f": "src",
+     "q": "productivite"
+    },
+    {
+     "f": "src",
+     "q": "matiere-antimatiere"
+    },
+    {
+     "f": "src",
+     "q": "nourrir-10-milliards"
+    },
+    {
+     "f": "src",
+     "q": "dispersion-humaine"
+    },
+    {
+     "f": "src",
+     "q": "addiction"
+    },
+    {
+     "f": "src",
+     "q": "intelligence-bio"
+    },
+    {
+     "f": "src",
+     "q": "birch-swinnerton-dyer"
+    },
+    {
+     "f": "src",
+     "q": "navier-stokes"
+    },
+    {
+     "f": "src",
+     "q": "p-np"
+    },
+    {
+     "f": "src",
+     "q": "riemann"
+    },
+    {
+     "f": "src",
+     "q": "yang-mills"
     }
    ]
   }

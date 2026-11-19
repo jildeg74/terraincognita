@@ -1,0 +1,105 @@
+{
+ "date": "2026-11-19",
+ "items": [
+  {
+   "k": "sources",
+   "n": 16
+  },
+  {
+   "f": "block",
+   "q": "connectome"
+  },
+  {
+   "f": "src",
+   "q": "connectome"
+  },
+  {
+   "f": "known",
+   "q": "regeneration"
+  },
+  {
+   "f": "block",
+   "q": "regeneration"
+  },
+  {
+   "f": "src",
+   "q": "regeneration"
+  },
+  {
+   "f": "block",
+   "q": "cellule-virtuelle"
+  },
+  {
+   "f": "leads",
+   "q": "cellule-virtuelle"
+  },
+  {
+   "f": "src",
+   "q": "cellule-virtuelle"
+  },
+  {
+   "f": "known",
+   "q": "energie-sombre"
+  },
+  {
+   "f": "src",
+   "q": "energie-sombre"
+  },
+  {
+   "f": "block",
+   "q": "climat-sensibilite"
+  },
+  {
+   "f": "src",
+   "q": "climat-sensibilite"
+  },
+  {
+   "f": "known",
+   "q": "productivite"
+  },
+  {
+   "f": "src",
+   "q": "productivite"
+  },
+  {
+   "f": "src",
+   "q": "matiere-antimatiere"
+  },
+  {
+   "f": "src",
+   "q": "nourrir-10-milliards"
+  },
+  {
+   "f": "src",
+   "q": "dispersion-humaine"
+  },
+  {
+   "f": "src",
+   "q": "addiction"
+  },
+  {
+   "f": "src",
+   "q": "intelligence-bio"
+  },
+  {
+   "f": "src",
+   "q": "birch-swinnerton-dyer"
+  },
+  {
+   "f": "src",
+   "q": "navier-stokes"
+  },
+  {
+   "f": "src",
+   "q": "p-np"
+  },
+  {
+   "f": "src",
+   "q": "riemann"
+  },
+  {
+   "f": "src",
+   "q": "yang-mills"
+  }
+ ]
+}

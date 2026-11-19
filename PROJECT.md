@@ -97,6 +97,7 @@ site/                      site public généré (ne pas éditer à la main)
 
 ## 9. Journal
 
+- **2026-11-19** — Points ouverts réglés (12 sur 13) : 16 fiches corrigées en 7 langues (connectome, régénération, cellule virtuelle, énergie sombre, climat, productivité, sources de matière-antimatière, nourrir 10 milliards, dispersion humaine, addiction, intelligence-bio, 5 problèmes Clay). Chiffre « zettaoctet » retiré, traductions ar/hi de l'énergie sombre corrigées. Vérifié par un agent indépendant (16/16 acceptées). Reste ouvert : coût énergétique de l'IA, et 3 points relevés pendant la vérification (voir `OPEN_ISSUES.md`).
 - **2026-11-18** — Logo « points reliés » (icône d'onglet, écran d'accueil, profils de réseaux sociaux).
 - **2026-11-18** — Rubrique « Pourquoi c'est important » ajoutée aux 100 questions (7 langues), rédigée par 4 agents, vérifiée par 4 vérificateurs indépendants (54 acceptées telles quelles, 46 corrigées, 0 rejetée).
 - **2026-11-18** — Lisible par les IA : `llms.txt` à la racine, données structurées schema.org (Dataset sur l'accueil, WebPage + Question + citations sur chaque page).

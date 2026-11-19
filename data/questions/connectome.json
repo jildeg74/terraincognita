@@ -3,7 +3,7 @@
  "d": "E",
  "i18n": {
   "ar": {
-   "block": "يعني دماغ بشري كامل كمية هائلة من البيانات، تقارب زيتابايت.",
+   "block": "أنتجت خريطة مليمتر مكعب واحد فقط من القشرة الدماغية البشرية نحو 1.4 بيتابايت من البيانات، لذا فإن دماغًا كاملًا يعني كمية هائلة من البيانات.",
    "known": "نُشر عام 2024 مخطط الوصلات الكامل لدماغ ذبابة الفاكهة. ورُسمت خريطة لمليمتر مكعب واحد من القشرة الدماغية البشرية.",
    "leads": "المجهرية التمددية، والتجزئة الآلية بالذكاء الاصطناعي.",
    "s": "الموصولية البشرية",
@@ -11,7 +11,7 @@
    "why": "يتطلب فهم طريقة عمل الدماغ معرفة كيفية اتصال خلاياه العصبية. وقد تسلّط خريطة كاملة لتوصيلات الدماغ البشري الضوء على اضطرابات دماغية لا تزال مستعصية على العلاج، يُرجَّح أنها تنشأ عند اختلال هذه الدوائر."
   },
   "en": {
-   "block": "A whole human brain would mean a gigantic amount of data, on the order of a zettabyte.",
+   "block": "Mapping just one cubic millimeter of human cortex already produced about 1.4 petabytes of data, so a whole brain would mean an enormous amount.",
    "known": "The complete wiring diagram of the fruit fly brain was published in 2024. A cubic millimeter of human cortex has been mapped.",
    "leads": "Expansion microscopy, automatic segmentation by AI.",
    "s": "Human connectome",
@@ -19,7 +19,7 @@
    "why": "Understanding how the brain works requires knowing how its neurons are connected. A full map of human brain wiring could shed light on brain disorders, still incurable, that likely arise when these circuits are disrupted."
   },
   "es": {
-   "block": "Un cerebro humano completo supondría una cantidad gigantesca de datos, del orden de un zettabyte.",
+   "block": "Cartografiar un solo milímetro cúbico de corteza humana ya produjo unos 1,4 petabytes de datos, así que un cerebro entero supondría una cantidad enorme.",
    "known": "El diagrama de cableado completo del cerebro de la mosca de la fruta se publicó en 2024. Se ha mapeado un milímetro cúbico de corteza humana.",
    "leads": "Microscopía de expansión, segmentación automática mediante IA.",
    "s": "Conectoma humano",
@@ -27,7 +27,7 @@
    "why": "Entender cómo funciona el cerebro exige saber cómo están conectadas sus neuronas. Un mapa completo del cableado del cerebro humano podría arrojar luz sobre trastornos cerebrales, todavía incurables, que probablemente surgen cuando estos circuitos se alteran."
   },
   "fr": {
-   "block": "Un cerveau humain entier représenterait une masse de données gigantesque, de l'ordre du zettaoctet.",
+   "block": "Cartographier un seul millimètre cube de cortex humain a déjà produit environ 1,4 pétaoctet de données ; un cerveau entier représenterait donc une quantité énorme.",
    "known": "Le schéma complet du cerveau de la mouche drosophile a été publié en 2024. Un millimètre cube de cortex humain a été cartographié.",
    "leads": "Microscopie par expansion, segmentation automatique par IA.",
    "s": "Connectome humain",
@@ -35,7 +35,7 @@
    "why": "Comprendre le fonctionnement du cerveau exige de savoir comment ses neurones sont connectés. Une carte complète du câblage du cerveau humain pourrait éclairer des troubles cérébraux encore incurables, qui proviennent probablement d'une perturbation de ces circuits."
   },
   "hi": {
-   "block": "पूरे मानव मस्तिष्क के लिए विशाल मात्रा में आँकड़े चाहिए होंगे, लगभग एक ज़ेटाबाइट।",
+   "block": "मानव कॉर्टेक्स के सिर्फ़ एक घन मिलीमीटर का नक्शा बनाने में ही लगभग 1.4 पेटाबाइट डेटा बना, इसलिए पूरे मस्तिष्क का मतलब होगा बहुत विशाल मात्रा में डेटा।",
    "known": "फल-मक्खी के मस्तिष्क का पूरा वायरिंग आरेख 2024 में प्रकाशित हुआ। मानव कॉर्टेक्स के एक घन मिलीमीटर का नक्शा बनाया जा चुका है।",
    "leads": "एक्सपेंशन माइक्रोस्कोपी, AI द्वारा स्वचालित खंडीकरण।",
    "s": "मानव कनेक्टोम",
@@ -43,7 +43,7 @@
    "why": "मस्तिष्क कैसे काम करता है, यह समझने के लिए जानना ज़रूरी है कि उसके न्यूरॉन आपस में कैसे जुड़े हैं। मानव मस्तिष्क की वायरिंग का पूरा नक्शा उन मस्तिष्क विकारों पर रोशनी डाल सकता है जो अभी तक लाइलाज हैं और संभवतः इन सर्किटों के बिगड़ने से पैदा होते हैं।"
   },
   "pt": {
-   "block": "Um cérebro humano inteiro significaria uma quantidade gigantesca de dados, da ordem de um zettabyte.",
+   "block": "Mapear apenas um milímetro cúbico de córtex humano já gerou cerca de 1,4 petabyte de dados, por isso um cérebro inteiro significaria uma quantidade enorme.",
    "known": "O diagrama completo das conexões do cérebro da mosca-das-frutas foi publicado em 2024. Foi mapeado um milímetro cúbico de córtex humano.",
    "leads": "Microscopia de expansão, segmentação automática por IA.",
    "s": "Conectoma humano",
@@ -51,7 +51,7 @@
    "why": "Entender como o cérebro funciona exige saber como seus neurônios estão conectados. Um mapa completo da fiação do cérebro humano poderia esclarecer distúrbios cerebrais, ainda incuráveis, que provavelmente surgem quando esses circuitos são perturbados."
   },
   "zh": {
-   "block": "整个人脑意味着海量数据,约为一泽字节(ZB)的量级。",
+   "block": "仅绘制一立方毫米的人类皮层就已产生约1.4拍字节的数据，因此整个大脑意味着极其庞大的数据量。",
    "known": "果蝇大脑完整的连接图谱已于2024年发表。一立方毫米的人类皮层也已绘制完成。",
    "leads": "膨胀显微术,人工智能自动分割。",
    "s": "人脑连接组",
@@ -74,11 +74,6 @@
    "t": "A petavoxel fragment of human cerebral cortex reconstructed at nanoscale resolution",
    "ty": "study",
    "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11718559/"
-  },
-  {
-   "t": "The burgeoning field of brain mapping",
-   "ty": "press",
-   "u": "https://www.technologyreview.com/2024/05/10/1092230/the-burgeoning-field-of-brain-mapping/amp/"
   }
  ],
  "sub": [

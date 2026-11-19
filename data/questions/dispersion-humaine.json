@@ -65,8 +65,13 @@
  "n": 2,
  "src": [
   {
-   "t": "The Nobel Prize in Physiology or Medicine 2022: press release (Nobel Prize)",
+   "t": "Evolution of Homo in the Middle and Late Pleistocene",
    "ty": "reference",
+   "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9703123/"
+  },
+  {
+   "t": "The Nobel Prize in Physiology or Medicine 2022: press release (Nobel Prize)",
+   "ty": "institution",
    "u": "https://www.nobelprize.org/prizes/medicine/2022/press-release/"
   },
   {

@@ -2,16 +2,8 @@
 
 Maintainers: handle these first, then remove each line once settled.
 
-- connectome `block`: "zettabyte" figure rests only on a press article (MIT Technology Review); find a peer-reviewed source or soften.
-- ia-energie: no peer-reviewed study yet (only a preprint review).
-- intelligence-bio: TU Dresden source title is stored in English but the page now shows a German title; fix the title.
-- regeneration: `block` sentence and the liver regrowth claim in `known` not yet checked against a source.
-- cellule-virtuelle: `block` and `leads` not covered by the listed sources; the 2026 simulation is cited through a news item, not the Cell paper.
-- energie-sombre `known`: "about 70% of the energy content" not in the listed sources (add a Planck parameters paper).
-- matiere-antimatiere `leads`: electric dipole moment lead not checked.
-- nourrir-10-milliards `known`: "yields have risen sharply" not checked against a source.
-- climat-sensibilite: "clouds too small for current models" only supported by a blog; the Met Office URL redirects.
-- dispersion-humaine: the "reference" source is a Nobel press release; consider Harvati & Reyes-Centeno 2022 (peer-reviewed review).
-- productivite: the NBER working paper duplicates the published AER paper; drop one.
-- Clay Millennium URL (birch, navier-stokes, p-np, riemann, yang-mills): claymath.org/millennium-problems could not be fetched; consider the per-problem pages (e.g. claymath.org/problems/p-vs-np).
-- addiction: the USC source title is a descriptive label, not the exact page title.
+- ia-energie: no peer-reviewed study yet (only a preprint review and the IEA report; de Vries, Joule 2023, is a commentary, not a study).
+- energie-sombre `leads`: "Euclid and the Rubin Observatory will measure it more precisely" is not supported by a listed source.
+- connectome `leads`: "Expansion microscopy" is not supported by a listed source.
+- energie-sombre: Planck 2018 is cited through arXiv; consider the journal URL (A&A 641, A6, 2020).
+- Translations (hi, ar): human review wanted. Found 2026-11-19: energie-sombre `known` in ar and hi did not translate the English (fixed); other fiches may have the same problem.

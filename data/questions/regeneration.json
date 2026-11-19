@@ -3,56 +3,56 @@
  "d": "V",
  "i18n": {
   "ar": {
-   "block": "لا نعرف ما الذي يوقف التجدد لدى الثدييات.",
-   "known": "تعيد السمندلات نمو أطراف كاملة؛ ويستطيع الكبد البشري إعادة نمو جزء منه.",
+   "block": "عادةً ما تلتئم جروح الثدييات بتكوّن ندبة تمنع إعادة النمو؛ ولا يزال العلماء يحاولون فهم سبب تجنّب السمندرات للتندّب.",
+   "known": "تستطيع السمندرات إعادة إنماء أطرافها المبتورة، ويستطيع الكبد أن يتجدد ليستعيد حجمه ووظيفته بعد استئصال جزء منه.",
    "leads": "العُضيّات، والإشارات الكهروحيوية التي توجّه شكل الأنسجة، ودراسات تنظيم الجينات في الحيوانات المتجددة.",
    "s": "التجدد",
    "t": "هل يستطيع البشر إعادة نمو الأطراف والأعضاء المفقودة؟",
    "why": "قد يمتلك البشر قدرة على التجدد لم تُستغل بعد. وإطلاقها قد يساعد الناس على إعادة إنماء أنسجة وأعضاء فُقدت بسبب المرض أو الإصابة، وعلى تحسين علاج أمراض القلب والكلى والكبد والرئة التي يؤدي فيها التندّب دورًا رئيسيًا."
   },
   "en": {
-   "block": "We don't know what switches regeneration off in mammals.",
-   "known": "Salamanders regrow whole limbs; the human liver can partly regrow itself.",
+   "block": "Mammals usually heal injuries with a scar that blocks regrowth; why salamanders avoid scarring is still being worked out.",
+   "known": "Salamanders regrow amputated limbs, and the liver can regrow to restore its size and function after part of it is removed.",
    "leads": "Organoids, bioelectric signals that guide tissue shape, gene regulation studies in regenerating animals.",
    "s": "Regeneration",
    "t": "Can humans regrow lost limbs and organs?",
    "why": "Humans may have untapped potential to regenerate. Unlocking it could help people regrow tissues and organs lost to disease or injury, and improve treatment of heart, kidney, liver and lung diseases in which scarring plays a major role."
   },
   "es": {
-   "block": "No sabemos qué apaga la regeneración en los mamíferos.",
-   "known": "Las salamandras regeneran extremidades enteras; el hígado humano puede regenerarse en parte.",
+   "block": "Los mamíferos suelen curar las heridas con una cicatriz que impide la regeneración; aún se investiga por qué las salamandras evitan cicatrizar.",
+   "known": "Las salamandras regeneran las extremidades amputadas, y el hígado puede regenerarse hasta recuperar su tamaño y su función tras extirpar una parte.",
    "leads": "Organoides, señales bioeléctricas que guían la forma de los tejidos, estudios de regulación génica en animales que se regeneran.",
    "s": "Regeneración",
    "t": "¿Pueden los humanos regenerar miembros y órganos perdidos?",
    "why": "Es posible que los seres humanos tengan un potencial de regeneración sin explotar. Liberarlo podría ayudar a regenerar tejidos y órganos perdidos por enfermedad o lesión, y mejorar el tratamiento de enfermedades del corazón, el riñón, el hígado y el pulmón en las que la cicatrización tiene un papel importante."
   },
   "fr": {
-   "block": "On ignore ce qui éteint la régénération chez les mammifères.",
-   "known": "La salamandre fait repousser un membre entier ; le foie humain se régénère en partie.",
+   "block": "Les mammifères guérissent généralement leurs blessures en formant une cicatrice qui empêche la repousse ; on cherche encore à comprendre pourquoi les salamandres y échappent.",
+   "known": "Les salamandres font repousser un membre amputé, et le foie peut se régénérer pour retrouver sa taille et sa fonction après l'ablation d'une partie.",
    "leads": "Organoïdes, signaux bioélectriques qui guident la forme des tissus, étude des gènes des animaux qui se régénèrent.",
    "s": "Régénération",
    "t": "L'humain peut-il faire repousser des membres ou des organes ?",
    "why": "Les humains ont peut-être un potentiel de régénération inexploité. Le libérer pourrait aider à faire repousser des tissus et des organes perdus à cause d'une maladie ou d'une blessure, et améliorer le traitement des maladies du cœur, des reins, du foie et des poumons dans lesquelles la cicatrisation joue un rôle majeur."
   },
   "hi": {
-   "block": "हम नहीं जानते कि स्तनधारियों में पुनर्जनन को क्या बंद कर देता है।",
-   "known": "सैलामैंडर पूरे अंग फिर से उगा लेते हैं; मानव यकृत आंशिक रूप से खुद को दोबारा उगा सकता है।",
+   "block": "स्तनधारियों में चोट आमतौर पर एक निशान (स्कार) बनकर भरती है, जो दोबारा उगने को रोकता है; सैलामैंडर निशान बनने से क्यों बच जाते हैं, यह अभी भी समझा जा रहा है।",
+   "known": "सैलामैंडर कटे हुए अंग फिर से उगा लेते हैं, और यकृत (लिवर) का एक हिस्सा निकाल दिए जाने के बाद वह फिर से बढ़कर अपना आकार और कार्य वापस पा सकता है।",
    "leads": "ऑर्गेनॉइड, ऊतक के आकार को निर्देशित करने वाले जैवविद्युत संकेत, पुनर्जनन करने वाले जानवरों में जीन नियमन के अध्ययन।",
    "s": "पुनर्जनन",
    "t": "क्या मनुष्य खोए हुए अंग फिर से उगा सकते हैं?",
    "why": "मनुष्यों में पुनर्जनन की ऐसी क्षमता हो सकती है जिसका अभी उपयोग नहीं हुआ है। इसे जगाना बीमारी या चोट में खोए ऊतकों और अंगों को फिर से उगाने में मदद कर सकता है, और हृदय, गुर्दे, यकृत व फेफड़ों की उन बीमारियों के इलाज को बेहतर बना सकता है जिनमें निशान (स्कार) बनना बड़ी भूमिका निभाता है।"
   },
   "pt": {
-   "block": "Não sabemos o que desliga a regeneração nos mamíferos.",
-   "known": "As salamandras regeneram membros inteiros; o fígado humano consegue se regenerar em parte.",
+   "block": "Os mamíferos costumam curar ferimentos com uma cicatriz que impede a regeneração; ainda se investiga por que as salamandras evitam a cicatrização.",
+   "known": "As salamandras regeneram membros amputados, e o fígado pode regenerar-se até recuperar o tamanho e a função depois de ser retirada uma parte dele.",
    "leads": "Organoides, sinais bioelétricos que orientam a forma dos tecidos, estudos de regulação gênica em animais que se regeneram.",
    "s": "Regeneração",
    "t": "Os humanos podem regenerar membros e órgãos perdidos?",
    "why": "Os seres humanos podem ter um potencial de regeneração inexplorado. Desbloqueá-lo poderia ajudar as pessoas a regenerar tecidos e órgãos perdidos por doença ou lesão, e melhorar o tratamento de doenças do coração, rins, fígado e pulmões nas quais a cicatrização tem papel importante."
   },
   "zh": {
-   "block": "我们不知道是什么在哺乳动物身上关闭了再生。",
-   "known": "蝾螈能再生整条肢体;人类的肝脏可以部分自行再生。",
+   "block": "哺乳动物受伤后通常会形成疤痕，而疤痕会阻碍再生；蝾螈为何能避免留疤仍在研究之中。",
+   "known": "蝾螈能重新长出被截断的肢体；肝脏在被切除一部分后也能再生，恢复原有的大小和功能。",
    "leads": "类器官,引导组织形态的生物电信号,对再生动物的基因调控研究。",
    "s": "再生",
    "t": "人类能再生失去的肢体和器官吗?",
@@ -71,7 +71,12 @@
    "u": "https://pubmed.ncbi.nlm.nih.gov/40399677/"
   },
   {
-   "t": "New insight into regeneration in mammals (ScienceDaily)",
+   "t": "Liver regeneration — mechanisms and models to clinical application",
+   "ty": "reference",
+   "u": "https://www.nature.com/articles/nrgastro.2016.97"
+  },
+  {
+   "t": "Scientist identifies signaling underlying regeneration (ScienceDaily)",
    "ty": "press",
    "u": "https://www.sciencedaily.com/releases/2021/06/210602153417.htm"
   }

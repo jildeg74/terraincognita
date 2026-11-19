@@ -134,7 +134,7 @@ def build(page, docs, out, changes=()):
         body = top(lang, 'index.html') + f'<h1>{e(X["list"])}</h1><p>{e(X["listIntro"])}</p>{groups}' + foot(lang, X)
         open(os.path.join(out, lang, 'index.html'), 'w', encoding='utf-8').write(
             shell(lang, f'{X["list"]} · Terra Incognita', X['listIntro'], f'{lang}/index.html', body, tokens, 'index.html'))
-        secs = ''.join(f'<h2>{e(h)}</h2><p>{e(p)}</p>' for h, p in X['aboutBody']).replace('contact@juvason.com', '<a href="mailto:contact@juvason.com">contact@juvason.com</a>')
+        secs = ''.join(f'<h2>{e(h)}</h2><p>{e(p)}</p>' for h, p in X['aboutBody']).replace('contact@juvason.com', '<a href="mailto:contact@juvason.com">contact@juvason.com</a>').replace('https://doi.org/10.5281/zenodo.24356516', '<a href="https://doi.org/10.5281/zenodo.24356516">https://doi.org/10.5281/zenodo.24356516</a>')
         body = top(lang, 'about.html') + f'<h1>{e(X["aboutTitle"])}</h1>{secs}' + foot(lang, X)
         open(os.path.join(out, lang, 'about.html'), 'w', encoding='utf-8').write(
             shell(lang, f'{X["aboutTitle"]}', X['aboutBody'][0][1], f'{lang}/about.html', body, tokens, 'about.html'))

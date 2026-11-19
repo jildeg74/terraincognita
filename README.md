@@ -1,5 +1,7 @@
 # Terra Incognita
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24356516.svg)](https://doi.org/10.5281/zenodo.24356516)
+
 A living map of what humanity does not know yet: great open scientific questions, linked together, each with what we know, what blocks us, current leads and sources. Seven languages: English, 中文, Español, हिन्दी, العربية, Français, Português.
 
 Website: https://terraincognita.ca

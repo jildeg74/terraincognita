@@ -88,7 +88,7 @@ site/                      site public généré (ne pas éditer à la main)
 ## 8. À faire / pistes
 
 - [x] Google Search Console : propriété « Domaine » terraincognita.ca validée (via GoDaddy), sitemap envoyé le 18/11/2026.
-- [x] Zenodo relié à GitHub le 18/11/2026 : chaque « release » GitHub est archivée avec un DOI (v1.0 publiée le 18/11/2026).
+- [x] Zenodo relié à GitHub le 18/11/2026 : chaque « release » GitHub est archivée avec un DOI (v1.0 publiée le 18/11/2026). DOI : 10.5281/zenodo.24356516 (https://doi.org/10.5281/zenodo.24356516).
 - [ ] Choisir un outil d'envoi du bilan mensuel par courriel (les adresses sont collectées dans Netlify > Forms > newsletter) — avant début décembre 2026.
 - [ ] Recruter des chercheurs relecteurs par domaine (affichés « Relu par » avec leur institution).
 - [ ] Revenus envisagés : subventions (science ouverte), accès aux données/API pour organisations, rapports sur mesure.
@@ -96,4 +96,5 @@ site/                      site public généré (ne pas éditer à la main)
 
 ## 9. Journal
 
+- **2026-11-18** — Version v1.0 archivée sur Zenodo, DOI 10.5281/zenodo.24356516. Search Console validé, sitemap envoyé.
 - **2026-11-18** — Création. 100 questions en 7 langues, site en ligne sur terraincognita.ca. Rattrapage par 4 agents + 4 vérificateurs indépendants : études relues ajoutées (39 → 99/100), 273 sous-questions, une dizaine d'affirmations corrigées ou retirées. Dépôt GitHub devenu source de vérité, règles `AGENT.md`, contrôle automatique. Pages par question, liste, à propos, éditeur Juvason. Formulaires Netlify activés (→ contact@juvason.com). Plan Netlify payant après épuisement des crédits gratuits. Questions résolues, image d'aperçu, chargement par langue, historique par question.

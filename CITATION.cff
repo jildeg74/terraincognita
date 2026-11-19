@@ -6,5 +6,8 @@ authors:
   - name: Terra Incognita contributors
 license: CC-BY-4.0
 url: "https://terraincognita.ca"
+doi: 10.5281/zenodo.24356516
+repository-code: "https://github.com/jildeg74/terraincognita"
+version: "1.0"
 date-released: 2026-11-18
 keywords: [open questions, science, knowledge map, multilingual]

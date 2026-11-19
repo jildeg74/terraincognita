@@ -66,12 +66,12 @@ site/                      site public généré (ne pas éditer à la main)
 | Google Search Console | Indexation Google, pays des visiteurs | Propriété « Domaine » terraincognita.ca, sitemap `https://terraincognita.ca/sitemap.xml` |
 | Zenodo | Archive à vie + DOI pour citer les données | Relié au dépôt ; créer une release GitHub (v1.1, v2.0…) pour archiver une nouvelle version, par exemple une fois par an ou après un gros changement |
 
-**Leçon apprise (18/11/2026)** : sur Netlify, chaque publication consomme des crédits. Une douzaine de petites publications le même jour a épuisé le plan gratuit et bloqué les mises à jour. **Regrouper les changements en un seul envoi** ; en régime normal, seule la veille du lundi publie (~4-5 fois par mois).
+**Leçon apprise (18/11/2026)** : sur Netlify, chaque publication consomme des crédits. Une douzaine de petites publications le même jour a épuisé le plan gratuit et bloqué les mises à jour. **Regrouper les changements en un seul envoi** ; depuis le 19/11/2026, un envoi qui ne modifie pas `site/` ni `netlify.toml` ne déclenche plus de publication (`ignore` dans `netlify.toml`) ; en régime normal, seule la veille du lundi publie (~4-5 fois par mois).
 
 ## 6. Fonctionnement courant
 
 - **Chaque semaine** : la veille revérifie ~25 questions (un quart de la carte), règle d'abord `OPEN_ISSUES.md`, met à jour textes et sources dans les 7 langues, fait vérifier par un second agent indépendant, valide, construit, publie, et envoie un rapport.
-- **Début de chaque mois** : bilan mensuel dans `data/digests/`, et jusqu'à 5 nouvelles questions (règles dans `AGENT.md`, « Growing the map ») : environ 160 questions après un an.
+- **Début de chaque mois** : bilan mensuel dans `data/digests/`, et jusqu'à 2 nouvelles questions, seulement si les points de `OPEN_ISSUES.md` qui peuvent l'être sont réglés (règles dans `AGENT.md`, « Growing the map »). Phase de consolidation : les fiches existantes passent d'abord.
 - **Messages du public** : arrivent à contact@juvason.com via Netlify. Les propositions sérieuses sont traitées comme une mise à jour normale (source obligatoire).
 - **Ajouter une question** : voir `AGENT.md` (question réellement ouverte, reconnue dans la littérature, au moins une étude ou référence, 7 langues, liens dans les deux sens).
 - **Ajouter une langue** : ajouter la langue dans `UI` et `LANGS` (page/index.html), dans `tools/strings.json`, dans `LANGS` de `tools/build_pages.py` et `tools/validate.py`, puis traduire toutes les questions et sous-questions, avec vérification. Décision du 18/11/2026 : ne pas ajouter de langue tant que les visiteurs ne le demandent pas (voir les pays dans Search Console). Ordre envisagé : russe, puis bengali et indonésien, idéalement avec un relecteur humain.
@@ -97,6 +97,7 @@ site/                      site public généré (ne pas éditer à la main)
 
 ## 9. Journal
 
+- **2026-11-19** — Règle de croissance réduite à 2 questions par mois maximum, et seulement après le règlement des points ouverts (consolidation d'abord, avis convergent de 4 IA consultées). Netlify ne publie plus quand un envoi ne touche pas `site/` (fichiers de documentation seulement).
 - **2026-11-19** — Points ouverts réglés (12 sur 13) : 16 fiches corrigées en 7 langues (connectome, régénération, cellule virtuelle, énergie sombre, climat, productivité, sources de matière-antimatière, nourrir 10 milliards, dispersion humaine, addiction, intelligence-bio, 5 problèmes Clay). Chiffre « zettaoctet » retiré, traductions ar/hi de l'énergie sombre corrigées. Vérifié par un agent indépendant (16/16 acceptées). Reste ouvert : coût énergétique de l'IA, et 3 points relevés pendant la vérification (voir `OPEN_ISSUES.md`).
 - **2026-11-18** — Logo « points reliés » (icône d'onglet, écran d'accueil, profils de réseaux sociaux).
 - **2026-11-18** — Rubrique « Pourquoi c'est important » ajoutée aux 100 questions (7 langues), rédigée par 4 agents, vérifiée par 4 vérificateurs indépendants (54 acceptées telles quelles, 46 corrigées, 0 rejetée).

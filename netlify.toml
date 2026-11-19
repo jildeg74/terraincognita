@@ -1,2 +1,4 @@
 [build]
   publish = "site"
+  # Skip the Netlify deploy when a push changes nothing in site/ or this file (saves credits)
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- site/ netlify.toml"

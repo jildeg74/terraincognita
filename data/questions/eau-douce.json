@@ -7,49 +7,56 @@
    "known": "لا يزال مليارات الناس يفتقرون إلى مياه شرب مُدارة بأمان.",
    "leads": "أغشية تحلية أرخص، وإعادة استخدام المياه، وري أفضل.",
    "s": "المياه العذبة",
-   "t": "هل ستتوفر مياه عذبة كافية للجميع؟"
+   "t": "هل ستتوفر مياه عذبة كافية للجميع؟",
+   "why": "لا يزال نحو شخص من كل 4 أشخاص يفتقر إلى مياه شرب مُدارة بشكل مأمون، ونقص خدمات المياه والصرف الصحي والنظافة يعرّض الناس لخطر الأمراض. والإجابة عن هذا السؤال قد تساعد على حماية الصحة وسبل العيش، في وقت تتراجع فيه المياه الجوفية المستنزفة وتجف فيه بعض الآبار."
   },
   "en": {
    "block": "Groundwater is being depleted, and desalination uses a lot of energy.",
    "known": "Billions of people still lack safely managed drinking water.",
    "leads": "Cheaper desalination membranes, water reuse, better irrigation.",
    "s": "Fresh water",
-   "t": "Will there be enough fresh water for everyone?"
+   "t": "Will there be enough fresh water for everyone?",
+   "why": "About 1 in 4 people still lack safely managed drinking water, and lacking water, sanitation and hygiene services puts people at risk of disease. Answering this question could help protect health and livelihoods as overused groundwater declines and some wells run dry."
   },
   "es": {
    "block": "Las aguas subterráneas se están agotando, y la desalinización consume mucha energía.",
    "known": "Miles de millones de personas siguen sin agua potable gestionada de forma segura.",
    "leads": "Membranas de desalinización más baratas, reutilización del agua, mejor riego.",
    "s": "Agua dulce",
-   "t": "¿Habrá agua dulce suficiente para todos?"
+   "t": "¿Habrá agua dulce suficiente para todos?",
+   "why": "Alrededor de 1 de cada 4 personas todavía no tiene agua potable gestionada de forma segura, y la falta de servicios de agua, saneamiento e higiene expone a las personas a enfermedades. Responder a esta pregunta podría ayudar a proteger la salud y los medios de vida a medida que las aguas subterráneas sobreexplotadas descienden y algunos pozos se secan."
   },
   "fr": {
    "block": "Les nappes souterraines s'épuisent et le dessalement consomme beaucoup d'énergie.",
    "known": "Des milliards de personnes n'ont toujours pas accès à une eau potable gérée en toute sécurité.",
    "leads": "Membranes de dessalement moins chères, réutilisation de l'eau, irrigation plus efficace.",
    "s": "Eau douce",
-   "t": "Y aura-t-il assez d'eau douce pour tout le monde ?"
+   "t": "Y aura-t-il assez d'eau douce pour tout le monde ?",
+   "why": "Environ 1 personne sur 4 n'a toujours pas accès à une eau potable gérée en toute sécurité, et le manque de services d'eau, d'assainissement et d'hygiène expose à des maladies. Répondre à cette question pourrait aider à protéger la santé et les moyens de subsistance, alors que des nappes souterraines surexploitées baissent et que certains puits s'assèchent."
   },
   "hi": {
    "block": "भूजल खत्म हो रहा है, और विलवणीकरण में बहुत ऊर्जा लगती है।",
    "known": "अरबों लोगों के पास अब भी सुरक्षित रूप से प्रबंधित पेयजल नहीं है।",
    "leads": "सस्ती विलवणीकरण झिल्लियाँ, जल का पुनः उपयोग, बेहतर सिंचाई।",
    "s": "मीठा पानी",
-   "t": "क्या सबके लिए पर्याप्त मीठा पानी होगा?"
+   "t": "क्या सबके लिए पर्याप्त मीठा पानी होगा?",
+   "why": "लगभग हर 4 में से 1 व्यक्ति को अब भी सुरक्षित रूप से प्रबंधित पेयजल नहीं मिलता, और पानी, स्वच्छता और साफ़-सफ़ाई की सेवाओं की कमी लोगों को बीमारी के खतरे में डालती है। इस प्रश्न का उत्तर स्वास्थ्य और आजीविका की रक्षा में मदद कर सकता है, क्योंकि ज़रूरत से ज़्यादा इस्तेमाल किया गया भूजल घट रहा है और कुछ कुएँ सूख रहे हैं।"
   },
   "pt": {
    "block": "As águas subterrâneas estão se esgotando, e a dessalinização consome muita energia.",
    "known": "Bilhões de pessoas ainda não têm acesso a água potável gerida de forma segura.",
    "leads": "Membranas de dessalinização mais baratas, reúso de água, irrigação melhor.",
    "s": "Água doce",
-   "t": "Haverá água doce suficiente para todos?"
+   "t": "Haverá água doce suficiente para todos?",
+   "why": "Cerca de 1 em cada 4 pessoas ainda não tem acesso a água potável gerida de forma segura, e a falta de serviços de água, saneamento e higiene expõe as pessoas a doenças. Responder a esta pergunta poderia ajudar a proteger a saúde e os meios de subsistência, à medida que águas subterrâneas superexploradas declinam e alguns poços secam."
   },
   "zh": {
    "block": "地下水正在被耗尽,而海水淡化耗能很大。",
    "known": "全世界仍有数十亿人缺少安全管理的饮用水。",
    "leads": "更便宜的海水淡化膜,水的再利用,更好的灌溉。",
    "s": "淡水",
-   "t": "会有足够的淡水供所有人使用吗?"
+   "t": "会有足够的淡水供所有人使用吗?",
+   "why": "全球约四分之一的人仍无法获得安全管理的饮用水，而缺乏饮水、环境卫生和个人卫生服务会使人们面临患病风险。回答这个问题可能有助于保护人们的健康和生计，因为过度开采的地下水正在下降，一些水井已经干涸。"
   }
  },
  "links": [

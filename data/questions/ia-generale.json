@@ -7,49 +7,56 @@
    "known": "النماذج الحالية شديدة القدرة وتتحسن بسرعة.",
    "leads": "قابلية التفسير، والإشراف القابل للتوسع، وتقييم القدرات الخطرة.",
    "s": "ذكاء اصطناعي عام متوافق",
-   "t": "كيف نبني ذكاءً اصطناعيًا عامًا موثوقًا ومتوافقًا مع مصالحنا؟"
+   "t": "كيف نبني ذكاءً اصطناعيًا عامًا موثوقًا ومتوافقًا مع مصالحنا؟",
+   "why": "يمكن للذكاء الاصطناعي متعدد الأغراض أن يساعد على نمو الاقتصادات وتحسين حياة الناس، لكنه قد يُستخدم أيضًا لإلحاق الأذى أو يسبب ضررًا عن غير قصد. وجعله موثوقًا ومتوافقًا مع مصالحنا سيساعد على تحقيق هذه الفوائد مع الحدّ من المخاطر."
   },
   "en": {
    "block": "We can't yet verify what a model is really trying to do, or guarantee its behavior.",
    "known": "Current models are highly capable and improving fast.",
    "leads": "Interpretability, scalable oversight, evaluations of dangerous capabilities.",
    "s": "Aligned general AI",
-   "t": "How do we build general AI that is reliable and aligned with our interests?"
+   "t": "How do we build general AI that is reliable and aligned with our interests?",
+   "why": "General-purpose AI could help grow economies and improve lives, but it can also be misused to cause harm, or cause harm unintentionally. Making it reliable and aligned with our interests would help secure those benefits while limiting the risks."
   },
   "es": {
    "block": "Todavía no podemos verificar lo que un modelo intenta realmente hacer, ni garantizar su comportamiento.",
    "known": "Los modelos actuales son muy capaces y mejoran rápidamente.",
    "leads": "Interpretabilidad, supervisión escalable, evaluaciones de capacidades peligrosas.",
    "s": "IA general alineada",
-   "t": "¿Cómo construimos una IA general fiable y alineada con nuestros intereses?"
+   "t": "¿Cómo construimos una IA general fiable y alineada con nuestros intereses?",
+   "why": "La IA de propósito general podría ayudar a hacer crecer las economías y mejorar la vida de las personas, pero también puede usarse para causar daño o causarlo por accidente. Hacerla fiable y alineada con nuestros intereses ayudaría a asegurar esos beneficios limitando los riesgos."
   },
   "fr": {
    "block": "On ne sait pas encore vérifier ce qu'un modèle cherche vraiment à faire, ni garantir son comportement.",
    "known": "Les modèles actuels sont très capables et progressent vite.",
    "leads": "Interprétabilité, supervision à grande échelle, évaluations des capacités dangereuses.",
    "s": "IA générale alignée",
-   "t": "Comment construire une IA générale fiable et alignée sur nos intérêts ?"
+   "t": "Comment construire une IA générale fiable et alignée sur nos intérêts ?",
+   "why": "L'IA à usage général pourrait aider à faire croître les économies et à améliorer les conditions de vie, mais elle peut aussi être utilisée pour nuire ou causer des dommages par accident. La rendre fiable et alignée sur nos intérêts aiderait à obtenir ces bénéfices tout en limitant les risques."
   },
   "hi": {
    "block": "हम अभी यह सत्यापित नहीं कर सकते कि कोई मॉडल वास्तव में क्या करने की कोशिश कर रहा है, या उसके व्यवहार की गारंटी नहीं दे सकते।",
    "known": "मौजूदा मॉडल अत्यधिक सक्षम हैं और तेज़ी से बेहतर हो रहे हैं।",
    "leads": "व्याख्येयता, स्केलेबल निरीक्षण, खतरनाक क्षमताओं के मूल्यांकन।",
    "s": "संरेखित सामान्य AI",
-   "t": "हम ऐसा सामान्य AI कैसे बनाएँ जो भरोसेमंद हो और हमारे हितों के अनुरूप हो?"
+   "t": "हम ऐसा सामान्य AI कैसे बनाएँ जो भरोसेमंद हो और हमारे हितों के अनुरूप हो?",
+   "why": "सामान्य-उद्देश्य AI अर्थव्यवस्थाओं को बढ़ाने और जीवन बेहतर बनाने में मदद कर सकता है, लेकिन इसका इस्तेमाल नुकसान पहुँचाने के लिए भी हो सकता है या यह अनजाने में नुकसान कर सकता है। इसे भरोसेमंद और हमारे हितों के अनुरूप बनाना, जोखिमों को सीमित करते हुए इन लाभों को पाने में मदद करेगा।"
   },
   "pt": {
    "block": "Ainda não conseguimos verificar o que um modelo realmente busca fazer, nem garantir seu comportamento.",
    "known": "Os modelos atuais são muito capazes e melhoram rapidamente.",
    "leads": "Interpretabilidade, supervisão escalável, avaliações de capacidades perigosas.",
    "s": "IA geral alinhada",
-   "t": "Como construir uma IA geral confiável e alinhada aos nossos interesses?"
+   "t": "Como construir uma IA geral confiável e alinhada aos nossos interesses?",
+   "why": "A IA de uso geral poderia ajudar a fazer as economias crescerem e a melhorar vidas, mas também pode ser usada para causar danos ou causá-los por acidente. Torná-la confiável e alinhada aos nossos interesses ajudaria a garantir esses benefícios limitando os riscos."
   },
   "zh": {
    "block": "我们还无法验证模型真正想做什么,也无法保证它的行为。",
    "known": "当前的模型能力很强,而且进步很快。",
    "leads": "可解释性,可扩展监督,对危险能力的评估。",
    "s": "对齐的通用AI",
-   "t": "我们如何构建可靠且符合我们利益的通用人工智能?"
+   "t": "我们如何构建可靠且符合我们利益的通用人工智能?",
+   "why": "通用人工智能可以帮助经济增长、改善人们的生活，但它也可能被用来造成伤害，或意外地造成伤害。让它可靠并符合我们的利益，将有助于获得这些好处，同时限制风险。"
   }
  },
  "links": [

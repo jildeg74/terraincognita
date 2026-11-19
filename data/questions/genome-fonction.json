@@ -7,49 +7,56 @@
    "known": "نحو 1–2% فقط من الجينوم البشري يشفّر البروتينات.",
    "leads": "مسوح وظيفية واسعة النطاق، ونماذج ذكاء اصطناعي مدرَّبة على جينومات كاملة.",
    "s": "وظيفة الجينوم",
-   "t": "ما الذي يفعله معظم حمضنا النووي فعلًا؟"
+   "t": "ما الذي يفعله معظم حمضنا النووي فعلًا؟",
+   "why": "لا يشفّر البروتينات سوى جزء صغير من حمضنا النووي، ومع ذلك تقع معظم مناطق الحمض النووي المرتبطة بالأمراض بعيدًا عن الجينات المشفّرة للبروتينات. ومعرفة ما يفعله باقي الجينوم ستساعد على تفسير كيف تؤثر الاختلافات في هذه المناطق في الصحة."
   },
   "en": {
    "block": "How much of the rest has a function is still hotly debated.",
    "known": "Only about 1–2% of the human genome codes for proteins.",
    "leads": "Large-scale functional screens, AI models trained on whole genomes.",
    "s": "Genome function",
-   "t": "What does most of our DNA actually do?"
+   "t": "What does most of our DNA actually do?",
+   "why": "Only a small fraction of our DNA codes for proteins, yet most DNA regions linked to disease lie far from protein-coding genes. Knowing what the rest of the genome does would help explain how variations in these regions affect health."
   },
   "es": {
    "block": "Cuánto del resto tiene una función sigue siendo muy debatido.",
    "known": "Solo alrededor del 1–2 % del genoma humano codifica proteínas.",
    "leads": "Cribados funcionales a gran escala, modelos de IA entrenados con genomas completos.",
    "s": "Función del genoma",
-   "t": "¿Qué hace en realidad la mayor parte de nuestro ADN?"
+   "t": "¿Qué hace en realidad la mayor parte de nuestro ADN?",
+   "why": "Solo una pequeña parte de nuestro ADN codifica proteínas, y sin embargo la mayoría de las regiones de ADN vinculadas a enfermedades están lejos de los genes que codifican proteínas. Saber qué hace el resto del genoma ayudaría a explicar cómo las variaciones en estas regiones afectan a la salud."
   },
   "fr": {
    "block": "La part du reste qui a une fonction fait encore débat.",
    "known": "Seulement 1 à 2 % du génome humain code des protéines.",
    "leads": "Criblages fonctionnels à grande échelle, modèles d'IA entraînés sur des génomes entiers.",
    "s": "Fonction du génome",
-   "t": "À quoi sert vraiment la majeure partie de notre ADN ?"
+   "t": "À quoi sert vraiment la majeure partie de notre ADN ?",
+   "why": "Seule une petite partie de notre ADN code des protéines, et pourtant la plupart des régions d'ADN associées à des maladies se trouvent loin des gènes codant des protéines. Savoir ce que fait le reste du génome aiderait à expliquer comment les variations dans ces régions influent sur la santé."
   },
   "hi": {
    "block": "बाकी का कितना हिस्सा कोई कार्य करता है, इस पर अब भी तीखी बहस है।",
    "known": "मानव जीनोम का केवल लगभग 1–2% प्रोटीन के लिए कोड करता है।",
    "leads": "बड़े पैमाने की कार्यात्मक स्क्रीनिंग, पूरे जीनोम पर प्रशिक्षित AI मॉडल।",
    "s": "जीनोम का कार्य",
-   "t": "हमारा अधिकांश DNA वास्तव में क्या करता है?"
+   "t": "हमारा अधिकांश DNA वास्तव में क्या करता है?",
+   "why": "हमारे डीएनए का केवल एक छोटा हिस्सा प्रोटीन बनाने का कोड रखता है, फिर भी बीमारियों से जुड़े अधिकांश डीएनए क्षेत्र प्रोटीन-कोडिंग जीनों से दूर होते हैं। जीनोम का बाकी हिस्सा क्या करता है, यह जानना समझाने में मदद करेगा कि इन क्षेत्रों में होने वाली विविधताएँ स्वास्थ्य को कैसे प्रभावित करती हैं।"
   },
   "pt": {
    "block": "O quanto do restante tem função ainda é muito debatido.",
    "known": "Apenas cerca de 1–2% do genoma humano codifica proteínas.",
    "leads": "Triagens funcionais em larga escala, modelos de IA treinados com genomas inteiros.",
    "s": "Função do genoma",
-   "t": "O que a maior parte do nosso DNA realmente faz?"
+   "t": "O que a maior parte do nosso DNA realmente faz?",
+   "why": "Apenas uma pequena parte do nosso DNA codifica proteínas, e ainda assim a maioria das regiões de DNA ligadas a doenças fica longe dos genes que codificam proteínas. Saber o que faz o resto do genoma ajudaria a explicar como as variações nessas regiões afetam a saúde."
   },
   "zh": {
    "block": "其余部分有多少具有功能,仍然争论激烈。",
    "known": "人类基因组中只有约1%到2%编码蛋白质。",
    "leads": "大规模功能筛选,用全基因组训练的AI模型。",
    "s": "基因组功能",
-   "t": "我们的DNA大部分到底在做什么?"
+   "t": "我们的DNA大部分到底在做什么?",
+   "why": "我们的DNA中只有一小部分编码蛋白质，但大多数与疾病相关的DNA区域都远离编码蛋白质的基因。弄清基因组其余部分的作用，将有助于解释这些区域的变异如何影响健康。"
   }
  },
  "links": [

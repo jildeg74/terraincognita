@@ -7,49 +7,56 @@
    "known": "تصف هذه المعادلات الماء والهواء والطقس، وتُستخدم في كل مكان في الهندسة.",
    "leads": "بحث بمساعدة الذكاء الاصطناعي عن التفردات، وبراهين متحقَّق منها حاسوبيًا.",
    "s": "نافييه–ستوكس",
-   "t": "هل لمعادلات الموائع حل سلس دائمًا؟"
+   "t": "هل لمعادلات الموائع حل سلس دائمًا؟",
+   "why": "تصف هذه المعادلات كيف يجري الماء والهواء. ويمكن لفهم حلولها أن يساعد في تفسير وتوقّع ظواهر مثل النسيم أو الاضطرابات أثناء رحلة بطائرة نفاثة، ومن شأن البرهان أن يبيّن ما إذا كانت الحلول موجودة دائمًا ووحيدة."
   },
   "en": {
    "block": "We can't prove they never blow up to infinite values, and turbulence remains poorly understood.",
    "known": "These equations describe water, air and weather, and are used everywhere in engineering.",
    "leads": "AI-assisted search for singularities and computer-verified proofs.",
    "s": "Navier–Stokes",
-   "t": "Do the equations of fluids always have a smooth solution?"
+   "t": "Do the equations of fluids always have a smooth solution?",
+   "why": "These equations describe how water and air flow. Understanding their solutions could help explain and predict things like a breeze or the turbulence on a jet flight, and a proof would show whether solutions always exist and are unique."
   },
   "es": {
    "block": "No podemos demostrar que nunca divergen a valores infinitos, y la turbulencia sigue entendiéndose mal.",
    "known": "Estas ecuaciones describen el agua, el aire y el tiempo atmosférico, y se usan en todas partes en ingeniería.",
    "leads": "Búsqueda de singularidades asistida por IA y demostraciones verificadas por ordenador.",
    "s": "Navier–Stokes",
-   "t": "¿Tienen siempre una solución suave las ecuaciones de los fluidos?"
+   "t": "¿Tienen siempre una solución suave las ecuaciones de los fluidos?",
+   "why": "Estas ecuaciones describen cómo fluyen el agua y el aire. Entender sus soluciones podría ayudar a explicar y predecir fenómenos como una brisa o las turbulencias en un vuelo en avión a reacción, y una demostración mostraría si las soluciones siempre existen y son únicas."
   },
   "fr": {
    "block": "On ne sait pas prouver qu'elles ne produisent jamais de valeurs infinies, et la turbulence reste mal comprise.",
    "known": "Ces équations décrivent l'eau, l'air et la météo, et on les utilise partout en ingénierie.",
    "leads": "Recherche de singularités assistée par IA et preuves vérifiées par ordinateur.",
    "s": "Navier-Stokes",
-   "t": "Les équations des fluides ont-elles toujours une solution régulière ?"
+   "t": "Les équations des fluides ont-elles toujours une solution régulière ?",
+   "why": "Ces équations décrivent l'écoulement de l'eau et de l'air. Comprendre leurs solutions pourrait aider à expliquer et à prévoir des phénomènes comme une brise ou les turbulences d'un vol en avion à réaction, et une preuve montrerait si les solutions existent toujours et sont uniques."
   },
   "hi": {
    "block": "हम यह सिद्ध नहीं कर सकते कि वे कभी अनंत मानों तक नहीं फूटते, और विक्षोभ (टर्बुलेंस) अब भी कम समझा गया है।",
    "known": "ये समीकरण पानी, हवा और मौसम का वर्णन करते हैं और इंजीनियरिंग में हर जगह इस्तेमाल होते हैं।",
    "leads": "विलक्षणताओं की AI-सहायता से खोज और कंप्यूटर द्वारा सत्यापित प्रमाण।",
    "s": "नेवियर-स्टोक्स",
-   "t": "क्या तरल पदार्थों के समीकरणों का हमेशा एक सहज हल होता है?"
+   "t": "क्या तरल पदार्थों के समीकरणों का हमेशा एक सहज हल होता है?",
+   "why": "ये समीकरण बताते हैं कि पानी और हवा कैसे बहते हैं। इनके हलों को समझना हल्की हवा या जेट विमान की उड़ान में होने वाली अशांति (टर्बुलेंस) जैसी चीज़ों को समझाने और उनका पूर्वानुमान लगाने में मदद कर सकता है, और एक प्रमाण दिखाएगा कि क्या हल हमेशा मौजूद और अद्वितीय होते हैं।"
   },
   "pt": {
    "block": "Não conseguimos provar que elas nunca explodem para valores infinitos, e a turbulência continua mal compreendida.",
    "known": "Essas equações descrevem a água, o ar e o clima, e são usadas em toda a engenharia.",
    "leads": "Busca de singularidades assistida por IA e demonstrações verificadas por computador.",
    "s": "Navier–Stokes",
-   "t": "As equações dos fluidos sempre têm uma solução suave?"
+   "t": "As equações dos fluidos sempre têm uma solução suave?",
+   "why": "Estas equações descrevem como a água e o ar fluem. Compreender as suas soluções poderia ajudar a explicar e prever fenómenos como uma brisa ou a turbulência num voo de avião a jato, e uma prova mostraria se as soluções existem sempre e são únicas."
   },
   "zh": {
    "block": "我们无法证明它们不会爆破成无穷大的值,湍流也仍然没有被很好地理解。",
    "known": "这些方程描述水、空气和天气,在工程中被广泛使用。",
    "leads": "借助AI搜寻奇点,经计算机验证的证明。",
    "s": "纳维-斯托克斯",
-   "t": "流体方程总是有光滑解吗?"
+   "t": "流体方程总是有光滑解吗?",
+   "why": "这些方程描述了水和空气如何流动。理解它们的解可能有助于解释和预测诸如微风或喷气式飞机飞行中的湍流等现象，而一个证明将表明解是否总是存在且唯一。"
   }
  },
  "links": [

@@ -7,49 +7,56 @@
    "known": "في عام 2020، صُمّمت لقاحات mRNA في غضون أيام من نشر جينوم الفيروس.",
    "leads": "مراقبة مياه الصرف الصحي، ولقاحات مُعدّة مسبقًا لعائلات فيروسية بأكملها.",
    "s": "الوقاية من الجوائح",
-   "t": "هل يمكننا إيقاف الجائحة القادمة قبل أن تنتشر؟"
+   "t": "هل يمكننا إيقاف الجائحة القادمة قبل أن تنتشر؟",
+   "why": "تشير النماذج إلى أنه كان من الممكن تجنّب ملايين الوفيات بكوفيد-19 لو وصلت اللقاحات في وقت أبكر. ورصد التهديدات الجديدة مبكرًا، مثلًا في مياه الصرف، وإنتاج اللقاحات خلال 100 يوم قد يحتويان تفشي الأمراض قبل أن يخرج عن السيطرة."
   },
   "en": {
    "block": "Detecting new outbreaks is slow and very unequal across the world.",
    "known": "In 2020, mRNA vaccines were designed within days of the virus's genome being published.",
    "leads": "Wastewater surveillance, vaccines prepared in advance for whole virus families.",
    "s": "Pandemic prevention",
-   "t": "Can we stop the next pandemic before it spreads?"
+   "t": "Can we stop the next pandemic before it spreads?",
+   "why": "Modelling suggests millions of COVID-19 deaths could have been avoided had vaccines arrived sooner. Spotting new threats early, for example in wastewater, and making vaccines within 100 days could contain outbreaks before they spiral out of control."
   },
   "es": {
    "block": "Detectar nuevos brotes es lento y muy desigual en el mundo.",
    "known": "En 2020, las vacunas de ARNm se diseñaron a los pocos días de publicarse el genoma del virus.",
    "leads": "Vigilancia de aguas residuales, vacunas preparadas de antemano para familias enteras de virus.",
    "s": "Prevención de pandemias",
-   "t": "¿Podemos detener la próxima pandemia antes de que se propague?"
+   "t": "¿Podemos detener la próxima pandemia antes de que se propague?",
+   "why": "Los modelos sugieren que millones de muertes por COVID-19 podrían haberse evitado si las vacunas hubieran llegado antes. Detectar pronto nuevas amenazas, por ejemplo en las aguas residuales, y fabricar vacunas en 100 días podría contener los brotes antes de que se descontrolen."
   },
   "fr": {
    "block": "La détection des nouvelles épidémies est lente et très inégale selon les pays.",
    "known": "En 2020, des vaccins à ARNm ont été conçus quelques jours après la publication du génome du virus.",
    "leads": "Surveillance des eaux usées, vaccins préparés d'avance pour des familles entières de virus.",
    "s": "Prévenir les pandémies",
-   "t": "Peut-on arrêter la prochaine pandémie avant qu'elle se propage ?"
+   "t": "Peut-on arrêter la prochaine pandémie avant qu'elle se propage ?",
+   "why": "Des modélisations suggèrent que des millions de décès dus au COVID-19 auraient pu être évités si les vaccins étaient arrivés plus tôt. Repérer tôt les nouvelles menaces, par exemple dans les eaux usées, et produire des vaccins en 100 jours pourrait contenir les épidémies avant qu'elles ne deviennent incontrôlables."
   },
   "hi": {
    "block": "नए प्रकोपों का पता लगाना धीमा है और दुनिया भर में बहुत असमान है।",
    "known": "2020 में वायरस का जीनोम प्रकाशित होने के कुछ ही दिनों में mRNA टीके डिज़ाइन कर लिए गए।",
    "leads": "अपशिष्ट जल निगरानी, वायरस के पूरे परिवारों के लिए पहले से तैयार टीके।",
    "s": "महामारी की रोकथाम",
-   "t": "क्या हम अगली महामारी को फैलने से पहले रोक सकते हैं?"
+   "t": "क्या हम अगली महामारी को फैलने से पहले रोक सकते हैं?",
+   "why": "मॉडलिंग से पता चलता है कि अगर टीके जल्दी आ जाते तो कोविड-19 से हुई लाखों मौतें टाली जा सकती थीं। नए ख़तरों को जल्दी पहचानना, जैसे गंदे पानी (अपशिष्ट जल) की जाँच से, और 100 दिनों के भीतर टीके बनाना प्रकोपों को बेकाबू होने से पहले रोक सकता है।"
   },
   "pt": {
    "block": "A detecção de novos surtos é lenta e muito desigual pelo mundo.",
    "known": "Em 2020, vacinas de mRNA foram projetadas em poucos dias após a publicação do genoma do vírus.",
    "leads": "Vigilância de esgoto, vacinas preparadas com antecedência para famílias inteiras de vírus.",
    "s": "Prevenção de pandemias",
-   "t": "Podemos deter a próxima pandemia antes que ela se espalhe?"
+   "t": "Podemos deter a próxima pandemia antes que ela se espalhe?",
+   "why": "Modelos sugerem que milhões de mortes por COVID-19 poderiam ter sido evitadas se as vacinas tivessem chegado antes. Detectar cedo novas ameaças, por exemplo no esgoto, e produzir vacinas em 100 dias poderia conter surtos antes que saiam do controle."
   },
   "zh": {
    "block": "发现新疫情很慢,而且世界各地极不平等。",
    "known": "2020年,在病毒基因组公布后的几天内,就设计出了mRNA疫苗。",
    "leads": "污水监测，为整个病毒家族提前准备的疫苗。",
    "s": "预防大流行",
-   "t": "我们能在下一场大流行扩散之前阻止它吗?"
+   "t": "我们能在下一场大流行扩散之前阻止它吗?",
+   "why": "模型研究表明，如果疫苗能更早问世，数以百万计的新冠死亡本可以避免。及早发现新的威胁（例如通过污水监测），并在100天内研制出疫苗，可能在疫情失控之前将其遏制。"
   }
  },
  "links": [

@@ -7,49 +7,56 @@
    "known": "معظم التنافسات لا تتحول قط إلى حروب؛ وغالبًا ما تنشأ الحروب من فشل المساومة وانعدام الثقة.",
    "leads": "نماذج الإنذار المبكر، وأبحاث الوساطة والردع.",
    "s": "أسباب الحرب",
-   "t": "لماذا تندلع الحروب، وكيف يمكن منعها؟"
+   "t": "لماذا تندلع الحروب، وكيف يمكن منعها؟",
+   "why": "الحرب محفوفة بالمخاطر ومكلفة، وفي حالات كثيرة يوجد اتفاق يفضّله الطرفان على القتال. ومعرفة لماذا تفشل مثل هذه الاتفاقات، بسبب الخداع أو الوعود التي لا يمكن الوثوق بها، قد تساعد على إيجاد تسويات سلمية قبل اندلاع القتال."
   },
   "en": {
    "block": "Each conflict is unique, and predicting them is very hard.",
    "known": "Most rivalries never become wars; wars often come from failed bargaining and mistrust.",
    "leads": "Early-warning models, research on mediation and deterrence.",
    "s": "Causes of war",
-   "t": "Why do wars start, and how can they be prevented?"
+   "t": "Why do wars start, and how can they be prevented?",
+   "why": "War is risky and costly, and in many cases a deal exists that both sides would prefer to fighting. Knowing why such deals fail, through bluffing or promises that cannot be trusted, could help find peaceful settlements before fighting starts."
   },
   "es": {
    "block": "Cada conflicto es único, y predecirlos es muy difícil.",
    "known": "La mayoría de las rivalidades nunca llegan a guerra; las guerras suelen nacer de negociaciones fallidas y desconfianza.",
    "leads": "Modelos de alerta temprana, investigación sobre mediación y disuasión.",
    "s": "Causas de la guerra",
-   "t": "¿Por qué empiezan las guerras y cómo se pueden prevenir?"
+   "t": "¿Por qué empiezan las guerras y cómo se pueden prevenir?",
+   "why": "La guerra es arriesgada y costosa, y en muchos casos existe un acuerdo que ambas partes preferirían a combatir. Saber por qué fracasan esos acuerdos, por faroles o por promesas en las que no se puede confiar, podría ayudar a encontrar soluciones pacíficas antes de que empiecen los combates."
   },
   "fr": {
    "block": "Chaque conflit est unique, et les prévoir est très difficile.",
    "known": "La plupart des rivalités ne deviennent jamais des guerres ; celles-ci naissent souvent d'échecs de négociation et de méfiance.",
    "leads": "Modèles d'alerte précoce, recherche sur la médiation et la dissuasion.",
    "s": "Causes des guerres",
-   "t": "Pourquoi les guerres éclatent-elles, et comment les éviter ?"
+   "t": "Pourquoi les guerres éclatent-elles, et comment les éviter ?",
+   "why": "La guerre est risquée et coûteuse, et dans bien des cas il existe un accord que les deux camps préféreraient au combat. Savoir pourquoi de tels accords échouent, à cause du bluff ou de promesses auxquelles on ne peut pas se fier, pourrait aider à trouver des règlements pacifiques avant le début des combats."
   },
   "hi": {
    "block": "हर संघर्ष अनोखा है, और उनका पूर्वानुमान लगाना बहुत कठिन है।",
    "known": "अधिकांश प्रतिद्वंद्विताएँ कभी युद्ध नहीं बनतीं; युद्ध अक्सर विफल वार्ता और अविश्वास से आते हैं।",
    "leads": "पूर्व-चेतावनी मॉडल, मध्यस्थता और निवारण पर शोध।",
    "s": "युद्धों के कारण",
-   "t": "युद्ध क्यों शुरू होते हैं, और उन्हें कैसे रोका जा सकता है?"
+   "t": "युद्ध क्यों शुरू होते हैं, और उन्हें कैसे रोका जा सकता है?",
+   "why": "युद्ध जोखिम भरा और महँगा होता है, और कई मामलों में ऐसा समझौता मौजूद होता है जिसे दोनों पक्ष लड़ने के बजाय पसंद करेंगे। यह जानना कि ऐसे समझौते झाँसे या भरोसा न किए जा सकने वाले वादों के कारण क्यों विफल होते हैं, लड़ाई शुरू होने से पहले शांतिपूर्ण समाधान खोजने में मदद कर सकता है।"
   },
   "pt": {
    "block": "Cada conflito é único, e prevê-los é muito difícil.",
    "known": "A maioria das rivalidades nunca vira guerra; as guerras costumam nascer de negociações fracassadas e de desconfiança.",
    "leads": "Modelos de alerta precoce, pesquisas sobre mediação e dissuasão.",
    "s": "Causas da guerra",
-   "t": "Por que as guerras começam, e como podem ser evitadas?"
+   "t": "Por que as guerras começam, e como podem ser evitadas?",
+   "why": "A guerra é arriscada e custosa, e em muitos casos existe um acordo que ambos os lados prefeririam ao combate. Saber por que esses acordos falham, por bluff ou por promessas em que não se pode confiar, poderia ajudar a encontrar soluções pacíficas antes de os combates começarem."
   },
   "zh": {
    "block": "每场冲突都是独一无二的,预测它们非常困难。",
    "known": "大多数敌对关系从未演变成战争;战争往往源于谈判破裂和互不信任。",
    "leads": "预警模型,调解与威慑研究。",
    "s": "战争的成因",
-   "t": "战争为什么会爆发,又如何预防?"
+   "t": "战争为什么会爆发,又如何预防?",
+   "why": "战争既危险又代价高昂，在许多情况下，存在一种双方都宁愿接受而不愿开战的协议。了解这类协议为何会因虚张声势或无法信任的承诺而失败，可能有助于在战斗开始前找到和平解决方案。"
   }
  },
  "links": [

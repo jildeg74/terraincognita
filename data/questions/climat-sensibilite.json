@@ -7,49 +7,56 @@
    "known": "يضع الفريق الحكومي الدولي المعني بتغير المناخ الإجابة المرجّحة بين 2.5 و4 درجات مئوية.",
    "leads": "نماذج مناخية بدقة كيلومترية، ومحاكيات مناخية بالذكاء الاصطناعي.",
    "s": "حساسية المناخ",
-   "t": "بكم سترتفع حرارة الأرض إذا تضاعف ثاني أكسيد الكربون؟"
+   "t": "بكم سترتفع حرارة الأرض إذا تضاعف ثاني أكسيد الكربون؟",
+   "why": "تشير حساسية المناخ إلى مدى سرعة احترار الأرض عند مستوى معيّن من الانبعاثات. وتحديدها بدقة سيوضح كمية ثاني أكسيد الكربون التي لا يزال يمكن إطلاقها مع تحقيق أهداف اتفاق باريس، والتغيرات المحلية في الحرارة والجفاف المتوقعة."
   },
   "en": {
    "block": "Clouds, too small for current models, dominate the uncertainty.",
    "known": "The IPCC puts the likely answer between 2.5 and 4 °C.",
    "leads": "Kilometer-scale climate models, AI climate emulators.",
    "s": "Climate sensitivity",
-   "t": "How much will Earth warm if CO2 doubles?"
+   "t": "How much will Earth warm if CO2 doubles?",
+   "why": "Climate sensitivity indicates how fast Earth will warm for a given level of emissions. Pinning it down would clarify how much more CO2 can be emitted while meeting the Paris Agreement goals, and what local changes in heat and dryness to expect."
   },
   "es": {
    "block": "Las nubes, demasiado pequeñas para los modelos actuales, dominan la incertidumbre.",
    "known": "El IPCC sitúa la respuesta probable entre 2,5 y 4 °C.",
    "leads": "Modelos climáticos a escala de kilómetros, emuladores climáticos de IA.",
    "s": "Sensibilidad climática",
-   "t": "¿Cuánto se calentará la Tierra si se duplica el CO2?"
+   "t": "¿Cuánto se calentará la Tierra si se duplica el CO2?",
+   "why": "La sensibilidad climática indica a qué ritmo se calentará la Tierra para un nivel dado de emisiones. Precisarla aclararía cuánto CO2 más puede emitirse sin dejar de cumplir los objetivos del Acuerdo de París, y qué cambios locales de calor y sequedad cabe esperar."
   },
   "fr": {
    "block": "Les nuages, trop petits pour les modèles actuels, dominent l'incertitude.",
    "known": "Le GIEC estime la réponse probable entre 2,5 et 4 °C.",
    "leads": "Modèles climatiques à résolution kilométrique, émulateurs climatiques par IA.",
    "s": "Sensibilité climatique",
-   "t": "De combien la Terre se réchauffera-t-elle si on double le CO2 ?"
+   "t": "De combien la Terre se réchauffera-t-elle si on double le CO2 ?",
+   "why": "La sensibilité climatique indique à quelle vitesse la Terre se réchauffera pour un niveau d'émissions donné. La préciser permettrait de mieux savoir combien de CO2 peut encore être émis tout en respectant les objectifs de l'accord de Paris, et à quels changements locaux de chaleur et de sécheresse s'attendre."
   },
   "hi": {
    "block": "बादल, जो मौजूदा मॉडलों के लिए बहुत छोटे हैं, अनिश्चितता पर हावी हैं।",
    "known": "IPCC के अनुसार संभावित उत्तर 2.5 से 4 °C के बीच है।",
    "leads": "किलोमीटर-पैमाने के जलवायु मॉडल, AI जलवायु अनुकारक।",
    "s": "जलवायु संवेदनशीलता",
-   "t": "CO2 दोगुनी होने पर पृथ्वी कितनी गर्म होगी?"
+   "t": "CO2 दोगुनी होने पर पृथ्वी कितनी गर्म होगी?",
+   "why": "जलवायु संवेदनशीलता बताती है कि उत्सर्जन के किसी दिए गए स्तर पर पृथ्वी कितनी तेज़ी से गर्म होगी। इसे सटीक रूप से तय करने से यह साफ़ होगा कि पेरिस समझौते के लक्ष्यों को पूरा करते हुए और कितना CO2 छोड़ा जा सकता है, और स्थानीय स्तर पर गर्मी और सूखेपन में कैसे बदलाव की उम्मीद करनी चाहिए।"
   },
   "pt": {
    "block": "As nuvens, pequenas demais para os modelos atuais, dominam a incerteza.",
    "known": "O IPCC situa a resposta provável entre 2,5 e 4 °C.",
    "leads": "Modelos climáticos em escala de quilômetros, emuladores climáticos de IA.",
    "s": "Sensibilidade climática",
-   "t": "Quanto a Terra vai esquentar se o CO2 dobrar?"
+   "t": "Quanto a Terra vai esquentar se o CO2 dobrar?",
+   "why": "A sensibilidade climática indica a rapidez com que a Terra vai aquecer para um dado nível de emissões. Determiná-la com precisão esclareceria quanto CO2 ainda pode ser emitido cumprindo as metas do Acordo de Paris, e que mudanças locais de calor e secura esperar."
   },
   "zh": {
    "block": "云太小,现有模型无法分辨,它们是不确定性的主要来源。",
    "known": "政府间气候变化专门委员会(IPCC)认为,可能的答案在2.5到4摄氏度之间。",
    "leads": "公里尺度的气候模型,AI气候模拟器。",
    "s": "气候敏感度",
-   "t": "二氧化碳翻倍后地球会升温多少?"
+   "t": "二氧化碳翻倍后地球会升温多少?",
+   "why": "气候敏感度表明在一定排放水平下地球会以多快的速度变暖。把它确定下来，将有助于弄清在实现《巴黎协定》目标的前提下还能排放多少二氧化碳，以及当地的高温和干旱会发生怎样的变化。"
   }
  },
  "links": [

@@ -7,49 +7,56 @@
    "known": "تُدرَّب النماذج بمبادئ مكتوبة وبملاحظات بشرية.",
    "leads": "عمليات استطلاع آراء الجمهور، ودساتير منشورة لنماذج الذكاء الاصطناعي.",
    "s": "قيم الذكاء الاصطناعي",
-   "t": "قيم من ينبغي أن يتبعها الذكاء الاصطناعي؟"
+   "t": "قيم من ينبغي أن يتبعها الذكاء الاصطناعي؟",
+   "why": "اليوم، يختار مطوّرو الذكاء الاصطناعي إلى حد كبير القيم التي يتبعها، وقد تتباين آراء الناس. وإيجاد طرق مشروعة لدمج آراء أعداد كبيرة من الناس في خيارات جماعية بشأن سلوك النموذج سيساعد على تحديد قيم مَن ستتبعها أنظمة الذكاء الاصطناعي في النهاية."
   },
   "en": {
    "block": "People and cultures disagree, and there is no accepted way to combine their views.",
    "known": "Models are trained with written principles and human feedback.",
    "leads": "Public input processes, published constitutions for AI models.",
    "s": "AI values",
-   "t": "Whose values should AI follow?"
+   "t": "Whose values should AI follow?",
+   "why": "Today the developers of an AI largely choose the values it follows, and people's views can diverge. Finding legitimate ways to combine many people's input into collective choices about a model's behaviour would help decide whose values AI systems end up following."
   },
   "es": {
    "block": "Las personas y las culturas discrepan, y no hay una forma aceptada de combinar sus puntos de vista.",
    "known": "Los modelos se entrenan con principios escritos y retroalimentación humana.",
    "leads": "Procesos de consulta pública, constituciones publicadas para modelos de IA.",
    "s": "Valores de la IA",
-   "t": "¿Qué valores debería seguir la IA?"
+   "t": "¿Qué valores debería seguir la IA?",
+   "why": "Hoy son en gran medida los desarrolladores de una IA quienes eligen los valores que sigue, y las opiniones de la gente pueden divergir. Encontrar formas legítimas de combinar las aportaciones de muchas personas en decisiones colectivas sobre el comportamiento de un modelo ayudaría a decidir de quién son los valores que acaban siguiendo los sistemas de IA."
   },
   "fr": {
    "block": "Les personnes et les cultures divergent, et aucune méthode reconnue ne combine leurs points de vue.",
    "known": "Les modèles sont entraînés avec des principes écrits et des retours humains.",
    "leads": "Processus de consultation publique, constitutions publiées pour les modèles.",
    "s": "Valeurs de l'IA",
-   "t": "Les valeurs de qui l'IA doit-elle suivre ?"
+   "t": "Les valeurs de qui l'IA doit-elle suivre ?",
+   "why": "Aujourd'hui, ce sont surtout les développeurs d'une IA qui choisissent les valeurs qu'elle suit, et les avis des gens peuvent diverger. Trouver des moyens légitimes de combiner l'avis de nombreuses personnes en choix collectifs sur le comportement d'un modèle aiderait à décider à qui appartiennent les valeurs que les systèmes d'IA finissent par suivre."
   },
   "hi": {
    "block": "लोगों और संस्कृतियों में मतभेद है, और उनके विचारों को मिलाने का कोई स्वीकृत तरीका नहीं है।",
    "known": "मॉडलों को लिखित सिद्धांतों और मानवीय प्रतिक्रिया से प्रशिक्षित किया जाता है।",
    "leads": "जन-सहभागिता की प्रक्रियाएँ, AI मॉडलों के लिए प्रकाशित संविधान।",
    "s": "AI के मूल्य",
-   "t": "AI को किसके मूल्यों का पालन करना चाहिए?"
+   "t": "AI को किसके मूल्यों का पालन करना चाहिए?",
+   "why": "आज किसी AI के मूल्य मुख्य रूप से उसके डेवलपर तय करते हैं, और लोगों के विचार अलग-अलग हो सकते हैं। बहुत से लोगों की राय को किसी मॉडल के व्यवहार के बारे में सामूहिक निर्णयों में जोड़ने के वैध तरीके खोजना यह तय करने में मदद करेगा कि AI प्रणालियाँ आखिरकार किसके मूल्यों का पालन करेंगी।"
   },
   "pt": {
    "block": "As pessoas e as culturas divergem, e não há uma forma aceita de combinar seus pontos de vista.",
    "known": "Os modelos são treinados com princípios escritos e com feedback humano.",
    "leads": "Processos de consulta pública, constituições publicadas para modelos de IA.",
    "s": "Valores da IA",
-   "t": "Os valores de quem a IA deve seguir?"
+   "t": "Os valores de quem a IA deve seguir?",
+   "why": "Hoje são, em grande parte, os desenvolvedores de uma IA que escolhem os valores que ela segue, e as opiniões das pessoas podem divergir. Encontrar formas legítimas de combinar a contribuição de muitas pessoas em escolhas coletivas sobre o comportamento de um modelo ajudaria a decidir de quem são os valores que os sistemas de IA acabam seguindo."
   },
   "zh": {
    "block": "人与文化之间存在分歧,也没有公认的方法来综合各方的观点。",
    "known": "模型是通过书面原则和人类反馈来训练的。",
    "leads": "公众参与机制,为AI模型公布的行为准则(宪法)。",
    "s": "AI价值观",
-   "t": "人工智能应该遵循谁的价值观?"
+   "t": "人工智能应该遵循谁的价值观?",
+   "why": "如今，人工智能遵循什么价值观在很大程度上由其开发者决定，而人们的看法可能存在分歧。找到正当的方法，把许多人的意见汇集成关于模型行为的集体选择，将有助于决定人工智能系统最终遵循谁的价值观。"
   }
  },
  "links": [

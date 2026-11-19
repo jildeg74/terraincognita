@@ -7,49 +7,56 @@
    "known": "للجينات والبيئة دور كلاهما. وأدى العلاج بخلايا CAR-T إلى هدأة دائمة لدى بعض مرضى الذئبة.",
    "leads": "إعادة ضبط الجهاز المناعي بخلايا CAR-T، ولقاحات تعلّم التحمّل.",
    "s": "أمراض المناعة الذاتية",
-   "t": "لماذا يهاجم الجهاز المناعي جسمه؟"
+   "t": "لماذا يهاجم الجهاز المناعي جسمه؟",
+   "why": "تصيب نحو 140 من أمراض المناعة الذاتية، مثل الذئبة والتهاب المفاصل الروماتويدي، عشرات الملايين من الناس. والأدوية الحالية تهدّئ الأعراض لكنها لا تُصلح المشكلة؛ أما فهم سبب مهاجمة جهاز المناعة للجسم نفسه فقد يقود إلى علاجات أكثر دقة."
   },
   "en": {
    "block": "What triggers the attack in the first place remains unclear.",
    "known": "Genes and environment both play a role. CAR-T cell therapy has put some lupus patients into lasting remission.",
    "leads": "Resetting the immune system with CAR-T cells, vaccines that teach tolerance.",
    "s": "Autoimmune disease",
-   "t": "Why does the immune system attack its own body?"
+   "t": "Why does the immune system attack its own body?",
+   "why": "About 140 autoimmune diseases, such as lupus and rheumatoid arthritis, affect tens of millions of people. Today's drugs calm symptoms but do not correct the problem; knowing why the immune system turns on the body could lead to more precise treatments."
   },
   "es": {
    "block": "Sigue sin estar claro qué desencadena el ataque en primer lugar.",
    "known": "Los genes y el entorno influyen ambos. La terapia con células CAR-T ha llevado a algunos pacientes con lupus a una remisión duradera.",
    "leads": "Reiniciar el sistema inmunitario con células CAR-T, vacunas que enseñan tolerancia.",
    "s": "Enfermedad autoinmune",
-   "t": "¿Por qué el sistema inmunitario ataca al propio cuerpo?"
+   "t": "¿Por qué el sistema inmunitario ataca al propio cuerpo?",
+   "why": "Unas 140 enfermedades autoinmunes, como el lupus y la artritis reumatoide, afectan a decenas de millones de personas. Los fármacos actuales calman los síntomas pero no corrigen el problema; saber por qué el sistema inmunitario ataca al propio cuerpo podría llevar a tratamientos más precisos."
   },
   "fr": {
    "block": "On ignore encore ce qui déclenche l'attaque au départ.",
    "known": "Les gènes et l'environnement jouent tous deux un rôle. Les cellules CAR-T ont mis certains malades du lupus en rémission durable.",
    "leads": "« Réinitialiser » le système immunitaire avec des CAR-T, vaccins qui enseignent la tolérance.",
    "s": "Maladies auto-immunes",
-   "t": "Pourquoi le système immunitaire attaque-t-il son propre corps ?"
+   "t": "Pourquoi le système immunitaire attaque-t-il son propre corps ?",
+   "why": "Environ 140 maladies auto-immunes, comme le lupus et la polyarthrite rhumatoïde, touchent des dizaines de millions de personnes. Les médicaments actuels atténuent les symptômes sans corriger le problème ; comprendre pourquoi le système immunitaire s'en prend au corps pourrait mener à des traitements plus précis."
   },
   "hi": {
    "block": "सबसे पहले हमले को क्या शुरू करता है, यह अब भी अस्पष्ट है।",
    "known": "जीन और पर्यावरण दोनों की भूमिका होती है। CAR-T कोशिका चिकित्सा ने ल्यूपस के कुछ रोगियों को स्थायी राहत दिलाई है।",
    "leads": "CAR-T कोशिकाओं से प्रतिरक्षा तंत्र को रीसेट करना, सहनशीलता सिखाने वाले टीके।",
    "s": "स्वप्रतिरक्षी रोग",
-   "t": "प्रतिरक्षा तंत्र अपने ही शरीर पर हमला क्यों करता है?"
+   "t": "प्रतिरक्षा तंत्र अपने ही शरीर पर हमला क्यों करता है?",
+   "why": "लगभग 140 ऑटोइम्यून बीमारियाँ, जैसे ल्यूपस और रुमेटाइड आर्थराइटिस, करोड़ों लोगों को प्रभावित करती हैं। आज की दवाएँ लक्षणों को शांत करती हैं, पर समस्या को ठीक नहीं करतीं; यह जानना कि प्रतिरक्षा तंत्र शरीर पर ही हमला क्यों करता है, अधिक सटीक उपचारों तक ले जा सकता है।"
   },
   "pt": {
    "block": "O que desencadeia o ataque em primeiro lugar continua incerto.",
    "known": "Genes e ambiente têm um papel. A terapia com células CAR-T levou alguns pacientes com lúpus a uma remissão duradoura.",
    "leads": "Reiniciar o sistema imunológico com células CAR-T, vacinas que ensinam tolerância.",
    "s": "Doença autoimune",
-   "t": "Por que o sistema imunológico ataca o próprio corpo?"
+   "t": "Por que o sistema imunológico ataca o próprio corpo?",
+   "why": "Cerca de 140 doenças autoimunes, como o lúpus e a artrite reumatoide, afetam dezenas de milhões de pessoas. Os medicamentos atuais aliviam os sintomas, mas não corrigem o problema; saber por que o sistema imunológico ataca o próprio corpo poderia levar a tratamentos mais precisos."
   },
   "zh": {
    "block": "最初是什么引发了这种攻击,仍不清楚。",
    "known": "基因和环境都起作用。CAR-T细胞疗法已使一些红斑狼疮患者获得持久缓解。",
    "leads": "用CAR-T细胞重置免疫系统,教会免疫耐受的疫苗。",
    "s": "自身免疫病",
-   "t": "免疫系统为什么会攻击自己的身体?"
+   "t": "免疫系统为什么会攻击自己的身体?",
+   "why": "约有140种自身免疫病（如狼疮和类风湿关节炎）影响着数千万人。现有药物能缓解症状，却无法纠正问题本身；弄清免疫系统为何攻击自身，可能带来更精准的治疗。"
   }
  },
  "links": [

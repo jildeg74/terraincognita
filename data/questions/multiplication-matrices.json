@@ -7,49 +7,56 @@
    "known": "أفضل أُس معروف يبلغ نحو 2.371؛ وفي عام 2026 خفّضه بحث بمساعدة الذكاء الاصطناعي قليلًا مرة أخرى.",
    "leads": "الطرائق الجبرية، والبحث عن الخوارزميات بالذكاء الاصطناعي.",
    "s": "ضرب المصفوفات",
-   "t": "ما سرعة ضرب مصفوفتين؟"
+   "t": "ما سرعة ضرب مصفوفتين؟",
+   "why": "يمكن ردّ معظم الجبر الخطي الدقيق على الحواسيب إلى ضرب المصفوفات. لذا يمكن لطرق أسرع أن تسرّع العمل على بعض المسائل الأساسية في الجبر الخطي وعلوم الحاسوب."
   },
   "en": {
    "block": "No one knows whether the ideal exponent of 2 is reachable.",
    "known": "The best known exponent is about 2.371; in 2026, an AI-assisted search lowered it slightly once more.",
    "leads": "Algebraic methods, AI-driven algorithm search.",
    "s": "Matrix multiplication",
-   "t": "How fast can two matrices be multiplied?"
+   "t": "How fast can two matrices be multiplied?",
+   "why": "Most of exact linear algebra on computers can be reduced to multiplying matrices. Faster methods could therefore speed up work on some fundamental problems in linear algebra and computer science."
   },
   "es": {
    "block": "Nadie sabe si el exponente ideal de 2 es alcanzable.",
    "known": "El mejor exponente conocido ronda 2,371; en 2026, una búsqueda asistida por IA lo redujo ligeramente una vez más.",
    "leads": "Métodos algebraicos, búsqueda de algoritmos guiada por IA.",
    "s": "Multiplicación de matrices",
-   "t": "¿Con qué rapidez se pueden multiplicar dos matrices?"
+   "t": "¿Con qué rapidez se pueden multiplicar dos matrices?",
+   "why": "La mayor parte del álgebra lineal exacta en computadoras puede reducirse a multiplicar matrices. Por eso, métodos más rápidos podrían acelerar el trabajo en algunos problemas fundamentales del álgebra lineal y la informática."
   },
   "fr": {
    "block": "On ignore si l'exposant idéal de 2 est atteignable.",
    "known": "Le meilleur exposant connu est d'environ 2,371 ; en 2026, une recherche assistée par IA l'a encore légèrement abaissé.",
    "leads": "Méthodes algébriques, recherche d'algorithmes par IA.",
    "s": "Multiplication de matrices",
-   "t": "À quelle vitesse peut-on multiplier deux matrices ?"
+   "t": "À quelle vitesse peut-on multiplier deux matrices ?",
+   "why": "La plus grande partie de l'algèbre linéaire exacte sur ordinateur peut se ramener à des multiplications de matrices. Des méthodes plus rapides pourraient donc accélérer le travail sur certains problèmes fondamentaux d'algèbre linéaire et d'informatique."
   },
   "hi": {
    "block": "कोई नहीं जानता कि 2 का आदर्श घातांक प्राप्त किया जा सकता है या नहीं।",
    "known": "सबसे अच्छा ज्ञात घातांक लगभग 2.371 है; 2026 में AI-सहायता प्राप्त खोज ने इसे फिर से थोड़ा घटाया।",
    "leads": "बीजगणितीय विधियाँ, AI-संचालित एल्गोरिथम खोज।",
    "s": "मैट्रिक्स गुणन",
-   "t": "दो मैट्रिक्सों को कितनी तेज़ी से गुणा किया जा सकता है?"
+   "t": "दो मैट्रिक्सों को कितनी तेज़ी से गुणा किया जा सकता है?",
+   "why": "कंप्यूटर पर सटीक रैखिक बीजगणित का अधिकांश हिस्सा आव्यूहों (मैट्रिक्स) के गुणन तक घटाया जा सकता है। इसलिए तेज़ विधियाँ रैखिक बीजगणित और कंप्यूटर विज्ञान की कुछ बुनियादी समस्याओं पर काम को तेज़ कर सकती हैं।"
   },
   "pt": {
    "block": "Ninguém sabe se o expoente ideal, 2, é alcançável.",
    "known": "O melhor expoente conhecido é cerca de 2,371; em 2026, uma busca assistida por IA o reduziu levemente mais uma vez.",
    "leads": "Métodos algébricos, busca de algoritmos guiada por IA.",
    "s": "Multiplicação de matrizes",
-   "t": "Com que rapidez duas matrizes podem ser multiplicadas?"
+   "t": "Com que rapidez duas matrizes podem ser multiplicadas?",
+   "why": "A maior parte da álgebra linear exata em computador pode ser reduzida à multiplicação de matrizes. Por isso, métodos mais rápidos poderiam acelerar o trabalho em alguns problemas fundamentais da álgebra linear e da ciência da computação."
   },
   "zh": {
    "block": "没有人知道理想的指数2是否可以达到。",
    "known": "目前已知的最佳指数约为2.371;2026年,一种AI辅助的搜索方法又将其略微降低。",
    "leads": "代数方法,AI驱动的算法搜索。",
    "s": "矩阵乘法",
-   "t": "两个矩阵相乘能有多快?"
+   "t": "两个矩阵相乘能有多快?",
+   "why": "计算机上的大部分精确线性代数运算都可以归结为矩阵乘法。因此，更快的方法可能会加快线性代数和计算机科学中一些基本问题的求解。"
   }
  },
  "links": [

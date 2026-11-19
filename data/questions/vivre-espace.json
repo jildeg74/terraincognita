@@ -7,49 +7,56 @@
    "known": "يعيش البشر في محطة الفضاء الدولية باستمرار منذ عام 2000، وقد خفّضت الصواريخ القابلة لإعادة الاستخدام كلفة الإطلاق.",
    "leads": "قواعد قمرية، واستخدام المواد المحلية على القمر والمريخ.",
    "s": "العيش في الفضاء",
-   "t": "هل يمكن للبشر العيش الدائم خارج الأرض؟"
+   "t": "هل يمكن للبشر العيش الدائم خارج الأرض؟",
+   "why": "الإجابة عنه ستساعد على تحديد ما إذا كان بإمكان البشر السفر بأمان إلى المريخ والعيش بعيدًا عن الأرض لفترات طويلة. ويتطلب ذلك السيطرة على مخاطر صحية جسيمة، منها السرطان وأمراض القلب والأوعية الدموية وتراجع القدرات الذهنية الناجمة عن الإشعاع الفضائي."
   },
   "en": {
    "block": "Radiation, low gravity and fully closed life-support systems.",
    "known": "People have lived on the International Space Station continuously since 2000, and reusable rockets have cut launch costs.",
    "leads": "Lunar bases, using local materials on the Moon and Mars.",
    "s": "Living in space",
-   "t": "Can humans live permanently beyond Earth?"
+   "t": "Can humans live permanently beyond Earth?",
+   "why": "Answering it would help decide whether people can safely travel to Mars and live away from Earth for long periods. That requires controlling serious health risks, including cancer, heart and blood vessel disease, and loss of mental abilities caused by space radiation."
   },
   "es": {
    "block": "Radiación, gravedad baja y sistemas de soporte vital totalmente cerrados.",
    "known": "Hay personas viviendo en la Estación Espacial Internacional de forma continua desde el año 2000, y los cohetes reutilizables han reducido los costes de lanzamiento.",
    "leads": "Bases lunares, uso de materiales locales en la Luna y Marte.",
    "s": "Vivir en el espacio",
-   "t": "¿Pueden los humanos vivir de forma permanente fuera de la Tierra?"
+   "t": "¿Pueden los humanos vivir de forma permanente fuera de la Tierra?",
+   "why": "Responderla ayudaría a decidir si las personas pueden viajar con seguridad a Marte y vivir lejos de la Tierra durante largos periodos. Para ello hay que controlar graves riesgos para la salud, entre ellos el cáncer, las enfermedades cardiovasculares y la pérdida de capacidades mentales causados por la radiación espacial."
   },
   "fr": {
    "block": "Radiations, faible gravité, systèmes de survie entièrement fermés.",
    "known": "Des humains vivent en permanence dans la Station spatiale internationale depuis 2000, et les fusées réutilisables ont fait baisser le coût des lancements.",
    "leads": "Bases lunaires, utilisation des matériaux locaux sur la Lune et Mars.",
    "s": "Vivre dans l'espace",
-   "t": "L'humain peut-il vivre durablement hors de la Terre ?"
+   "t": "L'humain peut-il vivre durablement hors de la Terre ?",
+   "why": "Y répondre aiderait à déterminer si des humains peuvent se rendre sans danger sur Mars et vivre longtemps loin de la Terre. Cela exige de maîtriser de graves risques pour la santé, dont le cancer, les maladies cardiovasculaires et la perte de capacités mentales causés par les radiations spatiales."
   },
   "hi": {
    "block": "विकिरण, कम गुरुत्व और पूरी तरह बंद जीवन-रक्षक प्रणालियाँ।",
    "known": "2000 से अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर लोग लगातार रह रहे हैं, और दोबारा इस्तेमाल होने वाले रॉकेटों ने प्रक्षेपण की लागत घटाई है।",
    "leads": "चंद्र अड्डे, चंद्रमा और मंगल पर स्थानीय सामग्री का उपयोग।",
    "s": "अंतरिक्ष में जीवन",
-   "t": "क्या मनुष्य पृथ्वी से परे स्थायी रूप से रह सकते हैं?"
+   "t": "क्या मनुष्य पृथ्वी से परे स्थायी रूप से रह सकते हैं?",
+   "why": "इसका जवाब यह तय करने में मदद करेगा कि क्या लोग सुरक्षित रूप से मंगल तक जा सकते हैं और लंबे समय तक पृथ्वी से दूर रह सकते हैं। इसके लिए गंभीर स्वास्थ्य जोखिमों पर काबू पाना ज़रूरी है, जिनमें अंतरिक्ष विकिरण से होने वाला कैंसर, हृदय और रक्त वाहिकाओं के रोग, और मानसिक क्षमताओं में कमी शामिल हैं।"
   },
   "pt": {
    "block": "Radiação, gravidade baixa e sistemas de suporte à vida totalmente fechados.",
    "known": "Pessoas vivem continuamente na Estação Espacial Internacional desde 2000, e os foguetes reutilizáveis reduziram os custos de lançamento.",
    "leads": "Bases lunares, uso de materiais locais na Lua e em Marte.",
    "s": "Viver no espaço",
-   "t": "Os humanos podem viver permanentemente fora da Terra?"
+   "t": "Os humanos podem viver permanentemente fora da Terra?",
+   "why": "Responder-lhe ajudaria a decidir se as pessoas podem viajar em segurança até Marte e viver longe da Terra durante longos períodos. Isso exige controlar riscos graves para a saúde, incluindo cancro, doenças cardiovasculares e perda de capacidades mentais causados pela radiação espacial."
   },
   "zh": {
    "block": "辐射、低重力,以及完全封闭的生命保障系统。",
    "known": "自2000年起,人类一直不间断地生活在国际空间站上,可重复使用的火箭也降低了发射成本。",
    "leads": "月球基地,利用月球和火星上的当地材料。",
    "s": "太空生活",
-   "t": "人类能在地球之外长期生活吗?"
+   "t": "人类能在地球之外长期生活吗?",
+   "why": "回答这个问题，将有助于判断人类能否安全前往火星并长期远离地球生活。这需要控制严重的健康风险，包括太空辐射引起的癌症、心血管疾病和认知能力下降。"
   }
  },
  "links": [

@@ -7,49 +7,56 @@
    "known": "تعيد السمندلات نمو أطراف كاملة؛ ويستطيع الكبد البشري إعادة نمو جزء منه.",
    "leads": "العُضيّات، والإشارات الكهروحيوية التي توجّه شكل الأنسجة، ودراسات تنظيم الجينات في الحيوانات المتجددة.",
    "s": "التجدد",
-   "t": "هل يستطيع البشر إعادة نمو الأطراف والأعضاء المفقودة؟"
+   "t": "هل يستطيع البشر إعادة نمو الأطراف والأعضاء المفقودة؟",
+   "why": "قد يمتلك البشر قدرة على التجدد لم تُستغل بعد. وإطلاقها قد يساعد الناس على إعادة إنماء أنسجة وأعضاء فُقدت بسبب المرض أو الإصابة، وعلى تحسين علاج أمراض القلب والكلى والكبد والرئة التي يؤدي فيها التندّب دورًا رئيسيًا."
   },
   "en": {
    "block": "We don't know what switches regeneration off in mammals.",
    "known": "Salamanders regrow whole limbs; the human liver can partly regrow itself.",
    "leads": "Organoids, bioelectric signals that guide tissue shape, gene regulation studies in regenerating animals.",
    "s": "Regeneration",
-   "t": "Can humans regrow lost limbs and organs?"
+   "t": "Can humans regrow lost limbs and organs?",
+   "why": "Humans may have untapped potential to regenerate. Unlocking it could help people regrow tissues and organs lost to disease or injury, and improve treatment of heart, kidney, liver and lung diseases in which scarring plays a major role."
   },
   "es": {
    "block": "No sabemos qué apaga la regeneración en los mamíferos.",
    "known": "Las salamandras regeneran extremidades enteras; el hígado humano puede regenerarse en parte.",
    "leads": "Organoides, señales bioeléctricas que guían la forma de los tejidos, estudios de regulación génica en animales que se regeneran.",
    "s": "Regeneración",
-   "t": "¿Pueden los humanos regenerar miembros y órganos perdidos?"
+   "t": "¿Pueden los humanos regenerar miembros y órganos perdidos?",
+   "why": "Es posible que los seres humanos tengan un potencial de regeneración sin explotar. Liberarlo podría ayudar a regenerar tejidos y órganos perdidos por enfermedad o lesión, y mejorar el tratamiento de enfermedades del corazón, el riñón, el hígado y el pulmón en las que la cicatrización tiene un papel importante."
   },
   "fr": {
    "block": "On ignore ce qui éteint la régénération chez les mammifères.",
    "known": "La salamandre fait repousser un membre entier ; le foie humain se régénère en partie.",
    "leads": "Organoïdes, signaux bioélectriques qui guident la forme des tissus, étude des gènes des animaux qui se régénèrent.",
    "s": "Régénération",
-   "t": "L'humain peut-il faire repousser des membres ou des organes ?"
+   "t": "L'humain peut-il faire repousser des membres ou des organes ?",
+   "why": "Les humains ont peut-être un potentiel de régénération inexploité. Le libérer pourrait aider à faire repousser des tissus et des organes perdus à cause d'une maladie ou d'une blessure, et améliorer le traitement des maladies du cœur, des reins, du foie et des poumons dans lesquelles la cicatrisation joue un rôle majeur."
   },
   "hi": {
    "block": "हम नहीं जानते कि स्तनधारियों में पुनर्जनन को क्या बंद कर देता है।",
    "known": "सैलामैंडर पूरे अंग फिर से उगा लेते हैं; मानव यकृत आंशिक रूप से खुद को दोबारा उगा सकता है।",
    "leads": "ऑर्गेनॉइड, ऊतक के आकार को निर्देशित करने वाले जैवविद्युत संकेत, पुनर्जनन करने वाले जानवरों में जीन नियमन के अध्ययन।",
    "s": "पुनर्जनन",
-   "t": "क्या मनुष्य खोए हुए अंग फिर से उगा सकते हैं?"
+   "t": "क्या मनुष्य खोए हुए अंग फिर से उगा सकते हैं?",
+   "why": "मनुष्यों में पुनर्जनन की ऐसी क्षमता हो सकती है जिसका अभी उपयोग नहीं हुआ है। इसे जगाना बीमारी या चोट में खोए ऊतकों और अंगों को फिर से उगाने में मदद कर सकता है, और हृदय, गुर्दे, यकृत व फेफड़ों की उन बीमारियों के इलाज को बेहतर बना सकता है जिनमें निशान (स्कार) बनना बड़ी भूमिका निभाता है।"
   },
   "pt": {
    "block": "Não sabemos o que desliga a regeneração nos mamíferos.",
    "known": "As salamandras regeneram membros inteiros; o fígado humano consegue se regenerar em parte.",
    "leads": "Organoides, sinais bioelétricos que orientam a forma dos tecidos, estudos de regulação gênica em animais que se regeneram.",
    "s": "Regeneração",
-   "t": "Os humanos podem regenerar membros e órgãos perdidos?"
+   "t": "Os humanos podem regenerar membros e órgãos perdidos?",
+   "why": "Os seres humanos podem ter um potencial de regeneração inexplorado. Desbloqueá-lo poderia ajudar as pessoas a regenerar tecidos e órgãos perdidos por doença ou lesão, e melhorar o tratamento de doenças do coração, rins, fígado e pulmões nas quais a cicatrização tem papel importante."
   },
   "zh": {
    "block": "我们不知道是什么在哺乳动物身上关闭了再生。",
    "known": "蝾螈能再生整条肢体;人类的肝脏可以部分自行再生。",
    "leads": "类器官,引导组织形态的生物电信号,对再生动物的基因调控研究。",
    "s": "再生",
-   "t": "人类能再生失去的肢体和器官吗?"
+   "t": "人类能再生失去的肢体和器官吗?",
+   "why": "人类可能拥有尚未开发的再生潜力。释放这种潜力，可能帮助人们重新长出因疾病或受伤而失去的组织和器官，并改善对疤痕形成起重要作用的心脏、肾脏、肝脏和肺部疾病的治疗。"
   }
  },
  "links": [

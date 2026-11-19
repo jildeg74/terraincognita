@@ -7,49 +7,56 @@
    "known": "ارتفعت غلة المحاصيل ارتفاعًا حادًا على مدى عقود، لكن الزراعة تسهم في إزالة الغابات والانبعاثات.",
    "leads": "حبوب تثبّت النيتروجين بنفسها، وزراعة تحتاج إلى أسمدة أقل.",
    "s": "إطعام 10 مليارات",
-   "t": "هل يمكننا إطعام 10 مليارات إنسان دون تدمير النظم البيئية؟"
+   "t": "هل يمكننا إطعام 10 مليارات إنسان دون تدمير النظم البيئية؟",
+   "why": "حذّر تقرير للأمم المتحدة صدر عام 2017 من أن تغيّر الأنظمة الغذائية سيؤدي إلى مزيد من إزالة الغابات وتدهور الأراضي وانبعاثات غازات الدفيئة، وأنه دون جهود إضافية سيظل أكثر من 600 مليون شخص يعانون من نقص التغذية في عام 2030. والإجابة عن هذا السؤال قد تُظهر كيف يمكن إطعام الجميع بضرر أقل."
   },
   "en": {
    "block": "Yields must rise further on less land, water and fertilizer.",
    "known": "Crop yields have risen sharply over decades, but farming drives deforestation and emissions.",
    "leads": "Cereals that fix their own nitrogen, farming that needs less fertilizer.",
    "s": "Feeding 10 billion",
-   "t": "Can we feed 10 billion people without destroying ecosystems?"
+   "t": "Can we feed 10 billion people without destroying ecosystems?",
+   "why": "A 2017 UN report warned that shifting diets would drive more deforestation, land degradation and greenhouse gas emissions, and that without extra efforts more than 600 million people would still be undernourished in 2030. Answering it could show how to feed everyone with less damage."
   },
   "es": {
    "block": "Los rendimientos deben seguir subiendo con menos tierra, agua y fertilizante.",
    "known": "Los rendimientos agrícolas han aumentado mucho durante décadas, pero la agricultura causa deforestación y emisiones.",
    "leads": "Cereales que fijan su propio nitrógeno, una agricultura que necesita menos fertilizantes.",
    "s": "Alimentar a 10 000 millones",
-   "t": "¿Podemos alimentar a 10 000 millones de personas sin destruir los ecosistemas?"
+   "t": "¿Podemos alimentar a 10 000 millones de personas sin destruir los ecosistemas?",
+   "why": "Un informe de la ONU de 2017 advertía que los cambios en la alimentación provocarían más deforestación, degradación de la tierra y emisiones de gases de efecto invernadero, y que sin esfuerzos adicionales más de 600 millones de personas seguirían subalimentadas en 2030. Responderla podría mostrar cómo alimentar a todos causando menos daño."
   },
   "fr": {
    "block": "Il faut produire plus avec moins de terres, d'eau et d'engrais.",
    "known": "Les rendements ont fortement augmenté depuis des décennies, mais l'agriculture cause déforestation et émissions.",
    "leads": "Des céréales qui fixent elles-mêmes l'azote, une agriculture qui demande moins d'engrais.",
    "s": "Nourrir 10 milliards",
-   "t": "Peut-on nourrir 10 milliards d'humains sans détruire les écosystèmes ?"
+   "t": "Peut-on nourrir 10 milliards d'humains sans détruire les écosystèmes ?",
+   "why": "Un rapport de l'ONU de 2017 avertissait que l'évolution des régimes alimentaires entraînerait davantage de déforestation, de dégradation des terres et d'émissions de gaz à effet de serre, et que sans efforts supplémentaires plus de 600 millions de personnes seraient encore sous-alimentées en 2030. Y répondre pourrait montrer comment nourrir tout le monde en causant moins de dégâts."
   },
   "hi": {
    "block": "कम ज़मीन, पानी और उर्वरक पर पैदावार को और बढ़ाना होगा।",
    "known": "दशकों में फसल की पैदावार तेज़ी से बढ़ी है, लेकिन खेती वनों की कटाई और उत्सर्जन का कारण बनती है।",
    "leads": "ऐसे अनाज जो अपनी नाइट्रोजन खुद स्थिर करें, ऐसी खेती जिसे कम उर्वरक चाहिए।",
    "s": "10 अरब का पेट भरना",
-   "t": "क्या हम पारिस्थितिक तंत्रों को नष्ट किए बिना 10 अरब लोगों का पेट भर सकते हैं?"
+   "t": "क्या हम पारिस्थितिक तंत्रों को नष्ट किए बिना 10 अरब लोगों का पेट भर सकते हैं?",
+   "why": "संयुक्त राष्ट्र की 2017 की एक रिपोर्ट ने चेतावनी दी थी कि बदलते आहार से वनों की कटाई, भूमि क्षरण और ग्रीनहाउस गैस उत्सर्जन और बढ़ेंगे, और अतिरिक्त प्रयासों के बिना 2030 में भी 60 करोड़ से अधिक लोग अल्पपोषित रहेंगे। इसका उत्तर यह दिखा सकता है कि कम नुकसान के साथ सबको भोजन कैसे दिया जाए।"
   },
   "pt": {
    "block": "A produtividade precisa subir ainda mais com menos terra, água e fertilizante.",
    "known": "A produtividade das lavouras cresceu muito ao longo de décadas, mas a agricultura causa desmatamento e emissões.",
    "leads": "Cereais que fixam o próprio nitrogênio, uma agricultura que precisa de menos fertilizantes.",
    "s": "Alimentar 10 bilhões",
-   "t": "Podemos alimentar 10 bilhões de pessoas sem destruir os ecossistemas?"
+   "t": "Podemos alimentar 10 bilhões de pessoas sem destruir os ecossistemas?",
+   "why": "Um relatório da ONU de 2017 alertou que a mudança nas dietas provocaria mais desmatamento, degradação da terra e emissões de gases de efeito estufa, e que, sem esforços adicionais, mais de 600 milhões de pessoas continuariam subnutridas em 2030. Responder a ela poderia mostrar como alimentar todos com menos danos."
   },
   "zh": {
    "block": "必须在更少的土地、水和肥料下进一步提高产量。",
    "known": "几十年来作物产量大幅提高,但农业也导致毁林和排放。",
    "leads": "能自行固氮的谷物，需要更少化肥的农业。",
    "s": "养活100亿人",
-   "t": "我们能在不破坏生态系统的前提下养活100亿人吗?"
+   "t": "我们能在不破坏生态系统的前提下养活100亿人吗?",
+   "why": "联合国2017年的一份报告警告说，饮食结构的变化将导致更多的森林砍伐、土地退化和温室气体排放；而且如果不付出额外努力，到2030年仍将有6亿多人营养不足。回答这个问题，可能会揭示如何在造成更少破坏的情况下养活所有人。"
   }
  },
  "links": [

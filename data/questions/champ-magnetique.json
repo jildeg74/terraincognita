@@ -7,49 +7,56 @@
    "known": "انقلب المجال مئات المرات؛ وكان آخرها قبل نحو 780,000 سنة.",
    "leads": "محاكاة الدينامو الأرضي، وقياسات المجال بالأقمار الصناعية.",
    "s": "انقلابات المغناطيسية",
-   "t": "لماذا ينقلب المجال المغناطيسي للأرض؟"
+   "t": "لماذا ينقلب المجال المغناطيسي للأرض؟",
+   "why": "يوجّه المجال المغناطيسي للأرض البوصلات ويحمينا من الأشعة الكونية. وفهم سبب انقلابه قد يساعد على توقّع الفترات التي يضعف فيها بشدة، وهو ما قد يعرّض الأقمار الصناعية لإشعاع كوني ضار ويسبب مشكلات للحياة على الأرض."
   },
   "en": {
    "block": "We can't predict when the next reversal will happen.",
    "known": "The field has reversed hundreds of times; the last time was about 780,000 years ago.",
    "leads": "Simulations of the geodynamo, satellite measurements of the field.",
    "s": "Magnetic reversals",
-   "t": "Why does Earth's magnetic field flip?"
+   "t": "Why does Earth's magnetic field flip?",
+   "why": "Earth's magnetic field guides compasses and shields us from cosmic rays. Understanding why it flips could help anticipate times when it weakens sharply, which could expose satellites to damaging cosmic radiation and spell trouble for life on Earth."
   },
   "es": {
    "block": "No podemos predecir cuándo ocurrirá la próxima inversión.",
    "known": "El campo se ha invertido cientos de veces; la última fue hace unos 780 000 años.",
    "leads": "Simulaciones de la geodinamo, mediciones del campo desde satélites.",
    "s": "Inversiones magnéticas",
-   "t": "¿Por qué se invierte el campo magnético de la Tierra?"
+   "t": "¿Por qué se invierte el campo magnético de la Tierra?",
+   "why": "El campo magnético de la Tierra orienta las brújulas y nos protege de los rayos cósmicos. Entender por qué se invierte podría ayudar a anticipar los periodos en que se debilita mucho, lo que podría exponer a los satélites a una radiación cósmica dañina y causar problemas a la vida en la Tierra."
   },
   "fr": {
    "block": "On ne sait pas prédire la prochaine inversion.",
    "known": "Le champ s'est inversé des centaines de fois, la dernière il y a environ 780 000 ans.",
    "leads": "Simulations de la géodynamo, mesures satellitaires du champ.",
    "s": "Inversions magnétiques",
-   "t": "Pourquoi le champ magnétique terrestre s'inverse-t-il ?"
+   "t": "Pourquoi le champ magnétique terrestre s'inverse-t-il ?",
+   "why": "Le champ magnétique terrestre oriente les boussoles et nous protège des rayons cosmiques. Comprendre pourquoi il s'inverse pourrait aider à anticiper les périodes où il s'affaiblit fortement, ce qui pourrait exposer les satellites à un rayonnement cosmique nocif et poser problème à la vie sur Terre."
   },
   "hi": {
    "block": "हम यह नहीं बता सकते कि अगला पलटाव कब होगा।",
    "known": "यह क्षेत्र सैकड़ों बार पलट चुका है; आखिरी बार लगभग 7,80,000 वर्ष पहले।",
    "leads": "जियोडायनेमो के अनुकरण, क्षेत्र के उपग्रह मापन।",
    "s": "चुंबकीय क्षेत्र का पलटना",
-   "t": "पृथ्वी का चुंबकीय क्षेत्र क्यों पलटता है?"
+   "t": "पृथ्वी का चुंबकीय क्षेत्र क्यों पलटता है?",
+   "why": "पृथ्वी का चुंबकीय क्षेत्र कम्पास को दिशा देता है और हमें कॉस्मिक किरणों से बचाता है। यह समझना कि यह क्यों पलटता है, उन समयों का अनुमान लगाने में मदद कर सकता है जब यह बहुत कमज़ोर हो जाता है, जिससे उपग्रह हानिकारक कॉस्मिक विकिरण की चपेट में आ सकते हैं और पृथ्वी पर जीवन के लिए मुश्किलें आ सकती हैं।"
   },
   "pt": {
    "block": "Não conseguimos prever quando ocorrerá a próxima inversão.",
    "known": "O campo já se inverteu centenas de vezes; a última foi há cerca de 780.000 anos.",
    "leads": "Simulações do geodínamo, medições do campo por satélite.",
    "s": "Inversões magnéticas",
-   "t": "Por que o campo magnético da Terra se inverte?"
+   "t": "Por que o campo magnético da Terra se inverte?",
+   "why": "O campo magnético da Terra orienta as bússolas e nos protege dos raios cósmicos. Entender por que ele se inverte poderia ajudar a antecipar períodos em que ele enfraquece muito, o que poderia expor satélites a uma radiação cósmica nociva e causar problemas para a vida na Terra."
   },
   "zh": {
    "block": "我们无法预测下一次倒转何时发生。",
    "known": "磁场已经倒转过数百次,最近一次发生在约78万年前。",
    "leads": "地球发电机模拟,磁场的卫星测量。",
    "s": "磁场倒转",
-   "t": "地球磁场为什么会翻转?"
+   "t": "地球磁场为什么会翻转?",
+   "why": "地球磁场为指南针指引方向，并保护我们免受宇宙射线的伤害。弄清它为何会反转，可能有助于预判磁场急剧减弱的时期；这种减弱可能使卫星暴露在有害的宇宙辐射之下，并给地球上的生命带来麻烦。"
   }
  },
  "links": [

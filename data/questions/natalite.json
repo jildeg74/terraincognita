@@ -7,49 +7,56 @@
    "known": "أصبح معدل الخصوبة في أكثر من نصف دول العالم دون مستوى الإحلال.",
    "leads": "دراسات تكاليف السكن، والعمل والحياة الأسرية، وتغير الأعراف.",
    "s": "انخفاض المواليد",
-   "t": "لماذا تنخفض معدلات المواليد في كل مكان تقريبًا؟"
+   "t": "لماذا تنخفض معدلات المواليد في كل مكان تقريبًا؟",
+   "why": "تُسرّع معدلات المواليد المنخفضة جدًا شيخوخة السكان، مما يضغط على المالية العامة والمعاشات وقد يقلّص القوى العاملة. وفهم لماذا ينتهي الأمر بكثير من الأسر إلى حجم أصغر مما أراده أصحابها سيساعد على تصميم سياسات أكثر فعالية."
   },
   "en": {
    "block": "Family policies can raise births for a while, but their long-term effect on fertility is often limited.",
    "known": "More than half of the world's countries now have fertility below replacement level.",
    "leads": "Studies of housing costs, work and family life, and changing norms.",
    "s": "Falling birth rates",
-   "t": "Why are birth rates falling almost everywhere?"
+   "t": "Why are birth rates falling almost everywhere?",
+   "why": "Very low birth rates speed up population aging, which puts pressure on public finances and pensions and can shrink the workforce. Understanding why many families end up smaller than people wanted would help design more effective policies."
   },
   "es": {
    "block": "Las políticas familiares pueden aumentar los nacimientos durante un tiempo, pero su efecto a largo plazo sobre la fecundidad suele ser limitado.",
    "known": "Más de la mitad de los países del mundo tienen ya una fecundidad inferior al nivel de reemplazo.",
    "leads": "Estudios sobre el coste de la vivienda, el trabajo y la vida familiar, y el cambio de normas.",
    "s": "Caída de la natalidad",
-   "t": "¿Por qué baja la natalidad casi en todas partes?"
+   "t": "¿Por qué baja la natalidad casi en todas partes?",
+   "why": "Las tasas de natalidad muy bajas aceleran el envejecimiento de la población, lo que presiona las finanzas públicas y las pensiones y puede reducir la fuerza laboral. Entender por qué muchas familias acaban siendo más pequeñas de lo que la gente deseaba ayudaría a diseñar políticas más eficaces."
   },
   "fr": {
    "block": "Les politiques familiales peuvent augmenter les naissances pendant un temps, mais leur effet à long terme sur la fécondité est souvent limité.",
    "known": "Plus de la moitié des pays du monde ont aujourd'hui une fécondité sous le seuil de renouvellement.",
    "leads": "Études sur le coût du logement, la conciliation travail-famille et l'évolution des normes.",
    "s": "Baisse de la natalité",
-   "t": "Pourquoi la natalité baisse-t-elle presque partout ?"
+   "t": "Pourquoi la natalité baisse-t-elle presque partout ?",
+   "why": "Des taux de natalité très bas accélèrent le vieillissement de la population, ce qui pèse sur les finances publiques et les retraites et peut réduire la population active. Comprendre pourquoi beaucoup de familles finissent plus petites que souhaité aiderait à concevoir des politiques plus efficaces."
   },
   "hi": {
    "block": "परिवार संबंधी नीतियाँ कुछ समय के लिए जन्म बढ़ा सकती हैं, लेकिन प्रजनन दर पर उनका दीर्घकालिक प्रभाव अक्सर सीमित रहता है।",
    "known": "दुनिया के आधे से अधिक देशों में अब प्रजनन दर प्रतिस्थापन स्तर से नीचे है।",
    "leads": "आवास की लागत, काम और पारिवारिक जीवन, और बदलते मानदंडों के अध्ययन।",
    "s": "घटती जन्म दर",
-   "t": "लगभग हर जगह जन्म दर क्यों गिर रही है?"
+   "t": "लगभग हर जगह जन्म दर क्यों गिर रही है?",
+   "why": "बहुत कम जन्म दर जनसंख्या के बुढ़ापे को तेज़ करती है, जिससे सार्वजनिक वित्त और पेंशन पर दबाव पड़ता है और कामकाजी आबादी घट सकती है। यह समझना कि कई परिवार लोगों की चाहत से छोटे क्यों रह जाते हैं, ज़्यादा असरदार नीतियाँ बनाने में मदद करेगा।"
   },
   "pt": {
    "block": "As políticas familiares podem aumentar os nascimentos por um tempo, mas seu efeito de longo prazo sobre a fecundidade costuma ser limitado.",
    "known": "Mais da metade dos países do mundo tem hoje fecundidade abaixo do nível de reposição.",
    "leads": "Estudos sobre custo de moradia, trabalho e vida familiar, e mudança de normas.",
    "s": "Queda da natalidade",
-   "t": "Por que as taxas de natalidade estão caindo quase em toda parte?"
+   "t": "Por que as taxas de natalidade estão caindo quase em toda parte?",
+   "why": "Taxas de natalidade muito baixas aceleram o envelhecimento da população, o que pressiona as finanças públicas e as pensões e pode reduzir a força de trabalho. Compreender por que muitas famílias acabam por ser mais pequenas do que as pessoas desejavam ajudaria a conceber políticas mais eficazes."
   },
   "zh": {
    "block": "家庭政策可以在一段时间内提高出生数，但其对生育率的长期影响往往有限。",
    "known": "世界上超过一半的国家,生育率现已低于更替水平。",
    "leads": "对住房成本、工作与家庭生活以及观念变化的研究。",
    "s": "生育率下降",
-   "t": "为什么几乎所有地方的生育率都在下降?"
+   "t": "为什么几乎所有地方的生育率都在下降?",
+   "why": "极低的出生率会加速人口老龄化，给公共财政和养老金带来压力，并可能使劳动力减少。了解为什么许多家庭最终比人们期望的规模要小，将有助于制定更有效的政策。"
   }
  },
  "links": [

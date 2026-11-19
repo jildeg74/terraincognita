@@ -7,49 +7,56 @@
    "known": "جرى التنبؤ ببعض الانفجارات قبل ساعات إلى أيام اعتمادًا على الزلازل وانتفاخ الأرض والغازات.",
    "leads": "رادار الأقمار الصناعية الذي يقيس تشوه الأرض، والذكاء الاصطناعي على بيانات المراقبة.",
    "s": "الانفجارات البركانية",
-   "t": "هل يمكننا التنبؤ بالانفجارات البركانية؟"
+   "t": "هل يمكننا التنبؤ بالانفجارات البركانية؟",
+   "why": "يعيش ملايين الأشخاص في مناطق نشطة بركانيًا، وقد تُعرّض الثورانات الطائرات للخطر أيضًا. ويمكن لتنبؤات وإنذارات أفضل بالثورانات أن تنقذ الأرواح وتساعد على الحد من الضرر الذي تسببه البراكين."
   },
   "en": {
    "block": "Many dangerous volcanoes have no monitoring at all.",
    "known": "Some eruptions have been forecast hours to days ahead from earthquakes, ground swelling and gases.",
    "leads": "Satellite radar that measures ground deformation, AI on monitoring data.",
    "s": "Volcanic eruptions",
-   "t": "Can we forecast volcanic eruptions?"
+   "t": "Can we forecast volcanic eruptions?",
+   "why": "Millions of people live in volcanically active areas, and eruptions can also endanger aircraft. Better eruption forecasts and warnings could save lives and help reduce the harm volcanoes cause."
   },
   "es": {
    "block": "Muchos volcanes peligrosos no tienen ninguna vigilancia.",
    "known": "Algunas erupciones se han pronosticado con horas o días de antelación a partir de terremotos, hinchazón del terreno y gases.",
    "leads": "Radar satelital que mide la deformación del terreno, IA aplicada a los datos de vigilancia.",
    "s": "Erupciones volcánicas",
-   "t": "¿Podemos predecir las erupciones volcánicas?"
+   "t": "¿Podemos predecir las erupciones volcánicas?",
+   "why": "Millones de personas viven en zonas volcánicamente activas, y las erupciones también pueden poner en peligro a los aviones. Mejores pronósticos y alertas de erupción podrían salvar vidas y ayudar a reducir el daño que causan los volcanes."
   },
   "fr": {
    "block": "Beaucoup de volcans dangereux ne sont pas surveillés du tout.",
    "known": "Certaines éruptions ont été prévues quelques heures ou jours à l'avance grâce aux séismes, au gonflement du sol et aux gaz.",
    "leads": "Radar satellitaire mesurant la déformation du sol, IA sur les données de surveillance.",
    "s": "Éruptions volcaniques",
-   "t": "Peut-on prévoir les éruptions volcaniques ?"
+   "t": "Peut-on prévoir les éruptions volcaniques ?",
+   "why": "Des millions de personnes vivent dans des zones volcaniquement actives, et les éruptions peuvent aussi mettre en danger les avions. De meilleures prévisions et alertes d'éruption pourraient sauver des vies et aider à réduire les dégâts causés par les volcans."
   },
   "hi": {
    "block": "कई खतरनाक ज्वालामुखियों की कोई निगरानी ही नहीं है।",
    "known": "कुछ विस्फोटों का पूर्वानुमान भूकंपों, ज़मीन के फूलने और गैसों से घंटों से लेकर दिनों पहले लगाया गया है।",
    "leads": "ज़मीन के विरूपण को मापने वाले उपग्रह रडार, निगरानी आँकड़ों पर AI।",
    "s": "ज्वालामुखी विस्फोट",
-   "t": "क्या हम ज्वालामुखी विस्फोटों का पूर्वानुमान लगा सकते हैं?"
+   "t": "क्या हम ज्वालामुखी विस्फोटों का पूर्वानुमान लगा सकते हैं?",
+   "why": "लाखों लोग ज्वालामुखीय रूप से सक्रिय क्षेत्रों में रहते हैं, और विस्फोट विमानों के लिए भी खतरा बन सकते हैं। विस्फोटों के बेहतर पूर्वानुमान और चेतावनियाँ जानें बचा सकती हैं और ज्वालामुखियों से होने वाले नुकसान को कम करने में मदद कर सकती हैं।"
   },
   "pt": {
    "block": "Muitos vulcões perigosos não têm nenhum monitoramento.",
    "known": "Algumas erupções foram previstas com horas a dias de antecedência a partir de terremotos, inchaço do solo e gases.",
    "leads": "Radar de satélite que mede a deformação do solo, IA aplicada aos dados de monitoramento.",
    "s": "Erupções vulcânicas",
-   "t": "Podemos prever erupções vulcânicas?"
+   "t": "Podemos prever erupções vulcânicas?",
+   "why": "Milhões de pessoas vivem em áreas vulcanicamente ativas, e as erupções também podem pôr aviões em perigo. Melhores previsões e alertas de erupção poderiam salvar vidas e ajudar a reduzir os danos causados pelos vulcões."
   },
   "zh": {
    "block": "许多危险的火山根本没有监测。",
    "known": "一些喷发已根据地震、地面隆起和气体,提前数小时到数天被预测出来。",
    "leads": "测量地面形变的卫星雷达,用于监测数据的AI。",
    "s": "火山喷发",
-   "t": "我们能预测火山喷发吗?"
+   "t": "我们能预测火山喷发吗?",
+   "why": "数以百万计的人生活在火山活跃地区，火山喷发还可能危及飞机。更好的喷发预报和预警可以挽救生命，并有助于减少火山造成的危害。"
   }
  },
  "links": [

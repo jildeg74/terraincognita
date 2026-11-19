@@ -7,49 +7,56 @@
    "known": "أُثبتت في المختبر كيوبتات منطقية محمية بتصحيح الأخطاء.",
    "leads": "الشفرات السطحية، والذرات المحايدة، والأيونات المحبوسة، والكيوبتات الطوبولوجية.",
    "s": "الحاسوب الكمومي",
-   "t": "هل يمكننا بناء حاسوب كمومي مفيد ومقاوم للأعطال؟"
+   "t": "هل يمكننا بناء حاسوب كمومي مفيد ومقاوم للأعطال؟",
+   "why": "بحسب من يبنونها، يمكن للحواسيب الكمومية القادرة على تصحيح أخطائها أن تساعد في اكتشاف أدوية جديدة، وتصميم بطاريات أكثر كفاءة للسيارات الكهربائية، وتسريع التقدم في الاندماج النووي ومصادر الطاقة الجديدة الأخرى."
   },
   "en": {
    "block": "It will likely take hundreds of thousands to millions of reliable physical qubits.",
    "known": "Logical qubits protected by error correction have been demonstrated in the lab.",
    "leads": "Surface codes, neutral atoms, trapped ions, topological qubits.",
    "s": "Quantum computer",
-   "t": "Can we build a useful, fault-tolerant quantum computer?"
+   "t": "Can we build a useful, fault-tolerant quantum computer?",
+   "why": "According to those building them, quantum computers that correct their own errors could help discover new medicines, design more efficient batteries for electric cars and speed up progress in fusion and other new energy sources."
   },
   "es": {
    "block": "Probablemente harán falta cientos de miles a millones de cúbits físicos fiables.",
    "known": "En el laboratorio se han demostrado cúbits lógicos protegidos por corrección de errores.",
    "leads": "Códigos de superficie, átomos neutros, iones atrapados, cúbits topológicos.",
    "s": "Ordenador cuántico",
-   "t": "¿Podemos construir un ordenador cuántico útil y tolerante a fallos?"
+   "t": "¿Podemos construir un ordenador cuántico útil y tolerante a fallos?",
+   "why": "Según quienes los construyen, los ordenadores cuánticos capaces de corregir sus propios errores podrían ayudar a descubrir nuevos medicamentos, diseñar baterías más eficientes para coches eléctricos y acelerar el progreso en la fusión y otras nuevas fuentes de energía."
   },
   "fr": {
    "block": "Il faudra probablement des centaines de milliers à des millions de qubits physiques fiables.",
    "known": "Des qubits logiques protégés par correction d'erreurs ont été démontrés en laboratoire.",
    "leads": "Codes de surface, atomes neutres, ions piégés, qubits topologiques.",
    "s": "Ordinateur quantique",
-   "t": "Peut-on construire un ordinateur quantique utile et tolérant aux erreurs ?"
+   "t": "Peut-on construire un ordinateur quantique utile et tolérant aux erreurs ?",
+   "why": "Selon ceux qui les construisent, des ordinateurs quantiques capables de corriger leurs propres erreurs pourraient aider à découvrir de nouveaux médicaments, à concevoir des batteries plus efficaces pour les voitures électriques et à accélérer les progrès de la fusion et d'autres nouvelles sources d'énergie."
   },
   "hi": {
    "block": "इसके लिए संभवतः सैकड़ों हज़ार से लेकर लाखों भरोसेमंद भौतिक क्यूबिट चाहिए होंगे।",
    "known": "त्रुटि सुधार से सुरक्षित लॉजिकल क्यूबिट प्रयोगशाला में दिखाए जा चुके हैं।",
    "leads": "सरफ़ेस कोड, न्यूट्रल परमाणु, फंसे हुए आयन, टोपोलॉजिकल क्यूबिट।",
    "s": "क्वांटम कंप्यूटर",
-   "t": "क्या हम एक उपयोगी, दोष-सहिष्णु क्वांटम कंप्यूटर बना सकते हैं?"
+   "t": "क्या हम एक उपयोगी, दोष-सहिष्णु क्वांटम कंप्यूटर बना सकते हैं?",
+   "why": "इन्हें बनाने वालों के अनुसार, अपनी त्रुटियाँ खुद सुधारने वाले क्वांटम कंप्यूटर नई दवाएँ खोजने, इलेक्ट्रिक कारों के लिए अधिक कुशल बैटरियाँ डिज़ाइन करने, और फ़्यूज़न तथा अन्य नए ऊर्जा स्रोतों में प्रगति तेज़ करने में मदद कर सकते हैं।"
   },
   "pt": {
    "block": "Provavelmente serão necessários de centenas de milhares a milhões de qubits físicos confiáveis.",
    "known": "Qubits lógicos protegidos por correção de erros já foram demonstrados em laboratório.",
    "leads": "Códigos de superfície, átomos neutros, íons aprisionados, qubits topológicos.",
    "s": "Computador quântico",
-   "t": "Podemos construir um computador quântico útil e tolerante a falhas?"
+   "t": "Podemos construir um computador quântico útil e tolerante a falhas?",
+   "why": "Segundo quem os constrói, computadores quânticos capazes de corrigir os próprios erros poderiam ajudar a descobrir novos medicamentos, a projetar baterias mais eficientes para carros elétricos e a acelerar o progresso na fusão e noutras novas fontes de energia."
   },
   "zh": {
    "block": "很可能需要数十万到数百万个可靠的物理量子比特。",
    "known": "受纠错保护的逻辑量子比特已在实验室中得到演示。",
    "leads": "表面码,中性原子,囚禁离子,拓扑量子比特。",
    "s": "量子计算机",
-   "t": "我们能造出有用的容错量子计算机吗?"
+   "t": "我们能造出有用的容错量子计算机吗?",
+   "why": "据研制者称，能够纠正自身错误的量子计算机可能有助于发现新药、设计更高效的电动汽车电池，并加快核聚变和其他新能源的进展。"
   }
  },
  "links": [

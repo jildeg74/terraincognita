@@ -7,49 +7,56 @@
    "known": "نحو 85% من المادة في الكون غير مرئية. ولا نرصدها إلا عبر جاذبيتها المؤثرة في المجرات والضوء.",
    "leads": "جسيمات ضخمة (WIMPs)، والأكسيونات، وكواشف الجيل التالي تحت الأرض، أو تعديل الجاذبية.",
    "s": "المادة المظلمة",
-   "t": "ما المادة المظلمة؟"
+   "t": "ما المادة المظلمة؟",
+   "why": "تشكّل المادة المظلمة نحو 85% من كتلة الكون، وتساعد جاذبيتها المجرات على التكوّن والتماسك. ومن شأن تحديد ماهيتها أن يجيب عن أحد أكبر الأسئلة في الفيزياء: ممّ تتكوّن معظم مادة الكون."
   },
   "en": {
    "block": "Decades of direct-detection experiments have confirmed nothing; in 2026 LZ reported one candidate event, far below the threshold for a discovery.",
    "known": "About 85% of the matter in the universe is invisible. We detect it only through its gravitational pull on galaxies and light.",
    "leads": "Massive particles (WIMPs), axions, next-generation underground detectors, or a modification of gravity.",
    "s": "Dark matter",
-   "t": "What is dark matter?"
+   "t": "What is dark matter?",
+   "why": "Dark matter makes up about 85% of the mass in the universe, and its gravity helps galaxies form and hold together. Identifying it would answer one of the biggest questions in physics: what most of the universe's matter is made of."
   },
   "es": {
    "block": "Décadas de experimentos de detección directa no han confirmado nada; en 2026, LZ informó de un evento candidato, muy por debajo del umbral de descubrimiento.",
    "known": "Cerca del 85 % de la materia del universo es invisible. Solo la detectamos por su atracción gravitatoria sobre las galaxias y la luz.",
    "leads": "Partículas masivas (WIMP), axiones, detectores subterráneos de nueva generación, o una modificación de la gravedad.",
    "s": "Materia oscura",
-   "t": "¿Qué es la materia oscura?"
+   "t": "¿Qué es la materia oscura?",
+   "why": "La materia oscura constituye alrededor del 85 % de la masa del universo, y su gravedad ayuda a que las galaxias se formen y se mantengan unidas. Identificarla respondería a una de las mayores preguntas de la física: de qué está hecha la mayor parte de la materia del universo."
   },
   "fr": {
    "block": "Des décennies d'expériences de détection directe n'ont rien confirmé ; en 2026, LZ a signalé un événement candidat, bien en dessous du seuil de découverte.",
    "known": "Environ 85 % de la matière de l'univers est invisible. On ne la détecte que par son effet gravitationnel sur les galaxies et la lumière.",
    "leads": "Particules massives (WIMP), axions, détecteurs souterrains de nouvelle génération, ou une modification de la gravité.",
    "s": "Matière noire",
-   "t": "Qu'est-ce que la matière noire ?"
+   "t": "Qu'est-ce que la matière noire ?",
+   "why": "La matière noire représente environ 85 % de la masse de l'Univers, et sa gravité aide les galaxies à se former et à rester soudées. L'identifier répondrait à l'une des plus grandes questions de la physique : de quoi est faite la plus grande partie de la matière de l'Univers."
   },
   "hi": {
    "block": "दशकों के प्रत्यक्ष-खोज प्रयोगों ने कुछ भी पुष्ट नहीं किया है; 2026 में LZ ने एक संभावित घटना दर्ज की, जो खोज की सीमा से बहुत नीचे है।",
    "known": "ब्रह्मांड का लगभग 85% पदार्थ अदृश्य है। हम इसे केवल आकाशगंगाओं और प्रकाश पर इसके गुरुत्वीय खिंचाव से पहचानते हैं।",
    "leads": "भारी कण (WIMP), एक्सियॉन, अगली पीढ़ी के भूमिगत संसूचक, या गुरुत्व में संशोधन।",
    "s": "डार्क मैटर",
-   "t": "डार्क मैटर क्या है?"
+   "t": "डार्क मैटर क्या है?",
+   "why": "डार्क मैटर ब्रह्मांड के द्रव्यमान का लगभग 85% है, और इसका गुरुत्व आकाशगंगाओं को बनने और जुड़े रहने में मदद करता है। इसकी पहचान भौतिकी के सबसे बड़े सवालों में से एक का उत्तर देगी: ब्रह्मांड का अधिकांश पदार्थ किससे बना है।"
   },
   "pt": {
    "block": "Décadas de experimentos de detecção direta não confirmaram nada; em 2026, o LZ relatou um evento candidato, muito abaixo do limiar de descoberta.",
    "known": "Cerca de 85% da matéria do universo é invisível. Só a detectamos pela sua atração gravitacional sobre galáxias e luz.",
    "leads": "Partículas massivas (WIMPs), áxions, detectores subterrâneos de nova geração, ou uma modificação da gravidade.",
    "s": "Matéria escura",
-   "t": "O que é a matéria escura?"
+   "t": "O que é a matéria escura?",
+   "why": "A matéria escura constitui cerca de 85% da massa do universo, e a sua gravidade ajuda as galáxias a formarem-se e a manterem-se unidas. Identificá-la responderia a uma das maiores perguntas da física: de que é feita a maior parte da matéria do universo."
   },
   "zh": {
    "block": "数十年的直接探测实验没有确认任何结果;2026年,LZ实验报告了一个候选事件,但远未达到发现的标准。",
    "known": "宇宙中约85%的物质是看不见的。我们只能通过它对星系和光的引力作用探测到它。",
    "leads": "大质量粒子(WIMP)、轴子、下一代地下探测器,或者对引力的修正。",
    "s": "暗物质",
-   "t": "暗物质是什么?"
+   "t": "暗物质是什么?",
+   "why": "暗物质约占宇宙质量的85%，它的引力帮助星系形成并维系在一起。识别暗物质将回答物理学中最大的问题之一：宇宙中大部分物质由什么构成。"
   }
  },
  "links": [

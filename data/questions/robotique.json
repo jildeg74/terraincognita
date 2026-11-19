@@ -7,49 +7,56 @@
    "known": "تتفوق الروبوتات في المصانع لكنها تتعثر في الأماكن الفوضوية مثل المنازل؛ وما هو سهل علينا غالبًا ما يصعب عليها.",
    "leads": "نماذج أساسية للروبوتات، والتدريب في المحاكاة، والروبوتات البشرية الشكل.",
    "s": "روبوتات متعددة الأغراض",
-   "t": "هل تستطيع الروبوتات التعامل مع العالم المادي مثلنا؟"
+   "t": "هل تستطيع الروبوتات التعامل مع العالم المادي مثلنا؟",
+   "why": "يزعم بعض قادة قطاع التكنولوجيا أن الروبوتات الشبيهة بالبشر ستتمكن من إجراء عمليات جراحية أو الحلول محل عمال المصانع أو العمل مساعدين في المنازل، لكن الروبوتات لا تزال تعاني في أمور نجدها سهلة، مثل التقاط كوب. والإجابة عن هذا السؤال ستُظهر ما إذا كانت هذه الاستخدامات واقعية، ومتى."
   },
   "en": {
    "block": "There is little data on physical skills compared with text.",
    "known": "Robots excel in factories but struggle in messy places like homes; what is easy for us is often hard for them.",
    "leads": "Robot foundation models, training in simulation, humanoid robots.",
    "s": "General-purpose robots",
-   "t": "Can robots handle the physical world as well as we do?"
+   "t": "Can robots handle the physical world as well as we do?",
+   "why": "Some tech leaders claim humanoid robots will be able to perform surgery, replace factory workers or serve as home helpers, but robots still struggle with things we find easy, like picking up a glass. Answering it would show whether, and when, such uses are realistic."
   },
   "es": {
    "block": "Hay pocos datos sobre habilidades físicas en comparación con el texto.",
    "known": "Los robots destacan en las fábricas pero tienen dificultades en lugares desordenados como los hogares; lo que es fácil para nosotros suele ser difícil para ellos.",
    "leads": "Modelos fundacionales para robots, entrenamiento en simulación, robots humanoides.",
    "s": "Robots generalistas",
-   "t": "¿Pueden los robots manejarse en el mundo físico tan bien como nosotros?"
+   "t": "¿Pueden los robots manejarse en el mundo físico tan bien como nosotros?",
+   "why": "Algunos líderes tecnológicos afirman que los robots humanoides podrán realizar cirugías, sustituir a obreros de fábrica o servir como ayudantes en casa, pero los robots todavía tienen dificultades con cosas que nos resultan fáciles, como coger un vaso. Responder a esta pregunta mostraría si esos usos son realistas, y cuándo."
   },
   "fr": {
    "block": "Il existe très peu de données sur les gestes physiques comparé au texte.",
    "known": "Les robots excellent en usine mais peinent dans des lieux désordonnés comme une maison ; ce qui est facile pour nous est souvent dur pour eux.",
    "leads": "Modèles de fondation pour robots, entraînement en simulation, robots humanoïdes.",
    "s": "Robots polyvalents",
-   "t": "Les robots peuvent-ils agir dans le monde physique aussi bien que nous ?"
+   "t": "Les robots peuvent-ils agir dans le monde physique aussi bien que nous ?",
+   "why": "Des dirigeants de la tech affirment que des robots humanoïdes pourront opérer des patients, remplacer des ouvriers d'usine ou servir d'aides à domicile, mais les robots peinent encore à faire ce qui nous semble facile, comme saisir un verre. Répondre à cette question montrerait si, et quand, de tels usages sont réalistes."
   },
   "hi": {
    "block": "पाठ की तुलना में शारीरिक कौशलों के आँकड़े बहुत कम हैं।",
    "known": "रोबोट कारखानों में उत्कृष्ट हैं लेकिन घरों जैसी अव्यवस्थित जगहों में संघर्ष करते हैं; जो हमारे लिए आसान है वह अक्सर उनके लिए कठिन है।",
    "leads": "रोबोट फ़ाउंडेशन मॉडल, सिमुलेशन में प्रशिक्षण, ह्यूमनॉइड रोबोट।",
    "s": "सामान्य-उद्देश्य रोबोट",
-   "t": "क्या रोबोट भौतिक दुनिया को उतनी ही अच्छी तरह संभाल सकते हैं जितना हम?"
+   "t": "क्या रोबोट भौतिक दुनिया को उतनी ही अच्छी तरह संभाल सकते हैं जितना हम?",
+   "why": "टेक जगत के कुछ अग्रणी लोग दावा करते हैं कि ह्यूमनॉइड रोबोट सर्जरी कर सकेंगे, फ़ैक्टरी कर्मचारियों की जगह ले सकेंगे या घर में सहायक बन सकेंगे, लेकिन रोबोट अब भी उन कामों में संघर्ष करते हैं जो हमें आसान लगते हैं, जैसे गिलास उठाना। इस प्रश्न का उत्तर दिखाएगा कि क्या, और कब, ऐसे उपयोग यथार्थवादी हैं।"
   },
   "pt": {
    "block": "Há poucos dados sobre habilidades físicas em comparação com texto.",
    "known": "Os robôs se destacam em fábricas, mas têm dificuldade em lugares bagunçados como as casas; o que é fácil para nós costuma ser difícil para eles.",
    "leads": "Modelos de base para robôs, treinamento em simulação, robôs humanoides.",
    "s": "Robôs de uso geral",
-   "t": "Os robôs conseguem lidar com o mundo físico tão bem quanto nós?"
+   "t": "Os robôs conseguem lidar com o mundo físico tão bem quanto nós?",
+   "why": "Alguns líderes do setor de tecnologia afirmam que robôs humanoides poderão realizar cirurgias, substituir operários de fábrica ou servir como ajudantes em casa, mas os robôs ainda têm dificuldade com coisas que achamos fáceis, como pegar um copo. Responder a esta pergunta mostraria se, e quando, esses usos são realistas."
   },
   "zh": {
    "block": "与文本相比,关于身体技能的数据很少。",
    "known": "机器人在工厂里表现出色,但在家庭这样杂乱的环境里很吃力;对我们容易的事,对它们往往很难。",
    "leads": "机器人基础模型,仿真训练,人形机器人。",
    "s": "通用机器人",
-   "t": "机器人能像我们一样应对物理世界吗?"
+   "t": "机器人能像我们一样应对物理世界吗?",
+   "why": "一些科技界领袖声称，人形机器人将能够做手术、取代工厂工人或在家中充当帮手，但机器人仍难以完成我们觉得很简单的事情，比如拿起一个玻璃杯。回答这个问题，将表明这些用途是否现实、何时能够实现。"
   }
  },
  "links": [

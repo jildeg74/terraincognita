@@ -7,49 +7,56 @@
    "known": "تظهر بعض الحدوس الأخلاقية، مثل الإنصاف، عبر الثقافات وحتى لدى الرضّع.",
    "leads": "استطلاعات واسعة عابرة للثقافات، ودراسات على الأطفال الصغار.",
    "s": "أصول الأخلاق",
-   "t": "من أين تأتي قيمنا الأخلاقية؟"
+   "t": "من أين تأتي قيمنا الأخلاقية؟",
+   "why": "معرفة مصدر القيم الأخلاقية، وأيّها مشترك بين الثقافات، أمر مهم في وقت بدأت فيه آلات مثل السيارات ذاتية القيادة تواجه معضلات أخلاقية: فهي تحتاج إلى مبادئ توجيهية تجدها المجتمعات حول العالم مقبولة."
   },
   "en": {
    "block": "Separating what is innate from what is cultural is hard.",
    "known": "Some moral intuitions, such as fairness, appear across cultures and even in infants.",
    "leads": "Large cross-cultural surveys, studies with young children.",
    "s": "Origins of morality",
-   "t": "Where do our moral values come from?"
+   "t": "Where do our moral values come from?",
+   "why": "Knowing where moral values come from, and which are shared across cultures, matters as machines such as self-driving cars begin to face moral dilemmas: they need guiding principles that societies around the world find acceptable."
   },
   "es": {
    "block": "Separar lo innato de lo cultural es difícil.",
    "known": "Algunas intuiciones morales, como la equidad, aparecen en todas las culturas e incluso en los bebés.",
    "leads": "Grandes encuestas transculturales, estudios con niños pequeños.",
    "s": "Origen de la moral",
-   "t": "¿De dónde vienen nuestros valores morales?"
+   "t": "¿De dónde vienen nuestros valores morales?",
+   "why": "Saber de dónde vienen los valores morales, y cuáles comparten las distintas culturas, importa ahora que máquinas como los coches autónomos empiezan a enfrentarse a dilemas morales: necesitan principios que las sociedades de todo el mundo consideren aceptables."
   },
   "fr": {
    "block": "Séparer l'inné du culturel est difficile.",
    "known": "Certaines intuitions morales, comme l'équité, se retrouvent dans toutes les cultures et même chez les nourrissons.",
    "leads": "Grandes enquêtes interculturelles, études auprès de jeunes enfants.",
    "s": "Origine de la morale",
-   "t": "D'où viennent nos valeurs morales ?"
+   "t": "D'où viennent nos valeurs morales ?",
+   "why": "Savoir d'où viennent les valeurs morales, et lesquelles sont partagées entre cultures, compte à l'heure où des machines comme les voitures autonomes commencent à affronter des dilemmes moraux : elles ont besoin de principes que les sociétés du monde entier jugent acceptables."
   },
   "hi": {
    "block": "जन्मजात और सांस्कृतिक को अलग करना कठिन है।",
    "known": "निष्पक्षता जैसी कुछ नैतिक सहज प्रवृत्तियाँ संस्कृतियों में, यहाँ तक कि शिशुओं में भी, दिखाई देती हैं।",
    "leads": "बड़े अंतर-सांस्कृतिक सर्वेक्षण, छोटे बच्चों के साथ अध्ययन।",
    "s": "नैतिकता की उत्पत्ति",
-   "t": "हमारे नैतिक मूल्य कहाँ से आते हैं?"
+   "t": "हमारे नैतिक मूल्य कहाँ से आते हैं?",
+   "why": "यह जानना कि नैतिक मूल्य कहाँ से आते हैं, और कौन-से मूल्य अलग-अलग संस्कृतियों में साझा हैं, अब अहम है जब सेल्फ़-ड्राइविंग कारों जैसी मशीनें नैतिक दुविधाओं का सामना करने लगी हैं: उन्हें ऐसे मार्गदर्शक सिद्धांतों की ज़रूरत है जिन्हें दुनिया भर के समाज स्वीकार्य मानें।"
   },
   "pt": {
    "block": "Separar o que é inato do que é cultural é difícil.",
    "known": "Algumas intuições morais, como a justiça, aparecem em todas as culturas e até em bebês.",
    "leads": "Grandes pesquisas transculturais, estudos com crianças pequenas.",
    "s": "Origens da moral",
-   "t": "De onde vêm nossos valores morais?"
+   "t": "De onde vêm nossos valores morais?",
+   "why": "Saber de onde vêm os valores morais, e quais são partilhados entre culturas, importa numa altura em que máquinas como os carros autónomos começam a enfrentar dilemas morais: precisam de princípios orientadores que as sociedades de todo o mundo considerem aceitáveis."
   },
   "zh": {
    "block": "区分先天的与文化的很困难。",
    "known": "一些道德直觉,如公平,在不同文化中乃至婴儿身上都有出现。",
    "leads": "大规模跨文化调查,对幼儿的研究。",
    "s": "道德的起源",
-   "t": "我们的道德价值观从何而来?"
+   "t": "我们的道德价值观从何而来?",
+   "why": "了解道德价值观从何而来、哪些价值观为不同文化所共有，在自动驾驶汽车等机器开始面临道德困境的今天十分重要：它们需要世界各地社会都能接受的指导原则。"
   }
  },
  "links": [

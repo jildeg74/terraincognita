@@ -7,49 +7,56 @@
    "known": "يمكننا عزل المفاهيم والدارات الداخلية في النماذج اللغوية الكبيرة.",
    "leads": "قواميس الميزات، وتتبع الدارات، وأدوات التحليل الآلي.",
    "s": "قابلية التفسير",
-   "t": "هل يمكننا فهم ما يجري داخل شبكة عصبية؟"
+   "t": "هل يمكننا فهم ما يجري داخل شبكة عصبية؟",
+   "why": "إن فهم ما يجري داخل الشبكات العصبية قد يمنح ضمانًا أكبر بشأن سلوك أنظمة الذكاء الاصطناعي، وقد يلقي الضوء على أسئلة علمية حول طبيعة الذكاء."
   },
   "en": {
    "block": "Models are huge, and each neuron mixes several concepts.",
    "known": "We can isolate internal concepts and circuits in large language models.",
    "leads": "Feature dictionaries, circuit tracing, automated analysis tools.",
    "s": "Interpretability",
-   "t": "Can we understand what happens inside a neural network?"
+   "t": "Can we understand what happens inside a neural network?",
+   "why": "Understanding what happens inside neural networks could give greater assurance about how AI systems will behave, and could shed light on scientific questions about the nature of intelligence."
   },
   "es": {
    "block": "Los modelos son enormes, y cada neurona mezcla varios conceptos.",
    "known": "Podemos aislar conceptos y circuitos internos en los grandes modelos de lenguaje.",
    "leads": "Diccionarios de rasgos, trazado de circuitos, herramientas de análisis automatizado.",
    "s": "Interpretabilidad",
-   "t": "¿Podemos entender lo que ocurre dentro de una red neuronal?"
+   "t": "¿Podemos entender lo que ocurre dentro de una red neuronal?",
+   "why": "Entender lo que ocurre dentro de las redes neuronales podría dar más garantías sobre cómo se comportarán los sistemas de IA, y arrojar luz sobre preguntas científicas acerca de la naturaleza de la inteligencia."
   },
   "fr": {
    "block": "Les modèles sont immenses et chaque neurone mélange plusieurs concepts.",
    "known": "On sait isoler des concepts et des circuits internes dans de grands modèles de langage.",
    "leads": "Dictionnaires de caractéristiques, traçage de circuits, outils automatisés d'analyse.",
    "s": "Interprétabilité",
-   "t": "Peut-on comprendre ce qui se passe à l'intérieur d'un réseau de neurones ?"
+   "t": "Peut-on comprendre ce qui se passe à l'intérieur d'un réseau de neurones ?",
+   "why": "Comprendre ce qui se passe à l'intérieur des réseaux de neurones pourrait donner davantage de garanties sur le comportement des systèmes d'IA, et éclairer des questions scientifiques sur la nature de l'intelligence."
   },
   "hi": {
    "block": "मॉडल विशाल हैं, और हर न्यूरॉन कई अवधारणाओं को मिलाता है।",
    "known": "हम बड़े भाषा मॉडलों के भीतर की अवधारणाओं और परिपथों को अलग कर सकते हैं।",
    "leads": "फ़ीचर शब्दकोश, परिपथ-अनुरेखण, स्वचालित विश्लेषण उपकरण।",
    "s": "व्याख्येयता",
-   "t": "क्या हम समझ सकते हैं कि न्यूरल नेटवर्क के अंदर क्या होता है?"
+   "t": "क्या हम समझ सकते हैं कि न्यूरल नेटवर्क के अंदर क्या होता है?",
+   "why": "न्यूरल नेटवर्क के अंदर क्या होता है, यह समझना इस बारे में अधिक भरोसा दे सकता है कि AI प्रणालियाँ कैसा व्यवहार करेंगी, और बुद्धि की प्रकृति से जुड़े वैज्ञानिक प्रश्नों पर रोशनी डाल सकता है।"
   },
   "pt": {
    "block": "Os modelos são enormes, e cada neurônio mistura vários conceitos.",
    "known": "Conseguimos isolar conceitos e circuitos internos em grandes modelos de linguagem.",
    "leads": "Dicionários de características, rastreamento de circuitos, ferramentas de análise automatizada.",
    "s": "Interpretabilidade",
-   "t": "Podemos entender o que acontece dentro de uma rede neural?"
+   "t": "Podemos entender o que acontece dentro de uma rede neural?",
+   "why": "Entender o que acontece dentro das redes neurais poderia dar mais garantias sobre como os sistemas de IA vão se comportar, e lançar luz sobre questões científicas sobre a natureza da inteligência."
   },
   "zh": {
    "block": "模型规模巨大,而且每个神经元都混杂着多个概念。",
    "known": "我们能在大型语言模型中分离出内部的概念和回路。",
    "leads": "特征词典,回路追踪,自动化分析工具。",
    "s": "可解释性",
-   "t": "我们能理解神经网络内部发生了什么吗?"
+   "t": "我们能理解神经网络内部发生了什么吗?",
+   "why": "弄清神经网络内部发生了什么，可以让人们对人工智能系统的行为更有把握，也可能揭示有关智能本质的科学问题。"
   }
  },
  "links": [

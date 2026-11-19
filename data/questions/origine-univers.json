@@ -7,49 +7,56 @@
    "known": "تنهار الفيزياء المعروفة عند الزمن صفر، ولم يُؤكَّد التضخم الكوني بعد.",
    "leads": "البحث عن موجات الجاذبية البدائية في الخلفية الكونية الميكروية (LiteBIRD ومرصد سيمونز).",
    "s": "أصل الكون",
-   "t": "ماذا حدث في بداية الكون؟"
+   "t": "ماذا حدث في بداية الكون؟",
+   "why": "من شأن معرفة ما حدث في اللحظة الأولى أن تساعد في تفسير مصدر المجرات: فالفكرة الرائدة، التضخم الكوني، تقول إن تقلبات كمومية ضئيلة تمددت إلى أحجام هائلة وأصبحت بذور كل البنى الكونية."
   },
   "en": {
    "block": "Known physics breaks down at time zero, and inflation is not yet confirmed.",
    "known": "The observable universe is 13.8 billion years old; a very brief phase of inflation is likely.",
    "leads": "Searching for primordial gravitational waves in the cosmic microwave background (LiteBIRD, Simons Observatory).",
    "s": "Origin of the universe",
-   "t": "What happened at the very beginning of the universe?"
+   "t": "What happened at the very beginning of the universe?",
+   "why": "Knowing what happened in the first instant would help explain where galaxies come from: the leading idea, inflation, says tiny quantum fluctuations were stretched to huge sizes and became the seeds of all cosmic structure."
   },
   "es": {
    "block": "La física conocida deja de funcionar en el tiempo cero, y la inflación aún no está confirmada.",
    "known": "El universo observable tiene 13,8 mil millones de años; es probable una fase muy breve de inflación.",
    "leads": "Búsqueda de ondas gravitacionales primordiales en el fondo cósmico de microondas (LiteBIRD, Observatorio Simons).",
    "s": "Origen del universo",
-   "t": "¿Qué ocurrió al comienzo mismo del universo?"
+   "t": "¿Qué ocurrió al comienzo mismo del universo?",
+   "why": "Saber qué ocurrió en el primer instante ayudaría a explicar de dónde vienen las galaxias: la idea principal, la inflación, dice que diminutas fluctuaciones cuánticas se estiraron hasta tamaños enormes y se convirtieron en las semillas de toda la estructura cósmica."
   },
   "fr": {
    "block": "La physique connue s'effondre à l'instant zéro, et l'inflation n'est pas encore confirmée.",
    "known": "L'univers observable a 13,8 milliards d'années ; une phase d'inflation très brève est probable.",
    "leads": "Chercher les ondes gravitationnelles primordiales dans le fond diffus cosmologique (LiteBIRD, observatoire Simons).",
    "s": "Origine de l'univers",
-   "t": "Que s'est-il passé au tout début de l'univers ?"
+   "t": "Que s'est-il passé au tout début de l'univers ?",
+   "why": "Savoir ce qui s'est passé au tout premier instant aiderait à comprendre d'où viennent les galaxies : selon l'idée dominante, l'inflation, de minuscules fluctuations quantiques ont été étirées à des tailles immenses et sont devenues les germes de toutes les structures cosmiques."
   },
   "hi": {
    "block": "ज्ञात भौतिकी शून्य समय पर टूट जाती है, और स्फीति की अभी पुष्टि नहीं हुई है।",
    "known": "दृश्य ब्रह्मांड 13.8 अरब वर्ष पुराना है; स्फीति (इन्फ्लेशन) का एक बहुत संक्षिप्त चरण संभव है।",
    "leads": "कॉस्मिक माइक्रोवेव पृष्ठभूमि में आदिम गुरुत्वीय तरंगों की खोज (LiteBIRD, साइमंस ऑब्ज़र्वेटरी)।",
    "s": "ब्रह्मांड की उत्पत्ति",
-   "t": "ब्रह्मांड की बिल्कुल शुरुआत में क्या हुआ?"
+   "t": "ब्रह्मांड की बिल्कुल शुरुआत में क्या हुआ?",
+   "why": "पहले क्षण में क्या हुआ, यह जानना यह समझाने में मदद करेगा कि आकाशगंगाएँ कहाँ से आईं: प्रमुख विचार, इन्फ़्लेशन (स्फीति), कहता है कि छोटे-छोटे क्वांटम उतार-चढ़ाव विशाल आकार तक खिंच गए और सारी ब्रह्मांडीय संरचना के बीज बन गए।"
   },
   "pt": {
    "block": "A física conhecida falha no tempo zero, e a inflação ainda não foi confirmada.",
    "known": "O universo observável tem 13,8 bilhões de anos; uma fase muito breve de inflação é provável.",
    "leads": "Busca de ondas gravitacionais primordiais na radiação cósmica de fundo em micro-ondas (LiteBIRD, Simons Observatory).",
    "s": "Origem do universo",
-   "t": "O que aconteceu no início do universo?"
+   "t": "O que aconteceu no início do universo?",
+   "why": "Saber o que aconteceu no primeiro instante ajudaria a explicar de onde vêm as galáxias: a ideia principal, a inflação, diz que minúsculas flutuações quânticas foram esticadas até tamanhos enormes e tornaram-se as sementes de toda a estrutura cósmica."
   },
   "zh": {
    "block": "已知的物理学在时间零点失效,暴胀也尚未得到证实。",
    "known": "可观测宇宙的年龄是138亿年;很可能经历了一个极短暂的暴胀阶段。",
    "leads": "在宇宙微波背景中寻找原初引力波(LiteBIRD、西蒙斯天文台)。",
    "s": "宇宙起源",
-   "t": "宇宙最初发生了什么?"
+   "t": "宇宙最初发生了什么?",
+   "why": "了解最初瞬间发生了什么，将有助于解释星系从何而来：主流观点“暴胀”认为，微小的量子涨落被拉伸到巨大尺度，成为所有宇宙结构的种子。"
   }
  },
  "links": [

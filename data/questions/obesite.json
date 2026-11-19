@@ -7,49 +7,56 @@
    "known": "تحقق أدوية GLP-1 مثل سيماغلوتايد فقدانًا كبيرًا ودائمًا للوزن.",
    "leads": "أدوية تجمع عدة هرمونات معوية، ودراسات عن آثارها في الإدمان وأمراض القلب.",
    "s": "تنظيم الوزن",
-   "t": "كيف ينظّم الجسم الوزن، ولماذا تنجح أدوية GLP-1 إلى هذا الحد؟"
+   "t": "كيف ينظّم الجسم الوزن، ولماذا تنجح أدوية GLP-1 إلى هذا الحد؟",
+   "why": "تصيب السمنة أكثر من مليار شخص، وتزيد خطر الإصابة بداء السكري من النوع الثاني وأمراض القلب وعدة أنواع من السرطان. وفهم كيفية تنظيم الدماغ والأيض للوزن سيساعد على تفسير سبب كون بعض الناس أكثر عرضة لها من غيرهم."
   },
   "en": {
    "block": "Their full action in the brain and their very long-term effects are not well understood.",
    "known": "GLP-1 drugs such as semaglutide produce large, lasting weight loss.",
    "leads": "Drugs combining several gut hormones, studies of their effects on addiction and heart disease.",
    "s": "Weight regulation",
-   "t": "How does the body regulate weight, and why do GLP-1 drugs work so well?"
+   "t": "How does the body regulate weight, and why do GLP-1 drugs work so well?",
+   "why": "Obesity affects over a billion people and raises the risk of type 2 diabetes, heart disease and several cancers. Understanding how the brain and metabolism regulate weight would help explain why some people are more susceptible than others."
   },
   "es": {
    "block": "Su acción completa en el cerebro y sus efectos a muy largo plazo no se entienden bien.",
    "known": "Los fármacos GLP-1, como la semaglutida, producen una pérdida de peso grande y duradera.",
    "leads": "Fármacos que combinan varias hormonas intestinales, estudios de sus efectos sobre la adicción y las enfermedades del corazón.",
    "s": "Regulación del peso",
-   "t": "¿Cómo regula el cuerpo el peso, y por qué funcionan tan bien los fármacos GLP-1?"
+   "t": "¿Cómo regula el cuerpo el peso, y por qué funcionan tan bien los fármacos GLP-1?",
+   "why": "La obesidad afecta a más de mil millones de personas y aumenta el riesgo de diabetes tipo 2, enfermedades del corazón y varios cánceres. Entender cómo el cerebro y el metabolismo regulan el peso ayudaría a explicar por qué algunas personas son más propensas que otras."
   },
   "fr": {
    "block": "Leur action complète sur le cerveau et leurs effets à très long terme sont mal connus.",
    "known": "Les médicaments GLP-1, comme le sémaglutide, entraînent une perte de poids importante et durable.",
    "leads": "Médicaments combinant plusieurs hormones intestinales, études de leurs effets sur la dépendance et le cœur.",
    "s": "Régulation du poids",
-   "t": "Comment le corps régule-t-il le poids, et pourquoi les médicaments GLP-1 marchent-ils si bien ?"
+   "t": "Comment le corps régule-t-il le poids, et pourquoi les médicaments GLP-1 marchent-ils si bien ?",
+   "why": "L'obésité touche plus d'un milliard de personnes et augmente le risque de diabète de type 2, de maladies cardiaques et de plusieurs cancers. Comprendre comment le cerveau et le métabolisme régulent le poids aiderait à expliquer pourquoi certaines personnes y sont plus sujettes que d'autres."
   },
   "hi": {
    "block": "मस्तिष्क में उनकी पूरी क्रिया और उनके बहुत लंबे समय के प्रभाव अच्छी तरह समझे नहीं गए हैं।",
    "known": "सेमाग्लूटाइड जैसी GLP-1 दवाएँ बड़ा और स्थायी वज़न घटाती हैं।",
    "leads": "कई आँत हार्मोनों को मिलाने वाली दवाएँ, लत और हृदय रोग पर उनके प्रभावों के अध्ययन।",
    "s": "वज़न नियमन",
-   "t": "शरीर वज़न को कैसे नियंत्रित करता है, और GLP-1 दवाएँ इतनी अच्छी तरह क्यों काम करती हैं?"
+   "t": "शरीर वज़न को कैसे नियंत्रित करता है, और GLP-1 दवाएँ इतनी अच्छी तरह क्यों काम करती हैं?",
+   "why": "मोटापा एक अरब से अधिक लोगों को प्रभावित करता है और टाइप 2 मधुमेह, हृदय रोग और कई तरह के कैंसर का जोखिम बढ़ाता है। मस्तिष्क और चयापचय वज़न को कैसे नियंत्रित करते हैं, यह समझना यह समझाने में मदद करेगा कि कुछ लोग दूसरों की तुलना में इसके प्रति अधिक संवेदनशील क्यों होते हैं।"
   },
   "pt": {
    "block": "Sua ação completa no cérebro e seus efeitos de muito longo prazo não são bem compreendidos.",
    "known": "Medicamentos GLP-1, como a semaglutida, produzem perda de peso grande e duradoura.",
    "leads": "Medicamentos que combinam vários hormônios intestinais, estudos sobre seus efeitos na dependência e nas doenças cardíacas.",
    "s": "Regulação do peso",
-   "t": "Como o corpo regula o peso, e por que os medicamentos GLP-1 funcionam tão bem?"
+   "t": "Como o corpo regula o peso, e por que os medicamentos GLP-1 funcionam tão bem?",
+   "why": "A obesidade afeta mais de um bilhão de pessoas e aumenta o risco de diabetes tipo 2, doenças cardíacas e vários tipos de câncer. Entender como o cérebro e o metabolismo regulam o peso ajudaria a explicar por que algumas pessoas são mais suscetíveis do que outras."
   },
   "zh": {
    "block": "它们在大脑中的全部作用及其非常长期的影响,还没有被很好地理解。",
    "known": "司美格鲁肽等GLP-1药物能带来显著而持久的减重。",
    "leads": "结合多种肠道激素的药物,研究它们对成瘾和心脏病的影响。",
    "s": "体重调节",
-   "t": "身体如何调节体重,GLP-1药物为什么这么有效?"
+   "t": "身体如何调节体重,GLP-1药物为什么这么有效?",
+   "why": "肥胖影响着超过十亿人，并增加罹患2型糖尿病、心脏病和多种癌症的风险。弄清大脑和新陈代谢如何调节体重，将有助于解释为什么有些人比其他人更容易肥胖。"
   }
  },
  "links": [

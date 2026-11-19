@@ -7,49 +7,56 @@
    "known": "ترتبط البكتيريا المقاومة بملايين الوفيات سنويًا في العالم.",
    "leads": "مضادات حيوية اكتُشفت بالذكاء الاصطناعي مثل الهاليسين، وفيروسات تقتل البكتيريا (العاثيات).",
    "s": "مقاومة المضادات الحيوية",
-   "t": "كيف يمكننا هزيمة مقاومة المضادات الحيوية؟"
+   "t": "كيف يمكننا هزيمة مقاومة المضادات الحيوية؟",
+   "why": "ترتبط البكتيريا المقاومة للأدوية بملايين الوفيات سنويًا، وتجعل علاجات كانت فعالة عديمة الجدوى. والتغلب على المقاومة سيُبقي العدوى البكتيرية قابلة للعلاج وقد يمنع وفيات كثيرة في العقود المقبلة."
   },
   "en": {
    "block": "New antibiotics earn little, which has limited the interest of investors and most large drug companies.",
    "known": "Resistant bacteria are associated with millions of deaths a year worldwide.",
    "leads": "AI-discovered antibiotics such as halicin, and bacteria-killing viruses (phages).",
    "s": "Antibiotic resistance",
-   "t": "How can we defeat antibiotic resistance?"
+   "t": "How can we defeat antibiotic resistance?",
+   "why": "Drug-resistant bacteria are linked to millions of deaths a year and make once-effective treatments useless. Beating resistance would keep bacterial infections treatable and could avert many deaths in the coming decades."
   },
   "es": {
    "block": "Los nuevos antibióticos dan poca ganancia, lo que ha limitado el interés de los inversores y de la mayoría de las grandes farmacéuticas.",
    "known": "Las bacterias resistentes se asocian a millones de muertes al año en todo el mundo.",
    "leads": "Antibióticos descubiertos por IA, como la halicina, y virus que matan bacterias (fagos).",
    "s": "Resistencia a antibióticos",
-   "t": "¿Cómo podemos vencer la resistencia a los antibióticos?"
+   "t": "¿Cómo podemos vencer la resistencia a los antibióticos?",
+   "why": "Las bacterias resistentes a los fármacos están asociadas a millones de muertes al año y vuelven inútiles tratamientos que antes funcionaban. Vencer la resistencia mantendría tratables las infecciones bacterianas y podría evitar muchas muertes en las próximas décadas."
   },
   "fr": {
    "block": "Les nouveaux antibiotiques rapportent peu, ce qui a limité l'intérêt des investisseurs et de la plupart des grandes entreprises pharmaceutiques.",
    "known": "Les bactéries résistantes sont associées à des millions de décès par an dans le monde.",
    "leads": "Antibiotiques découverts par IA, comme l'halicine, et virus tueurs de bactéries (phages).",
    "s": "Antibiorésistance",
-   "t": "Comment vaincre la résistance aux antibiotiques ?"
+   "t": "Comment vaincre la résistance aux antibiotiques ?",
+   "why": "Les bactéries résistantes aux médicaments sont associées à des millions de décès par an et rendent inefficaces des traitements qui fonctionnaient. Vaincre la résistance permettrait de continuer à soigner les infections bactériennes et pourrait éviter de nombreux décès dans les décennies à venir."
   },
   "hi": {
    "block": "नए एंटीबायोटिक से कमाई कम होती है, जिससे निवेशकों और ज़्यादातर बड़ी दवा कंपनियों की रुचि सीमित हो गई है।",
    "known": "प्रतिरोधी बैक्टीरिया दुनिया भर में हर साल लाखों मौतों से जुड़े हैं।",
    "leads": "हैलिसिन जैसे AI द्वारा खोजे गए एंटीबायोटिक, और बैक्टीरिया को मारने वाले वायरस (फेज)।",
    "s": "एंटीबायोटिक प्रतिरोध",
-   "t": "हम एंटीबायोटिक प्रतिरोध को कैसे हरा सकते हैं?"
+   "t": "हम एंटीबायोटिक प्रतिरोध को कैसे हरा सकते हैं?",
+   "why": "दवा-प्रतिरोधी बैक्टीरिया हर साल लाखों मौतों से जुड़े हैं और कभी असरदार रहे इलाज को बेकार कर देते हैं। प्रतिरोध पर जीत बैक्टीरियल संक्रमणों को इलाज योग्य बनाए रखेगी और आने वाले दशकों में बहुत सी मौतें टाल सकती है।"
   },
   "pt": {
    "block": "Novos antibióticos dão pouco lucro, o que limitou o interesse dos investidores e da maioria das grandes farmacêuticas.",
    "known": "Bactérias resistentes estão associadas a milhões de mortes por ano no mundo.",
    "leads": "Antibióticos descobertos por IA, como a halicina, e vírus que matam bactérias (fagos).",
    "s": "Resistência a antibióticos",
-   "t": "Como podemos vencer a resistência aos antibióticos?"
+   "t": "Como podemos vencer a resistência aos antibióticos?",
+   "why": "Bactérias resistentes a medicamentos estão associadas a milhões de mortes por ano e tornam inúteis tratamentos antes eficazes. Vencer a resistência manteria as infecções bacterianas tratáveis e poderia evitar muitas mortes nas próximas décadas."
   },
   "zh": {
    "block": "新抗生素利润很低，这限制了投资者和大多数大型制药公司的兴趣。",
    "known": "耐药细菌与全球每年数百万人的死亡有关。",
    "leads": "AI发现的抗生素(如halicin),以及杀死细菌的病毒(噬菌体)。",
    "s": "抗生素耐药",
-   "t": "如何战胜抗生素耐药性?"
+   "t": "如何战胜抗生素耐药性?",
+   "why": "耐药细菌每年与数百万人死亡相关，并让曾经有效的治疗失去作用。战胜耐药性将使细菌感染仍可治疗，并可能在未来几十年避免大量死亡。"
   }
  },
  "links": [

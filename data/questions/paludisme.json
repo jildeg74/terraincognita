@@ -7,49 +7,56 @@
    "known": "توصي منظمة الصحة العالمية الآن بلقاحين ضد الملاريا، ومع ذلك لا يزال المرض يقتل مئات الآلاف سنويًا، معظمهم من صغار الأطفال في أفريقيا.",
    "leads": "محركات جينية لكبح أعداد البعوض، وأجسام مضادة وحيدة النسيلة طويلة المفعول.",
    "s": "استئصال الملاريا",
-   "t": "هل يمكن استئصال الملاريا؟"
+   "t": "هل يمكن استئصال الملاريا؟",
+   "why": "لا تزال الملاريا تقتل مئات الآلاف من الناس كل عام، معظمهم من صغار الأطفال في أفريقيا. والقضاء عليها سينهي هذه الحصيلة، لكن التقدم مهدد مع تزايد مقاومة البعوض والطفيليات للأدوات الحالية."
   },
   "en": {
    "block": "Parasites resist drugs and mosquitoes resist insecticides.",
    "known": "The WHO now recommends two malaria vaccines, yet the disease still kills hundreds of thousands a year, mostly young children in Africa.",
    "leads": "Gene drives to suppress mosquito populations, long-acting monoclonal antibodies.",
    "s": "Malaria eradication",
-   "t": "Can malaria be eradicated?"
+   "t": "Can malaria be eradicated?",
+   "why": "Malaria still kills hundreds of thousands of people a year, mostly young children in Africa. Eradicating it would end this toll, but progress is threatened as mosquitoes and parasites become resistant to current tools."
   },
   "es": {
    "block": "Los parásitos resisten a los fármacos y los mosquitos resisten a los insecticidas.",
    "known": "La OMS recomienda ahora dos vacunas contra la malaria, pero la enfermedad sigue matando a cientos de miles de personas al año, sobre todo niños pequeños en África.",
    "leads": "Impulsores genéticos para reducir las poblaciones de mosquitos, anticuerpos monoclonales de acción prolongada.",
    "s": "Erradicar la malaria",
-   "t": "¿Se puede erradicar la malaria?"
+   "t": "¿Se puede erradicar la malaria?",
+   "why": "La malaria todavía mata a cientos de miles de personas al año, sobre todo a niños pequeños en África. Erradicarla pondría fin a este balance, pero los avances están amenazados a medida que mosquitos y parásitos se vuelven resistentes a las herramientas actuales."
   },
   "fr": {
    "block": "Les parasites résistent aux médicaments et les moustiques aux insecticides.",
    "known": "L'OMS recommande désormais deux vaccins, mais la maladie tue encore des centaines de milliers de personnes par an, surtout des enfants en Afrique.",
    "leads": "Forçage génétique pour réduire les populations de moustiques, anticorps monoclonaux à longue durée d'action.",
    "s": "Éradiquer le paludisme",
-   "t": "Peut-on éradiquer le paludisme ?"
+   "t": "Peut-on éradiquer le paludisme ?",
+   "why": "Le paludisme tue encore des centaines de milliers de personnes chaque année, surtout de jeunes enfants en Afrique. L'éradiquer mettrait fin à ce bilan, mais les progrès sont menacés à mesure que moustiques et parasites deviennent résistants aux outils actuels."
   },
   "hi": {
    "block": "परजीवी दवाओं का और मच्छर कीटनाशकों का प्रतिरोध करते हैं।",
    "known": "WHO अब दो मलेरिया टीकों की सिफ़ारिश करता है, फिर भी यह बीमारी हर साल सैकड़ों हज़ार लोगों की जान लेती है, जिनमें अधिकतर अफ्रीका के छोटे बच्चे हैं।",
    "leads": "मच्छरों की आबादी घटाने के लिए जीन ड्राइव, लंबे समय तक असर करने वाली मोनोक्लोनल एंटीबॉडी।",
    "s": "मलेरिया उन्मूलन",
-   "t": "क्या मलेरिया का उन्मूलन किया जा सकता है?"
+   "t": "क्या मलेरिया का उन्मूलन किया जा सकता है?",
+   "why": "मलेरिया आज भी हर साल लाखों लोगों की जान लेता है, जिनमें ज़्यादातर अफ्रीका के छोटे बच्चे होते हैं। इसका उन्मूलन इन मौतों को ख़त्म कर देगा, लेकिन प्रगति ख़तरे में है क्योंकि मच्छर और परजीवी मौजूदा साधनों के प्रति प्रतिरोधी होते जा रहे हैं।"
   },
   "pt": {
    "block": "Os parasitas resistem aos medicamentos e os mosquitos resistem aos inseticidas.",
    "known": "A OMS agora recomenda duas vacinas contra a malária, mas a doença ainda mata centenas de milhares de pessoas por ano, sobretudo crianças pequenas na África.",
    "leads": "Impulsão gênica (gene drive) para reduzir as populações de mosquitos, anticorpos monoclonais de ação prolongada.",
    "s": "Erradicar a malária",
-   "t": "A malária pode ser erradicada?"
+   "t": "A malária pode ser erradicada?",
+   "why": "A malária ainda mata centenas de milhares de pessoas por ano, sobretudo crianças pequenas na África. Erradicá-la poria fim a esse saldo, mas o progresso está ameaçado à medida que mosquitos e parasitas se tornam resistentes às ferramentas atuais."
   },
   "zh": {
    "block": "寄生虫对药物产生抗药性,蚊子对杀虫剂产生抗药性。",
    "known": "世界卫生组织现已推荐两种疟疾疫苗,但这种病每年仍夺去数十万人的生命,多数是非洲的幼儿。",
    "leads": "用于压制蚊群数量的基因驱动,长效单克隆抗体。",
    "s": "根除疟疾",
-   "t": "疟疾能被根除吗?"
+   "t": "疟疾能被根除吗?",
+   "why": "疟疾每年仍夺去数十万人的生命，其中大多是非洲的幼儿。根除疟疾将终结这一伤亡，但随着蚊子和寄生虫对现有手段产生抗性，防治进展正受到威胁。"
   }
  },
  "links": [

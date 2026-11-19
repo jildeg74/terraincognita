@@ -7,49 +7,56 @@
    "known": "يُظهر الحمض النووي القديم أن أسلافنا تزاوجوا مع النياندرتال والدينيسوفان.",
    "leads": "الحمض النووي القديم من العظام وحتى من رواسب الكهوف.",
    "s": "انتشار البشر",
-   "t": "كيف انتشر الإنسان العاقل في أنحاء العالم؟"
+   "t": "كيف انتشر الإنسان العاقل في أنحاء العالم؟",
+   "why": "تتبّع انتشار أسلافنا يفسّر سمات يحملها الناس اليوم: فالجينات الموروثة من إنسان نياندرتال وإنسان دينيسوفا لا تزال تؤثر في الاستجابة المناعية للعدوى وتساعد سكان التبت على العيش في المرتفعات. كما يساعد على إظهار ما يجعلنا بشرًا على نحو فريد."
   },
   "en": {
    "block": "The dates and routes of many migrations are still disputed.",
    "known": "Ancient DNA shows our ancestors interbred with Neanderthals and Denisovans.",
    "leads": "Ancient DNA from bones and even from cave sediments.",
    "s": "Human dispersal",
-   "t": "How did Homo sapiens spread across the world?"
+   "t": "How did Homo sapiens spread across the world?",
+   "why": "Tracing how our ancestors spread explains traits people carry today: genes inherited from Neanderthals and Denisovans still affect immune responses to infections and help Tibetans live at high altitude. It also helps show what makes us uniquely human."
   },
   "es": {
    "block": "Las fechas y las rutas de muchas migraciones siguen en disputa.",
    "known": "El ADN antiguo muestra que nuestros antepasados se cruzaron con neandertales y denisovanos.",
    "leads": "ADN antiguo de huesos e incluso de sedimentos de cuevas.",
    "s": "Dispersión humana",
-   "t": "¿Cómo se extendió el Homo sapiens por el mundo?"
+   "t": "¿Cómo se extendió el Homo sapiens por el mundo?",
+   "why": "Reconstruir cómo se expandieron nuestros antepasados explica rasgos que la gente tiene hoy: genes heredados de neandertales y denisovanos siguen influyendo en la respuesta inmunitaria a las infecciones y ayudan a los tibetanos a vivir a gran altitud. También ayuda a mostrar qué nos hace únicamente humanos."
   },
   "fr": {
    "block": "Les dates et les routes de nombreuses migrations restent discutées.",
    "known": "L'ADN ancien montre que nos ancêtres se sont mêlés aux Néandertaliens et aux Dénisoviens.",
    "leads": "ADN ancien extrait d'ossements et même de sédiments de grottes.",
    "s": "Expansion humaine",
-   "t": "Comment Homo sapiens s'est-il répandu sur la planète ?"
+   "t": "Comment Homo sapiens s'est-il répandu sur la planète ?",
+   "why": "Retracer la dispersion des ancêtres de l'humanité explique des traits encore présents aujourd'hui : des gènes hérités de Néandertal et des Dénisoviens influencent toujours la réponse immunitaire aux infections et aident les Tibétains à vivre en haute altitude. Cela aide aussi à cerner ce qui rend l'être humain unique."
   },
   "hi": {
    "block": "कई प्रवासों की तिथियाँ और मार्ग अब भी विवादित हैं।",
    "known": "प्राचीन DNA दिखाता है कि हमारे पूर्वजों ने निएंडरथल और डेनिसोवन से संतान पैदा की।",
    "leads": "हड्डियों से और गुफाओं की तलछट से भी प्राचीन DNA।",
    "s": "मानव प्रसार",
-   "t": "होमो सेपियंस दुनिया भर में कैसे फैले?"
+   "t": "होमो सेपियंस दुनिया भर में कैसे फैले?",
+   "why": "हमारे पूर्वजों के फैलाव का पता लगाना उन विशेषताओं को समझाता है जो लोग आज भी रखते हैं: निएंडरथल और डेनिसोवन से मिले जीन आज भी संक्रमणों के प्रति प्रतिरक्षा प्रतिक्रिया को प्रभावित करते हैं और तिब्बतियों को ऊँचाई पर रहने में मदद करते हैं। इससे यह समझने में भी मदद मिलती है कि हमें विशिष्ट रूप से मनुष्य क्या बनाता है।"
   },
   "pt": {
    "block": "As datas e as rotas de muitas migrações ainda são disputadas.",
    "known": "O DNA antigo mostra que nossos ancestrais se cruzaram com neandertais e denisovanos.",
    "leads": "DNA antigo extraído de ossos e até de sedimentos de cavernas.",
    "s": "Dispersão humana",
-   "t": "Como o Homo sapiens se espalhou pelo mundo?"
+   "t": "Como o Homo sapiens se espalhou pelo mundo?",
+   "why": "Reconstituir como os nossos antepassados se espalharam explica traços que as pessoas têm hoje: genes herdados dos neandertais e dos denisovanos ainda influenciam a resposta imunitária a infeções e ajudam os tibetanos a viver em grande altitude. Também ajuda a mostrar o que nos torna unicamente humanos."
   },
   "zh": {
    "block": "许多迁徙的时间和路线仍有争议。",
    "known": "古DNA显示,我们的祖先与尼安德特人和丹尼索瓦人有过杂交。",
    "leads": "来自骨骼乃至洞穴沉积物的古DNA。",
    "s": "人类扩散",
-   "t": "智人是如何扩散到世界各地的?"
+   "t": "智人是如何扩散到世界各地的?",
+   "why": "追溯我们祖先的扩散过程，可以解释人们今天携带的特征：从尼安德特人和丹尼索瓦人那里继承的基因，至今仍影响对感染的免疫反应，并帮助藏族人在高海拔地区生活。这也有助于揭示是什么让人类独一无二。"
   }
  },
  "links": [

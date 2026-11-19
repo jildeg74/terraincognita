@@ -7,49 +7,56 @@
    "known": "جرى تأكيد أكثر من 6000 كوكب خارجي، كثير منها في النطاق الذي يمكن أن يكون فيه الماء سائلًا.",
    "leads": "تلسكوب جيمس ويب، ومرصد العوالم الصالحة للسكن المستقبلي، ومهمة يوروبا كليبر إلى قمر المشتري يوروبا.",
    "s": "حياة في مكان آخر",
-   "t": "هل نحن وحدنا في الكون؟"
+   "t": "هل نحن وحدنا في الكون؟",
+   "why": "ستجيب عن سؤال جوهري: هل نحن وحدنا في الكون؟ وقد وصف باحثون البحث عن حياة خارج الأرض بأنه من أضخم المساعي التي اضطلعت بها البشرية على الإطلاق وأبعدها أثرًا."
   },
   "en": {
    "block": "No sign of life, or biosignature, has been confirmed beyond Earth.",
    "known": "More than 6,000 exoplanets are confirmed, many in the zone where water can be liquid.",
    "leads": "The James Webb telescope, the future Habitable Worlds Observatory, and the Europa Clipper mission to Jupiter's moon Europa.",
    "s": "Life elsewhere",
-   "t": "Are we alone in the universe?"
+   "t": "Are we alone in the universe?",
+   "why": "It would answer a fundamental question: are we alone in the universe? Researchers have described the search for life beyond Earth as one of the most monumental and consequential endeavours humanity has ever embarked on."
   },
   "es": {
    "block": "No se ha confirmado ninguna señal de vida, o biofirma, fuera de la Tierra.",
    "known": "Se han confirmado más de 6000 exoplanetas, muchos en la zona donde el agua puede ser líquida.",
    "leads": "El telescopio James Webb, el futuro Observatorio de Mundos Habitables y la misión Europa Clipper a la luna Europa de Júpiter.",
    "s": "Vida extraterrestre",
-   "t": "¿Estamos solos en el universo?"
+   "t": "¿Estamos solos en el universo?",
+   "why": "Respondería a una pregunta fundamental: ¿estamos solos en el universo? Algunos investigadores han descrito la búsqueda de vida más allá de la Tierra como una de las empresas más monumentales y trascendentales que ha emprendido la humanidad."
   },
   "fr": {
    "block": "Aucune trace de vie, ou biosignature, n'a été confirmée hors de la Terre.",
    "known": "Plus de 6 000 exoplanètes sont confirmées, dont beaucoup dans la zone où l'eau peut être liquide.",
    "leads": "Le télescope James Webb, le futur Habitable Worlds Observatory, et la mission Europa Clipper vers la lune Europe.",
    "s": "Vie ailleurs",
-   "t": "Sommes-nous seuls dans l'univers ?"
+   "t": "Sommes-nous seuls dans l'univers ?",
+   "why": "Cela répondrait à une question fondamentale : sommes-nous seuls dans l'Univers ? Des chercheurs ont décrit la recherche de la vie au-delà de la Terre comme l'une des entreprises les plus monumentales et les plus lourdes de conséquences jamais menées par l'humanité."
   },
   "hi": {
    "block": "पृथ्वी से परे जीवन का कोई संकेत, यानी बायोसिग्नेचर, अब तक पुष्ट नहीं हुआ है।",
    "known": "6,000 से अधिक बाह्यग्रहों की पुष्टि हो चुकी है, जिनमें से कई उस क्षेत्र में हैं जहाँ पानी तरल रह सकता है।",
    "leads": "जेम्स वेब दूरबीन, भविष्य की हैबिटेबल वर्ल्ड्स ऑब्ज़र्वेटरी, और बृहस्पति के चंद्रमा यूरोपा के लिए यूरोपा क्लिपर मिशन।",
    "s": "अन्यत्र जीवन",
-   "t": "क्या हम ब्रह्मांड में अकेले हैं?"
+   "t": "क्या हम ब्रह्मांड में अकेले हैं?",
+   "why": "यह एक बुनियादी सवाल का उत्तर देगा: क्या हम ब्रह्मांड में अकेले हैं? शोधकर्ताओं ने पृथ्वी से परे जीवन की खोज को मानवता के अब तक के सबसे विशाल और दूरगामी प्रयासों में से एक बताया है।"
   },
   "pt": {
    "block": "Nenhum sinal de vida, ou bioassinatura, foi confirmado fora da Terra.",
    "known": "Mais de 6.000 exoplanetas foram confirmados, muitos na zona onde a água pode ser líquida.",
    "leads": "O telescópio James Webb, o futuro Observatório de Mundos Habitáveis e a missão Europa Clipper à lua Europa, de Júpiter.",
    "s": "Vida em outros mundos",
-   "t": "Estamos sozinhos no universo?"
+   "t": "Estamos sozinhos no universo?",
+   "why": "Responderia a uma pergunta fundamental: estamos sozinhos no universo? Investigadores descreveram a procura de vida para além da Terra como um dos empreendimentos mais monumentais e com mais consequências alguma vez realizados pela humanidade."
   },
   "zh": {
    "block": "地球以外尚未确认任何生命迹象(生物标志)。",
    "known": "已确认的系外行星超过6000颗,其中许多位于可能存在液态水的区域。",
    "leads": "詹姆斯·韦布望远镜、未来的宜居世界天文台,以及前往木星卫星木卫二的欧罗巴快船任务。",
    "s": "地外生命",
-   "t": "我们在宇宙中是孤独的吗?"
+   "t": "我们在宇宙中是孤独的吗?",
+   "why": "它将回答一个根本问题：我们在宇宙中是孤独的吗？有研究人员把寻找地球以外生命的工作描述为人类所从事过的最宏大、影响最深远的事业之一。"
   }
  },
  "links": [

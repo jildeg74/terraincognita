@@ -7,49 +7,56 @@
    "known": "تفصل الرقائق اليوم بين الذاكرة والحساب، مما يهدر الطاقة.",
    "leads": "رقائق عصبية الشكل، وحوسبة تناظرية وضوئية.",
    "s": "حوسبة شبيهة بالدماغ",
-   "t": "هل يمكن للحواسيب أن تصبح بكفاءة الدماغ في استهلاك الطاقة؟"
+   "t": "هل يمكن للحواسيب أن تصبح بكفاءة الدماغ في استهلاك الطاقة؟",
+   "why": "يعمل الدماغ البشري بقدرة 20 واط أو أقل، بينما يستهلك الذكاء الاصطناعي كميات هائلة من الكهرباء ويُثقل شبكات الطاقة. ويمكن لحواسيب تعمل بطريقة أقرب إلى الدماغ أن تقلّل بشكل كبير من البصمة الطاقية للذكاء الاصطناعي."
   },
   "en": {
    "block": "Today's chips separate memory and computation, which wastes energy.",
    "known": "The human brain runs on about 20 watts.",
    "leads": "Neuromorphic chips, analog and optical computing.",
    "s": "Brain-like computing",
-   "t": "Can computers become as energy-efficient as the brain?"
+   "t": "Can computers become as energy-efficient as the brain?",
+   "why": "The human brain runs on 20 watts or less, while AI consumes huge amounts of electricity and strains power grids. Computers that work more like the brain could significantly reduce AI's energy footprint."
   },
   "es": {
    "block": "Los chips actuales separan la memoria y el cálculo, lo que desperdicia energía.",
    "known": "El cerebro humano funciona con unos 20 vatios.",
    "leads": "Chips neuromórficos, computación analógica y óptica.",
    "s": "Computación como el cerebro",
-   "t": "¿Pueden los ordenadores llegar a ser tan eficientes energéticamente como el cerebro?"
+   "t": "¿Pueden los ordenadores llegar a ser tan eficientes energéticamente como el cerebro?",
+   "why": "El cerebro humano funciona con 20 vatios o menos, mientras que la IA consume enormes cantidades de electricidad y somete a presión las redes eléctricas. Ordenadores que funcionen más como el cerebro podrían reducir de forma significativa la huella energética de la IA."
   },
   "fr": {
    "block": "Les puces actuelles séparent mémoire et calcul, ce qui gaspille de l'énergie.",
    "known": "Le cerveau humain fonctionne avec environ 20 watts.",
    "leads": "Puces neuromorphiques, calcul analogique et optique.",
    "s": "Calcul neuromorphique",
-   "t": "Les ordinateurs peuvent-ils devenir aussi sobres que le cerveau ?"
+   "t": "Les ordinateurs peuvent-ils devenir aussi sobres que le cerveau ?",
+   "why": "Le cerveau humain fonctionne avec 20 watts ou moins, tandis que l'IA consomme d'énormes quantités d'électricité et met les réseaux électriques sous tension. Des ordinateurs fonctionnant davantage comme le cerveau pourraient réduire nettement l'empreinte énergétique de l'IA."
   },
   "hi": {
    "block": "आज की चिप्स स्मृति और गणना को अलग रखती हैं, जिससे ऊर्जा बर्बाद होती है।",
    "known": "मानव मस्तिष्क लगभग 20 वाट पर चलता है।",
    "leads": "न्यूरोमॉर्फिक चिप्स, एनालॉग और प्रकाशीय कंप्यूटिंग।",
    "s": "मस्तिष्क-जैसी कंप्यूटिंग",
-   "t": "क्या कंप्यूटर मस्तिष्क जितने ऊर्जा-कुशल बन सकते हैं?"
+   "t": "क्या कंप्यूटर मस्तिष्क जितने ऊर्जा-कुशल बन सकते हैं?",
+   "why": "मानव मस्तिष्क 20 वाट या उससे कम बिजली पर चलता है, जबकि AI भारी मात्रा में बिजली खर्च करता है और बिजली ग्रिड पर दबाव डालता है। मस्तिष्क की तरह अधिक काम करने वाले कंप्यूटर AI के ऊर्जा पदचिह्न को काफ़ी कम कर सकते हैं।"
   },
   "pt": {
    "block": "Os chips atuais separam memória e computação, o que desperdiça energia.",
    "known": "O cérebro humano funciona com cerca de 20 watts.",
    "leads": "Chips neuromórficos, computação analógica e óptica.",
    "s": "Computação como o cérebro",
-   "t": "Os computadores podem se tornar tão eficientes em energia quanto o cérebro?"
+   "t": "Os computadores podem se tornar tão eficientes em energia quanto o cérebro?",
+   "why": "O cérebro humano funciona com 20 watts ou menos, enquanto a IA consome enormes quantidades de eletricidade e sobrecarrega as redes elétricas. Computadores que funcionem mais como o cérebro poderiam reduzir significativamente a pegada energética da IA."
   },
   "zh": {
    "block": "如今的芯片把存储和计算分开,这会浪费能量。",
    "known": "人脑只需约20瓦的功率就能运转。",
    "leads": "类脑芯片,模拟计算和光计算。",
    "s": "类脑计算",
-   "t": "计算机能变得和大脑一样节能吗?"
+   "t": "计算机能变得和大脑一样节能吗?",
+   "why": "人脑的功耗只有20瓦或更低，而人工智能消耗大量电力，给电网带来压力。更像大脑那样工作的计算机，有可能大幅降低人工智能的能源足迹。"
   }
  },
  "links": [

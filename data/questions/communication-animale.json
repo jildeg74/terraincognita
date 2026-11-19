@@ -7,49 +7,56 @@
    "known": "لنقرات حوت العنبر بنية تركيبية تذكّر بالأبجدية الصوتية.",
    "leads": "مشروع CETI، ونماذج ذكاء اصطناعي مدرَّبة على تسجيلات الحيوانات.",
    "s": "لغة الحيوان",
-   "t": "هل يمكننا فهم ما تقوله الحيوانات لبعضها؟"
+   "t": "هل يمكننا فهم ما تقوله الحيوانات لبعضها؟",
+   "why": "فهم أصوات الحيوانات سيُظهر مدى اقتراب تواصل الأنواع الأخرى من تواصلنا: فحيتان العنبر تُظهر بالفعل سمات تقتصر عادةً على البشر. ويمكن لخريطة طريق لفك شيفرة تواصل الحيتان أن تكون نموذجًا لفك شيفرة تواصل حيوانات أخرى."
   },
   "en": {
    "block": "Without knowing what a sound refers to, we can't translate it.",
    "known": "Sperm whale clicks have a combinatorial structure reminiscent of a phonetic alphabet.",
    "leads": "Project CETI, AI models trained on animal recordings.",
    "s": "Animal language",
-   "t": "Can we understand what animals say to each other?"
+   "t": "Can we understand what animals say to each other?",
+   "why": "Understanding animal calls would show how close other species' communication comes to our own: sperm whales already show features typically reserved for humans. A roadmap for decoding whale communication could serve as a template for deciphering other animals' communication."
   },
   "es": {
    "block": "Sin saber a qué se refiere un sonido, no podemos traducirlo.",
    "known": "Los clics de los cachalotes tienen una estructura combinatoria que recuerda a un alfabeto fonético.",
    "leads": "Proyecto CETI, modelos de IA entrenados con grabaciones de animales.",
    "s": "Lenguaje animal",
-   "t": "¿Podemos entender lo que se dicen los animales entre sí?"
+   "t": "¿Podemos entender lo que se dicen los animales entre sí?",
+   "why": "Entender los sonidos de los animales mostraría cuánto se acerca la comunicación de otras especies a la nuestra: los cachalotes ya muestran rasgos normalmente reservados a los humanos. Una hoja de ruta para descifrar la comunicación de los cachalotes podría servir de modelo para descifrar la de otros animales."
   },
   "fr": {
    "block": "Sans savoir à quoi un son se rapporte, on ne peut pas le traduire.",
    "known": "Les clics des cachalots ont une structure combinatoire rappelant un alphabet sonore.",
    "leads": "Projet CETI, modèles d'IA entraînés sur des enregistrements d'animaux.",
    "s": "Langage animal",
-   "t": "Peut-on comprendre ce que se disent les animaux ?"
+   "t": "Peut-on comprendre ce que se disent les animaux ?",
+   "why": "Comprendre les cris des animaux montrerait à quel point la communication d'autres espèces se rapproche de la nôtre : les cachalots présentent déjà des traits habituellement réservés aux humains. Une feuille de route pour décoder la communication des cachalots pourrait servir de modèle pour déchiffrer celle d'autres animaux."
   },
   "hi": {
    "block": "जब तक यह न पता हो कि कोई ध्वनि किसकी ओर संकेत करती है, हम उसका अनुवाद नहीं कर सकते।",
    "known": "स्पर्म व्हेल की क्लिक ध्वनियों की संरचना संयोजनात्मक है, जो ध्वन्यात्मक वर्णमाला की याद दिलाती है।",
    "leads": "प्रोजेक्ट CETI, पशुओं की रिकॉर्डिंग पर प्रशिक्षित AI मॉडल।",
    "s": "पशु भाषा",
-   "t": "क्या हम समझ सकते हैं कि जानवर आपस में क्या कहते हैं?"
+   "t": "क्या हम समझ सकते हैं कि जानवर आपस में क्या कहते हैं?",
+   "why": "जानवरों की आवाज़ों को समझना दिखाएगा कि दूसरी प्रजातियों का संचार हमारे संचार के कितना करीब है: स्पर्म व्हेल पहले से ही ऐसी विशेषताएँ दिखाती हैं जो आमतौर पर मनुष्यों तक सीमित मानी जाती हैं। व्हेल के संचार को समझने का एक रोडमैप दूसरे जानवरों के संचार को समझने के लिए एक नमूने का काम कर सकता है।"
   },
   "pt": {
    "block": "Sem saber ao que um som se refere, não conseguimos traduzi-lo.",
    "known": "Os cliques dos cachalotes têm uma estrutura combinatória que lembra um alfabeto fonético.",
    "leads": "Projeto CETI, modelos de IA treinados com gravações de animais.",
    "s": "Linguagem animal",
-   "t": "Podemos entender o que os animais dizem uns aos outros?"
+   "t": "Podemos entender o que os animais dizem uns aos outros?",
+   "why": "Compreender os sons dos animais mostraria quão próxima da nossa está a comunicação de outras espécies: os cachalotes já apresentam características normalmente reservadas aos humanos. Um roteiro para descodificar a comunicação dos cachalotes poderia servir de modelo para decifrar a de outros animais."
   },
   "zh": {
    "block": "不知道一种声音指代什么,我们就无法翻译它。",
    "known": "抹香鲸的咔嗒声具有组合结构,让人联想到语音字母表。",
    "leads": "CETI项目,用动物录音训练的人工智能模型。",
    "s": "动物语言",
-   "t": "我们能听懂动物彼此在说什么吗?"
+   "t": "我们能听懂动物彼此在说什么吗?",
+   "why": "理解动物的叫声，将揭示其他物种的交流与我们有多接近：抹香鲸已经表现出通常只属于人类的特征。一份解码抹香鲸交流的路线图，可以作为破译其他动物交流的模板。"
   }
  },
  "links": [

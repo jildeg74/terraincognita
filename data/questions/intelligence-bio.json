@@ -7,49 +7,56 @@
    "known": "للبشر عدد كبير من الخلايا العصبية في القشرة الدماغية وطفولة طويلة.",
    "leads": "مقارنة عُضيّات دماغية بشرية وأخرى للقردة العليا.",
    "s": "الذكاء البشري",
-   "t": "ما الذي يميّز الذكاء البشري عن ذكاء الحيوانات الأخرى؟"
+   "t": "ما الذي يميّز الذكاء البشري عن ذكاء الحيوانات الأخرى؟",
+   "why": "إن معرفة ما يجعل الدماغ البشري فريدًا ستساعد على تفسير كيف أصبحنا بشرًا. وقد تسلّط الضوء أيضًا على اضطرابات نموّ الدماغ، لأن بعض الجينات التي شكّلت تطور الدماغ البشري تشارك أيضًا في الأمراض."
   },
   "en": {
    "block": "We don't know which differences actually matter.",
    "known": "Humans have many neurons in the cortex and a long childhood.",
    "leads": "Comparing human and ape brain organoids.",
    "s": "Human intelligence",
-   "t": "What makes human intelligence different from other animals'?"
+   "t": "What makes human intelligence different from other animals'?",
+   "why": "Knowing what makes the human brain unique would help explain how we became human. It could also shed light on brain development disorders, since some genes that shaped human brain evolution are also involved in disease."
   },
   "es": {
    "block": "No sabemos qué diferencias importan realmente.",
    "known": "Los humanos tienen muchas neuronas en la corteza y una infancia larga.",
    "leads": "Comparación de organoides cerebrales humanos y de simios.",
    "s": "Inteligencia humana",
-   "t": "¿Qué hace que la inteligencia humana sea diferente de la de otros animales?"
+   "t": "¿Qué hace que la inteligencia humana sea diferente de la de otros animales?",
+   "why": "Saber qué hace único al cerebro humano ayudaría a explicar cómo llegamos a ser humanos. También podría arrojar luz sobre los trastornos del desarrollo cerebral, ya que algunos genes que moldearon la evolución del cerebro humano también intervienen en enfermedades."
   },
   "fr": {
    "block": "On ne sait pas quelles différences comptent vraiment.",
    "known": "L'humain a beaucoup de neurones dans le cortex et une longue enfance.",
    "leads": "Comparer des organoïdes de cerveau humain et de grand singe.",
    "s": "Intelligence humaine",
-   "t": "Qu'est-ce qui rend l'intelligence humaine différente de celle des autres animaux ?"
+   "t": "Qu'est-ce qui rend l'intelligence humaine différente de celle des autres animaux ?",
+   "why": "Savoir ce qui rend le cerveau humain unique aiderait à expliquer comment nous sommes devenus humains. Cela pourrait aussi éclairer les troubles du développement cérébral, car certains gènes qui ont façonné l'évolution du cerveau humain sont aussi impliqués dans des maladies."
   },
   "hi": {
    "block": "हमें नहीं पता कि वास्तव में कौन-से अंतर मायने रखते हैं।",
    "known": "मनुष्यों के कॉर्टेक्स में बहुत से न्यूरॉन होते हैं और बचपन लंबा होता है।",
    "leads": "मानव और वानर के ब्रेन ऑर्गेनॉइड की तुलना।",
    "s": "मानव बुद्धि",
-   "t": "मानव बुद्धि को अन्य जानवरों की बुद्धि से क्या अलग बनाता है?"
+   "t": "मानव बुद्धि को अन्य जानवरों की बुद्धि से क्या अलग बनाता है?",
+   "why": "मानव मस्तिष्क को अनोखा क्या बनाता है, यह जानना यह समझाने में मदद करेगा कि हम इंसान कैसे बने। इससे मस्तिष्क-विकास संबंधी विकारों पर भी रोशनी पड़ सकती है, क्योंकि मानव मस्तिष्क के विकासक्रम को आकार देने वाले कुछ जीन बीमारियों में भी शामिल होते हैं।"
   },
   "pt": {
    "block": "Não sabemos quais diferenças realmente importam.",
    "known": "Os humanos têm muitos neurônios no córtex e uma infância longa.",
    "leads": "Comparação entre organoides cerebrais de humanos e de macacos.",
    "s": "Inteligência humana",
-   "t": "O que torna a inteligência humana diferente da de outros animais?"
+   "t": "O que torna a inteligência humana diferente da de outros animais?",
+   "why": "Saber o que torna o cérebro humano único ajudaria a explicar como nos tornamos humanos. Também poderia esclarecer distúrbios do desenvolvimento cerebral, já que alguns genes que moldaram a evolução do cérebro humano também estão envolvidos em doenças."
   },
   "zh": {
    "block": "我们不知道究竟哪些差异才是关键。",
    "known": "人类的大脑皮层有很多神经元，童年也很漫长。",
    "leads": "比较人类与猿类的脑类器官。",
    "s": "人类智能",
-   "t": "是什么让人类智能不同于其他动物?"
+   "t": "是什么让人类智能不同于其他动物?",
+   "why": "弄清人类大脑的独特之处，将有助于解释我们如何成为人类。这也可能有助于理解脑发育障碍，因为一些塑造了人脑演化的基因同样与疾病有关。"
   }
  },
  "links": [

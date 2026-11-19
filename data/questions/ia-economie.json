@@ -7,49 +7,56 @@
    "known": "تُظهر الدراسات الأولية مكاسب كبيرة في الإنتاجية في بعض المهام.",
    "leads": "قياس كيفية استخدام الذكاء الاصطناعي فعليًا في العمل، وسياسات للتعامل مع مراحل الانتقال.",
    "s": "الذكاء الاصطناعي والعمل",
-   "t": "كيف سيغيّر الذكاء الاصطناعي العمل والاقتصاد؟"
+   "t": "كيف سيغيّر الذكاء الاصطناعي العمل والاقتصاد؟",
+   "why": "في دراسة شملت موظفي خدمة العملاء، رفع مساعد ذكاء اصطناعي الإنتاجية، وكان أكثر نفعًا للموظفين المبتدئين وذوي المهارات المحدودة، مع أثر ضئيل على الأكثر خبرة. ومعرفة كيف تنتشر هذه الآثار في الاقتصاد ستُظهر أي العاملين يستفيدون وكيف تتغير وظائفهم."
   },
   "en": {
    "block": "Most studies cover a few tasks or companies; the effects on the whole economy are not yet known.",
    "known": "Early studies show large productivity gains on some tasks.",
    "leads": "Measuring how AI is actually used at work, policies for transitions.",
    "s": "AI and work",
-   "t": "How will AI change work and the economy?"
+   "t": "How will AI change work and the economy?",
+   "why": "In a study of customer-support agents, an AI assistant raised productivity, helping novice and low-skilled workers most, with little effect on the most experienced. Knowing how such effects spread across the economy would show which workers gain and how their jobs change."
   },
   "es": {
    "block": "La mayoría de los estudios abarcan pocas tareas o empresas; aún no se conocen los efectos en toda la economía.",
    "known": "Los primeros estudios muestran grandes aumentos de productividad en algunas tareas.",
    "leads": "Medir cómo se usa realmente la IA en el trabajo, políticas para las transiciones.",
    "s": "IA y trabajo",
-   "t": "¿Cómo cambiará la IA el trabajo y la economía?"
+   "t": "¿Cómo cambiará la IA el trabajo y la economía?",
+   "why": "En un estudio con agentes de atención al cliente, un asistente de IA aumentó la productividad, sobre todo de los trabajadores novatos y menos cualificados, con poco efecto en los más experimentados. Saber cómo se extienden estos efectos por la economía mostraría qué trabajadores ganan y cómo cambian sus empleos."
   },
   "fr": {
    "block": "La plupart des études portent sur quelques tâches ou entreprises ; les effets sur l'économie entière ne sont pas encore connus.",
    "known": "Les premières études montrent de forts gains de productivité sur certaines tâches.",
    "leads": "Mesurer l'usage réel de l'IA au travail, politiques d'accompagnement des transitions.",
    "s": "IA et travail",
-   "t": "Comment l'IA va-t-elle changer le travail et l'économie ?"
+   "t": "Comment l'IA va-t-elle changer le travail et l'économie ?",
+   "why": "Dans une étude portant sur des agents de service client, un assistant d'IA a augmenté la productivité, surtout chez les débutants et les moins qualifiés, avec peu d'effet sur les plus expérimentés. Savoir comment de tels effets se diffusent dans l'économie montrerait quels travailleurs y gagnent et comment leurs métiers changent."
   },
   "hi": {
    "block": "ज़्यादातर अध्ययन कुछ ही कामों या कंपनियों तक सीमित हैं; पूरी अर्थव्यवस्था पर इसका असर अभी पता नहीं है।",
    "known": "शुरुआती अध्ययन कुछ कार्यों में उत्पादकता में बड़ी वृद्धि दिखाते हैं।",
    "leads": "यह मापना कि कार्यस्थल पर AI वास्तव में कैसे इस्तेमाल होता है, बदलाव के दौर के लिए नीतियाँ।",
    "s": "AI और काम",
-   "t": "AI काम और अर्थव्यवस्था को कैसे बदलेगा?"
+   "t": "AI काम और अर्थव्यवस्था को कैसे बदलेगा?",
+   "why": "ग्राहक सहायता कर्मचारियों पर हुए एक अध्ययन में, एक AI सहायक ने उत्पादकता बढ़ाई, सबसे ज़्यादा नए और कम कुशल कर्मचारियों की मदद की, और सबसे अनुभवी कर्मचारियों पर इसका असर कम रहा। यह जानना कि ऐसे प्रभाव पूरी अर्थव्यवस्था में कैसे फैलते हैं, दिखाएगा कि किन कामगारों को फ़ायदा होता है और उनका काम कैसे बदलता है।"
   },
   "pt": {
    "block": "A maioria dos estudos abrange poucas tarefas ou empresas; os efeitos na economia como um todo ainda não são conhecidos.",
    "known": "Os primeiros estudos mostram grandes ganhos de produtividade em algumas tarefas.",
    "leads": "Medir como a IA é realmente usada no trabalho, políticas para as transições.",
    "s": "IA e trabalho",
-   "t": "Como a IA vai mudar o trabalho e a economia?"
+   "t": "Como a IA vai mudar o trabalho e a economia?",
+   "why": "Num estudo com atendentes de suporte ao cliente, um assistente de IA aumentou a produtividade, ajudando sobretudo os trabalhadores novatos e menos qualificados, com pouco efeito nos mais experientes. Saber como esses efeitos se espalham pela economia mostraria quais trabalhadores ganham e como seus empregos mudam."
   },
   "zh": {
    "block": "大多数研究只涉及少数任务或公司；对整个经济的影响尚不清楚。",
    "known": "早期研究显示,在某些任务上生产率大幅提升。",
    "leads": "衡量AI在工作中的实际使用情况,过渡期的相关政策。",
    "s": "AI与工作",
-   "t": "人工智能将如何改变工作和经济?"
+   "t": "人工智能将如何改变工作和经济?",
+   "why": "一项针对客服人员的研究发现，人工智能助手提高了工作效率，对新手和低技能员工帮助最大，对最有经验的员工影响很小。弄清这类影响如何在整个经济中扩散，将揭示哪些劳动者从中受益，以及他们的工作会如何改变。"
   }
  },
  "links": [

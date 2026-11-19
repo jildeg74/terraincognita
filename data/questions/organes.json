@@ -7,49 +7,56 @@
    "known": "منذ عام 2022، زُرعت قلوب وكلى خنازير معدَّلة جينيًا في مرضى أحياء.",
    "leads": "مزيد من الخنازير المعدَّلة جينيًا، والطباعة الحيوية ثلاثية الأبعاد، وأعضاء تُنمّى من خلايا المريض نفسه.",
    "s": "أعضاء عند الطلب",
-   "t": "هل يمكننا إنتاج أعضاء للزرع عند الطلب؟"
+   "t": "هل يمكننا إنتاج أعضاء للزرع عند الطلب؟",
+   "why": "في الولايات المتحدة وحدها، ينتظر أكثر من 100,000 شخص عضوًا للزرع، ويموت 17 منهم كل يوم أثناء الانتظار. وإنتاج الأعضاء عند الطلب، مثلًا من خنازير معدّلة جينيًا، قد يخفف هذا النقص."
   },
   "en": {
    "block": "Rejection and long-term survival of these organs remain major hurdles.",
    "known": "Since 2022, gene-edited pig hearts and kidneys have been transplanted into living patients.",
    "leads": "Further gene-edited pigs, 3D bioprinting, organs grown from a patient's own cells.",
    "s": "Organs on demand",
-   "t": "Can we produce organs for transplant on demand?"
+   "t": "Can we produce organs for transplant on demand?",
+   "why": "In the U.S. alone, more than 100,000 people are waiting for an organ and 17 die each day while waiting. Producing organs on demand, for example from gene-edited pigs, could ease this shortage."
   },
   "es": {
    "block": "El rechazo y la supervivencia a largo plazo de estos órganos siguen siendo grandes obstáculos.",
    "known": "Desde 2022 se han trasplantado corazones y riñones de cerdo editados genéticamente a pacientes vivos.",
    "leads": "Más cerdos editados genéticamente, bioimpresión 3D, órganos cultivados a partir de las células del propio paciente.",
    "s": "Órganos a demanda",
-   "t": "¿Podemos producir órganos para trasplante a demanda?"
+   "t": "¿Podemos producir órganos para trasplante a demanda?",
+   "why": "Solo en Estados Unidos, más de 100.000 personas esperan un órgano y 17 mueren cada día mientras esperan. Producir órganos a demanda, por ejemplo a partir de cerdos editados genéticamente, podría aliviar esta escasez."
   },
   "fr": {
    "block": "Le rejet et la survie à long terme de ces organes restent de gros obstacles.",
    "known": "Depuis 2022, des cœurs et des reins de porcs génétiquement modifiés ont été greffés à des patients vivants.",
    "leads": "Porcs génétiquement modifiés de nouvelle génération, bio-impression 3D, organes cultivés à partir des cellules du patient.",
    "s": "Organes à la demande",
-   "t": "Peut-on fabriquer des organes à greffer à la demande ?"
+   "t": "Peut-on fabriquer des organes à greffer à la demande ?",
+   "why": "Rien qu'aux États-Unis, plus de 100 000 personnes attendent un organe et 17 meurent chaque jour pendant l'attente. Produire des organes à la demande, par exemple à partir de porcs génétiquement modifiés, pourrait atténuer cette pénurie."
   },
   "hi": {
    "block": "इन अंगों का अस्वीकरण और दीर्घकालिक उत्तरजीविता बड़ी बाधाएँ बनी हुई हैं।",
    "known": "2022 से जीन-संपादित सूअर के हृदय और गुर्दे जीवित रोगियों में प्रत्यारोपित किए गए हैं।",
    "leads": "और जीन-संपादित सूअर, 3D बायोप्रिंटिंग, रोगी की अपनी कोशिकाओं से उगाए गए अंग।",
    "s": "मांग पर अंग",
-   "t": "क्या हम प्रत्यारोपण के लिए मांग पर अंग बना सकते हैं?"
+   "t": "क्या हम प्रत्यारोपण के लिए मांग पर अंग बना सकते हैं?",
+   "why": "केवल अमेरिका में ही 1,00,000 से अधिक लोग अंग प्रत्यारोपण की प्रतीक्षा कर रहे हैं और हर दिन 17 लोग इंतज़ार करते-करते मर जाते हैं। ज़रूरत के अनुसार अंग बनाना, जैसे जीन-संपादित सूअरों से, इस कमी को कम कर सकता है।"
   },
   "pt": {
    "block": "A rejeição e a sobrevivência a longo prazo desses órgãos continuam sendo grandes obstáculos.",
    "known": "Desde 2022, corações e rins de porcos editados geneticamente foram transplantados em pacientes vivos.",
    "leads": "Mais porcos editados geneticamente, bioimpressão 3D, órgãos cultivados a partir das células do próprio paciente.",
    "s": "Órgãos sob demanda",
-   "t": "Podemos produzir órgãos para transplante sob demanda?"
+   "t": "Podemos produzir órgãos para transplante sob demanda?",
+   "why": "Só nos Estados Unidos, mais de 100.000 pessoas esperam por um órgão e 17 morrem a cada dia enquanto esperam. Produzir órgãos sob demanda, por exemplo a partir de porcos geneticamente editados, poderia aliviar essa escassez."
   },
   "zh": {
    "block": "这些器官的排斥反应和长期存活,仍是主要障碍。",
    "known": "自2022年起,经基因编辑的猪心脏和猪肾脏已被移植到活着的患者体内。",
    "leads": "更多经基因编辑的猪,3D生物打印,用患者自身细胞培育的器官。",
    "s": "按需造器官",
-   "t": "我们能按需制造移植用的器官吗?"
+   "t": "我们能按需制造移植用的器官吗?",
+   "why": "仅在美国，就有超过10万人在等待器官移植，每天有17人在等待中死亡。按需生产器官，例如利用基因编辑猪，可能缓解这种短缺。"
   }
  },
  "links": [

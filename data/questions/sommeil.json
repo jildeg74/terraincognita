@@ -7,49 +7,56 @@
    "known": "تنام جميع الحيوانات تقريبًا. ويساعد النوم على تثبيت الذاكرة وتنظيف الدماغ.",
    "leads": "دراسة النوم في حيوانات بسيطة جدًا، ودور الجهاز الغليمفاوي.",
    "s": "النوم",
-   "t": "لماذا ننام؟"
+   "t": "لماذا ننام؟",
+   "why": "يضر نقص النوم بالتفكير والمزاج والسلامة العاطفية، ويُنبئ بارتفاع خطر الوفاة. ومعرفة سبب نومنا بدقة، كأن يكون مثلًا لتنظيف الدماغ من فضلات مرتبطة بمرض ألزهايمر، قد تساعد على حماية الصحة."
   },
   "en": {
    "block": "No single function explains why such a risky behavior has been kept everywhere.",
    "known": "Almost all animals sleep. Sleep helps consolidate memory and clean the brain.",
    "leads": "Studying sleep in very simple animals, the role of the glymphatic system.",
    "s": "Sleep",
-   "t": "Why do we sleep?"
+   "t": "Why do we sleep?",
+   "why": "Lack of sleep harms thinking, mood and emotional well-being and predicts a higher risk of death. Knowing exactly why we sleep, for example to clear waste linked to Alzheimer's from the brain, could help protect health."
   },
   "es": {
    "block": "Ninguna función única explica por qué se ha mantenido en todas partes un comportamiento tan arriesgado.",
    "known": "Casi todos los animales duermen. El sueño ayuda a consolidar la memoria y a limpiar el cerebro.",
    "leads": "Estudio del sueño en animales muy simples, el papel del sistema glinfático.",
    "s": "Sueño",
-   "t": "¿Por qué dormimos?"
+   "t": "¿Por qué dormimos?",
+   "why": "La falta de sueño perjudica el pensamiento, el estado de ánimo y el bienestar emocional, y predice un mayor riesgo de muerte. Saber exactamente por qué dormimos, por ejemplo para eliminar del cerebro desechos relacionados con el alzhéimer, podría ayudar a proteger la salud."
   },
   "fr": {
    "block": "Aucune fonction unique n'explique pourquoi un comportement aussi risqué a été conservé partout.",
    "known": "Presque tous les animaux dorment. Le sommeil aide à consolider la mémoire et à nettoyer le cerveau.",
    "leads": "Étude du sommeil chez des animaux très simples, rôle du système glymphatique.",
    "s": "Sommeil",
-   "t": "Pourquoi dormons-nous ?"
+   "t": "Pourquoi dormons-nous ?",
+   "why": "Le manque de sommeil nuit à la pensée, à l'humeur et au bien-être émotionnel, et prédit un risque de décès plus élevé. Savoir exactement pourquoi on dort, par exemple pour évacuer du cerveau des déchets liés à la maladie d'Alzheimer, pourrait aider à protéger la santé."
   },
   "hi": {
    "block": "कोई एक कार्य यह नहीं समझाता कि इतना जोखिम भरा व्यवहार हर जगह क्यों बना रहा।",
    "known": "लगभग सभी जानवर सोते हैं। नींद स्मृति को पक्का करने और मस्तिष्क की सफ़ाई में मदद करती है।",
    "leads": "बहुत सरल जानवरों में नींद का अध्ययन, ग्लिम्फैटिक प्रणाली की भूमिका।",
    "s": "नींद",
-   "t": "हम सोते क्यों हैं?"
+   "t": "हम सोते क्यों हैं?",
+   "why": "नींद की कमी सोचने की क्षमता, मनोदशा और भावनात्मक कल्याण को नुकसान पहुँचाती है और मृत्यु के अधिक जोखिम का संकेत देती है। हम ठीक-ठीक क्यों सोते हैं, यह जानना, जैसे मस्तिष्क से अल्ज़ाइमर से जुड़े अपशिष्ट को साफ़ करने के लिए, स्वास्थ्य की रक्षा में मदद कर सकता है।"
   },
   "pt": {
    "block": "Nenhuma função isolada explica por que um comportamento tão arriscado foi mantido em toda parte.",
    "known": "Quase todos os animais dormem. O sono ajuda a consolidar a memória e a limpar o cérebro.",
    "leads": "Estudo do sono em animais muito simples, o papel do sistema glinfático.",
    "s": "Sono",
-   "t": "Por que dormimos?"
+   "t": "Por que dormimos?",
+   "why": "A falta de sono prejudica o raciocínio, o humor e o bem-estar emocional, e prevê um risco maior de morte. Saber exatamente por que dormimos, por exemplo para limpar do cérebro resíduos ligados ao Alzheimer, poderia ajudar a proteger a saúde."
   },
   "zh": {
    "block": "没有哪一种功能能解释,为什么这样危险的行为在各处都被保留下来。",
    "known": "几乎所有动物都会睡觉。睡眠有助于巩固记忆和清理大脑。",
    "leads": "研究极简单动物的睡眠,类淋巴系统的作用。",
    "s": "睡眠",
-   "t": "我们为什么要睡觉?"
+   "t": "我们为什么要睡觉?",
+   "why": "睡眠不足会损害思维、情绪和情感健康，并预示着更高的死亡风险。确切弄清我们为什么睡觉，例如睡眠是否用于清除大脑中与阿尔茨海默病有关的废物，可能有助于保护健康。"
   }
  },
  "links": [

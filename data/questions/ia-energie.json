@@ -7,49 +7,56 @@
    "known": "ينمو الطلب على الكهرباء من مراكز البيانات بسرعة.",
    "leads": "رقائق أكثر كفاءة، وعقود الطاقة النووية، ووضع مراكز البيانات قرب الطاقة النظيفة.",
    "s": "طاقة الذكاء الاصطناعي",
-   "t": "كيف يمكن تلبية احتياجات الذكاء الاصطناعي من الطاقة على نحو مستدام؟"
+   "t": "كيف يمكن تلبية احتياجات الذكاء الاصطناعي من الطاقة على نحو مستدام؟",
+   "why": "أصبحت مراكز بيانات الذكاء الاصطناعي من كبار مستهلكي الكهرباء، مما يضغط على شبكات الكهرباء التي لا تستطيع مناطق كثيرة تحمّلها دون تحديثات كبيرة. وإيجاد طرق مستدامة لتزويدها بالطاقة سيساعد على إبقاء إمدادات الكهرباء موثوقة مع استمرار نمو الذكاء الاصطناعي."
   },
   "en": {
    "block": "Grids and clean power plants take years to build.",
    "known": "Electricity demand from data centers is growing fast.",
    "leads": "More efficient chips, nuclear power contracts, placing data centers near clean energy.",
    "s": "AI energy",
-   "t": "How can AI's energy needs be met sustainably?"
+   "t": "How can AI's energy needs be met sustainably?",
+   "why": "AI data centres are becoming large electricity users, putting pressure on power grids that many regions cannot handle without major upgrades. Finding sustainable ways to power them would help keep electricity supply reliable while AI keeps growing."
   },
   "es": {
    "block": "Las redes eléctricas y las centrales limpias tardan años en construirse.",
    "known": "La demanda de electricidad de los centros de datos crece rápidamente.",
    "leads": "Chips más eficientes, contratos de energía nuclear, ubicar los centros de datos cerca de energía limpia.",
    "s": "Energía de la IA",
-   "t": "¿Cómo se pueden satisfacer de forma sostenible las necesidades energéticas de la IA?"
+   "t": "¿Cómo se pueden satisfacer de forma sostenible las necesidades energéticas de la IA?",
+   "why": "Los centros de datos de IA se están convirtiendo en grandes consumidores de electricidad y presionan las redes eléctricas, que muchas regiones no pueden soportar sin mejoras importantes. Encontrar formas sostenibles de abastecerlos ayudaría a mantener un suministro eléctrico fiable mientras la IA sigue creciendo."
   },
   "fr": {
    "block": "Les réseaux et les centrales propres prennent des années à construire.",
    "known": "La demande d'électricité des centres de données augmente rapidement.",
    "leads": "Puces plus efficaces, contrats d'électricité nucléaire, centres de données près des sources propres.",
    "s": "Énergie de l'IA",
-   "t": "Comment répondre durablement aux besoins énergétiques de l'IA ?"
+   "t": "Comment répondre durablement aux besoins énergétiques de l'IA ?",
+   "why": "Les centres de données d'IA deviennent de gros consommateurs d'électricité et exercent une pression sur des réseaux électriques que de nombreuses régions ne peuvent pas supporter sans travaux importants. Trouver des moyens durables de les alimenter aiderait à garder un approvisionnement électrique fiable pendant que l'IA continue de croître."
   },
   "hi": {
    "block": "ग्रिड और स्वच्छ बिजली संयंत्र बनने में वर्षों लगते हैं।",
    "known": "डेटा सेंटरों से बिजली की माँग तेज़ी से बढ़ रही है।",
    "leads": "अधिक कुशल चिप्स, परमाणु ऊर्जा अनुबंध, डेटा सेंटरों को स्वच्छ ऊर्जा के निकट रखना।",
    "s": "AI की ऊर्जा",
-   "t": "AI की ऊर्जा ज़रूरतें टिकाऊ ढंग से कैसे पूरी की जा सकती हैं?"
+   "t": "AI की ऊर्जा ज़रूरतें टिकाऊ ढंग से कैसे पूरी की जा सकती हैं?",
+   "why": "AI डेटा सेंटर बिजली के बड़े उपभोक्ता बनते जा रहे हैं, जिससे बिजली ग्रिड पर दबाव पड़ रहा है जिसे कई क्षेत्र बड़े सुधारों के बिना नहीं संभाल सकते। इन्हें टिकाऊ तरीके से बिजली देने के उपाय खोजना, AI के बढ़ते रहने के साथ बिजली आपूर्ति को भरोसेमंद बनाए रखने में मदद करेगा।"
   },
   "pt": {
    "block": "Redes elétricas e usinas de energia limpa levam anos para ser construídas.",
    "known": "A demanda de eletricidade dos data centers está crescendo rápido.",
    "leads": "Chips mais eficientes, contratos de energia nuclear, data centers instalados perto de fontes de energia limpa.",
    "s": "Energia da IA",
-   "t": "Como atender de forma sustentável às necessidades de energia da IA?"
+   "t": "Como atender de forma sustentável às necessidades de energia da IA?",
+   "why": "Os centros de dados de IA estão se tornando grandes consumidores de eletricidade, pressionando redes elétricas que muitas regiões não conseguem suportar sem grandes melhorias. Encontrar formas sustentáveis de abastecê-los ajudaria a manter o fornecimento de eletricidade confiável enquanto a IA continua crescendo."
   },
   "zh": {
    "block": "电网和清洁电厂需要数年才能建成。",
    "known": "数据中心的用电需求正在快速增长。",
    "leads": "更高效的芯片,核电合同,把数据中心建在清洁能源附近。",
    "s": "AI能耗",
-   "t": "如何可持续地满足人工智能的能源需求?"
+   "t": "如何可持续地满足人工智能的能源需求?",
+   "why": "人工智能数据中心正在成为大型用电户，给电网带来压力，许多地区不进行大规模升级就无法承受。找到可持续的供电方式，将有助于在人工智能持续发展的同时保持电力供应的可靠。"
   }
  },
  "links": [

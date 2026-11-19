@@ -7,49 +7,56 @@
    "known": "طُرحت عام 1971: إذا كان التحقق من مسألة سهلًا، فهل حلّها سهل أيضًا؟",
    "leads": "نظرية التعقيد الهندسية، والحدود الدنيا للدارات.",
    "s": "P مقابل NP",
-   "t": "هل P تساوي NP؟"
+   "t": "هل P تساوي NP؟",
+   "why": "تسأل المسألة عمّا إذا كانت كل مسألة يسهل التحقق من إجابتها يسهل حلها أيضًا. فإن كان الأمر كذلك، أمكن جدولة النقل على النحو الأمثل لنقل الناس والبضائع بسرعة أكبر وكلفة أقل، لكن تشفير المفتاح العام سيصبح مستحيلًا."
   },
   "en": {
    "block": "Several major families of proof techniques have been proven insufficient.",
    "known": "Posed in 1971: if a problem is easy to check, is it also easy to solve?",
    "leads": "Geometric complexity theory, circuit lower bounds.",
    "s": "P vs NP",
-   "t": "Is P equal to NP?"
+   "t": "Is P equal to NP?",
+   "why": "It asks whether every problem whose answer is easy to check is also easy to solve. If so, transport could be scheduled optimally, moving people and goods faster and more cheaply, but public-key cryptography would become impossible."
   },
   "es": {
    "block": "Se ha demostrado que varias grandes familias de técnicas de demostración son insuficientes.",
    "known": "Planteado en 1971: si un problema es fácil de comprobar, ¿es también fácil de resolver?",
    "leads": "Teoría de la complejidad geométrica, cotas inferiores para circuitos.",
    "s": "P contra NP",
-   "t": "¿Es P igual a NP?"
+   "t": "¿Es P igual a NP?",
+   "why": "Pregunta si todo problema cuya respuesta es fácil de comprobar también es fácil de resolver. Si es así, el transporte podría planificarse de forma óptima, moviendo personas y mercancías más rápido y más barato, pero la criptografía de clave pública sería imposible."
   },
   "fr": {
    "block": "On a prouvé que plusieurs grandes familles de techniques de preuve ne peuvent pas suffire.",
    "known": "La question est posée depuis 1971. Si un problème est facile à vérifier, est-il aussi facile à résoudre ?",
    "leads": "Théorie géométrique de la complexité, bornes inférieures sur les circuits.",
    "s": "P = NP ?",
-   "t": "P est-il égal à NP ?"
+   "t": "P est-il égal à NP ?",
+   "why": "La question est de savoir si tout problème dont la réponse est facile à vérifier est aussi facile à résoudre. Si c'est le cas, les transports pourraient être planifiés de façon optimale, pour déplacer personnes et marchandises plus vite et moins cher, mais la cryptographie à clé publique deviendrait impossible."
   },
   "hi": {
    "block": "प्रमाण की कई प्रमुख तकनीकों के परिवार अपर्याप्त सिद्ध हो चुके हैं।",
    "known": "1971 में उठाया गया प्रश्न: यदि किसी समस्या का हल जाँचना आसान है, तो क्या उसे हल करना भी आसान है?",
    "leads": "ज्यामितीय जटिलता सिद्धांत, परिपथ निचली सीमाएँ।",
    "s": "P बनाम NP",
-   "t": "क्या P बराबर NP है?"
+   "t": "क्या P बराबर NP है?",
+   "why": "यह पूछता है कि क्या हर वह समस्या, जिसका उत्तर जाँचना आसान है, हल करने में भी आसान है। अगर ऐसा है, तो परिवहन की सर्वोत्तम योजना बन सकेगी जिससे लोग और सामान तेज़ और सस्ते में पहुँचेंगे, लेकिन सार्वजनिक-कुंजी क्रिप्टोग्राफ़ी असंभव हो जाएगी।"
   },
   "pt": {
    "block": "Várias famílias importantes de técnicas de demonstração se mostraram insuficientes.",
    "known": "Formulado em 1971: se um problema é fácil de verificar, ele também é fácil de resolver?",
    "leads": "Teoria da complexidade geométrica, limites inferiores para circuitos.",
    "s": "P versus NP",
-   "t": "P é igual a NP?"
+   "t": "P é igual a NP?",
+   "why": "Pergunta se todo o problema cuja resposta é fácil de verificar também é fácil de resolver. Se for, os transportes poderiam ser planeados de forma ótima, levando pessoas e mercadorias mais depressa e mais barato, mas a criptografia de chave pública tornar-se-ia impossível."
   },
   "zh": {
    "block": "好几大类证明技术已被证明不够用。",
    "known": "1971年提出:如果一个问题容易验证,它是否也容易求解?",
    "leads": "几何复杂性理论,电路下界。",
    "s": "P vs NP",
-   "t": "P等于NP吗?"
+   "t": "P等于NP吗?",
+   "why": "它问的是：每个答案容易验证的问题，是否也容易求解？如果是，交通运输就能得到最优调度，使人员和货物的运送更快、更便宜，但公钥密码学将变得不可能。"
   }
  },
  "links": [

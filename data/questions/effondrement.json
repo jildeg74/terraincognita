@@ -7,49 +7,56 @@
    "known": "تشير دراسات الأزمات الماضية إلى ضغوط مثل الإفقار الواسع، وتنافس عدد من الطامحين إلى مواقع النخبة يفوق المواقع المتاحة، وضائقة مالية لدى الدولة.",
    "leads": "قواعد بيانات تاريخية كبيرة مثل سيشات، والتاريخ الكمي.",
    "s": "انهيار الحضارات",
-   "t": "لماذا تنهار الحضارات؟"
+   "t": "لماذا تنهار الحضارات؟",
+   "why": "تمر كل المجتمعات المعقدة بفترات من الاضطراب. وفهم لماذا ينهار بعضها بينما يتعافى بعضها الآخر قد يساعد مجتمعات اليوم على رصد الضغوط التي تقود إلى الأزمات واختيار استجابات تجلب الاستقرار بدلًا من الانهيار."
   },
   "en": {
    "block": "There are few cases, each different, so general laws are hard to test.",
    "known": "Studies of past crises point to pressures such as widespread impoverishment, more people competing for elite positions than there are places, and strained state finances.",
    "leads": "Large historical databases such as Seshat, quantitative history.",
    "s": "Collapse of civilizations",
-   "t": "Why do civilizations collapse?"
+   "t": "Why do civilizations collapse?",
+   "why": "All complex societies go through periods of turmoil. Understanding why some collapse while others recover could help today's societies spot the pressures that lead to crises and choose responses that bring stability rather than breakdown."
   },
   "es": {
    "block": "Hay pocos casos, cada uno distinto, así que es difícil poner a prueba leyes generales.",
    "known": "Los estudios de crisis pasadas señalan presiones como el empobrecimiento generalizado, más aspirantes a puestos de élite que plazas disponibles y unas finanzas del Estado en apuros.",
    "leads": "Grandes bases de datos históricas como Seshat, historia cuantitativa.",
    "s": "Colapso de civilizaciones",
-   "t": "¿Por qué colapsan las civilizaciones?"
+   "t": "¿Por qué colapsan las civilizaciones?",
+   "why": "Todas las sociedades complejas atraviesan periodos de turbulencia. Entender por qué algunas se derrumban mientras otras se recuperan podría ayudar a las sociedades actuales a detectar las presiones que llevan a las crisis y a elegir respuestas que traigan estabilidad en lugar de colapso."
   },
   "fr": {
    "block": "Les cas sont rares et tous différents, ce qui rend les lois générales difficiles à tester.",
    "known": "Les études des crises passées pointent des pressions comme l'appauvrissement généralisé, plus de prétendants aux positions d'élite que de places disponibles, et des finances publiques en difficulté.",
    "leads": "Grandes bases de données historiques comme Seshat, histoire quantitative.",
    "s": "Effondrements",
-   "t": "Pourquoi les civilisations s'effondrent-elles ?"
+   "t": "Pourquoi les civilisations s'effondrent-elles ?",
+   "why": "Toutes les sociétés complexes traversent des périodes de turbulence. Comprendre pourquoi certaines s'effondrent alors que d'autres se relèvent pourrait aider les sociétés actuelles à repérer les pressions qui mènent aux crises et à choisir des réponses qui apportent la stabilité plutôt que l'effondrement."
   },
   "hi": {
    "block": "मामले कम हैं और हर एक अलग है, इसलिए सामान्य नियमों को परखना कठिन है।",
    "known": "पिछले संकटों के अध्ययन व्यापक दरिद्रता, उपलब्ध स्थानों से ज़्यादा लोगों की अभिजात पदों के लिए होड़, और राज्य के वित्त पर दबाव जैसे दबावों की ओर इशारा करते हैं।",
    "leads": "सेशैट जैसे बड़े ऐतिहासिक डेटाबेस, मात्रात्मक इतिहास।",
    "s": "सभ्यताओं का पतन",
-   "t": "सभ्यताएँ क्यों ढह जाती हैं?"
+   "t": "सभ्यताएँ क्यों ढह जाती हैं?",
+   "why": "सभी जटिल समाज उथल-पुथल के दौर से गुज़रते हैं। यह समझना कि कुछ समाज क्यों ढह जाते हैं जबकि दूसरे संभल जाते हैं, आज के समाजों को संकट की ओर ले जाने वाले दबावों को पहचानने और ऐसे कदम चुनने में मदद कर सकता है जो पतन के बजाय स्थिरता लाएँ।"
   },
   "pt": {
    "block": "Há poucos casos, cada um diferente, então leis gerais são difíceis de testar.",
    "known": "Estudos de crises passadas apontam pressões como o empobrecimento generalizado, mais pessoas disputando posições de elite do que há vagas, e finanças do Estado em dificuldade.",
    "leads": "Grandes bases de dados históricos, como o Seshat, história quantitativa.",
    "s": "Colapso de civilizações",
-   "t": "Por que as civilizações entram em colapso?"
+   "t": "Por que as civilizações entram em colapso?",
+   "why": "Todas as sociedades complexas passam por períodos de turbulência. Compreender por que algumas colapsam enquanto outras recuperam poderia ajudar as sociedades atuais a detetar as pressões que levam às crises e a escolher respostas que tragam estabilidade em vez de colapso."
   },
   "zh": {
    "block": "案例很少,而且各不相同,因此很难检验一般规律。",
    "known": "对过去危机的研究指出了一些压力，例如普遍贫困化、争夺精英地位的人多于可用位置，以及国家财政紧张。",
    "leads": "Seshat等大型历史数据库,定量历史学。",
    "s": "文明崩溃",
-   "t": "文明为什么会崩溃?"
+   "t": "文明为什么会崩溃?",
+   "why": "所有复杂社会都会经历动荡时期。了解为什么有些社会崩溃而另一些得以复苏，可能帮助当今社会识别导致危机的压力，并选择带来稳定而非崩溃的应对方式。"
   }
  },
  "links": [

@@ -7,49 +7,56 @@
    "known": "تربط التخمينة هذا العدد بسلوك دالة خاصة، وهي مثبتة في بعض الحالات البسيطة.",
    "leads": "الروابط مع برنامج لانغلاندز، وقواعد بيانات حاسوبية ضخمة للمنحنيات.",
    "s": "بيرتش–سوينرتون-داير",
-   "t": "كم عدد الحلول النسبية للمنحنى الإهليلجي؟"
+   "t": "كم عدد الحلول النسبية للمنحنى الإهليلجي؟",
+   "why": "المنحنيات الإهليلجية كائنات رياضية أساسية تظهر في برهان مبرهنة فيرما الأخيرة، وفي تحليل الأعداد إلى عوامل أولية، وفي علم التشفير. ومن شأن البرهان أن يقدّم طريقة لمعرفة ما إذا كانت لمثل هذه المعادلة حلول نسبية محدودة العدد أم لا نهائية."
   },
   "en": {
    "block": "The general case is one of the Millennium Prize Problems.",
    "known": "The conjecture links this count to the behavior of a special function, and it is proven in some simple cases.",
    "leads": "Links with the Langlands program, massive computer databases of curves.",
    "s": "Birch–Swinnerton-Dyer",
-   "t": "How many rational solutions does an elliptic curve have?"
+   "t": "How many rational solutions does an elliptic curve have?",
+   "why": "Elliptic curves are basic mathematical objects that appear in the proof of Fermat's Last Theorem, in factoring numbers into primes and in cryptography. A proof would give a way to tell whether such an equation has finitely or infinitely many rational solutions."
   },
   "es": {
    "block": "El caso general es uno de los Problemas del Milenio.",
    "known": "La conjetura vincula este recuento con el comportamiento de una función especial, y está demostrada en algunos casos sencillos.",
    "leads": "Vínculos con el programa de Langlands, grandes bases de datos informáticas de curvas.",
    "s": "Birch–Swinnerton-Dyer",
-   "t": "¿Cuántas soluciones racionales tiene una curva elíptica?"
+   "t": "¿Cuántas soluciones racionales tiene una curva elíptica?",
+   "why": "Las curvas elípticas son objetos matemáticos básicos que aparecen en la demostración del último teorema de Fermat, en la factorización de números en primos y en la criptografía. Una demostración daría una forma de saber si una ecuación así tiene un número finito o infinito de soluciones racionales."
   },
   "fr": {
    "block": "Le cas général fait partie des problèmes du prix du millénaire.",
    "known": "La conjecture relie ce nombre au comportement d'une fonction spéciale ; elle est démontrée dans certains cas simples.",
    "leads": "Liens avec le programme de Langlands, immenses bases de données de courbes calculées par ordinateur.",
    "s": "Birch et Swinnerton-Dyer",
-   "t": "Combien de solutions rationnelles possède une courbe elliptique ?"
+   "t": "Combien de solutions rationnelles possède une courbe elliptique ?",
+   "why": "Les courbes elliptiques sont des objets mathématiques fondamentaux qui interviennent dans la preuve du dernier théorème de Fermat, dans la factorisation des nombres en nombres premiers et en cryptographie. Une preuve donnerait un moyen de savoir si une telle équation a un nombre fini ou infini de solutions rationnelles."
   },
   "hi": {
    "block": "सामान्य मामला मिलेनियम पुरस्कार समस्याओं में से एक है।",
    "known": "यह अनुमान इस गिनती को एक विशेष फलन के व्यवहार से जोड़ता है, और कुछ सरल मामलों में सिद्ध हो चुका है।",
    "leads": "लैंगलैंड्स कार्यक्रम से संबंध, वक्रों के विशाल कंप्यूटर डेटाबेस।",
    "s": "बर्च–स्विनर्टन-डायर",
-   "t": "एक अंडाकार वक्र (एलिप्टिक कर्व) के कितने परिमेय हल होते हैं?"
+   "t": "एक अंडाकार वक्र (एलिप्टिक कर्व) के कितने परिमेय हल होते हैं?",
+   "why": "दीर्घवृत्तीय वक्र (elliptic curves) बुनियादी गणितीय वस्तुएँ हैं, जो फ़र्मा के अंतिम प्रमेय के प्रमाण में, संख्याओं को अभाज्य गुणनखंडों में तोड़ने में और क्रिप्टोग्राफ़ी में आती हैं। एक प्रमाण से यह जानने का तरीका मिलेगा कि ऐसे समीकरण के परिमेय हल सीमित हैं या अनंत।"
   },
   "pt": {
    "block": "O caso geral é um dos Problemas do Milênio.",
    "known": "A conjectura liga essa contagem ao comportamento de uma função especial, e está demonstrada em alguns casos simples.",
    "leads": "Ligações com o programa de Langlands, enormes bases de dados de curvas feitas por computador.",
    "s": "Birch–Swinnerton-Dyer",
-   "t": "Quantas soluções racionais tem uma curva elíptica?"
+   "t": "Quantas soluções racionais tem uma curva elíptica?",
+   "why": "As curvas elípticas são objetos matemáticos básicos que aparecem na prova do Último Teorema de Fermat, na fatoração de números em primos e na criptografia. Uma prova daria uma forma de saber se tal equação tem um número finito ou infinito de soluções racionais."
   },
   "zh": {
    "block": "一般情形是千禧年大奖难题之一。",
    "known": "这个猜想把解的个数与一个特殊函数的行为联系起来,它在一些简单情形下已被证明。",
    "leads": "与朗兰兹纲领的联系,庞大的曲线计算机数据库。",
    "s": "BSD猜想",
-   "t": "椭圆曲线有多少个有理数解?"
+   "t": "椭圆曲线有多少个有理数解?",
+   "why": "椭圆曲线是基本的数学对象，出现在费马大定理的证明、把数分解为素数以及密码学中。一个证明将提供一种方法，判断这类方程的有理解是有限个还是无限个。"
   }
  },
  "links": [

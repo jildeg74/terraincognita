@@ -7,49 +7,56 @@
    "known": "يمكن قياس النشاط الدماغي قبل أن يعلن الشخص أنه قرّر التصرف.",
    "leads": "علم الأعصاب الخاص باتخاذ القرار، وعمل مشترك بين الفلاسفة وعلماء الأعصاب.",
    "s": "الإرادة الحرة",
-   "t": "هل نملك إرادة حرة؟"
+   "t": "هل نملك إرادة حرة؟",
+   "why": "إن امتلاكنا لإرادة حرة أو عدمه مهم لمعرفة ما إذا كان الناس يستحقون فعلًا المدح أو اللوم أو العقاب على أفعالهم، ومن ثم لطريقة حكمنا على الآخرين."
   },
   "en": {
    "block": "What these experiments show is disputed, and the concept itself is debated.",
    "known": "Brain activity can be measured before a person reports deciding to act.",
    "leads": "Neuroscience of decision-making, joint work between philosophers and neuroscientists.",
    "s": "Free will",
-   "t": "Do we have free will?"
+   "t": "Do we have free will?",
+   "why": "Whether we have free will matters for whether people truly deserve praise, blame or punishment for what they do, and so for how we judge others."
   },
   "es": {
    "block": "Lo que muestran estos experimentos es objeto de disputa, y el propio concepto es debatido.",
    "known": "Se puede medir actividad cerebral antes de que una persona diga que ha decidido actuar.",
    "leads": "Neurociencia de la toma de decisiones, trabajo conjunto entre filósofos y neurocientíficos.",
    "s": "Libre albedrío",
-   "t": "¿Tenemos libre albedrío?"
+   "t": "¿Tenemos libre albedrío?",
+   "why": "Que tengamos o no libre albedrío importa para saber si las personas merecen de verdad elogio, culpa o castigo por lo que hacen, y por tanto para cómo juzgamos a los demás."
   },
   "fr": {
    "block": "Ce que montrent ces expériences est contesté, et la notion elle-même fait débat.",
    "known": "On peut mesurer une activité cérébrale avant qu'une personne dise avoir décidé d'agir.",
    "leads": "Neurosciences de la décision, travail commun entre philosophes et neuroscientifiques.",
    "s": "Libre arbitre",
-   "t": "Avons-nous un libre arbitre ?"
+   "t": "Avons-nous un libre arbitre ?",
+   "why": "L'existence ou non du libre arbitre compte pour savoir si les gens méritent vraiment éloge, blâme ou punition pour leurs actes, et donc pour la manière dont nous jugeons autrui."
   },
   "hi": {
    "block": "ये प्रयोग क्या दिखाते हैं, इस पर विवाद है, और इस अवधारणा पर भी बहस है।",
    "known": "किसी व्यक्ति के यह बताने से पहले कि उसने कार्य करने का निर्णय लिया है, मस्तिष्क की गतिविधि मापी जा सकती है।",
    "leads": "निर्णय लेने का तंत्रिका-विज्ञान, दार्शनिकों और तंत्रिका-वैज्ञानिकों का संयुक्त काम।",
    "s": "स्वतंत्र इच्छा",
-   "t": "क्या हमारे पास स्वतंत्र इच्छा है?"
+   "t": "क्या हमारे पास स्वतंत्र इच्छा है?",
+   "why": "हमारे पास स्वतंत्र इच्छा है या नहीं, यह इस बात के लिए मायने रखता है कि लोग अपने कामों के लिए सचमुच प्रशंसा, दोष या दंड के पात्र हैं या नहीं, और इसलिए इस बात के लिए भी कि हम दूसरों को कैसे परखते हैं।"
   },
   "pt": {
    "block": "O que esses experimentos mostram é contestado, e o próprio conceito é debatido.",
    "known": "A atividade cerebral pode ser medida antes de a pessoa relatar que decidiu agir.",
    "leads": "Neurociência da tomada de decisão, trabalho conjunto entre filósofos e neurocientistas.",
    "s": "Livre-arbítrio",
-   "t": "Temos livre-arbítrio?"
+   "t": "Temos livre-arbítrio?",
+   "why": "Ter ou não livre-arbítrio importa para saber se as pessoas realmente merecem elogio, culpa ou punição pelo que fazem e, portanto, para como julgamos os outros."
   },
   "zh": {
    "block": "这些实验说明什么尚有争议,这个概念本身也存在争论。",
    "known": "在人报告自己做出决定之前,就能测到大脑的活动。",
    "leads": "决策神经科学,哲学家与神经科学家的合作研究。",
    "s": "自由意志",
-   "t": "我们有自由意志吗?"
+   "t": "我们有自由意志吗?",
+   "why": "我们是否拥有自由意志，关系到人们是否真的应为自己的行为受到赞扬、责备或惩罚，因而也关系到我们如何评判他人。"
   }
  },
  "links": [

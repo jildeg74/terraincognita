@@ -7,49 +7,56 @@
    "known": "حُدّدت لدى الفئران مجموعات من الخلايا العصبية تحمل ذاكرة بعينها.",
    "leads": "رسم خرائط الوصلات العصبية، وتصوير المشابك العصبية فرادى.",
    "s": "الذاكرة",
-   "t": "كيف تُخزَّن الذكريات؟"
+   "t": "كيف تُخزَّن الذكريات؟",
+   "why": "إن معرفة كيفية تخزين الذكريات ستساعد على تفسير فقدان الذاكرة. ففي فئران تُستخدم نماذجَ للمراحل المبكرة من مرض ألزهايمر ولفقدان الذاكرة، كانت ذكريات بدت مفقودة لا تزال محفوظة في خلايا دماغية صامتة تمكّن الباحثون من إعادة تنشيطها."
   },
   "en": {
    "block": "We can't read a memory from a brain, or explain how it stays stable for decades.",
    "known": "In mice, groups of neurons carrying a specific memory have been identified.",
    "leads": "Mapping neural connections, imaging individual synapses.",
    "s": "Memory",
-   "t": "How are memories stored?"
+   "t": "How are memories stored?",
+   "why": "Knowing how memories are stored would help explain memory loss. In mouse models of early Alzheimer's disease and of amnesia, memories that seemed lost were still held in silent brain cells that researchers could reactivate."
   },
   "es": {
    "block": "No podemos leer un recuerdo en un cerebro, ni explicar cómo se mantiene estable durante décadas.",
    "known": "En ratones se han identificado grupos de neuronas que portan un recuerdo concreto.",
    "leads": "Mapeo de conexiones neuronales, imagen de sinapsis individuales.",
    "s": "Memoria",
-   "t": "¿Cómo se almacenan los recuerdos?"
+   "t": "¿Cómo se almacenan los recuerdos?",
+   "why": "Saber cómo se almacenan los recuerdos ayudaría a explicar la pérdida de memoria. En ratones modelo de alzhéimer temprano y de amnesia, recuerdos que parecían perdidos seguían guardados en células cerebrales silenciosas que los investigadores pudieron reactivar."
   },
   "fr": {
    "block": "On ne sait pas lire un souvenir dans un cerveau, ni comment il reste stable des décennies.",
    "known": "On a identifié chez la souris des groupes de neurones qui portent un souvenir précis.",
    "leads": "Cartographie des connexions neuronales, imagerie de synapses individuelles.",
    "s": "Mémoire",
-   "t": "Comment les souvenirs sont-ils stockés ?"
+   "t": "Comment les souvenirs sont-ils stockés ?",
+   "why": "Savoir comment les souvenirs sont stockés aiderait à expliquer les pertes de mémoire. Chez des souris modèles de la maladie d'Alzheimer précoce et de l'amnésie, des souvenirs qui semblaient perdus étaient encore conservés dans des cellules cérébrales silencieuses que les chercheurs ont pu réactiver."
   },
   "hi": {
    "block": "हम मस्तिष्क से कोई स्मृति पढ़ नहीं सकते, और यह नहीं समझा सकते कि वह दशकों तक स्थिर कैसे रहती है।",
    "known": "चूहों में किसी विशिष्ट स्मृति को धारण करने वाले न्यूरॉन समूहों की पहचान हो चुकी है।",
    "leads": "तंत्रिका संबंधों का नक्शा बनाना, अलग-अलग सिनैप्स की इमेजिंग।",
    "s": "स्मृति",
-   "t": "स्मृतियाँ कैसे संग्रहित होती हैं?"
+   "t": "स्मृतियाँ कैसे संग्रहित होती हैं?",
+   "why": "यादें कैसे संग्रहीत होती हैं, यह जानना स्मृति-ह्रास को समझाने में मदद करेगा। शुरुआती अल्ज़ाइमर और भूलने की बीमारी (एम्नेशिया) के चूहा मॉडलों में, जो यादें खोई हुई लगती थीं वे अब भी मस्तिष्क की मौन कोशिकाओं में मौजूद थीं, जिन्हें शोधकर्ता फिर से सक्रिय कर सके।"
   },
   "pt": {
    "block": "Não conseguimos ler uma memória em um cérebro, nem explicar como ela se mantém estável por décadas.",
    "known": "Em camundongos, foram identificados grupos de neurônios que carregam uma memória específica.",
    "leads": "Mapeamento das conexões neurais, imagem de sinapses individuais.",
    "s": "Memória",
-   "t": "Como as memórias são armazenadas?"
+   "t": "Como as memórias são armazenadas?",
+   "why": "Saber como as memórias são armazenadas ajudaria a explicar a perda de memória. Em camundongos usados como modelos de Alzheimer inicial e de amnésia, memórias que pareciam perdidas ainda estavam guardadas em células cerebrais silenciosas que os pesquisadores conseguiram reativar."
   },
   "zh": {
    "block": "我们无法从大脑中读出一段记忆,也无法解释它为何能稳定保持数十年。",
    "known": "在小鼠中,已经找到了承载特定记忆的神经元群。",
    "leads": "绘制神经连接图谱,对单个突触成像。",
    "s": "记忆",
-   "t": "记忆是如何存储的?"
+   "t": "记忆是如何存储的?",
+   "why": "弄清记忆如何储存，将有助于解释记忆丧失。在早期阿尔茨海默病和失忆症的小鼠模型中，看似已丢失的记忆仍保存在处于沉默状态的脑细胞中，研究人员能够将这些细胞重新激活。"
   }
  },
  "links": [

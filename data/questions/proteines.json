@@ -7,49 +7,56 @@
    "known": "يتنبأ AlphaFold بشكل جميع البروتينات المعروفة تقريبًا.",
    "leads": "نماذج توليدية تصمم بروتينات من الصفر، وإنزيمات وأدوية مخصصة.",
    "s": "بروتينات مصمَّمة",
-   "t": "هل يمكننا التنبؤ بما يفعله أي بروتين، وتصميم بروتينات جديدة كما نشاء؟"
+   "t": "هل يمكننا التنبؤ بما يفعله أي بروتين، وتصميم بروتينات جديدة كما نشاء؟",
+   "why": "إن القدرة على تصميم بروتينات جديدة حسب الرغبة قد تتيح لبنات أساسية للقاحات، وجزيئات تمنع التفاعلات بين البروتينات، وإنزيمات مصممة حسب الطلب، ومواد جديدة."
   },
   "en": {
    "block": "Shape isn't everything: motion, interactions and function remain hard to predict.",
    "known": "AlphaFold predicts the shape of almost every known protein.",
    "leads": "Generative models that design proteins from scratch, custom enzymes and drugs.",
    "s": "Designer proteins",
-   "t": "Can we predict what any protein does, and design new ones at will?"
+   "t": "Can we predict what any protein does, and design new ones at will?",
+   "why": "Being able to design new proteins at will could yield building blocks for vaccines, molecules that block interactions between proteins, custom enzymes and new materials."
   },
   "es": {
    "block": "La forma no lo es todo: el movimiento, las interacciones y la función siguen siendo difíciles de predecir.",
    "known": "AlphaFold predice la forma de casi todas las proteínas conocidas.",
    "leads": "Modelos generativos que diseñan proteínas desde cero, enzimas y fármacos a medida.",
    "s": "Proteínas a medida",
-   "t": "¿Podemos predecir qué hace cualquier proteína y diseñar otras nuevas a voluntad?"
+   "t": "¿Podemos predecir qué hace cualquier proteína y diseñar otras nuevas a voluntad?",
+   "why": "Poder diseñar nuevas proteínas a voluntad podría dar lugar a piezas básicas para vacunas, moléculas que bloqueen las interacciones entre proteínas, enzimas a medida y nuevos materiales."
   },
   "fr": {
    "block": "La forme ne dit pas tout : le mouvement, les interactions et la fonction restent difficiles à prédire.",
    "known": "AlphaFold prédit la forme de presque toutes les protéines connues.",
    "leads": "Modèles génératifs pour concevoir des protéines de zéro, enzymes et médicaments sur mesure.",
    "s": "Protéines sur mesure",
-   "t": "Peut-on prédire ce que fait n'importe quelle protéine, et en concevoir à volonté ?"
+   "t": "Peut-on prédire ce que fait n'importe quelle protéine, et en concevoir à volonté ?",
+   "why": "Pouvoir concevoir de nouvelles protéines à volonté pourrait fournir des éléments de base pour des vaccins, des molécules qui bloquent les interactions entre protéines, des enzymes sur mesure et de nouveaux matériaux."
   },
   "hi": {
    "block": "आकार ही सब कुछ नहीं है: गति, अंतःक्रियाओं और कार्य का पूर्वानुमान अब भी कठिन है।",
    "known": "AlphaFold लगभग हर ज्ञात प्रोटीन के आकार का पूर्वानुमान लगाता है।",
    "leads": "जेनरेटिव मॉडल जो शुरू से प्रोटीन डिज़ाइन करते हैं, अनुकूलित एंज़ाइम और दवाएँ।",
    "s": "डिज़ाइनर प्रोटीन",
-   "t": "क्या हम बता सकते हैं कि कोई भी प्रोटीन क्या करता है, और इच्छानुसार नए प्रोटीन डिज़ाइन कर सकते हैं?"
+   "t": "क्या हम बता सकते हैं कि कोई भी प्रोटीन क्या करता है, और इच्छानुसार नए प्रोटीन डिज़ाइन कर सकते हैं?",
+   "why": "अपनी इच्छा से नए प्रोटीन डिज़ाइन कर पाने से टीकों के लिए बुनियादी घटक, प्रोटीनों के बीच की अंतःक्रिया को रोकने वाले अणु, ज़रूरत के अनुसार बने एंज़ाइम और नई सामग्रियाँ बन सकती हैं।"
   },
   "pt": {
    "block": "A forma não é tudo: movimento, interações e função continuam difíceis de prever.",
    "known": "O AlphaFold prevê a forma de quase todas as proteínas conhecidas.",
    "leads": "Modelos generativos que projetam proteínas do zero, enzimas e medicamentos sob medida.",
    "s": "Proteínas sob medida",
-   "t": "Podemos prever o que qualquer proteína faz e projetar novas à vontade?"
+   "t": "Podemos prever o que qualquer proteína faz e projetar novas à vontade?",
+   "why": "Ser capaz de projetar novas proteínas à vontade poderia gerar blocos de construção para vacinas, moléculas que bloqueiam interações entre proteínas, enzimas sob medida e novos materiais."
   },
   "zh": {
    "block": "形状并不是全部:运动、相互作用和功能仍然很难预测。",
    "known": "AlphaFold能预测几乎所有已知蛋白质的形状。",
    "leads": "从零开始设计蛋白质的生成模型,定制酶和药物。",
    "s": "蛋白质设计",
-   "t": "我们能预测任意蛋白质的功能并随意设计新蛋白质吗?"
+   "t": "我们能预测任意蛋白质的功能并随意设计新蛋白质吗?",
+   "why": "如果能够随心设计新的蛋白质，就可能制造出用于疫苗的基础构件、阻断蛋白质之间相互作用的分子、定制的酶以及新材料。"
   }
  },
  "links": [

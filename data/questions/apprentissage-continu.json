@@ -7,49 +7,56 @@
    "known": "تتوقف النماذج اليوم في معظمها عن التعلم بعد انتهاء التدريب.",
    "leads": "أنظمة ذاكرة خارجية، وتحديثات موجَّهة ومتناثرة للنموذج.",
    "s": "التعلم المستمر",
-   "t": "هل يمكن للذكاء الاصطناعي أن يواصل التعلم من التجربة كما يفعل البشر؟"
+   "t": "هل يمكن للذكاء الاصطناعي أن يواصل التعلم من التجربة كما يفعل البشر؟",
+   "why": "تميل الشبكات العصبية إلى نسيان المهام السابقة عندما تتعلم مهامًا جديدة. ويرى الباحثون أن تعلّم المهام واحدة تلو الأخرى أمر حاسم لتطوير الذكاء الاصطناعي: وحلّ هذه المشكلة قد يتيح لأنظمة الذكاء الاصطناعي اكتساب مهارات جديدة بمرور الوقت دون فقدان المهارات القديمة."
   },
   "en": {
    "block": "Learning new things tends to erase old ones (catastrophic forgetting).",
    "known": "Today's models mostly stop learning once training ends.",
    "leads": "External memory systems, targeted and sparse updates of the model.",
    "s": "Continual learning",
-   "t": "Can AI keep learning from experience as humans do?"
+   "t": "Can AI keep learning from experience as humans do?",
+   "why": "Neural networks tend to forget earlier tasks when they learn new ones. Researchers call learning tasks one after another crucial to developing artificial intelligence: solving it could let AI systems keep acquiring new skills over time without losing old ones."
   },
   "es": {
    "block": "Aprender cosas nuevas tiende a borrar las antiguas (olvido catastrófico).",
    "known": "Los modelos actuales en su mayoría dejan de aprender cuando termina el entrenamiento.",
    "leads": "Sistemas de memoria externa, actualizaciones dirigidas y dispersas del modelo.",
    "s": "Aprendizaje continuo",
-   "t": "¿Puede la IA seguir aprendiendo de la experiencia como lo hacen los humanos?"
+   "t": "¿Puede la IA seguir aprendiendo de la experiencia como lo hacen los humanos?",
+   "why": "Las redes neuronales tienden a olvidar las tareas anteriores cuando aprenden otras nuevas. Los investigadores consideran crucial para el desarrollo de la inteligencia artificial aprender tareas una tras otra: resolverlo podría permitir que los sistemas de IA sigan adquiriendo nuevas habilidades con el tiempo sin perder las antiguas."
   },
   "fr": {
    "block": "Apprendre du nouveau tend à effacer l'ancien (oubli catastrophique).",
    "known": "Les modèles actuels cessent pour l'essentiel d'apprendre après leur entraînement.",
    "leads": "Systèmes de mémoire externes, mises à jour ciblées du modèle.",
    "s": "Apprentissage continu",
-   "t": "L'IA peut-elle apprendre en continu de son expérience, comme l'humain ?"
+   "t": "L'IA peut-elle apprendre en continu de son expérience, comme l'humain ?",
+   "why": "Les réseaux de neurones ont tendance à oublier les tâches précédentes lorsqu'ils en apprennent de nouvelles. Les chercheurs jugent essentiel pour le développement de l'intelligence artificielle d'apprendre des tâches les unes après les autres : y parvenir pourrait permettre aux systèmes d'IA d'acquérir de nouvelles compétences au fil du temps sans perdre les anciennes."
   },
   "hi": {
    "block": "नई चीज़ें सीखने से पुरानी मिट जाती हैं (विनाशकारी विस्मरण)।",
    "known": "आज के मॉडल अधिकतर प्रशिक्षण खत्म होते ही सीखना बंद कर देते हैं।",
    "leads": "बाहरी स्मृति प्रणालियाँ, मॉडल के लक्षित और विरल अद्यतन।",
    "s": "निरंतर सीखना",
-   "t": "क्या AI मनुष्यों की तरह अनुभव से सीखता रह सकता है?"
+   "t": "क्या AI मनुष्यों की तरह अनुभव से सीखता रह सकता है?",
+   "why": "न्यूरल नेटवर्क नए काम सीखते समय अक्सर पहले सीखे काम भूल जाते हैं। शोधकर्ता एक के बाद एक काम सीखने की क्षमता को कृत्रिम बुद्धिमत्ता के विकास के लिए बेहद ज़रूरी मानते हैं: इसे हल करने से AI प्रणालियाँ पुराने कौशल खोए बिना समय के साथ नए कौशल सीखती रह सकती हैं।"
   },
   "pt": {
    "block": "Aprender coisas novas tende a apagar as antigas (esquecimento catastrófico).",
    "known": "Os modelos atuais, em sua maioria, param de aprender quando o treinamento termina.",
    "leads": "Sistemas de memória externa, atualizações direcionadas e esparsas do modelo.",
    "s": "Aprendizado contínuo",
-   "t": "A IA pode continuar aprendendo com a experiência como os humanos?"
+   "t": "A IA pode continuar aprendendo com a experiência como os humanos?",
+   "why": "As redes neurais tendem a esquecer tarefas anteriores quando aprendem novas. Os pesquisadores consideram crucial para o desenvolvimento da inteligência artificial aprender tarefas uma após a outra: resolver isso poderia permitir que os sistemas de IA continuem adquirindo novas habilidades ao longo do tempo sem perder as antigas."
   },
   "zh": {
    "block": "学习新东西往往会抹掉旧知识(灾难性遗忘)。",
    "known": "如今的模型大多在训练结束后就停止学习。",
    "leads": "外部记忆系统,对模型进行有针对性的稀疏更新。",
    "s": "持续学习",
-   "t": "人工智能能像人一样不断从经验中学习吗?"
+   "t": "人工智能能像人一样不断从经验中学习吗?",
+   "why": "神经网络在学习新任务时往往会忘记之前的任务。研究人员认为，依次学习多项任务的能力对人工智能的发展至关重要：解决这一问题可以让人工智能系统随着时间不断掌握新技能，而不丢失旧技能。"
   }
  },
  "links": [

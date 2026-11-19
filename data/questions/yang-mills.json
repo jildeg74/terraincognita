@@ -7,49 +7,56 @@
    "known": "يستخدم الفيزيائيون هذه النظرية للقوة الشديدة بنجاح كبير، والتجارب تؤكدها.",
    "leads": "الحسابات على الشبكة، ونظرية المجال الكمومي البنائية.",
    "s": "فجوة كتلة يانغ–ميلز",
-   "t": "هل لنظرية يانغ–ميلز فجوة كتلة؟"
+   "t": "هل لنظرية يانغ–ميلز فجوة كتلة؟",
+   "why": "تقوم معظم فيزياء الجسيمات على نظرية يانغ–ميلز. ومن شأن البرهان أن يبيّن رياضيًا أن جسيماتها تمتلك كتلة رغم أن موجاتها الكلاسيكية تنتقل بسرعة الضوء، ويُتوقع أن يتطلب ذلك أفكارًا جديدة في الفيزياء والرياضيات معًا."
   },
   "en": {
    "block": "No one has given it a rigorous mathematical foundation.",
    "known": "Physicists use this theory of the strong force with great success, and experiments confirm it.",
    "leads": "Lattice computations, constructive quantum field theory.",
    "s": "Yang–Mills mass gap",
-   "t": "Does Yang–Mills theory have a mass gap?"
+   "t": "Does Yang–Mills theory have a mass gap?",
+   "why": "Yang–Mills theory underpins most of particle physics. A proof would show mathematically that its particles have mass, even though its classical waves travel at light speed; this is expected to require new ideas in both physics and mathematics."
   },
   "es": {
    "block": "Nadie le ha dado una base matemática rigurosa.",
    "known": "Los físicos usan con gran éxito esta teoría de la fuerza fuerte, y los experimentos la confirman.",
    "leads": "Cálculos en red, teoría cuántica de campos constructiva.",
    "s": "Salto de masa de Yang–Mills",
-   "t": "¿Tiene la teoría de Yang–Mills un salto de masa?"
+   "t": "¿Tiene la teoría de Yang–Mills un salto de masa?",
+   "why": "La teoría de Yang–Mills sustenta la mayor parte de la física de partículas. Una demostración mostraría matemáticamente que sus partículas tienen masa, aunque sus ondas clásicas viajen a la velocidad de la luz; se espera que esto requiera ideas nuevas tanto en física como en matemáticas."
   },
   "fr": {
    "block": "Personne n'a pu lui donner un fondement mathématique rigoureux.",
    "known": "Les physiciens utilisent cette théorie de l'interaction forte avec grand succès, et les expériences la confirment.",
    "leads": "Calculs sur réseau, théorie quantique des champs constructive.",
    "s": "Yang-Mills",
-   "t": "La théorie de Yang-Mills possède-t-elle un « trou de masse » ?"
+   "t": "La théorie de Yang-Mills possède-t-elle un « trou de masse » ?",
+   "why": "La théorie de Yang–Mills sous-tend la majeure partie de la physique des particules. Une preuve montrerait mathématiquement que ses particules ont une masse, alors que ses ondes classiques voyagent à la vitesse de la lumière ; cela devrait exiger des idées nouvelles en physique comme en mathématiques."
   },
   "hi": {
    "block": "किसी ने इसे कठोर गणितीय आधार नहीं दिया है।",
    "known": "भौतिक विज्ञानी प्रबल बल के इस सिद्धांत का बड़ी सफलता से उपयोग करते हैं, और प्रयोग इसकी पुष्टि करते हैं।",
    "leads": "लैटिस गणनाएँ, रचनात्मक क्वांटम क्षेत्र सिद्धांत।",
    "s": "यांग-मिल्स मास गैप",
-   "t": "क्या यांग-मिल्स सिद्धांत में मास गैप है?"
+   "t": "क्या यांग-मिल्स सिद्धांत में मास गैप है?",
+   "why": "यांग–मिल्स सिद्धांत अधिकांश कण भौतिकी का आधार है। एक प्रमाण गणितीय रूप से दिखाएगा कि इसके कणों में द्रव्यमान होता है, भले ही इसकी शास्त्रीय तरंगें प्रकाश की गति से चलती हैं; इसके लिए भौतिकी और गणित दोनों में नए विचारों की ज़रूरत पड़ने की उम्मीद है।"
   },
   "pt": {
    "block": "Ninguém lhe deu uma base matemática rigorosa.",
    "known": "Os físicos usam essa teoria da força forte com grande sucesso, e os experimentos a confirmam.",
    "leads": "Cálculos em rede, teoria quântica de campos construtiva.",
    "s": "Lacuna de massa de Yang–Mills",
-   "t": "A teoria de Yang–Mills tem uma lacuna de massa?"
+   "t": "A teoria de Yang–Mills tem uma lacuna de massa?",
+   "why": "A teoria de Yang–Mills sustenta a maior parte da física de partículas. Uma prova mostraria matematicamente que as suas partículas têm massa, embora as suas ondas clássicas viajem à velocidade da luz; espera-se que isso exija ideias novas tanto em física como em matemática."
   },
   "zh": {
    "block": "还没有人为它建立严格的数学基础。",
    "known": "物理学家非常成功地运用这一强力理论,实验也证实了它。",
    "leads": "格点计算,构造性量子场论。",
    "s": "杨-米尔斯质量间隙",
-   "t": "杨-米尔斯理论存在质量间隙吗?"
+   "t": "杨-米尔斯理论存在质量间隙吗?",
+   "why": "杨–米尔斯理论是大部分粒子物理学的基础。一个证明将从数学上表明，尽管其经典波以光速传播，它的粒子却具有质量；预计这需要物理学和数学两方面的新思想。"
   }
  },
  "links": [

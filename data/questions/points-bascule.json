@@ -7,49 +7,56 @@
    "known": "حُددت أنظمة هشة: تيارات الأطلسي والصفائح الجليدية وغابات الأمازون. وفي عام 2025 خلص العلماء إلى أن الشعاب المرجانية في المياه الدافئة تجاوزت نقطة تحولها بالفعل.",
    "leads": "إشارات الإنذار المبكر في بيانات الرصد.",
    "s": "نقاط التحول",
-   "t": "أين تقع نقاط التحول في المناخ؟"
+   "t": "أين تقع نقاط التحول في المناخ؟",
+   "why": "قد يؤدي تجاوز نقاط التحول المناخية إلى تغيّرات لا رجعة فيها، مثل انهيار الصفائح الجليدية بما يحتّم ارتفاع مستوى سطح البحر عدة أمتار، ويهدد الغذاء والمياه والصحة والأمن. وكل 0.1 درجة مئوية إضافية من الاحترار تجعل تجاوزها أكثر احتمالًا، لذا فإن معرفة مواضعها أمر مهم."
   },
   "en": {
    "block": "The exact thresholds are uncertain, and we may find them too late.",
    "known": "Fragile systems have been identified: Atlantic currents, ice sheets, the Amazon. In 2025, scientists concluded that warm-water coral reefs have already crossed theirs.",
    "leads": "Early-warning signals in observational data.",
    "s": "Tipping points",
-   "t": "Where are the climate's tipping points?"
+   "t": "Where are the climate's tipping points?",
+   "why": "Crossing climate tipping points could cause irreversible changes, such as ice-sheet collapse locking in metres of sea-level rise, and threaten food, water, health and security. Each extra 0.1°C of warming makes crossing them more likely, so knowing where they lie matters."
   },
   "es": {
    "block": "Los umbrales exactos son inciertos, y podríamos descubrirlos demasiado tarde.",
    "known": "Se han identificado sistemas frágiles: las corrientes del Atlántico, los mantos de hielo, la Amazonía. En 2025, los científicos concluyeron que los arrecifes de coral de aguas cálidas ya cruzaron el suyo.",
    "leads": "Señales de alerta temprana en los datos de observación.",
    "s": "Puntos de inflexión",
-   "t": "¿Dónde están los puntos de inflexión del clima?"
+   "t": "¿Dónde están los puntos de inflexión del clima?",
+   "why": "Cruzar puntos de inflexión climáticos podría causar cambios irreversibles, como el colapso de capas de hielo que haría inevitable una subida del nivel del mar de varios metros, y amenazar la alimentación, el agua, la salud y la seguridad. Cada 0,1 °C adicional de calentamiento hace más probable cruzarlos, así que importa saber dónde están."
   },
   "fr": {
    "block": "Les seuils exacts sont incertains, et on risque de les découvrir trop tard.",
    "known": "Des systèmes fragiles ont été identifiés : courants de l'Atlantique, calottes glaciaires, Amazonie. En 2025, des scientifiques ont conclu que les récifs coralliens d'eau chaude ont déjà franchi le leur.",
    "leads": "Signaux d'alerte précoce dans les données d'observation.",
    "s": "Points de bascule",
-   "t": "Où sont les points de bascule du climat ?"
+   "t": "Où sont les points de bascule du climat ?",
+   "why": "Franchir des points de bascule climatiques pourrait provoquer des changements irréversibles, comme l'effondrement de calottes glaciaires entraînant inévitablement une hausse du niveau de la mer de plusieurs mètres, et menacer l'alimentation, l'eau, la santé et la sécurité. Chaque 0,1 °C de réchauffement supplémentaire rend leur franchissement plus probable : il importe donc de savoir où ils se situent."
   },
   "hi": {
    "block": "सटीक सीमाएँ अनिश्चित हैं, और हो सकता है कि हम उन्हें बहुत देर से जानें।",
    "known": "नाज़ुक प्रणालियों की पहचान हो चुकी है: अटलांटिक धाराएँ, हिम-चादरें, अमेज़न वर्षावन। 2025 में वैज्ञानिकों ने निष्कर्ष निकाला कि गर्म पानी की प्रवाल भित्तियाँ अपना टिपिंग पॉइंट पार कर चुकी हैं।",
    "leads": "अवलोकन आँकड़ों में पूर्व-चेतावनी के संकेत।",
    "s": "जलवायु के निर्णायक मोड़",
-   "t": "जलवायु के निर्णायक मोड़ (टिपिंग पॉइंट) कहाँ हैं?"
+   "t": "जलवायु के निर्णायक मोड़ (टिपिंग पॉइंट) कहाँ हैं?",
+   "why": "जलवायु के टिपिंग पॉइंट पार करने से अपरिवर्तनीय बदलाव हो सकते हैं, जैसे बर्फ़ की चादरों का ढहना, जिससे समुद्र के स्तर में कई मीटर की वृद्धि तय हो जाए, और भोजन, पानी, स्वास्थ्य और सुरक्षा को खतरा हो सकता है। हर अतिरिक्त 0.1°C गर्मी इन्हें पार करने की संभावना बढ़ाती है, इसलिए यह जानना ज़रूरी है कि ये कहाँ हैं।"
   },
   "pt": {
    "block": "Os limiares exatos são incertos, e podemos descobri-los tarde demais.",
    "known": "Sistemas frágeis já foram identificados: as correntes do Atlântico, os mantos de gelo, a Amazônia. Em 2025, cientistas concluíram que os recifes de coral de águas quentes já ultrapassaram o seu.",
    "leads": "Sinais de alerta precoce nos dados de observação.",
    "s": "Pontos de inflexão",
-   "t": "Onde estão os pontos de inflexão do clima?"
+   "t": "Onde estão os pontos de inflexão do clima?",
+   "why": "Ultrapassar pontos de inflexão climáticos poderia causar mudanças irreversíveis, como o colapso de mantos de gelo que tornaria inevitável uma subida do nível do mar de vários metros, e ameaçar alimentos, água, saúde e segurança. Cada 0,1 °C a mais de aquecimento torna mais provável ultrapassá-los, por isso importa saber onde estão."
   },
   "zh": {
    "block": "确切的阈值并不确定,我们可能发现得太晚。",
    "known": "已确定一些脆弱系统:大西洋洋流、冰盖、亚马孙雨林。2025年,科学家认为温水珊瑚礁已经越过了它们的临界点。",
    "leads": "从观测数据中寻找预警信号。",
    "s": "临界点",
-   "t": "气候的临界点在哪里?"
+   "t": "气候的临界点在哪里?",
+   "why": "越过气候临界点可能引发不可逆转的变化，例如冰盖崩塌导致海平面注定上升数米，并威胁粮食、水、健康和安全。每多升温0.1°C，越过临界点的可能性就会增加，因此弄清它们在哪里非常重要。"
   }
  },
  "links": [

@@ -7,49 +7,56 @@
    "known": "ضعف نمو الإنتاجية في الدول الغنية منذ منتصف العقد الأول من القرن الحادي والعشرين.",
    "leads": "الذكاء الاصطناعي بوصفه تقنية عامة الأغراض، وإصلاحات تسرّع البناء والبحث.",
    "s": "تباطؤ الإنتاجية",
-   "t": "لماذا تباطأ نمو الإنتاجية في الدول الغنية؟"
+   "t": "لماذا تباطأ نمو الإنتاجية في الدول الغنية؟",
+   "why": "ينشأ النمو الاقتصادي من ابتكار الناس لأفكار جديدة. ومعرفة لماذا تباطأ نمو الإنتاجية، وهل أصبح العثور على الأفكار أصعب، ستساعد على تبيّن حجم الجهد البحثي اللازم لكي تواصل الاقتصادات نموها."
   },
   "en": {
    "block": "Measurement problems and the possibility that new ideas are getting harder to find.",
    "known": "Productivity growth in rich countries has been weaker since the mid-2000s.",
    "leads": "AI as a general-purpose technology, reforms that speed up building and research.",
    "s": "Productivity slowdown",
-   "t": "Why has productivity growth slowed in rich countries?"
+   "t": "Why has productivity growth slowed in rich countries?",
+   "why": "Economic growth comes from people creating new ideas. Knowing why productivity growth slowed, and whether ideas are getting harder to find, would help show how much research effort is needed to keep economies growing."
   },
   "es": {
    "block": "Problemas de medición y la posibilidad de que cada vez sea más difícil encontrar ideas nuevas.",
    "known": "El crecimiento de la productividad en los países ricos es más débil desde mediados de la década de 2000.",
    "leads": "La IA como tecnología de propósito general, reformas que aceleren la construcción y la investigación.",
    "s": "Freno de la productividad",
-   "t": "¿Por qué se ha ralentizado el crecimiento de la productividad en los países ricos?"
+   "t": "¿Por qué se ha ralentizado el crecimiento de la productividad en los países ricos?",
+   "why": "El crecimiento económico surge de que las personas crean nuevas ideas. Saber por qué se frenó el crecimiento de la productividad, y si las ideas son cada vez más difíciles de encontrar, ayudaría a mostrar cuánto esfuerzo de investigación hace falta para que las economías sigan creciendo."
   },
   "fr": {
    "block": "Problèmes de mesure, et possibilité que les idées nouvelles soient de plus en plus difficiles à trouver.",
    "known": "La productivité progresse plus lentement dans les pays riches depuis le milieu des années 2000.",
    "leads": "L'IA comme technologie à usage général, réformes qui accélèrent la construction et la recherche.",
    "s": "Ralentissement de la productivité",
-   "t": "Pourquoi la croissance de la productivité a-t-elle ralenti dans les pays riches ?"
+   "t": "Pourquoi la croissance de la productivité a-t-elle ralenti dans les pays riches ?",
+   "why": "La croissance économique vient de la création de nouvelles idées. Comprendre pourquoi la croissance de la productivité a ralenti, et si les idées deviennent plus difficiles à trouver, aiderait à mesurer l'effort de recherche nécessaire pour que les économies continuent de croître."
   },
   "hi": {
    "block": "मापन की समस्याएँ और यह संभावना कि नए विचार खोजना कठिन होता जा रहा है।",
    "known": "2000 के दशक के मध्य से अमीर देशों में उत्पादकता वृद्धि कमज़ोर रही है।",
    "leads": "सामान्य-उद्देश्य प्रौद्योगिकी के रूप में AI, निर्माण और शोध को तेज़ करने वाले सुधार।",
    "s": "उत्पादकता में सुस्ती",
-   "t": "अमीर देशों में उत्पादकता वृद्धि धीमी क्यों हुई है?"
+   "t": "अमीर देशों में उत्पादकता वृद्धि धीमी क्यों हुई है?",
+   "why": "आर्थिक विकास लोगों के नए विचार बनाने से आता है। यह जानना कि उत्पादकता की वृद्धि क्यों धीमी हुई, और क्या नए विचार खोजना कठिन होता जा रहा है, यह दिखाने में मदद करेगा कि अर्थव्यवस्थाओं को बढ़ते रहने के लिए कितने शोध प्रयास की ज़रूरत है।"
   },
   "pt": {
    "block": "Problemas de medição e a possibilidade de que novas ideias estejam ficando mais difíceis de encontrar.",
    "known": "O crescimento da produtividade nos países ricos está mais fraco desde meados dos anos 2000.",
    "leads": "A IA como tecnologia de uso geral, reformas que aceleram a construção e a pesquisa.",
    "s": "Queda da produtividade",
-   "t": "Por que o crescimento da produtividade desacelerou nos países ricos?"
+   "t": "Por que o crescimento da produtividade desacelerou nos países ricos?",
+   "why": "O crescimento económico vem da criação de novas ideias pelas pessoas. Saber por que o crescimento da produtividade abrandou, e se as ideias estão a ficar mais difíceis de encontrar, ajudaria a mostrar quanto esforço de investigação é necessário para que as economias continuem a crescer."
   },
   "zh": {
    "block": "测量上的问题,以及新想法可能越来越难找到。",
    "known": "自2000年代中期以来,富裕国家的生产率增长一直较弱。",
    "leads": "把AI视为通用技术,加快建设和研究的改革。",
    "s": "生产率放缓",
-   "t": "为什么富裕国家的生产率增长放缓了?"
+   "t": "为什么富裕国家的生产率增长放缓了?",
+   "why": "经济增长来自人们创造新想法。了解生产率增长为何放缓、新想法是否越来越难找到，将有助于弄清需要多少研究投入才能让经济持续增长。"
   }
  },
  "links": [

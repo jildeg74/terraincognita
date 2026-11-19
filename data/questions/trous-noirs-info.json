@@ -7,49 +7,56 @@
    "known": "أظهر هوكينغ أن الثقوب السوداء تتبخر ببطء بإطلاق الإشعاع.",
    "leads": "\"الجزر\" ومنحنى بيج، والهولوغرافيا، وفكرة أن التشابك وهندسة الفضاء مترابطان.",
    "s": "مفارقة المعلومات",
-   "t": "ماذا يحدث للمعلومات التي تسقط في ثقب أسود؟"
+   "t": "ماذا يحدث للمعلومات التي تسقط في ثقب أسود؟",
+   "why": "يضع هذا اللغز قاعدة مركزية في ميكانيكا الكم، وهي أن المعلومات لا تضيع أبدًا، في مواجهة نسبية أينشتاين. ومن شأن حلّه أن يخبرنا ما إذا كان حفظ المعلومات، الذي يضعه بعض الفيزيائيين قبل كل القوانين الأخرى، صحيحًا حتى في الثقوب السوداء."
   },
   "en": {
    "block": "If information vanishes with them, a fundamental law of quantum physics is broken.",
    "known": "Hawking showed that black holes slowly evaporate by emitting radiation.",
    "leads": "\"Islands\" and the Page curve, holography, the idea that entanglement and the geometry of space are linked.",
    "s": "Information paradox",
-   "t": "What happens to information that falls into a black hole?"
+   "t": "What happens to information that falls into a black hole?",
+   "why": "The puzzle pits a central rule of quantum mechanics, that information is never lost, against Einstein's relativity. Solving it would tell us whether information conservation, which some physicists place before all other laws, holds even for black holes."
   },
   "es": {
    "block": "Si la información desaparece con ellos, se viola una ley fundamental de la física cuántica.",
    "known": "Hawking demostró que los agujeros negros se evaporan lentamente al emitir radiación.",
    "leads": "Las «islas» y la curva de Page, la holografía, la idea de que el entrelazamiento y la geometría del espacio están vinculados.",
    "s": "Paradoja de la información",
-   "t": "¿Qué ocurre con la información que cae en un agujero negro?"
+   "t": "¿Qué ocurre con la información que cae en un agujero negro?",
+   "why": "El enigma enfrenta una regla central de la mecánica cuántica, que la información nunca se pierde, con la relatividad de Einstein. Resolverlo nos diría si la conservación de la información, que algunos físicos sitúan por delante de todas las demás leyes, se cumple incluso en los agujeros negros."
   },
   "fr": {
    "block": "Si l'information disparaît avec eux, une loi fondamentale de la physique quantique est violée.",
    "known": "Hawking a montré que les trous noirs s'évaporent lentement en rayonnant.",
    "leads": "Les « îlots » et la courbe de Page, l'holographie, l'idée qu'intrication et géométrie de l'espace sont liées.",
    "s": "Paradoxe de l'information",
-   "t": "Que devient l'information qui tombe dans un trou noir ?"
+   "t": "Que devient l'information qui tombe dans un trou noir ?",
+   "why": "Cette énigme oppose une règle centrale de la mécanique quantique, selon laquelle l'information n'est jamais perdue, à la relativité d'Einstein. La résoudre dirait si la conservation de l'information, que certains physiciens placent avant toutes les autres lois, est respectée même pour les trous noirs."
   },
   "hi": {
    "block": "यदि जानकारी उनके साथ गायब हो जाती है, तो क्वांटम भौतिकी का एक मूलभूत नियम टूट जाता है।",
    "known": "हॉकिंग ने दिखाया कि ब्लैक होल विकिरण उत्सर्जित करके धीरे-धीरे वाष्पित हो जाते हैं।",
    "leads": "\"द्वीप\" और पेज वक्र, होलोग्राफी, यह विचार कि उलझाव और अंतरिक्ष की ज्यामिति आपस में जुड़े हैं।",
    "s": "सूचना विरोधाभास",
-   "t": "ब्लैक होल में गिरने वाली जानकारी का क्या होता है?"
+   "t": "ब्लैक होल में गिरने वाली जानकारी का क्या होता है?",
+   "why": "यह पहेली क्वांटम यांत्रिकी के एक केंद्रीय नियम, कि सूचना कभी नष्ट नहीं होती, को आइंस्टीन की सापेक्षता के सामने खड़ा करती है। इसे सुलझाने से पता चलेगा कि क्या सूचना संरक्षण, जिसे कुछ भौतिक विज्ञानी बाकी सभी नियमों से पहले रखते हैं, ब्लैक होल के लिए भी सही है।"
   },
   "pt": {
    "block": "Se a informação desaparece com eles, uma lei fundamental da física quântica é violada.",
    "known": "Hawking mostrou que os buracos negros evaporam lentamente ao emitir radiação.",
    "leads": "As \"ilhas\" e a curva de Page, a holografia, a ideia de que o emaranhamento e a geometria do espaço estão ligados.",
    "s": "Paradoxo da informação",
-   "t": "O que acontece com a informação que cai em um buraco negro?"
+   "t": "O que acontece com a informação que cai em um buraco negro?",
+   "why": "O enigma opõe uma regra central da mecânica quântica, a de que a informação nunca se perde, à relatividade de Einstein. Resolvê-lo diria se a conservação da informação, que alguns físicos colocam antes de todas as outras leis, se mantém mesmo nos buracos negros."
   },
   "zh": {
    "block": "如果信息随黑洞一起消失,量子物理的一条基本定律就被打破了。",
    "known": "霍金证明,黑洞会通过发出辐射而缓慢蒸发。",
    "leads": "“岛”与佩奇曲线,全息原理,纠缠与空间几何相关联的想法。",
    "s": "信息悖论",
-   "t": "落入黑洞的信息会怎样?"
+   "t": "落入黑洞的信息会怎样?",
+   "why": "这个难题让量子力学的一条核心原则（信息永不丢失）与爱因斯坦的相对论针锋相对。解决它将告诉我们，被一些物理学家置于所有其他定律之前的信息守恒，是否连在黑洞中也成立。"
   }
  },
  "links": [

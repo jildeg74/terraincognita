@@ -7,49 +7,56 @@
    "known": "كان ينبغي أن ينتج الانفجار العظيم كميات متساوية من المادة والمادة المضادة، فتفني إحداهما الأخرى.",
    "leads": "تذبذبات النيوترينو (DUNE وهايبر-كاميوكاندي) وقياسات العزم ثنائي القطب الكهربائي.",
    "s": "المادة والمادة المضادة",
-   "t": "لماذا توجد مادة أكثر من المادة المضادة؟"
+   "t": "لماذا توجد مادة أكثر من المادة المضادة؟",
+   "why": "من شأن الإجابة أن تفسّر لماذا يمتلئ الكون بالمادة بدلًا من كميات متساوية من المادة والمادة المضادة. ويتطلب ذلك أن تتصرف المادة والمادة المضادة بشكل مختلف قليلًا، ويمكن لتجارب النيوترينو أن تُظهر ما إذا كانت النيوترينوات تفعل ذلك."
   },
   "en": {
    "block": "The known asymmetries between them are far too weak to explain our existence.",
    "known": "The Big Bang should have produced equal amounts of matter and antimatter, which would have annihilated.",
    "leads": "Neutrino oscillations (DUNE, Hyper-Kamiokande) and measurements of the electric dipole moment.",
    "s": "Matter vs antimatter",
-   "t": "Why is there more matter than antimatter?"
+   "t": "Why is there more matter than antimatter?",
+   "why": "Answering it would explain why the universe is filled with matter rather than equal amounts of matter and antimatter. This requires matter and antimatter to behave slightly differently, and neutrino experiments could show whether neutrinos do."
   },
   "es": {
    "block": "Las asimetrías conocidas entre ellas son demasiado débiles para explicar nuestra existencia.",
    "known": "El Big Bang debería haber producido cantidades iguales de materia y antimateria, que se habrían aniquilado.",
    "leads": "Oscilaciones de neutrinos (DUNE, Hyper-Kamiokande) y mediciones del momento dipolar eléctrico.",
    "s": "Materia y antimateria",
-   "t": "¿Por qué hay más materia que antimateria?"
+   "t": "¿Por qué hay más materia que antimateria?",
+   "why": "Responderla explicaría por qué el universo está lleno de materia en lugar de cantidades iguales de materia y antimateria. Esto exige que la materia y la antimateria se comporten de forma algo distinta, y los experimentos con neutrinos podrían mostrar si los neutrinos lo hacen."
   },
   "fr": {
    "block": "Les asymétries connues entre les deux sont bien trop faibles pour expliquer notre existence.",
    "known": "Le Big Bang aurait dû produire autant de matière que d'antimatière, qui se seraient annihilées.",
    "leads": "Les oscillations des neutrinos (DUNE, Hyper-Kamiokande) et la mesure du moment dipolaire électrique.",
    "s": "Matière et antimatière",
-   "t": "Pourquoi y a-t-il plus de matière que d'antimatière ?"
+   "t": "Pourquoi y a-t-il plus de matière que d'antimatière ?",
+   "why": "Y répondre expliquerait pourquoi l'Univers est rempli de matière plutôt que de quantités égales de matière et d'antimatière. Cela suppose que matière et antimatière se comportent un peu différemment, et des expériences sur les neutrinos pourraient montrer si c'est le cas des neutrinos."
   },
   "hi": {
    "block": "उनके बीच की ज्ञात विषमताएँ हमारे अस्तित्व को समझाने के लिए बहुत कमज़ोर हैं।",
    "known": "बिग बैंग को पदार्थ और प्रति-पदार्थ बराबर मात्रा में बनाना चाहिए था, जो एक-दूसरे को नष्ट कर देते।",
    "leads": "न्यूट्रिनो दोलन (DUNE, हाइपर-कामियोकांडे) और विद्युत द्विध्रुव आघूर्ण के मापन।",
    "s": "पदार्थ बनाम प्रति-पदार्थ",
-   "t": "प्रति-पदार्थ से अधिक पदार्थ क्यों है?"
+   "t": "प्रति-पदार्थ से अधिक पदार्थ क्यों है?",
+   "why": "इसका उत्तर समझाएगा कि ब्रह्मांड पदार्थ और प्रतिपदार्थ की बराबर मात्रा के बजाय पदार्थ से क्यों भरा है। इसके लिए ज़रूरी है कि पदार्थ और प्रतिपदार्थ थोड़ा अलग व्यवहार करें, और न्यूट्रिनो प्रयोग दिखा सकते हैं कि क्या न्यूट्रिनो ऐसा करते हैं।"
   },
   "pt": {
    "block": "As assimetrias conhecidas entre elas são fracas demais para explicar a nossa existência.",
    "known": "O Big Bang deveria ter produzido quantidades iguais de matéria e antimatéria, que teriam se aniquilado.",
    "leads": "Oscilações de neutrinos (DUNE, Hyper-Kamiokande) e medições do momento de dipolo elétrico.",
    "s": "Matéria e antimatéria",
-   "t": "Por que há mais matéria do que antimatéria?"
+   "t": "Por que há mais matéria do que antimatéria?",
+   "why": "Responder explicaria porque é que o universo está cheio de matéria em vez de quantidades iguais de matéria e antimatéria. Isso exige que a matéria e a antimatéria se comportem de forma ligeiramente diferente, e as experiências com neutrinos poderiam mostrar se os neutrinos o fazem."
   },
   "zh": {
    "block": "已知的两者之间的不对称性太弱,远不足以解释我们的存在。",
    "known": "大爆炸本应产生等量的物质和反物质,它们会彼此湮灭。",
    "leads": "中微子振荡(DUNE、Hyper-Kamiokande)以及电偶极矩的测量。",
    "s": "物质与反物质",
-   "t": "为什么物质比反物质多?"
+   "t": "为什么物质比反物质多?",
+   "why": "回答这个问题将解释为什么宇宙中充满了物质，而不是等量的物质和反物质。这要求物质和反物质的行为略有不同，而中微子实验可能会表明中微子是否如此。"
   }
  },
  "links": [

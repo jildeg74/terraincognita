@@ -7,49 +7,56 @@
    "known": "جرى التحقق منها لأعداد هائلة، وفي عام 2019 أثبت تيرينس تاو أن معظم قيم البداية تصبح صغيرة جدًا.",
    "leads": "الطرائق الاحتمالية، والبراهين بمساعدة الحاسوب.",
    "s": "تخمينة كولاتز",
-   "t": "هل تنتهي متتالية كولاتز دائمًا عند 1؟"
+   "t": "هل تنتهي متتالية كولاتز دائمًا عند 1؟",
+   "why": "يبدو أنها مثال نموذجي على مسألة بسيطة جدًا في صياغتها لكنها صعبة الحل للغاية. ووفق أحد الآراء، فهي تمثّل فئة واسعة من المسائل المشابهة، لذا فإن التقدم في طرق عامة لهذه الفئة سيكون بالغ الأهمية."
   },
   "en": {
    "block": "Mathematics may lack the tools; it is a simple rule with no known structure to exploit.",
    "known": "It has been checked for enormous numbers, and in 2019 Terence Tao showed that almost all starting values get very small.",
    "leads": "Probabilistic methods, computer-assisted proofs.",
    "s": "Collatz conjecture",
-   "t": "Does the Collatz sequence always end at 1?"
+   "t": "Does the Collatz sequence always end at 1?",
+   "why": "It seems to be a prototypical example of a problem that is very simple to state yet extremely hard to solve. In one view it represents a large class of similar problems, so progress on general methods for that class would be very significant."
   },
   "es": {
    "block": "Quizá a las matemáticas les faltan las herramientas; es una regla simple sin estructura conocida que aprovechar.",
    "known": "Se ha comprobado para números enormes, y en 2019 Terence Tao demostró que casi todos los valores iniciales llegan a ser muy pequeños.",
    "leads": "Métodos probabilísticos, demostraciones asistidas por ordenador.",
    "s": "Conjetura de Collatz",
-   "t": "¿Termina siempre en 1 la sucesión de Collatz?"
+   "t": "¿Termina siempre en 1 la sucesión de Collatz?",
+   "why": "Parece ser un ejemplo típico de problema muy sencillo de enunciar pero extremadamente difícil de resolver. Según un punto de vista, representa una amplia clase de problemas parecidos, así que avanzar en métodos generales para esa clase sería muy importante."
   },
   "fr": {
    "block": "Les mathématiques manquent peut-être d'outils : la règle est simple, sans structure connue à exploiter.",
    "known": "Vérifiée pour des nombres énormes ; en 2019, Terence Tao a montré que presque toutes les valeurs de départ deviennent très petites.",
    "leads": "Méthodes probabilistes, preuves assistées par ordinateur.",
    "s": "Conjecture de Collatz",
-   "t": "La suite de Collatz finit-elle toujours par 1 ?"
+   "t": "La suite de Collatz finit-elle toujours par 1 ?",
+   "why": "Il semble être un exemple type de problème très simple à énoncer mais extrêmement difficile à résoudre. Selon un point de vue, il représente une large classe de problèmes semblables : des progrès sur des méthodes générales pour cette classe seraient donc très importants."
   },
   "hi": {
    "block": "हो सकता है गणित के पास उपकरण न हों; यह एक सरल नियम है जिसमें कोई ज्ञात संरचना नहीं जिसका लाभ उठाया जा सके।",
    "known": "इसे विशाल संख्याओं के लिए जाँचा जा चुका है, और 2019 में टेरेंस ताओ ने दिखाया कि लगभग सभी आरंभिक मान बहुत छोटे हो जाते हैं।",
    "leads": "प्रायिकतात्मक विधियाँ, कंप्यूटर-सहायता प्राप्त प्रमाण।",
    "s": "कोलाट्ज़ अनुमान",
-   "t": "क्या कोलाट्ज़ अनुक्रम हमेशा 1 पर समाप्त होता है?"
+   "t": "क्या कोलाट्ज़ अनुक्रम हमेशा 1 पर समाप्त होता है?",
+   "why": "यह ऐसी समस्या का एक आदर्श उदाहरण लगता है जिसे कहना बहुत आसान है पर हल करना बेहद कठिन। एक दृष्टिकोण के अनुसार यह मिलती-जुलती समस्याओं के एक बड़े वर्ग का प्रतिनिधित्व करती है, इसलिए उस वर्ग के लिए सामान्य विधियों में प्रगति बहुत महत्वपूर्ण होगी।"
   },
   "pt": {
    "block": "Talvez falte ferramenta à matemática; é uma regra simples sem estrutura conhecida a explorar.",
    "known": "Ela foi verificada para números enormes, e em 2019 Terence Tao mostrou que quase todos os valores iniciais chegam a números bem pequenos.",
    "leads": "Métodos probabilísticos, demonstrações assistidas por computador.",
    "s": "Conjectura de Collatz",
-   "t": "A sequência de Collatz sempre termina em 1?"
+   "t": "A sequência de Collatz sempre termina em 1?",
+   "why": "Parece ser um exemplo típico de problema muito simples de enunciar, mas extremamente difícil de resolver. Segundo um ponto de vista, representa uma grande classe de problemas semelhantes, por isso avanços em métodos gerais para essa classe seriam muito importantes."
   },
   "zh": {
    "block": "数学可能还缺少工具;它是一条简单的规则,没有已知的结构可供利用。",
    "known": "它已对极大的数验证过,2019年陶哲轩证明,几乎所有起始值都会变得很小。",
    "leads": "概率方法,计算机辅助证明。",
    "s": "考拉兹猜想",
-   "t": "考拉兹数列总会以1结束吗?"
+   "t": "考拉兹数列总会以1结束吗?",
+   "why": "它似乎是“极易表述、极难解决”问题的典型例子。有一种观点认为，它代表了一大类相似的问题，因此在针对这类问题的一般方法上取得进展将非常重要。"
   }
  },
  "links": [

@@ -7,49 +7,56 @@
    "known": "انخفض عدد الأشخاص الذين يعيشون في فقر مدقع من نحو 2.3 مليار عام 1990 إلى نحو 831 مليونًا عام 2025، أي نحو شخص واحد من كل عشرة.",
    "leads": "التحويلات النقدية المباشرة، والنمو، وبيانات أفضل عن هوية الفقراء.",
    "s": "الفقر المدقع",
-   "t": "هل يمكن القضاء على الفقر المدقع؟"
+   "t": "هل يمكن القضاء على الفقر المدقع؟",
+   "why": "لا يزال نحو 412 مليون طفل يعيشون في أسر تعيش على أقل من 3 دولارات في اليوم، وقد تباطأ التقدم في مكافحة الفقر. ومعرفة ما ينجح، مثل التحويلات النقدية في كينيا التي زادت إنفاق المستفيدين منها وأفادت أيضًا أسرًا وشركات أخرى، قد تساعد على الحد من الفقر المدقع."
   },
   "en": {
    "block": "The remaining poverty is concentrated in fragile and conflict-hit countries.",
    "known": "The number of people in extreme poverty fell from about 2.3 billion in 1990 to about 831 million in 2025, about one person in ten.",
    "leads": "Direct cash transfers, growth, better data on who is poor.",
    "s": "Extreme poverty",
-   "t": "Can extreme poverty be ended?"
+   "t": "Can extreme poverty be ended?",
+   "why": "About 412 million children still live in households on less than $3 a day, and progress against poverty has slowed. Knowing what works, such as cash transfers in Kenya that raised recipients' spending and also benefited other households and businesses, could help reduce extreme poverty."
   },
   "es": {
    "block": "La pobreza restante se concentra en países frágiles y afectados por conflictos.",
    "known": "El número de personas en pobreza extrema bajó de unos 2.300 millones en 1990 a unos 831 millones en 2025, alrededor de una de cada diez personas.",
    "leads": "Transferencias directas de dinero, crecimiento, mejores datos sobre quién es pobre.",
    "s": "Pobreza extrema",
-   "t": "¿Se puede acabar con la pobreza extrema?"
+   "t": "¿Se puede acabar con la pobreza extrema?",
+   "why": "Unos 412 millones de niños aún viven en hogares con menos de 3 dólares al día, y los avances contra la pobreza se han frenado. Saber qué funciona, como las transferencias de dinero en Kenia que aumentaron el gasto de quienes las recibieron y también beneficiaron a otros hogares y empresas, podría ayudar a reducir la pobreza extrema."
   },
   "fr": {
    "block": "La pauvreté restante se concentre dans des pays fragiles ou en conflit.",
    "known": "Le nombre de personnes en extrême pauvreté est passé d'environ 2,3 milliards en 1990 à environ 831 millions en 2025, soit environ une personne sur dix.",
    "leads": "Transferts d'argent directs, croissance, meilleures données sur qui est pauvre.",
    "s": "Extrême pauvreté",
-   "t": "Peut-on mettre fin à l'extrême pauvreté ?"
+   "t": "Peut-on mettre fin à l'extrême pauvreté ?",
+   "why": "Environ 412 millions d'enfants vivent encore dans des foyers disposant de moins de 3 dollars par jour, et les progrès contre la pauvreté ont ralenti. Savoir ce qui fonctionne, comme les transferts d'argent au Kenya qui ont augmenté les dépenses des bénéficiaires et profité aussi à d'autres foyers et entreprises, pourrait aider à réduire l'extrême pauvreté."
   },
   "hi": {
    "block": "बची हुई गरीबी नाज़ुक और संघर्ष-ग्रस्त देशों में केंद्रित है।",
    "known": "अत्यधिक गरीबी में रहने वाले लोगों की संख्या 1990 में लगभग 2.3 अरब से घटकर 2025 में लगभग 83.1 करोड़ रह गई, यानी लगभग हर दस में से एक व्यक्ति।",
    "leads": "सीधे नकद हस्तांतरण, आर्थिक वृद्धि, यह जानने के लिए बेहतर आँकड़े कि कौन गरीब है।",
    "s": "अत्यधिक गरीबी",
-   "t": "क्या अत्यधिक गरीबी खत्म की जा सकती है?"
+   "t": "क्या अत्यधिक गरीबी खत्म की जा सकती है?",
+   "why": "लगभग 41.2 करोड़ बच्चे अब भी ऐसे परिवारों में रहते हैं जिनकी आय रोज़ 3 डॉलर से कम है, और गरीबी के ख़िलाफ़ प्रगति धीमी हो गई है। यह जानना कि क्या काम करता है, जैसे केन्या में नकद हस्तांतरण जिनसे पाने वालों का ख़र्च बढ़ा और दूसरे परिवारों व व्यवसायों को भी फ़ायदा हुआ, अत्यधिक गरीबी कम करने में मदद कर सकता है।"
   },
   "pt": {
    "block": "A pobreza restante se concentra em países frágeis e atingidos por conflitos.",
    "known": "O número de pessoas em pobreza extrema caiu de cerca de 2,3 bilhões em 1990 para cerca de 831 milhões em 2025, cerca de uma pessoa em cada dez.",
    "leads": "Transferências diretas de dinheiro, crescimento econômico, dados melhores sobre quem é pobre.",
    "s": "Pobreza extrema",
-   "t": "É possível acabar com a pobreza extrema?"
+   "t": "É possível acabar com a pobreza extrema?",
+   "why": "Cerca de 412 milhões de crianças ainda vivem em agregados familiares com menos de 3 dólares por dia, e o progresso contra a pobreza abrandou. Saber o que funciona, como as transferências de dinheiro no Quénia que aumentaram os gastos de quem as recebeu e beneficiaram também outros agregados e empresas, poderia ajudar a reduzir a pobreza extrema."
   },
   "zh": {
    "block": "剩下的贫困集中在脆弱和受冲突影响的国家。",
    "known": "极端贫困人口已从1990年的约23亿降至2025年的约8.31亿，约为每十人中有一人。",
    "leads": "直接现金转移支付、经济增长、更准确的贫困人口数据。",
    "s": "极端贫困",
-   "t": "极端贫困能被消除吗?"
+   "t": "极端贫困能被消除吗?",
+   "why": "约4.12亿儿童仍生活在每天不足3美元的家庭中，而减贫进展已经放缓。了解哪些办法有效，例如肯尼亚的现金转移既增加了受助者的消费，也惠及了其他家庭和企业，可能有助于减少极端贫困。"
   }
  },
  "links": [

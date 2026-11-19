@@ -7,49 +7,56 @@
    "known": "توقعت الأمم المتحدة عام 2019 أنه بحلول عام 2050 سيتجاوز شخص واحد من كل ستة عمر 65 عامًا.",
    "leads": "شيخوخة أكثر صحة، والأتمتة، والهجرة وإصلاح أنظمة التقاعد.",
    "s": "المجتمعات المسنّة",
-   "t": "كيف ستواصل المجتمعات المسنّة الاستمرار؟"
+   "t": "كيف ستواصل المجتمعات المسنّة الاستمرار؟",
+   "why": "في الولايات المتحدة، أدت شيخوخة السكان إلى إبطاء النمو الاقتصادي عبر تباطؤ نمو كلٍّ من التوظيف وإنتاجية العاملين. ومعرفة كيف يمكن للمجتمعات المتقدمة في السن أن تستمر ستساعد البلدان على الاستعداد للضغط المتزايد على المالية العامة وأنظمة المعاشات."
   },
   "en": {
    "block": "Fewer workers will support more retirees.",
    "known": "In 2019 the UN projected that by 2050 about one person in six will be over 65.",
    "leads": "Healthier aging, automation, migration and pension reform.",
    "s": "Aging societies",
-   "t": "How will aging societies sustain themselves?"
+   "t": "How will aging societies sustain themselves?",
+   "why": "In the United States, population aging has slowed economic growth through slower growth in both employment and worker productivity. Knowing how aging societies can sustain themselves would help countries prepare for growing pressure on public finances and pension systems."
   },
   "es": {
    "block": "Menos trabajadores mantendrán a más jubilados.",
    "known": "En 2019, la ONU proyectó que en 2050 cerca de una de cada seis personas tendría más de 65 años.",
    "leads": "Envejecimiento más saludable, automatización, migración y reforma de las pensiones.",
    "s": "Sociedades envejecidas",
-   "t": "¿Cómo se sostendrán las sociedades que envejecen?"
+   "t": "¿Cómo se sostendrán las sociedades que envejecen?",
+   "why": "En Estados Unidos, el envejecimiento de la población ha frenado el crecimiento económico al ralentizar tanto el empleo como la productividad de los trabajadores. Saber cómo pueden sostenerse las sociedades envejecidas ayudaría a los países a prepararse para la creciente presión sobre las finanzas públicas y los sistemas de pensiones."
   },
   "fr": {
    "block": "Moins d'actifs devront soutenir plus de retraités.",
    "known": "En 2019, l'ONU prévoyait qu'en 2050 environ une personne sur six aurait plus de 65 ans.",
    "leads": "Vieillir en meilleure santé, automatisation, migrations, réformes des retraites.",
    "s": "Sociétés vieillissantes",
-   "t": "Comment les sociétés vieillissantes vont-elles tenir ?"
+   "t": "Comment les sociétés vieillissantes vont-elles tenir ?",
+   "why": "Aux États-Unis, le vieillissement de la population a ralenti la croissance économique, en freinant à la fois la hausse de l'emploi et celle de la productivité des travailleurs. Savoir comment les sociétés vieillissantes peuvent tenir aiderait les pays à se préparer à la pression croissante sur les finances publiques et les systèmes de retraite."
   },
   "hi": {
    "block": "कम कामगार अधिक सेवानिवृत्त लोगों का भार उठाएँगे।",
    "known": "2019 में संयुक्त राष्ट्र ने अनुमान लगाया था कि 2050 तक लगभग हर छह में से एक व्यक्ति 65 से अधिक उम्र का होगा।",
    "leads": "अधिक स्वस्थ वृद्धावस्था, स्वचालन, प्रवासन और पेंशन सुधार।",
    "s": "वृद्ध होते समाज",
-   "t": "वृद्ध होते समाज खुद को कैसे चलाएँगे?"
+   "t": "वृद्ध होते समाज खुद को कैसे चलाएँगे?",
+   "why": "अमेरिका में आबादी के बूढ़े होने से रोज़गार और कामगारों की उत्पादकता, दोनों की वृद्धि धीमी हुई, जिससे आर्थिक विकास धीमा हुआ है। यह जानना कि बूढ़े होते समाज खुद को कैसे टिकाए रख सकते हैं, देशों को सार्वजनिक वित्त और पेंशन प्रणालियों पर बढ़ते दबाव के लिए तैयार होने में मदद करेगा।"
   },
   "pt": {
    "block": "Menos trabalhadores sustentarão mais aposentados.",
    "known": "Em 2019, a ONU projetou que, até 2050, cerca de uma pessoa em cada seis terá mais de 65 anos.",
    "leads": "Envelhecimento mais saudável, automação, migração e reforma da previdência.",
    "s": "Sociedades que envelhecem",
-   "t": "Como as sociedades em envelhecimento vão se sustentar?"
+   "t": "Como as sociedades em envelhecimento vão se sustentar?",
+   "why": "Nos Estados Unidos, o envelhecimento da população abrandou o crescimento económico, ao travar tanto o aumento do emprego como o da produtividade dos trabalhadores. Saber como as sociedades envelhecidas se podem sustentar ajudaria os países a preparar-se para a pressão crescente sobre as finanças públicas e os sistemas de pensões."
   },
   "zh": {
    "block": "更少的劳动者要供养更多的退休者。",
    "known": "联合国在2019年预测，到2050年约每六个人中就有一人年过65岁。",
    "leads": "更健康的衰老,自动化,移民和养老金改革。",
    "s": "老龄化社会",
-   "t": "老龄化社会将如何维持下去?"
+   "t": "老龄化社会将如何维持下去?",
+   "why": "在美国，人口老龄化通过减缓就业增长和劳动生产率增长，拖慢了经济增长。了解老龄化社会如何维持下去，将帮助各国为公共财政和养老金体系日益增加的压力做好准备。"
   }
  },
  "links": [

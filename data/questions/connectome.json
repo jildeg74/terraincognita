@@ -7,49 +7,56 @@
    "known": "نُشر عام 2024 مخطط الوصلات الكامل لدماغ ذبابة الفاكهة. ورُسمت خريطة لمليمتر مكعب واحد من القشرة الدماغية البشرية.",
    "leads": "المجهرية التمددية، والتجزئة الآلية بالذكاء الاصطناعي.",
    "s": "الموصولية البشرية",
-   "t": "هل يمكننا رسم خريطة لكل الوصلات في دماغ بشري؟"
+   "t": "هل يمكننا رسم خريطة لكل الوصلات في دماغ بشري؟",
+   "why": "يتطلب فهم طريقة عمل الدماغ معرفة كيفية اتصال خلاياه العصبية. وقد تسلّط خريطة كاملة لتوصيلات الدماغ البشري الضوء على اضطرابات دماغية لا تزال مستعصية على العلاج، يُرجَّح أنها تنشأ عند اختلال هذه الدوائر."
   },
   "en": {
    "block": "A whole human brain would mean a gigantic amount of data, on the order of a zettabyte.",
    "known": "The complete wiring diagram of the fruit fly brain was published in 2024. A cubic millimeter of human cortex has been mapped.",
    "leads": "Expansion microscopy, automatic segmentation by AI.",
    "s": "Human connectome",
-   "t": "Can we map every connection in a human brain?"
+   "t": "Can we map every connection in a human brain?",
+   "why": "Understanding how the brain works requires knowing how its neurons are connected. A full map of human brain wiring could shed light on brain disorders, still incurable, that likely arise when these circuits are disrupted."
   },
   "es": {
    "block": "Un cerebro humano completo supondría una cantidad gigantesca de datos, del orden de un zettabyte.",
    "known": "El diagrama de cableado completo del cerebro de la mosca de la fruta se publicó en 2024. Se ha mapeado un milímetro cúbico de corteza humana.",
    "leads": "Microscopía de expansión, segmentación automática mediante IA.",
    "s": "Conectoma humano",
-   "t": "¿Podemos mapear cada conexión de un cerebro humano?"
+   "t": "¿Podemos mapear cada conexión de un cerebro humano?",
+   "why": "Entender cómo funciona el cerebro exige saber cómo están conectadas sus neuronas. Un mapa completo del cableado del cerebro humano podría arrojar luz sobre trastornos cerebrales, todavía incurables, que probablemente surgen cuando estos circuitos se alteran."
   },
   "fr": {
    "block": "Un cerveau humain entier représenterait une masse de données gigantesque, de l'ordre du zettaoctet.",
    "known": "Le schéma complet du cerveau de la mouche drosophile a été publié en 2024. Un millimètre cube de cortex humain a été cartographié.",
    "leads": "Microscopie par expansion, segmentation automatique par IA.",
    "s": "Connectome humain",
-   "t": "Peut-on cartographier toutes les connexions d'un cerveau humain ?"
+   "t": "Peut-on cartographier toutes les connexions d'un cerveau humain ?",
+   "why": "Comprendre le fonctionnement du cerveau exige de savoir comment ses neurones sont connectés. Une carte complète du câblage du cerveau humain pourrait éclairer des troubles cérébraux encore incurables, qui proviennent probablement d'une perturbation de ces circuits."
   },
   "hi": {
    "block": "पूरे मानव मस्तिष्क के लिए विशाल मात्रा में आँकड़े चाहिए होंगे, लगभग एक ज़ेटाबाइट।",
    "known": "फल-मक्खी के मस्तिष्क का पूरा वायरिंग आरेख 2024 में प्रकाशित हुआ। मानव कॉर्टेक्स के एक घन मिलीमीटर का नक्शा बनाया जा चुका है।",
    "leads": "एक्सपेंशन माइक्रोस्कोपी, AI द्वारा स्वचालित खंडीकरण।",
    "s": "मानव कनेक्टोम",
-   "t": "क्या हम मानव मस्तिष्क के हर संबंध का नक्शा बना सकते हैं?"
+   "t": "क्या हम मानव मस्तिष्क के हर संबंध का नक्शा बना सकते हैं?",
+   "why": "मस्तिष्क कैसे काम करता है, यह समझने के लिए जानना ज़रूरी है कि उसके न्यूरॉन आपस में कैसे जुड़े हैं। मानव मस्तिष्क की वायरिंग का पूरा नक्शा उन मस्तिष्क विकारों पर रोशनी डाल सकता है जो अभी तक लाइलाज हैं और संभवतः इन सर्किटों के बिगड़ने से पैदा होते हैं।"
   },
   "pt": {
    "block": "Um cérebro humano inteiro significaria uma quantidade gigantesca de dados, da ordem de um zettabyte.",
    "known": "O diagrama completo das conexões do cérebro da mosca-das-frutas foi publicado em 2024. Foi mapeado um milímetro cúbico de córtex humano.",
    "leads": "Microscopia de expansão, segmentação automática por IA.",
    "s": "Conectoma humano",
-   "t": "Podemos mapear todas as conexões de um cérebro humano?"
+   "t": "Podemos mapear todas as conexões de um cérebro humano?",
+   "why": "Entender como o cérebro funciona exige saber como seus neurônios estão conectados. Um mapa completo da fiação do cérebro humano poderia esclarecer distúrbios cerebrais, ainda incuráveis, que provavelmente surgem quando esses circuitos são perturbados."
   },
   "zh": {
    "block": "整个人脑意味着海量数据,约为一泽字节(ZB)的量级。",
    "known": "果蝇大脑完整的连接图谱已于2024年发表。一立方毫米的人类皮层也已绘制完成。",
    "leads": "膨胀显微术,人工智能自动分割。",
    "s": "人脑连接组",
-   "t": "我们能绘制出人脑中的每一个连接吗?"
+   "t": "我们能绘制出人脑中的每一个连接吗?",
+   "why": "要理解大脑如何运作，就需要知道神经元之间如何连接。一张完整的人脑连接图可能有助于阐明那些至今无法治愈、很可能源于这些神经回路受损的脑部疾病。"
   }
  },
  "links": [

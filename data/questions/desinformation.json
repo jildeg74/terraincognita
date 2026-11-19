@@ -7,49 +7,56 @@
    "known": "وجدت دراسة عام 2018 أن الأخبار الكاذبة انتشرت على تويتر أسرع وأبعد من الأخبار الصحيحة.",
    "leads": "معايير منشأ المحتوى، والتحقق من الحقائق مجتمعيًا، والثقافة الإعلامية.",
    "s": "التضليل الإعلامي",
-   "t": "كيف تميّز المجتمعات الحقيقة من الزيف على نطاق واسع؟"
+   "t": "كيف تميّز المجتمعات الحقيقة من الزيف على نطاق واسع؟",
+   "why": "حدّد الباحثون المعلومات الكاذبة بوصفها عاملًا رئيسيًا في أحداث مثيرة للجدل، من الانتخابات والاستفتاءات إلى الاستجابة لجائحة كوفيد-19. ومعرفة كيفية التمييز بين الحقيقة والزيف على نطاق واسع قد تساعد الصحفيين ومسؤولي الصحة والناس العاديين على إصدار أحكام واتخاذ قرارات أفضل."
   },
   "en": {
    "block": "Trust in experts is often low, and false content spreads in huge volumes.",
    "known": "A 2018 study found that false news spread faster and further than true news on Twitter.",
    "leads": "Content provenance standards, community fact-checking, media literacy.",
    "s": "Misinformation",
-   "t": "How can societies tell truth from falsehood at scale?"
+   "t": "How can societies tell truth from falsehood at scale?",
+   "why": "Researchers have identified false information as a major contributor to contentious events, from elections and referendums to the response to COVID-19. Knowing how to tell truth from falsehood at scale could help journalists, health officials and ordinary people make better judgements and decisions."
   },
   "es": {
    "block": "La confianza en los expertos suele ser baja y los contenidos falsos circulan en volúmenes enormes.",
    "known": "Un estudio de 2018 encontró que las noticias falsas se difundían más rápido y más lejos que las verdaderas en Twitter.",
    "leads": "Estándares de procedencia de contenidos, verificación comunitaria de datos, alfabetización mediática.",
    "s": "Desinformación",
-   "t": "¿Cómo pueden las sociedades distinguir la verdad de la falsedad a gran escala?"
+   "t": "¿Cómo pueden las sociedades distinguir la verdad de la falsedad a gran escala?",
+   "why": "Los investigadores han identificado la información falsa como un factor importante en acontecimientos polémicos, desde elecciones y referendos hasta la respuesta a la COVID-19. Saber distinguir lo verdadero de lo falso a gran escala podría ayudar a periodistas, autoridades sanitarias y ciudadanos comunes a juzgar y decidir mejor."
   },
   "fr": {
    "block": "La confiance envers les experts est souvent faible, et les contenus faux circulent en volumes immenses.",
    "known": "Une étude de 2018 a montré que les fausses nouvelles se propageaient plus vite et plus loin que les vraies sur Twitter.",
    "leads": "Normes de traçabilité des contenus, vérification communautaire, éducation aux médias.",
    "s": "Désinformation",
-   "t": "Comment une société peut-elle distinguer le vrai du faux à grande échelle ?"
+   "t": "Comment une société peut-elle distinguer le vrai du faux à grande échelle ?",
+   "why": "Les chercheurs ont identifié la fausse information comme un facteur majeur d'événements controversés, des élections et référendums à la réponse au COVID-19. Savoir distinguer le vrai du faux à grande échelle pourrait aider les journalistes, les responsables de santé publique et chacun d'entre nous à mieux juger et à mieux décider."
   },
   "hi": {
    "block": "विशेषज्ञों पर भरोसा अक्सर कम होता है, और झूठी सामग्री भारी मात्रा में फैलती है।",
    "known": "2018 के एक अध्ययन में पाया गया कि ट्विटर पर झूठी खबरें सच्ची खबरों से अधिक तेज़ी से और दूर तक फैलीं।",
    "leads": "सामग्री की उत्पत्ति के मानक, सामुदायिक तथ्य-जाँच, मीडिया साक्षरता।",
    "s": "भ्रामक सूचना",
-   "t": "समाज बड़े पैमाने पर सच और झूठ में अंतर कैसे कर सकते हैं?"
+   "t": "समाज बड़े पैमाने पर सच और झूठ में अंतर कैसे कर सकते हैं?",
+   "why": "शोधकर्ताओं ने झूठी जानकारी को विवादित घटनाओं का एक बड़ा कारण माना है, चुनावों और जनमत संग्रहों से लेकर COVID-19 से निपटने तक। बड़े पैमाने पर सच और झूठ में फ़र्क करना जानना पत्रकारों, स्वास्थ्य अधिकारियों और आम लोगों को बेहतर आकलन और फ़ैसले करने में मदद कर सकता है।"
   },
   "pt": {
    "block": "A confiança nos especialistas costuma ser baixa, e conteúdos falsos circulam em volumes enormes.",
    "known": "Um estudo de 2018 constatou que notícias falsas se espalharam mais rápido e mais longe que as verdadeiras no Twitter.",
    "leads": "Padrões de procedência de conteúdo, checagem comunitária de fatos, educação midiática.",
    "s": "Desinformação",
-   "t": "Como as sociedades podem distinguir verdade de falsidade em grande escala?"
+   "t": "Como as sociedades podem distinguir verdade de falsidade em grande escala?",
+   "why": "Os investigadores identificaram a informação falsa como um fator importante em acontecimentos controversos, desde eleições e referendos até à resposta à COVID-19. Saber distinguir o verdadeiro do falso em grande escala poderia ajudar jornalistas, responsáveis de saúde pública e cidadãos comuns a fazer melhores julgamentos e tomar melhores decisões."
   },
   "zh": {
    "block": "人们对专家的信任往往很低，而虚假内容的传播量巨大。",
    "known": "2018年的一项研究发现,在推特上,假新闻比真新闻传播得更快、更广。",
    "leads": "内容溯源标准,社区事实核查,媒介素养。",
    "s": "虚假信息",
-   "t": "社会如何大规模地分辨真假?"
+   "t": "社会如何大规模地分辨真假?",
+   "why": "研究人员认为，虚假信息是引发争议事件的一个主要因素，从选举和全民公投到应对新冠疫情都是如此。懂得如何大规模分辨真假，可能帮助记者、卫生官员和普通人做出更好的判断和决定。"
   }
  },
  "links": [

@@ -7,49 +7,56 @@
    "known": "يتعاون البشر مع الغرباء إلى حد يفوق بكثير ما تفعله الأنواع الأخرى.",
    "leads": "نظرية الألعاب التطورية، وتجارب عابرة للثقافات.",
    "s": "التعاون",
-   "t": "لماذا يتعاون البشر على نطاق واسع كهذا؟"
+   "t": "لماذا يتعاون البشر على نطاق واسع كهذا؟",
+   "why": "يفرض العالم الحديث ضغطًا كبيرًا على المؤسسات التي تحافظ على تعاون الناس. ومعرفة لماذا يتعاون البشر، ولماذا ينهار التعاون، قد تساعد على بناء مؤسسات متماسكة، لأنه حيث تنهار الثقة بها يحل الصراع محل التعاون."
   },
   "en": {
    "block": "We understand poorly why cooperation sometimes collapses.",
    "known": "Humans cooperate with strangers far beyond what other species do.",
    "leads": "Evolutionary game theory, cross-cultural experiments.",
    "s": "Cooperation",
-   "t": "Why do humans cooperate on such a large scale?"
+   "t": "Why do humans cooperate on such a large scale?",
+   "why": "The modern world puts heavy strain on the institutions that keep people cooperating. Knowing why humans cooperate, and why cooperation breaks down, could help build institutions that hold, since where trust in them fails, conflict replaces cooperation."
   },
   "es": {
    "block": "Entendemos mal por qué la cooperación a veces se derrumba.",
    "known": "Los humanos cooperan con desconocidos mucho más que cualquier otra especie.",
    "leads": "Teoría de juegos evolutiva, experimentos transculturales.",
    "s": "Cooperación",
-   "t": "¿Por qué cooperan los humanos a tan gran escala?"
+   "t": "¿Por qué cooperan los humanos a tan gran escala?",
+   "why": "El mundo moderno somete a una fuerte presión a las instituciones que mantienen la cooperación entre las personas. Saber por qué los humanos cooperan, y por qué la cooperación se rompe, podría ayudar a construir instituciones sólidas, ya que donde falla la confianza en ellas, el conflicto reemplaza a la cooperación."
   },
   "fr": {
    "block": "On comprend mal pourquoi la coopération s'effondre parfois.",
    "known": "Les humains coopèrent avec des inconnus bien au-delà de ce que font les autres espèces.",
    "leads": "Théorie des jeux évolutionniste, expériences interculturelles.",
    "s": "Coopération",
-   "t": "Pourquoi les humains coopèrent-ils à si grande échelle ?"
+   "t": "Pourquoi les humains coopèrent-ils à si grande échelle ?",
+   "why": "Le monde moderne soumet à rude épreuve les institutions qui maintiennent la coopération entre les personnes. Comprendre pourquoi les humains coopèrent, et pourquoi la coopération se défait, pourrait aider à bâtir des institutions solides, car là où la confiance en elles disparaît, le conflit remplace la coopération."
   },
   "hi": {
    "block": "हम यह कम समझते हैं कि सहयोग कभी-कभी क्यों टूट जाता है।",
    "known": "मनुष्य अजनबियों के साथ उतना सहयोग करते हैं जितना अन्य प्रजातियाँ कहीं नहीं करतीं।",
    "leads": "विकासवादी खेल सिद्धांत, विभिन्न संस्कृतियों में प्रयोग।",
    "s": "सहयोग",
-   "t": "मनुष्य इतने बड़े पैमाने पर सहयोग क्यों करते हैं?"
+   "t": "मनुष्य इतने बड़े पैमाने पर सहयोग क्यों करते हैं?",
+   "why": "आधुनिक दुनिया उन संस्थाओं पर भारी दबाव डालती है जो लोगों को आपस में सहयोग करते रखती हैं। यह जानना कि मनुष्य सहयोग क्यों करते हैं, और सहयोग क्यों टूटता है, टिकाऊ संस्थाएँ बनाने में मदद कर सकता है, क्योंकि जहाँ उन पर भरोसा टूटता है, वहाँ सहयोग की जगह संघर्ष ले लेता है।"
   },
   "pt": {
    "block": "Entendemos mal por que a cooperação às vezes desmorona.",
    "known": "Os humanos cooperam com desconhecidos muito além do que outras espécies fazem.",
    "leads": "Teoria dos jogos evolutiva, experimentos transculturais.",
    "s": "Cooperação",
-   "t": "Por que os humanos cooperam em tão grande escala?"
+   "t": "Por que os humanos cooperam em tão grande escala?",
+   "why": "O mundo moderno submete a uma forte pressão as instituições que mantêm as pessoas a cooperar. Saber por que os humanos cooperam, e por que a cooperação se desfaz, poderia ajudar a construir instituições sólidas, pois onde a confiança nelas falha, o conflito substitui a cooperação."
   },
   "zh": {
    "block": "我们对合作为何有时会瓦解了解甚少。",
    "known": "人类与陌生人合作的程度远超其他物种。",
    "leads": "演化博弈论,跨文化实验。",
    "s": "合作",
-   "t": "人类为什么能大规模合作?"
+   "t": "人类为什么能大规模合作?",
+   "why": "现代世界给维持人们合作的制度带来了巨大压力。了解人类为何合作、合作又为何瓦解，可能有助于建立稳固的制度，因为一旦对制度的信任崩溃，冲突就会取代合作。"
   }
  },
  "links": [

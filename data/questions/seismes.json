@@ -7,49 +7,56 @@
    "known": "نعرف أين الخطر مرتفع، لكن لا نعرف متى سيحدث الانكسار.",
    "leads": "الذكاء الاصطناعي على البيانات الزلزالية، وكابلات الألياف الضوئية المستخدمة كمستشعرات.",
    "s": "الزلازل",
-   "t": "هل يمكننا التنبؤ بالزلازل؟"
+   "t": "هل يمكننا التنبؤ بالزلازل؟",
+   "why": "لم يتنبأ أي عالم قط بزلزال كبير. ومن شأن تنبؤات أفضل أن توجّه القرارات التي يتخذها الأفراد والمؤسسات للحد من خطر الزلازل، وأن تساعد المجتمعات على الاستعداد للزلازل المدمّرة."
   },
   "en": {
    "block": "No reliable precursor signal has been found.",
    "known": "We know where the risk is high, but not when a rupture will happen.",
    "leads": "AI on seismic data, fiber-optic cables used as sensors.",
    "s": "Earthquakes",
-   "t": "Can we predict earthquakes?"
+   "t": "Can we predict earthquakes?",
+   "why": "No scientist has ever predicted a major earthquake. Better forecasts would inform the decisions people and organizations make to reduce earthquake risk, and help communities prepare for destructive quakes."
   },
   "es": {
    "block": "No se ha encontrado ninguna señal precursora fiable.",
    "known": "Sabemos dónde el riesgo es alto, pero no cuándo se producirá una ruptura.",
    "leads": "IA aplicada a datos sísmicos, cables de fibra óptica usados como sensores.",
    "s": "Terremotos",
-   "t": "¿Podemos predecir los terremotos?"
+   "t": "¿Podemos predecir los terremotos?",
+   "why": "Ningún científico ha predicho nunca un gran terremoto. Mejores pronósticos orientarían las decisiones que toman las personas y las organizaciones para reducir el riesgo sísmico, y ayudarían a las comunidades a prepararse para terremotos destructivos."
   },
   "fr": {
    "block": "Aucun signe précurseur fiable n'a été trouvé.",
    "known": "On sait où le risque est élevé, mais pas quand une rupture aura lieu.",
    "leads": "IA sur les données sismiques, câbles de fibre optique utilisés comme capteurs.",
    "s": "Séismes",
-   "t": "Peut-on prédire les tremblements de terre ?"
+   "t": "Peut-on prédire les tremblements de terre ?",
+   "why": "Aucun scientifique n'a jamais prédit un séisme majeur. De meilleures prévisions éclaireraient les décisions que prennent les personnes et les organisations pour réduire le risque sismique, et aideraient les populations à se préparer aux séismes destructeurs."
   },
   "hi": {
    "block": "कोई भरोसेमंद पूर्व-संकेत नहीं मिला है।",
    "known": "हम जानते हैं कि जोखिम कहाँ अधिक है, पर यह नहीं कि दरार कब पड़ेगी।",
    "leads": "भूकंपीय आँकड़ों पर AI, सेंसर के रूप में इस्तेमाल होती फ़ाइबर-ऑप्टिक केबल।",
    "s": "भूकंप",
-   "t": "क्या हम भूकंपों का पूर्वानुमान लगा सकते हैं?"
+   "t": "क्या हम भूकंपों का पूर्वानुमान लगा सकते हैं?",
+   "why": "किसी भी वैज्ञानिक ने कभी किसी बड़े भूकंप की भविष्यवाणी नहीं की है। बेहतर पूर्वानुमान उन फ़ैसलों में मदद करेंगे जो लोग और संगठन भूकंप का जोखिम घटाने के लिए लेते हैं, और समुदायों को विनाशकारी भूकंपों के लिए तैयार होने में मदद करेंगे।"
   },
   "pt": {
    "block": "Não foi encontrado nenhum sinal precursor confiável.",
    "known": "Sabemos onde o risco é alto, mas não quando uma ruptura vai acontecer.",
    "leads": "IA aplicada a dados sísmicos, cabos de fibra óptica usados como sensores.",
    "s": "Terremotos",
-   "t": "Podemos prever terremotos?"
+   "t": "Podemos prever terremotos?",
+   "why": "Nenhum cientista jamais previu um grande terremoto. Previsões melhores orientariam as decisões que pessoas e organizações tomam para reduzir o risco sísmico e ajudariam as comunidades a se preparar para terremotos destrutivos."
   },
   "zh": {
    "block": "还没有发现可靠的前兆信号。",
    "known": "我们知道哪里风险高,但不知道断裂何时发生。",
    "leads": "用于地震数据的AI,用作传感器的光纤电缆。",
    "s": "地震",
-   "t": "我们能预测地震吗?"
+   "t": "我们能预测地震吗?",
+   "why": "从来没有科学家成功预测过一次大地震。更好的预报将为个人和机构降低地震风险的决策提供依据，并帮助社区为破坏性地震做好准备。"
   }
  },
  "links": [

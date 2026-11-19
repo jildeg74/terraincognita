@@ -7,49 +7,56 @@
    "known": "لا تزال كتابة وادي السند والخطية أ والرونغورونغو غير مفكوكة. وساعد الذكاء الاصطناعي في قراءة لفائف متفحمة بفعل بركان فيزوف.",
    "leads": "التحليل الإحصائي وتحليل الأنماط بالذكاء الاصطناعي، واكتشافات أثرية جديدة.",
    "s": "كتابات مفقودة",
-   "t": "هل يمكننا فك رموز أنظمة الكتابة المفقودة مثل كتابة وادي السند؟"
+   "t": "هل يمكننا فك رموز أنظمة الكتابة المفقودة مثل كتابة وادي السند؟",
+   "why": "فك رموز الكتابات المفقودة مثل كتابة السند أو الخط الخطي (أ) سيتيح لنا قراءة كلمات حضارات بائدة والتعرف مباشرة على فكرها ولغتها ومجتمعها وتاريخها."
   },
   "en": {
    "block": "Surviving texts are few and short, and the languages behind them are unknown.",
    "known": "The Indus script, Linear A and Rongorongo are still undeciphered. AI helped read scrolls carbonized by Vesuvius.",
    "leads": "Statistical and AI pattern analysis, new archaeological finds.",
    "s": "Lost scripts",
-   "t": "Can we decipher lost writing systems such as the Indus script?"
+   "t": "Can we decipher lost writing systems such as the Indus script?",
+   "why": "Deciphering lost scripts such as the Indus script or Linear A would let us read the words of vanished civilisations and learn directly about their thought, language, society and history."
   },
   "es": {
    "block": "Los textos que se conservan son pocos y breves, y se desconocen las lenguas que hay detrás.",
    "known": "La escritura del Indo, el lineal A y el rongorongo siguen sin descifrar. La IA ayudó a leer rollos carbonizados por el Vesubio.",
    "leads": "Análisis estadístico y de patrones con IA, nuevos hallazgos arqueológicos.",
    "s": "Escrituras perdidas",
-   "t": "¿Podemos descifrar sistemas de escritura perdidos como la escritura del Indo?"
+   "t": "¿Podemos descifrar sistemas de escritura perdidos como la escritura del Indo?",
+   "why": "Descifrar escrituras perdidas como la del Indo o el lineal A nos permitiría leer las palabras de civilizaciones desaparecidas y conocer directamente su pensamiento, su lengua, su sociedad y su historia."
   },
   "fr": {
    "block": "Les textes conservés sont rares et courts, et les langues qu'ils notent sont inconnues.",
    "known": "L'écriture de l'Indus, le linéaire A et le rongorongo ne sont toujours pas déchiffrés. L'IA a aidé à lire des rouleaux carbonisés par le Vésuve.",
    "leads": "Analyse statistique et par IA des motifs, nouvelles découvertes archéologiques.",
    "s": "Écritures perdues",
-   "t": "Peut-on déchiffrer les écritures perdues, comme celle de l'Indus ?"
+   "t": "Peut-on déchiffrer les écritures perdues, comme celle de l'Indus ?",
+   "why": "Déchiffrer des écritures perdues comme l'écriture de l'Indus ou le linéaire A permettrait de lire les mots de civilisations disparues et d'en apprendre directement sur leur pensée, leur langue, leur société et leur histoire."
   },
   "hi": {
    "block": "बचे हुए पाठ कम और छोटे हैं, और उनके पीछे की भाषाएँ अज्ञात हैं।",
    "known": "सिंधु लिपि, लीनियर A और रोंगोरोंगो अब भी अपठित हैं। AI ने वेसुवियस से कार्बनीकृत हुए स्क्रॉल पढ़ने में मदद की।",
    "leads": "सांख्यिकीय और AI पैटर्न विश्लेषण, नई पुरातात्विक खोजें।",
    "s": "लुप्त लिपियाँ",
-   "t": "क्या हम सिंधु लिपि जैसी लुप्त लेखन प्रणालियों को पढ़ सकते हैं?"
+   "t": "क्या हम सिंधु लिपि जैसी लुप्त लेखन प्रणालियों को पढ़ सकते हैं?",
+   "why": "सिंधु लिपि या लीनियर ए जैसी खोई हुई लिपियों को पढ़ पाना हमें लुप्त सभ्यताओं के शब्द पढ़ने और उनके विचारों, भाषा, समाज और इतिहास के बारे में सीधे जानने देगा।"
   },
   "pt": {
    "block": "Os textos que sobreviveram são poucos e curtos, e as línguas por trás deles são desconhecidas.",
    "known": "A escrita do Indo, o Linear A e o Rongorongo continuam sem decifração. A IA ajudou a ler rolos carbonizados pelo Vesúvio.",
    "leads": "Análise estatística e de padrões por IA, novas descobertas arqueológicas.",
    "s": "Escritas perdidas",
-   "t": "Podemos decifrar sistemas de escrita perdidos, como a escrita do Indo?"
+   "t": "Podemos decifrar sistemas de escrita perdidos, como a escrita do Indo?",
+   "why": "Decifrar escritas perdidas como a do Indo ou o Linear A permitir-nos-ia ler as palavras de civilizações desaparecidas e conhecer diretamente o seu pensamento, a sua língua, a sua sociedade e a sua história."
   },
   "zh": {
    "block": "留存下来的文本又少又短,其背后的语言也不为人知。",
    "known": "印度河文字、线性文字A和朗格朗格文字仍未破译。人工智能帮助读出了被维苏威火山碳化的卷轴。",
    "leads": "统计和AI模式分析,新的考古发现。",
    "s": "失传文字",
-   "t": "我们能破译印度河文字等失传的文字吗?"
+   "t": "我们能破译印度河文字等失传的文字吗?",
+   "why": "破译印度河文字或线形文字A等失传文字，将让我们读到已消失文明留下的文字，并直接了解它们的思想、语言、社会和历史。"
   }
  },
  "links": [

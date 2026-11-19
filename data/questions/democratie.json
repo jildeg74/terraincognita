@@ -7,49 +7,56 @@
    "known": "أنتجت الجمعيات المواطنية، كما في أيرلندا، قرارات مقبولة على نطاق واسع في قضايا خلافية.",
    "leads": "منصات المداولة عبر الإنترنت، وذكاء اصطناعي يساعد المجموعات على إيجاد أرضية مشتركة.",
    "s": "القرارات الجماعية",
-   "t": "هل تستطيع المجتمعات الكبيرة اتخاذ قرارات جماعية جيدة في القضايا المعقدة؟"
+   "t": "هل تستطيع المجتمعات الكبيرة اتخاذ قرارات جماعية جيدة في القضايا المعقدة؟",
+   "why": "قد تساعد طرق أفضل لاتخاذ القرار معًا المجتمعات على معالجة قضايا معقدة ومثيرة للانقسام. ففي أيرلندا، ساعدت جمعية مواطنين على تعزيز فهم الجمهور لمثل هذه القضايا، وأدت توصيتها إلى تعديل في الدستور أُقرّ في استفتاء."
   },
   "en": {
    "block": "Polarization and the complexity of modern issues.",
    "known": "Citizens' assemblies, as in Ireland, have produced broadly accepted decisions on divisive issues.",
    "leads": "Online deliberation platforms, AI that helps groups find common ground.",
    "s": "Collective decisions",
-   "t": "Can large societies make good collective decisions on complex issues?"
+   "t": "Can large societies make good collective decisions on complex issues?",
+   "why": "Better ways of deciding together could help societies handle complex, divisive questions. In Ireland, a citizens' assembly aided public understanding of such issues, and its recommendation led to a change to the Constitution approved by referendum."
   },
   "es": {
    "block": "La polarización y la complejidad de los problemas modernos.",
    "known": "Las asambleas ciudadanas, como en Irlanda, han producido decisiones ampliamente aceptadas sobre temas que dividen.",
    "leads": "Plataformas de deliberación en línea, IA que ayuda a los grupos a encontrar puntos en común.",
    "s": "Decisiones colectivas",
-   "t": "¿Pueden las grandes sociedades tomar buenas decisiones colectivas sobre asuntos complejos?"
+   "t": "¿Pueden las grandes sociedades tomar buenas decisiones colectivas sobre asuntos complejos?",
+   "why": "Mejores formas de decidir juntos podrían ayudar a las sociedades a abordar cuestiones complejas y divisivas. En Irlanda, una asamblea ciudadana ayudó al público a comprender esos temas, y su recomendación llevó a un cambio en la Constitución aprobado por referéndum."
   },
   "fr": {
    "block": "La polarisation et la complexité des sujets modernes.",
    "known": "Des assemblées citoyennes, comme en Irlande, ont abouti à des décisions largement acceptées sur des sujets qui divisaient.",
    "leads": "Plateformes de délibération en ligne, IA qui aide des groupes à trouver un terrain d'entente.",
    "s": "Décisions collectives",
-   "t": "Les grandes sociétés peuvent-elles prendre de bonnes décisions collectives sur des sujets complexes ?"
+   "t": "Les grandes sociétés peuvent-elles prendre de bonnes décisions collectives sur des sujets complexes ?",
+   "why": "De meilleures façons de décider ensemble pourraient aider les sociétés à traiter des questions complexes et qui divisent. En Irlande, une assemblée citoyenne a aidé le public à comprendre de tels sujets, et sa recommandation a conduit à une modification de la Constitution approuvée par référendum."
   },
   "hi": {
    "block": "ध्रुवीकरण और आधुनिक मुद्दों की जटिलता।",
    "known": "आयरलैंड जैसी नागरिक सभाओं ने विभाजनकारी मुद्दों पर व्यापक रूप से स्वीकृत निर्णय दिए हैं।",
    "leads": "ऑनलाइन विचार-विमर्श मंच, AI जो समूहों को साझा आधार खोजने में मदद करता है।",
    "s": "सामूहिक निर्णय",
-   "t": "क्या बड़े समाज जटिल मुद्दों पर अच्छे सामूहिक निर्णय ले सकते हैं?"
+   "t": "क्या बड़े समाज जटिल मुद्दों पर अच्छे सामूहिक निर्णय ले सकते हैं?",
+   "why": "मिलकर निर्णय लेने के बेहतर तरीके समाजों को जटिल और बाँटने वाले सवालों से निपटने में मदद कर सकते हैं। आयरलैंड में एक नागरिक सभा ने ऐसे मुद्दों की सार्वजनिक समझ बढ़ाई, और उसकी सिफ़ारिश से संविधान में ऐसा बदलाव हुआ जिसे जनमत संग्रह में मंज़ूरी मिली।"
   },
   "pt": {
    "block": "Polarização e a complexidade das questões modernas.",
    "known": "Assembleias de cidadãos, como na Irlanda, produziram decisões amplamente aceitas sobre temas divisivos.",
    "leads": "Plataformas de deliberação on-line, IA que ajuda grupos a encontrar pontos em comum.",
    "s": "Decisões coletivas",
-   "t": "Sociedades grandes podem tomar boas decisões coletivas sobre questões complexas?"
+   "t": "Sociedades grandes podem tomar boas decisões coletivas sobre questões complexas?",
+   "why": "Melhores formas de decidir em conjunto poderiam ajudar as sociedades a lidar com questões complexas e fraturantes. Na Irlanda, uma assembleia de cidadãos ajudou o público a compreender esses temas, e a sua recomendação levou a uma alteração da Constituição aprovada em referendo."
   },
   "zh": {
    "block": "两极分化,以及现代议题的复杂性。",
    "known": "像爱尔兰那样的公民大会,已就有争议的问题作出了被广泛接受的决定。",
    "leads": "在线协商平台,帮助群体找到共识的AI。",
    "s": "集体决策",
-   "t": "大型社会能对复杂议题做出好的集体决策吗?"
+   "t": "大型社会能对复杂议题做出好的集体决策吗?",
+   "why": "更好的集体决策方式可能帮助社会处理复杂而有分歧的问题。在爱尔兰，一个公民大会帮助公众理解了此类议题，其建议促成了一项经全民公投通过的宪法修改。"
   }
  },
  "links": [

@@ -7,49 +7,56 @@
    "known": "تتصف بعض الهيدريدات بالتوصيل الفائق قرب درجة حرارة الغرفة، لكن فقط تحت ضغوط شديدة.",
    "leads": "اكتشاف المواد بمساعدة الذكاء الاصطناعي، والنيكلات، والمسح المخبري الآلي.",
    "s": "موصل فائق بحرارة الغرفة",
-   "t": "هل يوجد موصل فائق في درجة حرارة الغرفة وتحت الضغط العادي؟"
+   "t": "هل يوجد موصل فائق في درجة حرارة الغرفة وتحت الضغط العادي؟",
+   "why": "تنقل الموصلات الفائقة الكهرباء دون أي مقاومة على الإطلاق. ومن شأن موصل فائق يعمل في درجة حرارة الغرفة وتحت الضغط العادي أن يحسّن كثيرًا كفاءة مولدات الكهرباء ونقلها، وأن يبسّط استخدامات مثل المغانط فائقة التوصيل."
   },
   "en": {
    "block": "No theory predicts high-temperature superconductors such as the cuprates.",
    "known": "Some hydrides superconduct near room temperature, but only under extreme pressures.",
    "leads": "AI-assisted materials discovery, nickelates, automated lab screening.",
    "s": "Room-temperature superconductor",
-   "t": "Is there a superconductor at room temperature and normal pressure?"
+   "t": "Is there a superconductor at room temperature and normal pressure?",
+   "why": "Superconductors carry electricity with no resistance at all. One that works at room temperature and normal pressure would considerably improve the efficiency of electricity generators and transmission, and simplify uses such as superconducting magnets."
   },
   "es": {
    "block": "Ninguna teoría predice los superconductores de alta temperatura, como los cupratos.",
    "known": "Algunos hidruros son superconductores casi a temperatura ambiente, pero solo a presiones extremas.",
    "leads": "Descubrimiento de materiales asistido por IA, niquelatos, cribado automatizado en laboratorio.",
    "s": "Superconductor a temperatura ambiente",
-   "t": "¿Existe un superconductor a temperatura ambiente y presión normal?"
+   "t": "¿Existe un superconductor a temperatura ambiente y presión normal?",
+   "why": "Los superconductores conducen la electricidad sin ninguna resistencia. Uno que funcione a temperatura ambiente y presión normal mejoraría considerablemente la eficiencia de los generadores y del transporte de electricidad, y simplificaría usos como los imanes superconductores."
   },
   "fr": {
    "block": "Il n'existe pas de théorie qui prédise les supraconducteurs à haute température, comme les cuprates.",
    "known": "Certains hydrures supraconduisent presque à température ambiante, mais sous des pressions extrêmes.",
    "leads": "Découverte de matériaux assistée par l'IA, nickelates, criblage automatisé en laboratoire.",
    "s": "Supraconducteur ambiant",
-   "t": "Existe-t-il un supraconducteur à température ambiante et pression normale ?"
+   "t": "Existe-t-il un supraconducteur à température ambiante et pression normale ?",
+   "why": "Les supraconducteurs conduisent l'électricité sans aucune résistance. Un supraconducteur fonctionnant à température ambiante et à pression normale améliorerait nettement l'efficacité des générateurs et du transport d'électricité, et simplifierait des usages comme les aimants supraconducteurs."
   },
   "hi": {
    "block": "क्यूप्रेट जैसे उच्च-तापमान अतिचालकों का पूर्वानुमान कोई सिद्धांत नहीं देता।",
    "known": "कुछ हाइड्राइड कमरे के तापमान के निकट अतिचालक होते हैं, पर केवल अत्यधिक दबाव में।",
    "leads": "AI की मदद से पदार्थों की खोज, निकेलेट, स्वचालित प्रयोगशाला स्क्रीनिंग।",
    "s": "कमरे के तापमान का अतिचालक",
-   "t": "क्या कमरे के तापमान और सामान्य दबाव पर कोई अतिचालक है?"
+   "t": "क्या कमरे के तापमान और सामान्य दबाव पर कोई अतिचालक है?",
+   "why": "सुपरकंडक्टर बिना किसी प्रतिरोध के बिजली ले जाते हैं। कमरे के तापमान और सामान्य दबाव पर काम करने वाला सुपरकंडक्टर बिजली जनरेटरों और बिजली संचरण की दक्षता को काफ़ी बढ़ाएगा, और सुपरकंडक्टिंग चुंबकों जैसे उपयोगों को सरल बनाएगा।"
   },
   "pt": {
    "block": "Nenhuma teoria prevê os supercondutores de alta temperatura, como os cupratos.",
    "known": "Alguns hidretos são supercondutores perto da temperatura ambiente, mas só sob pressões extremas.",
    "leads": "Descoberta de materiais assistida por IA, niquelatos, triagem automatizada em laboratório.",
    "s": "Supercondutor ambiente",
-   "t": "Existe um supercondutor à temperatura ambiente e pressão normal?"
+   "t": "Existe um supercondutor à temperatura ambiente e pressão normal?",
+   "why": "Os supercondutores conduzem eletricidade sem qualquer resistência. Um que funcione à temperatura ambiente e à pressão normal melhoraria consideravelmente a eficiência dos geradores e da transmissão de eletricidade, e simplificaria usos como os ímanes supercondutores."
   },
   "zh": {
    "block": "没有任何理论能预测铜氧化物等高温超导体。",
    "known": "一些氢化物在接近室温时出现超导,但只在极端高压下。",
    "leads": "AI辅助的材料发现,镍氧化物,自动化实验室筛选。",
    "s": "常温超导体",
-   "t": "存在常温常压下的超导体吗?"
+   "t": "存在常温常压下的超导体吗?",
+   "why": "超导体导电时完全没有电阻。一种能在室温常压下工作的超导体将显著提高发电机和输电的效率，并简化超导磁体等应用。"
   }
  },
  "links": [

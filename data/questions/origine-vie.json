@@ -7,49 +7,56 @@
    "known": "توجد الحياة على الأرض منذ 3.5 مليار سنة على الأقل.",
    "leads": "عالم الحمض الريبي النووي، والفتحات الحرمائية، والكيمياء ما قبل الحيوية، والتطور الموجَّه في المختبر.",
    "s": "أصل الحياة",
-   "t": "كيف بدأت الحياة؟"
+   "t": "كيف بدأت الحياة؟",
+   "why": "إن معرفة كيف بدأت الحياة على الأرض ستساعد على تحديد ما إذا كانت الحياة مصادفة نادرة أم يُرجَّح أن تنشأ على كواكب صخرية أخرى فيها ماء، وسترشد البحث عن الحياة خارج الأرض."
   },
   "en": {
    "block": "No complete chemical pathway explains the step from simple molecules to a first cell.",
    "known": "Life has existed on Earth for at least 3.5 billion years.",
    "leads": "The RNA world, hydrothermal vents, prebiotic chemistry and directed evolution in the lab.",
    "s": "Origin of life",
-   "t": "How did life begin?"
+   "t": "How did life begin?",
+   "why": "Knowing how life began on Earth would help tell whether life is a rare accident or likely to arise on other wet, rocky planets, and would guide the search for life beyond Earth."
   },
   "es": {
    "block": "Ninguna vía química completa explica el paso de moléculas simples a una primera célula.",
    "known": "Hay vida en la Tierra desde hace al menos 3500 millones de años.",
    "leads": "El mundo de ARN, las fuentes hidrotermales, la química prebiótica y la evolución dirigida en el laboratorio.",
    "s": "Origen de la vida",
-   "t": "¿Cómo empezó la vida?"
+   "t": "¿Cómo empezó la vida?",
+   "why": "Saber cómo empezó la vida en la Tierra ayudaría a determinar si la vida es un accidente raro o si es probable que surja en otros planetas rocosos con agua, y orientaría la búsqueda de vida más allá de la Tierra."
   },
   "fr": {
    "block": "Aucune voie chimique complète n'explique le passage de molécules simples à une première cellule.",
    "known": "La vie existe sur Terre depuis au moins 3,5 milliards d'années.",
    "leads": "Le monde à ARN, les sources hydrothermales, la chimie prébiotique et l'évolution dirigée en laboratoire.",
    "s": "Origine de la vie",
-   "t": "Comment la vie est-elle apparue ?"
+   "t": "Comment la vie est-elle apparue ?",
+   "why": "Savoir comment la vie est apparue sur Terre aiderait à déterminer si elle est un accident rare ou si elle a des chances d'apparaître sur d'autres planètes rocheuses pourvues d'eau, et guiderait la recherche de vie au-delà de la Terre."
   },
   "hi": {
    "block": "सरल अणुओं से पहली कोशिका तक के कदम को कोई पूर्ण रासायनिक मार्ग नहीं समझाता।",
    "known": "पृथ्वी पर जीवन कम से कम 3.5 अरब वर्षों से मौजूद है।",
    "leads": "RNA विश्व, जलतापीय छिद्र, प्रयोगशाला में प्रीबायोटिक रसायन और निर्देशित विकास।",
    "s": "जीवन की उत्पत्ति",
-   "t": "जीवन की शुरुआत कैसे हुई?"
+   "t": "जीवन की शुरुआत कैसे हुई?",
+   "why": "पृथ्वी पर जीवन कैसे शुरू हुआ, यह जानना यह बताने में मदद करेगा कि जीवन एक दुर्लभ संयोग है या पानी वाले अन्य चट्टानी ग्रहों पर भी उसके पैदा होने की संभावना है, और यह पृथ्वी से परे जीवन की खोज को दिशा देगा।"
   },
   "pt": {
    "block": "Nenhum caminho químico completo explica a passagem de moléculas simples para uma primeira célula.",
    "known": "A vida existe na Terra há pelo menos 3,5 bilhões de anos.",
    "leads": "O mundo de RNA, fontes hidrotermais, química pré-biótica e evolução dirigida em laboratório.",
    "s": "Origem da vida",
-   "t": "Como a vida começou?"
+   "t": "Como a vida começou?",
+   "why": "Saber como a vida começou na Terra ajudaria a dizer se a vida é um acidente raro ou se é provável que surja em outros planetas rochosos com água, e orientaria a busca por vida além da Terra."
   },
   "zh": {
    "block": "目前没有完整的化学路径,能解释从简单分子到第一个细胞的这一步。",
    "known": "地球上的生命至少已存在35亿年。",
    "leads": "RNA世界,热液喷口,前生物化学以及实验室中的定向演化。",
    "s": "生命起源",
-   "t": "生命是如何开始的?"
+   "t": "生命是如何开始的?",
+   "why": "弄清地球上的生命如何起源，将有助于判断生命是罕见的偶然，还是很可能在其他有水的岩石行星上出现，并能为寻找地外生命提供指引。"
   }
  },
  "links": [

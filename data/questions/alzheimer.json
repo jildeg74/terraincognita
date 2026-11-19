@@ -7,49 +7,56 @@
    "known": "تتراكم لويحات الأميلويد وبروتين تاو. وتبطئ الأجسام المضادة لـ الأميلويد التدهور بعض الشيء.",
    "leads": "الالتهاب العصبي، ودور محتمل للعدوى الفيروسية، ومؤشرات حيوية في الدم للتشخيص المبكر.",
    "s": "ألزهايمر",
-   "t": "ما سبب مرض ألزهايمر؟"
+   "t": "ما سبب مرض ألزهايمر؟",
+   "why": "مرض ألزهايمر هو أكثر أشكال الخرف شيوعًا، والخرف سبب رئيسي للوفاة والاعتماد على الغير في الشيخوخة، ويثقل كاهل الأسر أيضًا. ومعرفة سببه قد تقود إلى علاجات تفعل أكثر من مجرد إبطاء التدهور بشكل متواضع."
   },
   "en": {
    "block": "The amyloid hypothesis doesn't explain everything, and damage starts years before symptoms.",
    "known": "Amyloid plaques and tau protein build up. Anti-amyloid antibodies slow decline somewhat.",
    "leads": "Neuroinflammation, a possible role for viral infections, blood biomarkers for early diagnosis.",
    "s": "Alzheimer's",
-   "t": "What causes Alzheimer's disease?"
+   "t": "What causes Alzheimer's disease?",
+   "why": "Alzheimer's is the most common form of dementia, a leading cause of death and dependency in old age that also burdens families. Knowing its cause could lead to treatments that do more than modestly slow decline."
   },
   "es": {
    "block": "La hipótesis amiloide no lo explica todo, y el daño empieza años antes de los síntomas.",
    "known": "Se acumulan placas de amiloide y proteína tau. Los anticuerpos contra el amiloide frenan algo el deterioro.",
    "leads": "Neuroinflamación, un posible papel de las infecciones víricas, biomarcadores en sangre para el diagnóstico temprano.",
    "s": "Alzheimer",
-   "t": "¿Qué causa la enfermedad de Alzheimer?"
+   "t": "¿Qué causa la enfermedad de Alzheimer?",
+   "why": "El alzhéimer es la forma más común de demencia, una causa principal de muerte y dependencia en la vejez que también pesa sobre las familias. Conocer su causa podría llevar a tratamientos que hagan algo más que frenar modestamente el deterioro."
   },
   "fr": {
    "block": "L'hypothèse amyloïde n'explique pas tout, et les dégâts commencent des années avant les symptômes.",
    "known": "Les plaques amyloïdes et la protéine tau s'accumulent. Les anticorps anti-amyloïdes ralentissent un peu le déclin.",
    "leads": "Neuro-inflammation, rôle possible d'infections virales, biomarqueurs sanguins pour diagnostiquer tôt.",
    "s": "Alzheimer",
-   "t": "Qu'est-ce qui cause la maladie d'Alzheimer ?"
+   "t": "Qu'est-ce qui cause la maladie d'Alzheimer ?",
+   "why": "La maladie d'Alzheimer est la forme la plus courante de démence, une cause majeure de décès et de dépendance chez les personnes âgées qui pèse aussi sur les familles. Connaître sa cause pourrait mener à des traitements qui font plus que ralentir modestement le déclin."
   },
   "hi": {
    "block": "एमिलॉइड परिकल्पना सब कुछ नहीं समझाती, और क्षति लक्षणों से वर्षों पहले शुरू हो जाती है।",
    "known": "एमिलॉइड प्लाक और टाउ प्रोटीन जमा होते हैं। एंटी-एमिलॉइड एंटीबॉडी गिरावट को कुछ हद तक धीमा करती हैं।",
    "leads": "तंत्रिका-सूजन, वायरल संक्रमणों की संभावित भूमिका, शुरुआती निदान के लिए रक्त बायोमार्कर।",
    "s": "अल्ज़ाइमर",
-   "t": "अल्ज़ाइमर रोग का कारण क्या है?"
+   "t": "अल्ज़ाइमर रोग का कारण क्या है?",
+   "why": "अल्ज़ाइमर डिमेंशिया का सबसे आम रूप है, जो बुढ़ापे में मृत्यु और दूसरों पर निर्भरता का एक प्रमुख कारण है और परिवारों पर भी बोझ डालता है। इसका कारण जानने से ऐसे उपचार मिल सकते हैं जो गिरावट को केवल थोड़ा धीमा करने से अधिक कर सकें।"
   },
   "pt": {
    "block": "A hipótese do amiloide não explica tudo, e o dano começa anos antes dos sintomas.",
    "known": "Placas de amiloide e a proteína tau se acumulam. Anticorpos anti-amiloide retardam um pouco o declínio.",
    "leads": "Neuroinflamação, um possível papel de infecções virais, biomarcadores no sangue para diagnóstico precoce.",
    "s": "Alzheimer",
-   "t": "O que causa a doença de Alzheimer?"
+   "t": "O que causa a doença de Alzheimer?",
+   "why": "O Alzheimer é a forma mais comum de demência, uma das principais causas de morte e dependência na velhice que também pesa sobre as famílias. Conhecer sua causa poderia levar a tratamentos que façam mais do que retardar modestamente o declínio."
   },
   "zh": {
    "block": "淀粉样蛋白假说并不能解释一切,而且损伤在症状出现前数年就已开始。",
    "known": "淀粉样斑块和tau蛋白会不断堆积。抗淀粉样蛋白抗体能在一定程度上减缓衰退。",
    "leads": "神经炎症,病毒感染可能起的作用,用于早期诊断的血液生物标志物。",
    "s": "阿尔茨海默病",
-   "t": "阿尔茨海默病的成因是什么?"
+   "t": "阿尔茨海默病的成因是什么?",
+   "why": "阿尔茨海默病是最常见的痴呆形式，而痴呆是老年人死亡和失能的主要原因之一，也给家庭带来沉重负担。弄清其病因可能带来比仅仅略微减缓衰退更有效的治疗。"
   }
  },
  "links": [

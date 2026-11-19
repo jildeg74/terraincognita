@@ -7,49 +7,56 @@
    "known": "تزداد الإنتروبيا، أي الفوضى، دائمًا، ويرتبط ذلك بالحالة شديدة الانتظام للكون المبكر.",
    "leads": "علم كونيات الانفجار العظيم، والديناميكا الحرارية الكمومية.",
    "s": "سهم الزمن",
-   "t": "لماذا يتدفق الزمن في اتجاه واحد فقط؟"
+   "t": "لماذا يتدفق الزمن في اتجاه واحد فقط؟",
+   "why": "قد تنشأ الفروق بين الماضي والمستقبل، مثل معرفتنا بالماضي دون المستقبل أو سبق الأسباب للنتائج، من ازدياد الإنتروبيا (الفوضى). ويمكن للإجابة أن تساعد في تفسير هذه اللاتناظرات اليومية وصلتها بالإنتروبيا المنخفضة جدًا للكون المبكر."
   },
   "en": {
    "block": "No one knows why the universe began in such an improbable, low-entropy state.",
    "known": "Entropy, or disorder, always increases, and this is tied to the very ordered state of the early universe.",
    "leads": "Cosmology of the Big Bang, quantum thermodynamics.",
    "s": "Arrow of time",
-   "t": "Why does time flow in only one direction?"
+   "t": "Why does time flow in only one direction?",
+   "why": "Differences between past and future, such as knowing the past but not the future, or causes coming before effects, may come from entropy (disorder) increasing. An answer could help explain these everyday asymmetries and their link to the very low entropy of the early universe."
   },
   "es": {
    "block": "Nadie sabe por qué el universo comenzó en un estado tan improbable, de baja entropía.",
    "known": "La entropía, o desorden, siempre aumenta, y esto está ligado al estado muy ordenado del universo primitivo.",
    "leads": "Cosmología del Big Bang, termodinámica cuántica.",
    "s": "Flecha del tiempo",
-   "t": "¿Por qué fluye el tiempo en una sola dirección?"
+   "t": "¿Por qué fluye el tiempo en una sola dirección?",
+   "why": "Las diferencias entre pasado y futuro, como conocer el pasado pero no el futuro o que las causas vengan antes que los efectos, quizá provengan del aumento de la entropía (el desorden). Una respuesta podría ayudar a explicar estas asimetrías cotidianas y su vínculo con la bajísima entropía del universo primitivo."
   },
   "fr": {
    "block": "Personne ne sait pourquoi l'univers a commencé dans un état aussi improbable.",
    "known": "L'entropie, ou le désordre, augmente toujours, ce qui est lié à l'état très ordonné de l'univers à ses débuts.",
    "leads": "Cosmologie du Big Bang, thermodynamique quantique.",
    "s": "Flèche du temps",
-   "t": "Pourquoi le temps ne s'écoule-t-il que dans un sens ?"
+   "t": "Pourquoi le temps ne s'écoule-t-il que dans un sens ?",
+   "why": "Les différences entre passé et futur, comme le fait de connaître le passé mais pas le futur, ou que les causes précèdent les effets, viennent peut-être de l'augmentation de l'entropie (le désordre). Une réponse pourrait aider à expliquer ces asymétries quotidiennes et leur lien avec l'entropie très basse de l'Univers primitif."
   },
   "hi": {
    "block": "कोई नहीं जानता कि ब्रह्मांड इतनी असंभाव्य, कम-एन्ट्रॉपी अवस्था में क्यों शुरू हुआ।",
    "known": "एन्ट्रॉपी, यानी अव्यवस्था, हमेशा बढ़ती है, और यह प्रारंभिक ब्रह्मांड की अत्यंत व्यवस्थित अवस्था से जुड़ी है।",
    "leads": "बिग बैंग का ब्रह्मांड विज्ञान, क्वांटम ऊष्मागतिकी।",
    "s": "समय का तीर",
-   "t": "समय केवल एक ही दिशा में क्यों बहता है?"
+   "t": "समय केवल एक ही दिशा में क्यों बहता है?",
+   "why": "अतीत और भविष्य के बीच के अंतर, जैसे अतीत को जानना पर भविष्य को नहीं, या कारण का परिणाम से पहले आना, शायद एन्ट्रॉपी (अव्यवस्था) के बढ़ने से आते हैं। उत्तर इन रोज़मर्रा की विषमताओं को और आरंभिक ब्रह्मांड की बहुत कम एन्ट्रॉपी से उनके संबंध को समझाने में मदद कर सकता है।"
   },
   "pt": {
    "block": "Ninguém sabe por que o universo começou em um estado tão improvável, de baixa entropia.",
    "known": "A entropia, ou desordem, sempre aumenta, e isso está ligado ao estado muito ordenado do universo primordial.",
    "leads": "Cosmologia do Big Bang, termodinâmica quântica.",
    "s": "Seta do tempo",
-   "t": "Por que o tempo flui em apenas uma direção?"
+   "t": "Por que o tempo flui em apenas uma direção?",
+   "why": "As diferenças entre passado e futuro, como conhecer o passado mas não o futuro, ou as causas virem antes dos efeitos, podem vir do aumento da entropia (a desordem). Uma resposta poderia ajudar a explicar estas assimetrias do dia a dia e a sua ligação com a entropia muito baixa do universo primitivo."
   },
   "zh": {
    "block": "没有人知道,宇宙为什么以如此不可能的低熵状态开始。",
    "known": "熵(即无序度)总是增加,这与早期宇宙高度有序的状态有关。",
    "leads": "大爆炸宇宙学,量子热力学。",
    "s": "时间之箭",
-   "t": "时间为什么只朝一个方向流动?"
+   "t": "时间为什么只朝一个方向流动?",
+   "why": "过去与未来之间的差异，例如我们了解过去却不了解未来、原因总在结果之前，可能源于熵（无序度）的增加。答案可能有助于解释这些日常的不对称，以及它们与早期宇宙极低的熵之间的联系。"
   }
  },
  "links": [

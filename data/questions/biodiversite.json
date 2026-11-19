@@ -7,49 +7,56 @@
    "known": "وُصف نحو مليوني نوع، وتصل التقديرات إلى ملايين كثيرة أخرى.",
    "leads": "الحمض النووي البيئي، والتعرّف على الأنواع بمساعدة الذكاء الاصطناعي.",
    "s": "عدد الأنواع",
-   "t": "كم عدد الأنواع التي تعيش على الأرض؟"
+   "t": "كم عدد الأنواع التي تعيش على الأرض؟",
+   "why": "إن معرفة عدد الأنواع الموجودة ستوفر نقطة مرجعية لقياس فقدان التنوع البيولوجي. وهذا مهم لأنه، بالوتيرة الحالية للاكتشاف، قد تنقرض بعض الأنواع قبل أن يعرف أحد بوجودها أصلًا."
   },
   "en": {
    "block": "Most species, especially insects and microbes, are still unknown.",
    "known": "About 2 million species have been described; estimates run to many millions more.",
    "leads": "Environmental DNA, AI-assisted identification.",
    "s": "Species count",
-   "t": "How many species live on Earth?"
+   "t": "How many species live on Earth?",
+   "why": "Knowing how many species exist would give a reference point for measuring biodiversity loss. It matters because, at the current pace of discovery, some species may go extinct before anyone even knows they existed."
   },
   "es": {
    "block": "La mayoría de las especies, sobre todo insectos y microbios, siguen sin conocerse.",
    "known": "Se han descrito unos 2 millones de especies; las estimaciones llegan a muchos millones más.",
    "leads": "ADN ambiental, identificación asistida por IA.",
    "s": "Número de especies",
-   "t": "¿Cuántas especies viven en la Tierra?"
+   "t": "¿Cuántas especies viven en la Tierra?",
+   "why": "Saber cuántas especies existen daría un punto de referencia para medir la pérdida de biodiversidad. Importa porque, al ritmo actual de descubrimiento, algunas especies podrían extinguirse antes de que alguien sepa siquiera que existieron."
   },
   "fr": {
    "block": "La plupart des espèces, surtout insectes et microbes, restent inconnues.",
    "known": "Environ 2 millions d'espèces ont été décrites ; les estimations en ajoutent plusieurs millions.",
    "leads": "ADN environnemental, identification assistée par IA.",
    "s": "Nombre d'espèces",
-   "t": "Combien d'espèces vivent sur Terre ?"
+   "t": "Combien d'espèces vivent sur Terre ?",
+   "why": "Savoir combien d'espèces existent fournirait un point de référence pour mesurer la perte de biodiversité. C'est important car, au rythme actuel des découvertes, certaines espèces pourraient disparaître avant même que leur existence soit connue."
   },
   "hi": {
    "block": "अधिकांश प्रजातियाँ, खासकर कीट और सूक्ष्मजीव, अभी अज्ञात हैं।",
    "known": "लगभग 20 लाख प्रजातियों का वर्णन हो चुका है; अनुमान है कि इनसे कई लाख और हैं।",
    "leads": "पर्यावरणीय DNA, AI की मदद से पहचान।",
    "s": "प्रजातियों की संख्या",
-   "t": "पृथ्वी पर कितनी प्रजातियाँ रहती हैं?"
+   "t": "पृथ्वी पर कितनी प्रजातियाँ रहती हैं?",
+   "why": "यह जानना कि कितनी प्रजातियाँ मौजूद हैं, जैव विविधता के नुकसान को मापने के लिए एक संदर्भ बिंदु देगा। यह इसलिए ज़रूरी है क्योंकि खोज की मौजूदा रफ़्तार से कुछ प्रजातियाँ इससे पहले ही विलुप्त हो सकती हैं कि किसी को उनके होने का पता भी चले।"
   },
   "pt": {
    "block": "A maioria das espécies, sobretudo insetos e micróbios, ainda é desconhecida.",
    "known": "Cerca de 2 milhões de espécies foram descritas; as estimativas chegam a muitos milhões a mais.",
    "leads": "DNA ambiental, identificação assistida por IA.",
    "s": "Número de espécies",
-   "t": "Quantas espécies vivem na Terra?"
+   "t": "Quantas espécies vivem na Terra?",
+   "why": "Saber quantas espécies existem daria um ponto de referência para medir a perda de biodiversidade. Isso importa porque, no ritmo atual de descoberta, algumas espécies podem se extinguir antes que alguém saiba que existiram."
   },
   "zh": {
    "block": "大多数物种,尤其是昆虫和微生物,仍然未知。",
    "known": "已被描述的物种约有200万种;估计还有数百万种。",
    "leads": "环境DNA,人工智能辅助识别。",
    "s": "物种数量",
-   "t": "地球上有多少物种?"
+   "t": "地球上有多少物种?",
+   "why": "知道地球上有多少物种，可以为衡量生物多样性丧失提供一个参照点。这很重要，因为按照目前的发现速度，一些物种可能在人们知道它们存在之前就已灭绝。"
   }
  },
  "links": [

@@ -7,49 +7,56 @@
    "known": "نعرف سمات الشيخوخة المميِّزة. وأدى إعادة البرمجة الجزئية للخلايا إلى تجديد الأنسجة لدى الفئران.",
    "leads": "عوامل ياماناكا، والأدوية المبيدة للخلايا الهرِمة، والساعات فوق الجينية لقياس العمر البيولوجي.",
    "s": "الشيخوخة",
-   "t": "لماذا نشيخ، وهل يمكن عكس ذلك؟"
+   "t": "لماذا نشيخ، وهل يمكن عكس ذلك؟",
+   "why": "السن هو أكبر عامل خطر للإصابة بأمراض القلب والسرطان والاضطرابات التنكسية العصبية. وفهم سبب تقدّمنا في العمر، وما إذا كان يمكن عكس هذه العملية، قد يقود إلى علاجات تحسّن الصحة وطول العمر."
   },
   "en": {
    "block": "We don't know which cause comes first, or how to rejuvenate without cancer risk.",
    "known": "We know hallmarks of aging. Partial reprogramming of cells has rejuvenated tissues in mice.",
    "leads": "Yamanaka factors, senolytic drugs, epigenetic clocks to measure biological age.",
    "s": "Aging",
-   "t": "Why do we age, and can it be reversed?"
+   "t": "Why do we age, and can it be reversed?",
+   "why": "Age is the biggest risk factor for heart disease, cancer and neurodegenerative disorders. Understanding why we age, and whether it can be reversed, could lead to treatments that improve health and longevity."
   },
   "es": {
    "block": "No sabemos qué causa va primero, ni cómo rejuvenecer sin riesgo de cáncer.",
    "known": "Conocemos rasgos distintivos del envejecimiento. La reprogramación parcial de células ha rejuvenecido tejidos en ratones.",
    "leads": "Factores de Yamanaka, fármacos senolíticos, relojes epigenéticos para medir la edad biológica.",
    "s": "Envejecimiento",
-   "t": "¿Por qué envejecemos, y se puede revertir?"
+   "t": "¿Por qué envejecemos, y se puede revertir?",
+   "why": "La edad es el mayor factor de riesgo de enfermedades del corazón, cáncer y trastornos neurodegenerativos. Entender por qué envejecemos, y si el proceso puede revertirse, podría llevar a tratamientos que mejoren la salud y la longevidad."
   },
   "fr": {
    "block": "On ne sait pas quelle cause est première, ni comment rajeunir sans risque de cancer.",
    "known": "On connaît des marqueurs du vieillissement. La reprogrammation partielle de cellules a rajeuni des tissus chez la souris.",
    "leads": "Facteurs de Yamanaka, médicaments sénolytiques, horloges épigénétiques pour mesurer l'âge biologique.",
    "s": "Vieillissement",
-   "t": "Pourquoi vieillissons-nous, et peut-on l'inverser ?"
+   "t": "Pourquoi vieillissons-nous, et peut-on l'inverser ?",
+   "why": "L'âge est le principal facteur de risque des maladies cardiaques, des cancers et des maladies neurodégénératives. Comprendre pourquoi on vieillit, et si ce processus peut être inversé, pourrait mener à des traitements qui améliorent la santé et la longévité."
   },
   "hi": {
    "block": "हमें नहीं पता कि कौन-सा कारण पहले आता है, या कैंसर के जोखिम के बिना युवा कैसे किया जाए।",
    "known": "हम बुढ़ापे के प्रमुख लक्षण जानते हैं। कोशिकाओं की आंशिक पुनः-प्रोग्रामिंग ने चूहों में ऊतकों को फिर से युवा किया है।",
    "leads": "यामानाका कारक, सेनोलिटिक दवाएँ, जैविक आयु मापने के लिए एपिजेनेटिक घड़ियाँ।",
    "s": "बुढ़ापा",
-   "t": "हम बूढ़े क्यों होते हैं, और क्या इसे उलटा जा सकता है?"
+   "t": "हम बूढ़े क्यों होते हैं, और क्या इसे उलटा जा सकता है?",
+   "why": "उम्र हृदय रोग, कैंसर और तंत्रिका-क्षयकारी (न्यूरोडीजेनेरेटिव) विकारों का सबसे बड़ा जोखिम कारक है। हम बूढ़े क्यों होते हैं, और क्या इसे उलटा जा सकता है, यह समझना ऐसे उपचारों तक ले जा सकता है जो स्वास्थ्य और दीर्घायु को बेहतर बनाएँ।"
   },
   "pt": {
    "block": "Não sabemos qual causa vem primeiro, nem como rejuvenescer sem risco de câncer.",
    "known": "Conhecemos marcas do envelhecimento. A reprogramação parcial de células rejuvenesceu tecidos em camundongos.",
    "leads": "Fatores de Yamanaka, medicamentos senolíticos, relógios epigenéticos para medir a idade biológica.",
    "s": "Envelhecimento",
-   "t": "Por que envelhecemos, e isso pode ser revertido?"
+   "t": "Por que envelhecemos, e isso pode ser revertido?",
+   "why": "A idade é o maior fator de risco para doenças cardíacas, câncer e distúrbios neurodegenerativos. Entender por que envelhecemos, e se o processo pode ser revertido, poderia levar a tratamentos que melhorem a saúde e a longevidade."
   },
   "zh": {
    "block": "我们不知道哪个原因在先,也不知道如何在不增加癌症风险的前提下使身体年轻化。",
    "known": "我们已经知道衰老的若干特征。对细胞进行部分重编程,已使小鼠的组织恢复年轻。",
    "leads": "山中因子,清除衰老细胞的药物,用来测量生物学年龄的表观遗传时钟。",
    "s": "衰老",
-   "t": "我们为什么会衰老,衰老能逆转吗?"
+   "t": "我们为什么会衰老,衰老能逆转吗?",
+   "why": "年龄是心脏病、癌症和神经退行性疾病的最大风险因素。弄清我们为什么会衰老，以及衰老能否逆转，可能带来改善健康、延长寿命的治疗方法。"
   }
  },
  "links": [

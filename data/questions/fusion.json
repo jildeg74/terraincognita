@@ -7,49 +7,56 @@
    "known": "في عام 2022، حصلت منشأة الإشعال الوطنية الأمريكية على طاقة اندماج أكبر من طاقة الليزر المرسلة إلى الهدف.",
    "leads": "إيتر، والتوكاماكات المدمجة ذات المغانط الموصلة فائقة الحرارة العالية، وعشرات الشركات الناشئة الخاصة.",
    "s": "طاقة الاندماج",
-   "t": "هل يمكن للاندماج النووي إنتاج الكهرباء اقتصاديًا؟"
+   "t": "هل يمكن للاندماج النووي إنتاج الكهرباء اقتصاديًا؟",
+   "why": "إذا تمكّن الاندماج النووي من إنتاج الكهرباء بتكلفة اقتصادية، فقد يصبح مصدرًا نظيفًا ووفيرًا للطاقة، يعتقد العلماء أنه سيكون أكثر أمانًا وأقل ضررًا بالبيئة بكثير من محطات الانشطار النووي الحالية."
   },
   "en": {
    "block": "Net gain for the whole plant, materials that survive, and tritium supply are still unsolved.",
    "known": "In 2022, the US National Ignition Facility got more fusion energy out than the laser energy sent onto the target.",
    "leads": "ITER, compact tokamaks with high-temperature superconducting magnets, and dozens of private startups.",
    "s": "Fusion power",
-   "t": "Can nuclear fusion produce electricity economically?"
+   "t": "Can nuclear fusion produce electricity economically?",
+   "why": "If fusion could produce electricity economically, it could become a clean and abundant energy source, which scientists believe would be much safer and greener than today's fission-based nuclear power plants."
   },
   "es": {
    "block": "Siguen sin resolverse la ganancia neta de toda la planta, los materiales que resistan y el suministro de tritio.",
    "known": "En 2022, la National Ignition Facility de EE. UU. obtuvo más energía de fusión que la energía láser enviada al blanco.",
    "leads": "ITER, tokamaks compactos con imanes superconductores de alta temperatura y decenas de empresas emergentes privadas.",
    "s": "Energía de fusión",
-   "t": "¿Puede la fusión nuclear producir electricidad de forma económica?"
+   "t": "¿Puede la fusión nuclear producir electricidad de forma económica?",
+   "why": "Si la fusión pudiera producir electricidad de forma rentable, podría convertirse en una fuente de energía limpia y abundante, que los científicos creen que sería mucho más segura y ecológica que las actuales centrales nucleares de fisión."
   },
   "fr": {
    "block": "Le gain de l'installation entière, la tenue des matériaux et la production de tritium restent à résoudre.",
    "known": "En 2022, le NIF américain a obtenu plus d'énergie de fusion que l'énergie laser envoyée sur la cible.",
    "leads": "ITER, les tokamaks compacts à aimants supraconducteurs à haute température, et des dizaines de startups privées.",
    "s": "Fusion nucléaire",
-   "t": "Peut-on produire de l'électricité par fusion nucléaire de façon rentable ?"
+   "t": "Peut-on produire de l'électricité par fusion nucléaire de façon rentable ?",
+   "why": "Si la fusion pouvait produire de l'électricité de façon rentable, elle pourrait devenir une source d'énergie propre et abondante, que les scientifiques jugent bien plus sûre et plus écologique que les centrales nucléaires à fission actuelles."
   },
   "hi": {
    "block": "पूरे संयंत्र के लिए शुद्ध लाभ, टिकने वाली सामग्रियाँ और ट्रिटियम की आपूर्ति अब भी अनसुलझे हैं।",
    "known": "2022 में अमेरिका की नेशनल इग्निशन फैसिलिटी को लक्ष्य पर भेजी गई लेज़र ऊर्जा से अधिक संलयन ऊर्जा प्राप्त हुई।",
    "leads": "ITER, उच्च-तापमान अतिचालक चुंबकों वाले सघन टोकामक, और दर्जनों निजी स्टार्टअप।",
    "s": "संलयन ऊर्जा",
-   "t": "क्या नाभिकीय संलयन किफ़ायती ढंग से बिजली बना सकता है?"
+   "t": "क्या नाभिकीय संलयन किफ़ायती ढंग से बिजली बना सकता है?",
+   "why": "अगर फ़्यूज़न किफ़ायती ढंग से बिजली बना सके, तो यह स्वच्छ और प्रचुर ऊर्जा का स्रोत बन सकता है, जिसे वैज्ञानिक आज के नाभिकीय विखंडन (फ़िशन) संयंत्रों से कहीं अधिक सुरक्षित और पर्यावरण के लिए बेहतर मानते हैं।"
   },
   "pt": {
    "block": "O ganho líquido para a usina inteira, materiais que resistam e o suprimento de trítio ainda não estão resolvidos.",
    "known": "Em 2022, a National Ignition Facility, dos EUA, obteve mais energia de fusão do que a energia do laser enviada ao alvo.",
    "leads": "O ITER, tokamaks compactos com ímãs supercondutores de alta temperatura e dezenas de startups privadas.",
    "s": "Energia de fusão",
-   "t": "A fusão nuclear pode produzir eletricidade de forma econômica?"
+   "t": "A fusão nuclear pode produzir eletricidade de forma econômica?",
+   "why": "Se a fusão pudesse produzir eletricidade de forma económica, poderia tornar-se uma fonte de energia limpa e abundante, que os cientistas acreditam ser muito mais segura e ecológica do que as atuais centrais nucleares de fissão."
   },
   "zh": {
    "block": "整个电站的净增益、耐用的材料以及氚的供应,仍然没有解决。",
    "known": "2022年,美国国家点火装置产生的聚变能量超过了射到靶上的激光能量。",
    "leads": "ITER,采用高温超导磁体的紧凑型托卡马克,以及数十家私营初创公司。",
    "s": "核聚变发电",
-   "t": "核聚变能经济地发电吗?"
+   "t": "核聚变能经济地发电吗?",
+   "why": "如果核聚变能够经济地发电，它就可能成为一种清洁而充足的能源；科学家认为，它将比现有的核裂变电站安全得多、环保得多。"
   }
  },
  "links": [

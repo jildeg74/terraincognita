@@ -7,49 +7,56 @@
    "known": "تظل الشبكات الضخمة المدرَّبة على بيانات محدودة تعمل على أمثلة جديدة، خلافًا للإحصاء الكلاسيكي.",
    "leads": "قوانين التوسع، وحدود العرض اللانهائي، ودراسات ديناميكيات التعلم.",
    "s": "نظرية التعلم العميق",
-   "t": "لماذا تعمّم الشبكات العصبية العميقة بهذه الجودة؟"
+   "t": "لماذا تعمّم الشبكات العصبية العميقة بهذه الجودة؟",
+   "why": "يعمل التعلم العميق بشكل جيد جدًا في الممارسة، لكننا لا نفهم بعد السبب. ومعرفة سبب قدرة الشبكات على التعميم قد تفسّر سلوكيات محيّرة، مثل التعلم من تسميات مشوّشة، وتقترح طرق تدريب تحفظ أقل وتعمّم أفضل."
   },
   "en": {
    "block": "There is no complete theory explaining why, or predicting when it fails.",
    "known": "Huge networks trained on finite data still work on new examples, contrary to classical statistics.",
    "leads": "Scaling laws, infinite-width limits, studies of learning dynamics.",
    "s": "Deep learning theory",
-   "t": "Why do deep neural networks generalize so well?"
+   "t": "Why do deep neural networks generalize so well?",
+   "why": "Deep learning works very well in practice, but we do not yet understand why. Knowing why networks generalize could explain puzzling behaviours, such as learning from noisy labels, and suggest training methods that memorize less and generalize better."
   },
   "es": {
    "block": "No existe una teoría completa que explique por qué, ni que prediga cuándo falla.",
    "known": "Redes enormes entrenadas con datos finitos siguen funcionando con ejemplos nuevos, al contrario de lo que dice la estadística clásica.",
    "leads": "Leyes de escala, límites de anchura infinita, estudios de la dinámica del aprendizaje.",
    "s": "Teoría del aprendizaje profundo",
-   "t": "¿Por qué las redes neuronales profundas generalizan tan bien?"
+   "t": "¿Por qué las redes neuronales profundas generalizan tan bien?",
+   "why": "El aprendizaje profundo funciona muy bien en la práctica, pero aún no entendemos por qué. Saber por qué las redes generalizan podría explicar comportamientos desconcertantes, como aprender a partir de etiquetas con ruido, y sugerir métodos de entrenamiento que memoricen menos y generalicen mejor."
   },
   "fr": {
    "block": "Aucune théorie complète ne l'explique ni ne prédit quand cela échoue.",
    "known": "D'immenses réseaux entraînés sur des données limitées fonctionnent sur des exemples nouveaux, contrairement aux prédictions de la statistique classique.",
    "leads": "Lois d'échelle, limites de largeur infinie, étude de la dynamique d'apprentissage.",
    "s": "Théorie de l'apprentissage",
-   "t": "Pourquoi les réseaux de neurones profonds généralisent-ils si bien ?"
+   "t": "Pourquoi les réseaux de neurones profonds généralisent-ils si bien ?",
+   "why": "L'apprentissage profond fonctionne très bien en pratique, mais on ne comprend pas encore pourquoi. Savoir pourquoi les réseaux généralisent pourrait expliquer des comportements déroutants, comme l'apprentissage à partir d'étiquettes erronées, et suggérer des méthodes d'entraînement qui mémorisent moins et généralisent mieux."
   },
   "hi": {
    "block": "कोई पूर्ण सिद्धांत नहीं है जो बताए कि ऐसा क्यों होता है, या यह कब विफल होगा।",
    "known": "विशाल नेटवर्क सीमित आँकड़ों पर प्रशिक्षित होकर भी नए उदाहरणों पर काम करते हैं, जो शास्त्रीय सांख्यिकी के विपरीत है।",
    "leads": "स्केलिंग नियम, अनंत-चौड़ाई सीमाएँ, सीखने की गतिकी के अध्ययन।",
    "s": "डीप लर्निंग सिद्धांत",
-   "t": "गहरे न्यूरल नेटवर्क इतना अच्छा सामान्यीकरण क्यों करते हैं?"
+   "t": "गहरे न्यूरल नेटवर्क इतना अच्छा सामान्यीकरण क्यों करते हैं?",
+   "why": "डीप लर्निंग व्यवहार में बहुत अच्छा काम करती है, पर हम अभी नहीं समझते कि क्यों। यह जानना कि नेटवर्क सामान्यीकरण क्यों कर पाते हैं, उलझाने वाले व्यवहारों को समझा सकता है, जैसे गलत लेबलों से सीखना, और ऐसी प्रशिक्षण विधियाँ सुझा सकता है जो कम रटें और बेहतर सामान्यीकरण करें।"
   },
   "pt": {
    "block": "Não há uma teoria completa que explique por quê, nem que preveja quando isso falha.",
    "known": "Redes enormes treinadas com dados finitos ainda funcionam em exemplos novos, ao contrário do que diz a estatística clássica.",
    "leads": "Leis de escala, limites de largura infinita, estudos da dinâmica de aprendizado.",
    "s": "Teoria do aprendizado profundo",
-   "t": "Por que as redes neurais profundas generalizam tão bem?"
+   "t": "Por que as redes neurais profundas generalizam tão bem?",
+   "why": "A aprendizagem profunda funciona muito bem na prática, mas ainda não percebemos porquê. Saber porque é que as redes generalizam poderia explicar comportamentos intrigantes, como aprender a partir de rótulos com ruído, e sugerir métodos de treino que memorizam menos e generalizam melhor."
   },
   "zh": {
    "block": "目前没有完整的理论来解释其原因,也无法预测它何时会失效。",
    "known": "用有限数据训练的巨型网络仍然能处理新样本,这与经典统计学相悖。",
    "leads": "缩放定律,无限宽度极限,学习动力学研究。",
    "s": "深度学习理论",
-   "t": "为什么深度神经网络的泛化能力这么强?"
+   "t": "为什么深度神经网络的泛化能力这么强?",
+   "why": "深度学习在实践中效果很好，但我们还不明白其中的原因。了解神经网络为何能泛化，可能解释一些令人困惑的现象（例如能从带噪声的标签中学习），并启发出记忆更少、泛化更好的训练方法。"
   }
  },
  "links": [

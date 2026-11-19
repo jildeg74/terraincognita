@@ -7,49 +7,56 @@
    "known": "يقع لبّ داخلي صلب من الحديد والنيكل داخل لبّ خارجي سائل، ويبدو أن دورانه يتغير مع الزمن.",
    "leads": "شبكات أكثف من أجهزة قياس الزلازل، وتجارب مخبرية عند ضغوط شديدة.",
    "s": "لب الأرض",
-   "t": "ما الذي يوجد بالضبط في مركز الأرض؟"
+   "t": "ما الذي يوجد بالضبط في مركز الأرض؟",
+   "why": "يولّد الحديد السائل المضطرب حول اللب الداخلي للأرض مجالنا المغناطيسي، وقد تغيّر التبدلات في دوران اللب الداخلي طول اليوم بأجزاء من الثانية. ومعرفة ما يوجد في المركز ستساعد على فهم هذه العمليات العميقة."
   },
   "en": {
    "block": "Only seismic waves can probe it, indirectly.",
    "known": "A solid iron-nickel inner core sits inside a liquid outer core, and its rotation appears to vary over time.",
    "leads": "Denser seismometer networks, lab experiments at extreme pressures.",
    "s": "Earth's core",
-   "t": "What exactly is at the center of the Earth?"
+   "t": "What exactly is at the center of the Earth?",
+   "why": "The churning liquid iron around Earth's inner core generates our magnetic field, and changes in the inner core's spin may alter the length of a day by fractions of a second. Knowing what lies at the center would help understand these deep processes."
   },
   "es": {
    "block": "Solo las ondas sísmicas pueden sondearlo, y de forma indirecta.",
    "known": "Un núcleo interno sólido de hierro y níquel se encuentra dentro de un núcleo externo líquido, y su rotación parece variar con el tiempo.",
    "leads": "Redes de sismómetros más densas, experimentos de laboratorio a presiones extremas.",
    "s": "Núcleo terrestre",
-   "t": "¿Qué hay exactamente en el centro de la Tierra?"
+   "t": "¿Qué hay exactamente en el centro de la Tierra?",
+   "why": "El movimiento del hierro líquido que rodea el núcleo interno de la Tierra genera nuestro campo magnético, y los cambios en el giro del núcleo interno pueden alterar la duración del día en fracciones de segundo. Saber qué hay en el centro ayudaría a entender estos procesos profundos."
   },
   "fr": {
    "block": "Seules les ondes sismiques permettent de l'étudier, indirectement.",
    "known": "Une graine solide de fer et de nickel se trouve dans un noyau externe liquide, et sa rotation semble varier dans le temps.",
    "leads": "Réseaux de sismomètres plus denses, expériences en laboratoire à des pressions extrêmes.",
    "s": "Noyau terrestre",
-   "t": "Qu'y a-t-il exactement au centre de la Terre ?"
+   "t": "Qu'y a-t-il exactement au centre de la Terre ?",
+   "why": "Le brassage du fer liquide autour de la graine terrestre génère notre champ magnétique, et les variations de la rotation de la graine peuvent modifier la durée du jour de fractions de seconde. Savoir ce qui se trouve au centre aiderait à comprendre ces processus profonds."
   },
   "hi": {
    "block": "इसे केवल भूकंपीय तरंगों से, और वह भी अप्रत्यक्ष रूप से, जाँचा जा सकता है।",
    "known": "तरल बाहरी क्रोड के भीतर लोहे-निकल का ठोस आंतरिक क्रोड है, और लगता है कि उसका घूर्णन समय के साथ बदलता रहता है।",
    "leads": "अधिक घने सीस्मोमीटर नेटवर्क, अत्यधिक दबाव पर प्रयोगशाला प्रयोग।",
    "s": "पृथ्वी का क्रोड",
-   "t": "पृथ्वी के ठीक केंद्र में क्या है?"
+   "t": "पृथ्वी के ठीक केंद्र में क्या है?",
+   "why": "पृथ्वी के आंतरिक कोर के चारों ओर घूमता तरल लोहा हमारा चुंबकीय क्षेत्र बनाता है, और आंतरिक कोर के घूर्णन में बदलाव दिन की लंबाई को एक सेकंड के अंशों तक बदल सकते हैं। केंद्र में क्या है, यह जानना इन गहरी प्रक्रियाओं को समझने में मदद करेगा।"
   },
   "pt": {
    "block": "Só as ondas sísmicas conseguem sondá-lo, e de forma indireta.",
    "known": "Um núcleo interno sólido de ferro e níquel fica dentro de um núcleo externo líquido, e sua rotação parece variar ao longo do tempo.",
    "leads": "Redes de sismógrafos mais densas, experimentos de laboratório sob pressões extremas.",
    "s": "Núcleo da Terra",
-   "t": "O que há exatamente no centro da Terra?"
+   "t": "O que há exatamente no centro da Terra?",
+   "why": "O movimento do ferro líquido em torno do núcleo interno da Terra gera nosso campo magnético, e mudanças na rotação do núcleo interno podem alterar a duração do dia em frações de segundo. Saber o que existe no centro ajudaria a entender esses processos profundos."
   },
   "zh": {
    "block": "只能借助地震波做间接探测。",
    "known": "固态的铁镍内核位于液态外核之中,其自转似乎随时间而变化。",
    "leads": "更密集的地震仪台网,极端高压下的实验室实验。",
    "s": "地核",
-   "t": "地球的中心究竟是什么?"
+   "t": "地球的中心究竟是什么?",
+   "why": "地球内核周围翻腾的液态铁产生了地球磁场，而内核自转的变化可能使一天的长度改变几分之一秒。弄清地心究竟是什么，将有助于理解这些深层过程。"
   }
  },
  "links": [

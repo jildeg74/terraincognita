@@ -7,49 +7,56 @@
    "known": "حُدّدت مناطق وإيقاعات دماغية ترتبط بالتجربة الواعية.",
    "leads": "تختبر فرق متنافسة نظرياتها (المعلومات المتكاملة، والفضاء العالمي) معًا في تجارب مشتركة.",
    "s": "الوعي",
-   "t": "كيف ينشأ الوعي من الدماغ؟"
+   "t": "كيف ينشأ الوعي من الدماغ؟",
+   "why": "إن معرفة كيفية نشوء الوعي ستساعد الأطباء على رعاية المرضى غير المستجيبين، مثل من هم في غيبوبة، وتوضّح أي الحيوانات واعية وما واجباتنا تجاهها، وترشد المجتمع في التعامل مع أنظمة الذكاء الاصطناعي التي تبدو واعية."
   },
   "en": {
    "block": "We don't know why physical activity produces experience, and we have no objective measure of consciousness.",
    "known": "Brain areas and rhythms associated with conscious experience have been identified.",
    "leads": "Rival teams test their theories (integrated information, global workspace) together in shared experiments.",
    "s": "Consciousness",
-   "t": "How does consciousness arise from the brain?"
+   "t": "How does consciousness arise from the brain?",
+   "why": "Knowing how consciousness arises would help doctors care for unresponsive patients, such as those in a coma, clarify which animals are conscious and what we owe them, and guide how society handles AI systems that seem conscious."
   },
   "es": {
    "block": "No sabemos por qué la actividad física produce experiencia, y no tenemos ninguna medida objetiva de la conciencia.",
    "known": "Se han identificado áreas y ritmos cerebrales asociados con la experiencia consciente.",
    "leads": "Equipos rivales ponen a prueba juntos sus teorías (información integrada, espacio de trabajo global) en experimentos compartidos.",
    "s": "Conciencia",
-   "t": "¿Cómo surge la conciencia a partir del cerebro?"
+   "t": "¿Cómo surge la conciencia a partir del cerebro?",
+   "why": "Saber cómo surge la conciencia ayudaría a los médicos a atender a pacientes que no responden, como los que están en coma, aclararía qué animales son conscientes y qué les debemos, y orientaría cómo la sociedad trata a los sistemas de IA que parecen conscientes."
   },
   "fr": {
    "block": "On ne sait pas pourquoi une activité physique produit un vécu, et on n'a aucune mesure objective de la conscience.",
    "known": "On a repéré des zones et des rythmes cérébraux associés à l'expérience consciente.",
    "leads": "Des équipes rivales testent ensemble leurs théories (information intégrée, espace de travail global) dans des expériences communes.",
    "s": "Conscience",
-   "t": "Comment la conscience naît-elle du cerveau ?"
+   "t": "Comment la conscience naît-elle du cerveau ?",
+   "why": "Savoir comment naît la conscience aiderait les médecins à soigner les patients qui ne réagissent pas, comme ceux plongés dans le coma, permettrait de préciser quels animaux sont conscients et ce qui leur est dû, et guiderait la manière dont la société traite les systèmes d'IA qui semblent conscients."
   },
   "hi": {
    "block": "हम नहीं जानते कि भौतिक गतिविधि से अनुभव क्यों पैदा होता है, और चेतना का कोई वस्तुनिष्ठ माप हमारे पास नहीं है।",
    "known": "चेतन अनुभव से जुड़े मस्तिष्क क्षेत्रों और लयों की पहचान हो चुकी है।",
    "leads": "प्रतिद्वंद्वी टीमें अपने सिद्धांतों (एकीकृत सूचना, वैश्विक कार्यक्षेत्र) को साझा प्रयोगों में एक साथ परखती हैं।",
    "s": "चेतना",
-   "t": "मस्तिष्क से चेतना कैसे उत्पन्न होती है?"
+   "t": "मस्तिष्क से चेतना कैसे उत्पन्न होती है?",
+   "why": "चेतना कैसे पैदा होती है, यह जानना डॉक्टरों को कोमा जैसे प्रतिक्रिया न देने वाले मरीज़ों की देखभाल में मदद करेगा, यह स्पष्ट करेगा कि कौन-से जानवर सचेत हैं और उनके प्रति हमारे क्या दायित्व हैं, और यह मार्गदर्शन देगा कि समाज सचेत लगने वाले एआई सिस्टम से कैसे निपटे।"
   },
   "pt": {
    "block": "Não sabemos por que a atividade física produz experiência, e não temos uma medida objetiva da consciência.",
    "known": "Foram identificadas áreas e ritmos cerebrais associados à experiência consciente.",
    "leads": "Equipes rivais testam juntas suas teorias (informação integrada, espaço de trabalho global) em experimentos compartilhados.",
    "s": "Consciência",
-   "t": "Como a consciência surge do cérebro?"
+   "t": "Como a consciência surge do cérebro?",
+   "why": "Saber como surge a consciência ajudaria os médicos a cuidar de pacientes que não respondem, como os que estão em coma, esclareceria quais animais são conscientes e o que lhes devemos, e orientaria como a sociedade lida com sistemas de IA que parecem conscientes."
   },
   "zh": {
    "block": "我们不知道为什么物理活动会产生体验,也没有客观的意识测量手段。",
    "known": "已经确认了与有意识体验相关的脑区和脑节律。",
    "leads": "相互竞争的团队在共同的实验中一起检验各自的理论(整合信息理论、全局工作空间理论)。",
    "s": "意识",
-   "t": "意识是如何从大脑中产生的?"
+   "t": "意识是如何从大脑中产生的?",
+   "why": "弄清意识如何产生，将帮助医生照护昏迷等无反应的病人，厘清哪些动物具有意识以及我们对它们负有什么义务，并指导社会如何对待看似有意识的人工智能系统。"
   }
  },
  "links": [

@@ -7,49 +7,56 @@
    "known": "تعمل النسبية العامة وميكانيكا الكم كلتاهما على نحو تام في مجال كل منهما.",
    "leads": "نظرية الأوتار، والجاذبية الكمومية الحلقية، واختبارات مخبرية للتشابك عبر الجاذبية.",
    "s": "الجاذبية الكمومية",
-   "t": "كيف يمكن توحيد الجاذبية وميكانيكا الكم؟"
+   "t": "كيف يمكن توحيد الجاذبية وميكانيكا الكم؟",
+   "why": "يمكن لفهم سلوك الجاذبية على المستوى الكمومي أن يساعد في تفسير كيفية عمل الثقوب السوداء وكيف وُلد الكون، وربما حتى ما إذا كان هناك كون قبل الانفجار العظيم."
   },
   "en": {
    "block": "They are incompatible, and no experiment reaches the Planck scale where their conflict would show.",
    "known": "General relativity and quantum mechanics each work perfectly in their own domain.",
    "leads": "String theory, loop quantum gravity, lab tests of entanglement through gravity.",
    "s": "Quantum gravity",
-   "t": "How can gravity and quantum mechanics be unified?"
+   "t": "How can gravity and quantum mechanics be unified?",
+   "why": "Understanding how gravity behaves at the quantum level could help explain how black holes work and how the universe was born, perhaps even whether there was a universe before the Big Bang."
   },
   "es": {
    "block": "Son incompatibles, y ningún experimento llega a la escala de Planck, donde se manifestaría su conflicto.",
    "known": "La relatividad general y la mecánica cuántica funcionan a la perfección cada una en su propio dominio.",
    "leads": "Teoría de cuerdas, gravedad cuántica de bucles, pruebas de laboratorio del entrelazamiento a través de la gravedad.",
    "s": "Gravedad cuántica",
-   "t": "¿Cómo se pueden unificar la gravedad y la mecánica cuántica?"
+   "t": "¿Cómo se pueden unificar la gravedad y la mecánica cuántica?",
+   "why": "Entender cómo se comporta la gravedad a escala cuántica podría ayudar a explicar cómo funcionan los agujeros negros y cómo nació el universo, e incluso quizá si hubo un universo antes del Big Bang."
   },
   "fr": {
    "block": "Elles sont incompatibles, et aucune expérience n'atteint l'échelle de Planck où leur conflit apparaîtrait.",
    "known": "La relativité générale et la mécanique quantique fonctionnent parfaitement, chacune dans son domaine.",
    "leads": "Théorie des cordes, gravité quantique à boucles, tests en laboratoire de l'intrication par la gravité.",
    "s": "Gravité quantique",
-   "t": "Comment unifier la gravité et la mécanique quantique ?"
+   "t": "Comment unifier la gravité et la mécanique quantique ?",
+   "why": "Comprendre comment la gravité se comporte à l'échelle quantique pourrait aider à comprendre le fonctionnement des trous noirs et la naissance de l'Univers, et peut-être même à savoir s'il existait un univers avant le Big Bang."
   },
   "hi": {
    "block": "दोनों असंगत हैं, और कोई प्रयोग उस प्लांक पैमाने तक नहीं पहुँचता जहाँ उनका टकराव दिखेगा।",
    "known": "सामान्य सापेक्षता और क्वांटम यांत्रिकी, दोनों अपने-अपने क्षेत्र में पूरी तरह सही काम करते हैं।",
    "leads": "स्ट्रिंग सिद्धांत, लूप क्वांटम गुरुत्व, गुरुत्व के माध्यम से उलझाव के प्रयोगशाला परीक्षण।",
    "s": "क्वांटम गुरुत्व",
-   "t": "गुरुत्व और क्वांटम यांत्रिकी को कैसे एकीकृत किया जा सकता है?"
+   "t": "गुरुत्व और क्वांटम यांत्रिकी को कैसे एकीकृत किया जा सकता है?",
+   "why": "यह समझना कि क्वांटम स्तर पर गुरुत्वाकर्षण कैसे व्यवहार करता है, यह समझाने में मदद कर सकता है कि ब्लैक होल कैसे काम करते हैं और ब्रह्मांड का जन्म कैसे हुआ, शायद यह भी कि क्या बिग बैंग से पहले कोई ब्रह्मांड था।"
   },
   "pt": {
    "block": "Elas são incompatíveis, e nenhum experimento alcança a escala de Planck, onde o conflito apareceria.",
    "known": "A relatividade geral e a mecânica quântica funcionam perfeitamente, cada uma em seu domínio.",
    "leads": "Teoria das cordas, gravidade quântica em laços, testes de laboratório do emaranhamento mediado pela gravidade.",
    "s": "Gravidade quântica",
-   "t": "Como unificar a gravidade e a mecânica quântica?"
+   "t": "Como unificar a gravidade e a mecânica quântica?",
+   "why": "Compreender como a gravidade se comporta à escala quântica poderia ajudar a explicar como funcionam os buracos negros e como o universo nasceu, e talvez até se houve um universo antes do Big Bang."
   },
   "zh": {
    "block": "两者互不相容,而且没有任何实验能达到普朗克尺度,而它们的冲突正会在那里显现。",
    "known": "广义相对论和量子力学在各自的领域里都完美适用。",
    "leads": "弦理论,圈量子引力,通过引力检验纠缠的实验室实验。",
    "s": "量子引力",
-   "t": "引力与量子力学如何统一?"
+   "t": "引力与量子力学如何统一?",
+   "why": "了解引力在量子层面上如何表现，可能帮助解释黑洞如何运作、宇宙如何诞生，甚至可能告诉我们大爆炸之前是否存在一个宇宙。"
   }
  },
  "links": [

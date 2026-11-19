@@ -7,49 +7,56 @@
    "known": "القيمة التي تتنبأ بها الفيزياء الكمومية تخطئ بنحو 120 رتبة قدر، وهو أسوأ تباين في الفيزياء كلها.",
    "leads": "تلمّح مسوح DESI إلى أنها قد تتغير مع الزمن؛ وسيقيسها تلسكوب إقليدس ومرصد روبن بدقة أكبر.",
    "s": "الطاقة المظلمة",
-   "t": "ما الطاقة المظلمة؟"
+   "t": "ما الطاقة المظلمة؟",
+   "why": "تدفع الطاقة المظلمة تمدّد الكون المتسارع. ومن شأن فهمها أن يساعد في معرفة ما إذا كان الكون سيستمر في التمدد إلى الأبد، وإذا تأكّد أنها تتغير مع الزمن فستحتاج صورتنا عن الكون إلى مراجعة كبيرة."
   },
   "en": {
    "block": "Quantum physics predicts a value some 60 to 120 orders of magnitude larger than observations allow. This is a serious crisis in physics.",
    "known": "The expansion of the universe is accelerating. The cause, called dark energy, makes up about 70% of its energy content.",
    "leads": "DESI surveys hint that it may change over time; Euclid and the Rubin Observatory will measure it more precisely.",
    "s": "Dark energy",
-   "t": "What is dark energy?"
+   "t": "What is dark energy?",
+   "why": "Dark energy drives the accelerating expansion of the universe. Understanding it would help tell whether the universe keeps expanding forever, and if it is confirmed to change over time, our picture of the universe would need a major rethink."
   },
   "es": {
    "block": "La física cuántica predice un valor entre 60 y 120 órdenes de magnitud mayor de lo que permiten las observaciones. Es una crisis seria para la física.",
    "known": "La expansión del universo se está acelerando. La causa, llamada energía oscura, constituye cerca del 70 % de su contenido energético.",
    "leads": "Los estudios de DESI sugieren que podría cambiar con el tiempo; Euclid y el Observatorio Rubin la medirán con más precisión.",
    "s": "Energía oscura",
-   "t": "¿Qué es la energía oscura?"
+   "t": "¿Qué es la energía oscura?",
+   "why": "La energía oscura impulsa la expansión acelerada del universo. Entenderla ayudaría a saber si el universo seguirá expandiéndose para siempre y, si se confirma que cambia con el tiempo, nuestra imagen del universo tendría que replantearse a fondo."
   },
   "fr": {
    "block": "La physique quantique prédit une valeur de 60 à 120 ordres de grandeur plus grande que ce que permettent les observations. C'est une crise sérieuse pour la physique.",
    "known": "L'expansion de l'univers accélère. La cause, appelée énergie sombre, représente environ 70 % de son contenu énergétique.",
    "leads": "Les relevés DESI suggèrent qu'elle pourrait varier dans le temps ; Euclid et l'observatoire Rubin la mesureront plus précisément.",
    "s": "Énergie sombre",
-   "t": "Qu'est-ce que l'énergie sombre ?"
+   "t": "Qu'est-ce que l'énergie sombre ?",
+   "why": "L'énergie sombre entraîne l'expansion accélérée de l'Univers. La comprendre aiderait à savoir si l'Univers continuera de s'étendre indéfiniment ; et s'il se confirme qu'elle varie dans le temps, notre image de l'Univers devrait être profondément revue."
   },
   "hi": {
    "block": "क्वांटम भौतिकी जो मान बताती है, वह प्रेक्षणों द्वारा अनुमत मान से 60 से 120 परिमाण-कोटि (ऑर्डर ऑफ़ मैग्निट्यूड) अधिक है। यह भौतिकी के लिए एक गंभीर संकट है।",
    "known": "क्वांटम भौतिकी द्वारा अनुमानित मान लगभग 120 कोटि परिमाण (ऑर्डर ऑफ मैग्नीट्यूड) गलत है, जो पूरी भौतिकी का सबसे बड़ा बेमेल है।",
    "leads": "DESI सर्वेक्षण संकेत देते हैं कि यह समय के साथ बदल सकती है; Euclid और रुबिन वेधशाला इसे और अधिक सटीकता से मापेंगे।",
    "s": "डार्क एनर्जी",
-   "t": "डार्क एनर्जी क्या है?"
+   "t": "डार्क एनर्जी क्या है?",
+   "why": "डार्क एनर्जी ब्रह्मांड के तेज़ होते विस्तार को चलाती है। इसे समझने से यह जानने में मदद मिलेगी कि ब्रह्मांड हमेशा फैलता रहेगा या नहीं, और अगर पुष्टि हो कि यह समय के साथ बदलती है, तो ब्रह्मांड की हमारी तस्वीर पर बड़े पैमाने पर फिर से सोचना होगा।"
   },
   "pt": {
    "block": "A física quântica prevê um valor de 60 a 120 ordens de grandeza maior do que as observações permitem. É uma crise séria para a física.",
    "known": "A expansão do universo está se acelerando. A causa, chamada energia escura, responde por cerca de 70% do seu conteúdo energético.",
    "leads": "Os levantamentos do DESI sugerem que ela pode mudar com o tempo; o Euclid e o Observatório Rubin vão medi-la com mais precisão.",
    "s": "Energia escura",
-   "t": "O que é a energia escura?"
+   "t": "O que é a energia escura?",
+   "why": "A energia escura impulsiona a expansão acelerada do universo. Compreendê-la ajudaria a saber se o universo vai continuar a expandir-se para sempre e, se se confirmar que ela muda com o tempo, a nossa imagem do universo precisaria de ser profundamente revista."
   },
   "zh": {
    "block": "量子物理预测的数值比观测所允许的大60到120个数量级。这是物理学中的一场严重危机。",
    "known": "宇宙的膨胀正在加速。其成因被称为暗能量,约占宇宙能量总量的70%。",
    "leads": "DESI巡天暗示它可能随时间变化；欧几里得望远镜和鲁宾天文台将更精确地测量它。",
    "s": "暗能量",
-   "t": "暗能量是什么?"
+   "t": "暗能量是什么?",
+   "why": "暗能量推动着宇宙的加速膨胀。理解它将有助于判断宇宙是否会永远膨胀下去；如果证实它随时间变化，我们对宇宙的认识将需要重大修正。"
   }
  },
  "links": [

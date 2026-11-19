@@ -7,49 +7,56 @@
    "known": "تحسنت نماذج الاستدلال تحسنًا حادًا في الرياضيات والبرمجة.",
    "leads": "التحقق الآلي من الإجابات، والتدريب على نتائج مدققة، وثقة معايَرة.",
    "s": "استدلال موثوق",
-   "t": "هل يمكن للذكاء الاصطناعي أن يستدل بموثوقية ويعرف متى يخطئ؟"
+   "t": "هل يمكن للذكاء الاصطناعي أن يستدل بموثوقية ويعرف متى يخطئ؟",
+   "why": "تخمّن نماذج الذكاء الاصطناعي أحيانًا عندما لا تكون متأكدة، فتنتج عبارات معقولة الظاهر لكنها خاطئة تُضعف الثقة. والذكاء الاصطناعي الذي يستدل بشكل موثوق ويعترف عندما لا يعرف سيكون أكثر فائدة وأجدر بالثقة لمن يعتمدون عليه."
   },
   "en": {
    "block": "They still state false things confidently and misjudge their own uncertainty.",
    "known": "Reasoning models have improved sharply on mathematics and code.",
    "leads": "Automatic verification of answers, training on checked results, calibrated confidence.",
    "s": "Reliable reasoning",
-   "t": "Can AI reason reliably and know when it is wrong?"
+   "t": "Can AI reason reliably and know when it is wrong?",
+   "why": "AI models sometimes guess when unsure, producing plausible but false statements that undermine trust. AI that reasons reliably and admits when it does not know would be more useful and more trustworthy for the people who rely on it."
   },
   "es": {
    "block": "Todavía afirman cosas falsas con seguridad y juzgan mal su propia incertidumbre.",
    "known": "Los modelos de razonamiento han mejorado mucho en matemáticas y programación.",
    "leads": "Verificación automática de respuestas, entrenamiento con resultados comprobados, confianza calibrada.",
    "s": "Razonamiento fiable",
-   "t": "¿Puede la IA razonar de forma fiable y saber cuándo se equivoca?"
+   "t": "¿Puede la IA razonar de forma fiable y saber cuándo se equivoca?",
+   "why": "Los modelos de IA a veces adivinan cuando no están seguros y producen afirmaciones plausibles pero falsas que socavan la confianza. Una IA que razone de forma fiable y admita cuando no sabe sería más útil y más confiable para las personas que dependen de ella."
   },
   "fr": {
    "block": "Ils affirment encore des faussetés avec assurance et évaluent mal leur propre incertitude.",
    "known": "Les modèles de raisonnement ont fortement progressé en mathématiques et en code.",
    "leads": "Vérification automatique des réponses, entraînement sur des résultats vérifiés, confiance calibrée.",
    "s": "Raisonnement fiable",
-   "t": "L'IA peut-elle raisonner de façon fiable et savoir quand elle se trompe ?"
+   "t": "L'IA peut-elle raisonner de façon fiable et savoir quand elle se trompe ?",
+   "why": "Les modèles d'IA devinent parfois lorsqu'ils ne sont pas sûrs, produisant des affirmations plausibles mais fausses qui sapent la confiance. Une IA qui raisonne de façon fiable et reconnaît quand elle ne sait pas serait plus utile et plus digne de confiance pour ceux qui s'y fient."
   },
   "hi": {
    "block": "वे अब भी गलत बातें पूरे विश्वास से कहते हैं और अपनी अनिश्चितता का गलत आकलन करते हैं।",
    "known": "तर्क करने वाले मॉडलों में गणित और कोड में तेज़ सुधार हुआ है।",
    "leads": "उत्तरों का स्वचालित सत्यापन, जाँचे हुए परिणामों पर प्रशिक्षण, अंशांकित आत्मविश्वास।",
    "s": "भरोसेमंद तर्क",
-   "t": "क्या AI भरोसेमंद ढंग से तर्क कर सकता है और जान सकता है कि वह कब गलत है?"
+   "t": "क्या AI भरोसेमंद ढंग से तर्क कर सकता है और जान सकता है कि वह कब गलत है?",
+   "why": "AI मॉडल अनिश्चित होने पर कभी-कभी अनुमान लगा लेते हैं और ऐसे कथन देते हैं जो विश्वसनीय लगते हैं पर गलत होते हैं, जिससे भरोसा कमज़ोर होता है। जो AI भरोसेमंद ढंग से तर्क करे और न जानने पर यह स्वीकार करे, वह उस पर निर्भर लोगों के लिए अधिक उपयोगी और अधिक विश्वसनीय होगा।"
   },
   "pt": {
    "block": "Eles ainda afirmam coisas falsas com confiança e avaliam mal a própria incerteza.",
    "known": "Os modelos de raciocínio melhoraram muito em matemática e programação.",
    "leads": "Verificação automática das respostas, treinamento com resultados checados, confiança calibrada.",
    "s": "Raciocínio confiável",
-   "t": "A IA pode raciocinar de forma confiável e saber quando está errada?"
+   "t": "A IA pode raciocinar de forma confiável e saber quando está errada?",
+   "why": "Os modelos de IA às vezes chutam quando não têm certeza, produzindo afirmações plausíveis, mas falsas, que minam a confiança. Uma IA que raciocine de forma confiável e admita quando não sabe seria mais útil e mais confiável para as pessoas que dependem dela."
   },
   "zh": {
    "block": "它们仍会信心十足地陈述错误内容,并错误判断自己的不确定性。",
    "known": "推理模型在数学和代码方面已有显著进步。",
    "leads": "答案的自动验证,用经过核对的结果训练,校准置信度。",
    "s": "可靠推理",
-   "t": "人工智能能可靠地推理并知道自己何时出错吗?"
+   "t": "人工智能能可靠地推理并知道自己何时出错吗?",
+   "why": "人工智能模型在不确定时有时会猜测，给出看似合理却错误的说法，从而削弱人们的信任。能够可靠推理、并在不知道时坦承的人工智能，对依赖它的人来说会更有用，也更值得信赖。"
   }
  },
  "links": [

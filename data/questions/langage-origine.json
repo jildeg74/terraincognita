@@ -7,49 +7,56 @@
    "known": "توجد لدى حيوانات أخرى عدة قدرات تحتاجها اللغة، لكن لا يجمعها كلها أي حيوان.",
    "leads": "علم الوراثة المقارن، ودراسات تواصل الحيوانات، ونماذج لكيفية تطور اللغات.",
    "s": "أصل اللغة",
-   "t": "كيف نشأت اللغة البشرية؟"
+   "t": "كيف نشأت اللغة البشرية؟",
+   "why": "اللغة سمة مميزة لنوعنا، لذا فإن تفسير كيفية نشوئها جزء أساسي من فهم كيف أصبح البشر على ما هم عليه."
   },
   "en": {
    "block": "Language leaves no fossils.",
    "known": "Several of the abilities it needs exist in other animals, but none combines them all.",
    "leads": "Comparative genetics, animal communication studies, models of how languages evolve.",
    "s": "Origin of language",
-   "t": "How did human language emerge?"
+   "t": "How did human language emerge?",
+   "why": "Language is a distinctive trait of our species, so explaining how it arose is a key part of understanding how humans became who they are."
   },
   "es": {
    "block": "El lenguaje no deja fósiles.",
    "known": "Varias de las capacidades que requiere existen en otros animales, pero ninguno las reúne todas.",
    "leads": "Genética comparada, estudios de comunicación animal, modelos de cómo evolucionan las lenguas.",
    "s": "Origen del lenguaje",
-   "t": "¿Cómo surgió el lenguaje humano?"
+   "t": "¿Cómo surgió el lenguaje humano?",
+   "why": "El lenguaje es un rasgo distintivo de nuestra especie, así que explicar cómo surgió es una parte clave de entender cómo los humanos llegaron a ser lo que son."
   },
   "fr": {
    "block": "Le langage ne laisse pas de fossiles.",
    "known": "Plusieurs capacités nécessaires existent chez d'autres animaux, mais aucun ne combine tout.",
    "leads": "Génétique comparée, études de communication animale, modèles d'évolution des langues.",
    "s": "Origine du langage",
-   "t": "Comment le langage humain est-il apparu ?"
+   "t": "Comment le langage humain est-il apparu ?",
+   "why": "Le langage est un trait distinctif de l'espèce humaine : expliquer son apparition est donc essentiel pour comprendre comment les humains sont devenus ce qu'ils sont."
   },
   "hi": {
    "block": "भाषा कोई जीवाश्म नहीं छोड़ती।",
    "known": "इसके लिए आवश्यक कई क्षमताएँ अन्य जानवरों में भी हैं, पर कोई भी उन सबको एक साथ नहीं रखता।",
    "leads": "तुलनात्मक आनुवंशिकी, पशु संचार के अध्ययन, भाषाओं के विकास के मॉडल।",
    "s": "भाषा की उत्पत्ति",
-   "t": "मानव भाषा का उद्भव कैसे हुआ?"
+   "t": "मानव भाषा का उद्भव कैसे हुआ?",
+   "why": "भाषा हमारी प्रजाति की एक विशिष्ट विशेषता है, इसलिए यह समझाना कि यह कैसे पैदा हुई, यह समझने का एक अहम हिस्सा है कि मनुष्य वैसे कैसे बने जैसे वे आज हैं।"
   },
   "pt": {
    "block": "A linguagem não deixa fósseis.",
    "known": "Várias das capacidades de que ela precisa existem em outros animais, mas nenhum os reúne todas.",
    "leads": "Genética comparada, estudos de comunicação animal, modelos de como as línguas evoluem.",
    "s": "Origem da linguagem",
-   "t": "Como surgiu a linguagem humana?"
+   "t": "Como surgiu a linguagem humana?",
+   "why": "A linguagem é um traço distintivo da nossa espécie, por isso explicar como surgiu é uma parte essencial de compreender como os humanos se tornaram o que são."
   },
   "zh": {
    "block": "语言不会留下化石。",
    "known": "语言所需的若干能力在其他动物身上也存在,但没有哪种动物集齐了全部能力。",
    "leads": "比较遗传学,动物交流研究,语言演化模型。",
    "s": "语言起源",
-   "t": "人类语言是如何出现的?"
+   "t": "人类语言是如何出现的?",
+   "why": "语言是我们这个物种的独特特征，因此解释语言如何产生，是理解人类如何成为今天这样的关键部分。"
   }
  },
  "links": [

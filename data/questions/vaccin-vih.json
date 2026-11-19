@@ -7,49 +7,56 @@
    "known": "تجعل العلاجات فيروس نقص المناعة البشرية حالة يمكن التعايش معها، ويمكن للحقن طويلة المفعول أن تمنع العدوى.",
    "leads": "أجسام مضادة واسعة التعادل ولقاحات mRNA مصممة لتوجيه الجهاز المناعي خطوة بخطوة.",
    "s": "لقاح فيروس HIV",
-   "t": "هل يمكننا صنع لقاح ضد فيروس نقص المناعة البشرية؟"
+   "t": "هل يمكننا صنع لقاح ضد فيروس نقص المناعة البشرية؟",
+   "why": "لا يزال أكثر من مليون شخص يصابون بفيروس نقص المناعة البشرية كل عام. ومن المرجح أن يلزم لقاح فعال لإنهاء جائحة الفيروس بشكل دائم، لأن إيصال خدمات العلاج والوقاية إلى الجميع أمر بالغ الصعوبة."
   },
   "en": {
    "block": "The virus mutates very fast and hides in the body; decades of vaccine trials have failed.",
    "known": "Treatments make HIV a manageable condition, and long-acting injections can prevent infection.",
    "leads": "Broadly neutralizing antibodies and mRNA vaccines designed to guide the immune system step by step.",
    "s": "HIV vaccine",
-   "t": "Can we make a vaccine against HIV?"
+   "t": "Can we make a vaccine against HIV?",
+   "why": "More than a million people still acquire HIV every year. An effective vaccine would likely be needed to end the HIV pandemic durably, because reaching everyone with treatment and prevention services is extremely difficult."
   },
   "es": {
    "block": "El virus muta muy rápido y se esconde en el cuerpo; décadas de ensayos de vacunas han fracasado.",
    "known": "Los tratamientos convierten el VIH en una afección controlable, y las inyecciones de acción prolongada pueden prevenir la infección.",
    "leads": "Anticuerpos ampliamente neutralizantes y vacunas de ARNm diseñadas para guiar paso a paso al sistema inmunitario.",
    "s": "Vacuna contra el VIH",
-   "t": "¿Podemos hacer una vacuna contra el VIH?"
+   "t": "¿Podemos hacer una vacuna contra el VIH?",
+   "why": "Más de un millón de personas siguen contrayendo el VIH cada año. Probablemente haría falta una vacuna eficaz para acabar de forma duradera con la pandemia de VIH, porque llegar a todo el mundo con servicios de tratamiento y prevención es extremadamente difícil."
   },
   "fr": {
    "block": "Le virus mute très vite et se cache dans l'organisme ; des décennies d'essais vaccinaux ont échoué.",
    "known": "Les traitements rendent le VIH gérable, et des injections à longue durée d'action préviennent l'infection.",
    "leads": "Anticorps neutralisants à large spectre et vaccins à ARNm conçus pour guider le système immunitaire pas à pas.",
    "s": "Vaccin contre le VIH",
-   "t": "Peut-on faire un vaccin contre le VIH ?"
+   "t": "Peut-on faire un vaccin contre le VIH ?",
+   "why": "Plus d'un million de personnes contractent encore le VIH chaque année. Un vaccin efficace serait probablement nécessaire pour mettre fin durablement à la pandémie de VIH, car il est extrêmement difficile d'atteindre tout le monde avec les services de traitement et de prévention."
   },
   "hi": {
    "block": "वायरस बहुत तेज़ी से उत्परिवर्तित होता है और शरीर में छिप जाता है; दशकों के टीका परीक्षण विफल रहे हैं।",
    "known": "उपचारों ने HIV को प्रबंधनीय स्थिति बना दिया है, और लंबे समय तक असर करने वाले इंजेक्शन संक्रमण रोक सकते हैं।",
    "leads": "व्यापक रूप से निष्प्रभावी करने वाली एंटीबॉडी और mRNA टीके जो प्रतिरक्षा तंत्र को चरण-दर-चरण मार्गदर्शन देने के लिए डिज़ाइन किए गए हैं।",
    "s": "HIV टीका",
-   "t": "क्या हम HIV के विरुद्ध टीका बना सकते हैं?"
+   "t": "क्या हम HIV के विरुद्ध टीका बना सकते हैं?",
+   "why": "हर साल अब भी दस लाख से अधिक लोग एचआईवी से संक्रमित होते हैं। एचआईवी महामारी को स्थायी रूप से ख़त्म करने के लिए संभवतः एक प्रभावी टीके की ज़रूरत होगी, क्योंकि हर व्यक्ति तक इलाज और रोकथाम सेवाएँ पहुँचाना बेहद कठिन है।"
   },
   "pt": {
    "block": "O vírus sofre mutações muito rápidas e se esconde no corpo; décadas de ensaios de vacinas fracassaram.",
    "known": "Os tratamentos tornam o HIV uma condição controlável, e injeções de ação prolongada podem prevenir a infecção.",
    "leads": "Anticorpos amplamente neutralizantes e vacinas de mRNA projetadas para orientar o sistema imunológico passo a passo.",
    "s": "Vacina contra o HIV",
-   "t": "Podemos criar uma vacina contra o HIV?"
+   "t": "Podemos criar uma vacina contra o HIV?",
+   "why": "Mais de um milhão de pessoas ainda contraem o HIV todos os anos. Uma vacina eficaz provavelmente seria necessária para acabar de forma duradoura com a pandemia de HIV, porque levar serviços de tratamento e prevenção a todos é extremamente difícil."
   },
   "zh": {
    "block": "病毒变异极快,还会藏在体内;数十年的疫苗试验都失败了。",
    "known": "治疗使艾滋病毒感染成为可控的状况,长效注射剂可以预防感染。",
    "leads": "广谱中和抗体,以及旨在一步步引导免疫系统的mRNA疫苗。",
    "s": "艾滋病疫苗",
-   "t": "我们能研制出艾滋病疫苗吗?"
+   "t": "我们能研制出艾滋病疫苗吗?",
+   "why": "每年仍有超过一百万人感染艾滋病毒。要持久地终结艾滋病大流行，很可能需要一种有效的疫苗，因为让每个人都获得治疗和预防服务极其困难。"
   }
  },
  "links": [

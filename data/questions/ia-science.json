@@ -7,49 +7,56 @@
    "known": "ساعد الذكاء الاصطناعي في التنبؤ ببنى البروتينات واكتشاف المواد والمضادات الحيوية، وتبني الشركات مختبرات آلية.",
    "leads": "مختبرات ذاتية القيادة، ووكلاء ذكاء اصطناعي يصممون التجارب وينفذونها.",
    "s": "علماء الذكاء الاصطناعي",
-   "t": "هل تستطيع أنظمة الذكاء الاصطناعي إجراء البحث العلمي بمفردها؟"
+   "t": "هل تستطيع أنظمة الذكاء الاصطناعي إجراء البحث العلمي بمفردها؟",
+   "why": "في عام 2020، ساعد نموذج ذكاء اصطناعي قادر على فحص أكثر من مئة مليون جزيء في أيام قليلة على إيجاد مرشحين جدد لمضادات حيوية، في وقت تتحول فيه مقاومة الأدوية إلى أزمة. والذكاء الاصطناعي القادر على إجراء البحوث بمفرده قد يستكشف خيارات مكلفة جدًا بالنسبة إلى التجارب التقليدية."
   },
   "en": {
    "block": "Coming up with truly new questions and checking results remain hard.",
    "known": "AI has helped predict protein structures and discover materials and antibiotics, and companies are building automated labs.",
    "leads": "Self-driving labs, AI agents that design and run experiments.",
    "s": "AI scientists",
-   "t": "Can AI systems carry out scientific research on their own?"
+   "t": "Can AI systems carry out scientific research on their own?",
+   "why": "In 2020, an AI model that can screen more than a hundred million molecules in days helped find new antibiotic candidates, as drug resistance grows into a crisis. AI that could do research on its own might explore options too costly for traditional experiments."
   },
   "es": {
    "block": "Plantear preguntas verdaderamente nuevas y comprobar los resultados siguen siendo difíciles.",
    "known": "La IA ha ayudado a predecir estructuras de proteínas y a descubrir materiales y antibióticos, y hay empresas que construyen laboratorios automatizados.",
    "leads": "Laboratorios autónomos, agentes de IA que diseñan y ejecutan experimentos.",
    "s": "IA científicas",
-   "t": "¿Pueden los sistemas de IA hacer investigación científica por sí solos?"
+   "t": "¿Pueden los sistemas de IA hacer investigación científica por sí solos?",
+   "why": "En 2020, un modelo de IA capaz de analizar más de cien millones de moléculas en pocos días ayudó a encontrar nuevos candidatos a antibióticos, mientras la resistencia a los fármacos se convierte en una crisis. Una IA capaz de investigar por sí sola podría explorar opciones demasiado costosas para los experimentos tradicionales."
   },
   "fr": {
    "block": "Formuler des questions vraiment nouvelles et vérifier les résultats reste difficile.",
    "known": "L'IA a aidé à prédire la forme des protéines et à découvrir des matériaux et des antibiotiques ; des entreprises construisent des labos automatisés.",
    "leads": "Laboratoires autonomes, agents IA qui conçoivent et lancent des expériences.",
    "s": "Scientifiques IA",
-   "t": "Des IA peuvent-elles mener seules des recherches scientifiques ?"
+   "t": "Des IA peuvent-elles mener seules des recherches scientifiques ?",
+   "why": "En 2020, un modèle d'IA capable de passer au crible plus de cent millions de molécules en quelques jours a aidé à trouver de nouveaux candidats antibiotiques, alors que la résistance aux médicaments devient une crise. Une IA capable de mener des recherches seule pourrait explorer des pistes trop coûteuses pour les expériences traditionnelles."
   },
   "hi": {
    "block": "वास्तव में नए प्रश्न सोचना और परिणामों की जाँच करना अब भी कठिन है।",
    "known": "AI ने प्रोटीन संरचनाओं का पूर्वानुमान लगाने और पदार्थों व एंटीबायोटिकों की खोज में मदद की है, और कंपनियाँ स्वचालित प्रयोगशालाएँ बना रही हैं।",
    "leads": "स्वचालित प्रयोगशालाएँ, AI एजेंट जो प्रयोग डिज़ाइन करते और चलाते हैं।",
    "s": "AI वैज्ञानिक",
-   "t": "क्या AI प्रणालियाँ अपने आप वैज्ञानिक शोध कर सकती हैं?"
+   "t": "क्या AI प्रणालियाँ अपने आप वैज्ञानिक शोध कर सकती हैं?",
+   "why": "2020 में, कुछ ही दिनों में दस करोड़ से अधिक अणुओं की जाँच कर सकने वाले एक AI मॉडल ने नए संभावित एंटीबायोटिक खोजने में मदद की, ऐसे समय में जब दवा प्रतिरोध एक संकट बनता जा रहा है। जो AI खुद शोध कर सके, वह ऐसे विकल्प खोज सकता है जो पारंपरिक प्रयोगों के लिए बहुत महंगे हों।"
   },
   "pt": {
    "block": "Formular perguntas realmente novas e verificar resultados continuam difíceis.",
    "known": "A IA ajudou a prever estruturas de proteínas e a descobrir materiais e antibióticos, e empresas estão construindo laboratórios automatizados.",
    "leads": "Laboratórios autônomos, agentes de IA que projetam e executam experimentos.",
    "s": "Cientistas de IA",
-   "t": "Sistemas de IA podem fazer pesquisa científica por conta própria?"
+   "t": "Sistemas de IA podem fazer pesquisa científica por conta própria?",
+   "why": "Em 2020, um modelo de IA capaz de analisar mais de cem milhões de moléculas em poucos dias ajudou a encontrar novos candidatos a antibióticos, enquanto a resistência a medicamentos se torna uma crise. Uma IA capaz de pesquisar por conta própria poderia explorar opções caras demais para os experimentos tradicionais."
   },
   "zh": {
    "block": "提出真正全新的问题以及验证结果,仍然很难。",
    "known": "AI已帮助预测蛋白质结构,发现材料和抗生素,公司也在建设自动化实验室。",
    "leads": "自动驾驶实验室,能设计并开展实验的AI智能体。",
    "s": "AI科学家",
-   "t": "人工智能系统能自主开展科学研究吗?"
+   "t": "人工智能系统能自主开展科学研究吗?",
+   "why": "随着耐药性逐渐演变为一场危机，2020年，一个能在几天内筛选一亿多种分子的人工智能模型帮助找到了新的候选抗生素。能够自主开展研究的人工智能，或许可以探索那些用传统实验来做成本太高的方向。"
   }
  },
  "links": [

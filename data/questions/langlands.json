@@ -7,49 +7,56 @@
    "known": "هو شبكة واسعة من التخمينات تربط نظرية الأعداد والهندسة والتناظر. وقد أُثبتت النسخة الهندسية عام 2024.",
    "leads": "توسيع طرائق البرهان الهندسي.",
    "s": "برنامج لانغلاندز",
-   "t": "هل برنامج لانغلاندز صحيح؟"
+   "t": "هل برنامج لانغلاندز صحيح؟",
+   "why": "وصفه عالم الرياضيات إدوارد فرنكل بأنه «نظرية التوحيد الكبرى في الرياضيات»، إذ يربط نظرية الأعداد بالهندسة عبر شبكة من التشابهات. وقد جعل جزءٌ مُثبت منه برهان مبرهنة فيرما الأخيرة ممكنًا، ويرتبط جانبه الهندسي بالفيزياء."
   },
   "en": {
    "block": "The arithmetic version, closest to prime numbers, remains largely open.",
    "known": "It is a vast web of conjectures linking number theory, geometry and symmetry. The geometric version was proven in 2024.",
    "leads": "Extending the methods of the geometric proof.",
    "s": "Langlands program",
-   "t": "Is the Langlands program true?"
+   "t": "Is the Langlands program true?",
+   "why": "Called a 'grand unified theory of mathematics' by mathematician Edward Frenkel, it links number theory and geometry through a web of analogies. A proven part of it made the proof of Fermat's Last Theorem possible, and its geometric side connects to physics."
   },
   "es": {
    "block": "La versión aritmética, la más cercana a los números primos, sigue en gran parte abierta.",
    "known": "Es una vasta red de conjeturas que une la teoría de números, la geometría y la simetría. La versión geométrica se demostró en 2024.",
    "leads": "Ampliar los métodos de la demostración geométrica.",
    "s": "Programa de Langlands",
-   "t": "¿Es cierto el programa de Langlands?"
+   "t": "¿Es cierto el programa de Langlands?",
+   "why": "Llamado «teoría de la gran unificación de las matemáticas» por el matemático Edward Frenkel, conecta la teoría de números y la geometría mediante una red de analogías. Una parte demostrada hizo posible la demostración del último teorema de Fermat, y su lado geométrico se relaciona con la física."
   },
   "fr": {
    "block": "La version arithmétique, la plus proche des nombres premiers, reste largement ouverte.",
    "known": "C'est un vaste réseau de conjectures reliant théorie des nombres, géométrie et symétrie. Sa version géométrique a été démontrée en 2024.",
    "leads": "Étendre les méthodes de la preuve géométrique.",
    "s": "Programme de Langlands",
-   "t": "Le programme de Langlands est-il vrai ?"
+   "t": "Le programme de Langlands est-il vrai ?",
+   "why": "Qualifié de « théorie de grande unification des mathématiques » par le mathématicien Edward Frenkel, il relie la théorie des nombres et la géométrie par un réseau d'analogies. Une partie démontrée a rendu possible la preuve du dernier théorème de Fermat, et son versant géométrique rejoint la physique."
   },
   "hi": {
    "block": "अभाज्य संख्याओं के सबसे निकट का अंकगणितीय रूप अब भी काफी हद तक अनसुलझा है।",
    "known": "यह संख्या सिद्धांत, ज्यामिति और सममिति को जोड़ने वाली अनुमानों का विशाल जाल है। इसका ज्यामितीय रूप 2024 में सिद्ध हुआ।",
    "leads": "ज्यामितीय प्रमाण की विधियों का विस्तार।",
    "s": "लैंगलैंड्स कार्यक्रम",
-   "t": "क्या लैंगलैंड्स कार्यक्रम सत्य है?"
+   "t": "क्या लैंगलैंड्स कार्यक्रम सत्य है?",
+   "why": "गणितज्ञ एडवर्ड फ़्रेंकेल ने इसे 'गणित का महान एकीकृत सिद्धांत' कहा है; यह उपमाओं के एक जाल के ज़रिए संख्या सिद्धांत और ज्यामिति को जोड़ता है। इसके एक सिद्ध हिस्से ने फ़र्मा के अंतिम प्रमेय का प्रमाण संभव बनाया, और इसका ज्यामितीय पक्ष भौतिकी से जुड़ता है।"
   },
   "pt": {
    "block": "A versão aritmética, a mais próxima dos números primos, continua em grande parte em aberto.",
    "known": "É uma vasta rede de conjecturas que liga teoria dos números, geometria e simetria. A versão geométrica foi demonstrada em 2024.",
    "leads": "Estender os métodos da demonstração geométrica.",
    "s": "Programa de Langlands",
-   "t": "O programa de Langlands é verdadeiro?"
+   "t": "O programa de Langlands é verdadeiro?",
+   "why": "Chamado de «teoria da grande unificação da matemática» pelo matemático Edward Frenkel, liga a teoria dos números e a geometria através de uma rede de analogias. Uma parte já provada tornou possível a prova do Último Teorema de Fermat, e o seu lado geométrico liga-se à física."
   },
   "zh": {
    "block": "与素数最接近的算术版本在很大程度上仍未解决。",
    "known": "这是一张庞大的猜想网络,把数论、几何和对称性联系在一起。几何版本已于2024年被证明。",
    "leads": "把几何版本证明中的方法推广出去。",
    "s": "朗兰兹纲领",
-   "t": "朗兰兹纲领成立吗?"
+   "t": "朗兰兹纲领成立吗?",
+   "why": "数学家爱德华·弗兰克尔称它为“数学的大统一理论”，它通过一张类比之网把数论和几何联系起来。其中已被证明的一部分使费马大定理的证明成为可能，而它的几何部分与物理学相关联。"
   }
  },
  "links": [

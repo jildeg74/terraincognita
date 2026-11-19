@@ -7,49 +7,56 @@
    "known": "باتت نماذج الذكاء الاصطناعي تضاهي أفضل التنبؤات التقليدية أو تتفوق عليها حتى نحو 15 يومًا مقدمًا.",
    "leads": "تنبؤات جماعية بالذكاء الاصطناعي، وتوقعات شهرية وموسمية.",
    "s": "التنبؤ بالطقس",
-   "t": "إلى أي مدى يمكن التنبؤ بالطقس مسبقًا؟"
+   "t": "إلى أي مدى يمكن التنبؤ بالطقس مسبقًا؟",
+   "why": "يؤثر الطقس في قرارات الجميع وسلامتهم. ومعرفة المدى الزمني الذي يمكن التنبؤ به مسبقًا ستُظهر مقدار الإنذار المبكر الممكن للأحداث المتطرفة، مما قد يساعد المسؤولين على إنقاذ الأرواح وتجنب الأضرار وتوفير المال، ويساعد على تخطيط الطاقة المتجددة."
   },
   "en": {
    "block": "The chaos of the atmosphere seems to limit forecasts to around two weeks.",
    "known": "AI models now match or beat the best traditional forecasts up to about 15 days ahead.",
    "leads": "AI ensemble forecasts, monthly and seasonal predictions.",
    "s": "Weather forecasting",
-   "t": "How far ahead can weather be predicted?"
+   "t": "How far ahead can weather be predicted?",
+   "why": "Weather shapes everyone's decisions and safety. Knowing how far ahead it can be forecast would show how much warning is possible for extreme events, which can help officials save lives, avoid damage and save money, and help plan renewable energy."
   },
   "es": {
    "block": "El caos de la atmósfera parece limitar los pronósticos a unas dos semanas.",
    "known": "Los modelos de IA ya igualan o superan a los mejores pronósticos tradicionales hasta unos 15 días.",
    "leads": "Pronósticos por conjuntos con IA, predicciones mensuales y estacionales.",
    "s": "Predicción del tiempo",
-   "t": "¿Con cuánta antelación se puede predecir el tiempo?"
+   "t": "¿Con cuánta antelación se puede predecir el tiempo?",
+   "why": "El tiempo influye en las decisiones y la seguridad de todos. Saber con cuánta antelación puede predecirse mostraría cuánto aviso es posible ante fenómenos extremos, lo que puede ayudar a las autoridades a salvar vidas, evitar daños y ahorrar dinero, y ayudar a planificar las energías renovables."
   },
   "fr": {
    "block": "Le chaos de l'atmosphère semble limiter les prévisions à environ deux semaines.",
    "known": "Les modèles d'IA égalent ou battent désormais les meilleures prévisions classiques jusqu'à environ 15 jours.",
    "leads": "Prévisions d'ensemble par IA, prévisions mensuelles et saisonnières.",
    "s": "Prévisions météo",
-   "t": "Jusqu'où peut-on prévoir la météo ?"
+   "t": "Jusqu'où peut-on prévoir la météo ?",
+   "why": "La météo influence les décisions et la sécurité de chacun. Savoir jusqu'à quelle échéance elle peut être prévue montrerait combien de temps d'alerte est possible face aux événements extrêmes, ce qui peut aider les autorités à sauver des vies, éviter des dégâts et économiser de l'argent, et aider à planifier les énergies renouvelables."
   },
   "hi": {
    "block": "वायुमंडल की अराजकता पूर्वानुमानों को लगभग दो सप्ताह तक सीमित करती लगती है।",
    "known": "AI मॉडल अब लगभग 15 दिन आगे तक सबसे अच्छे पारंपरिक पूर्वानुमानों के बराबर या उनसे बेहतर हैं।",
    "leads": "AI एनसेंबल पूर्वानुमान, मासिक और मौसमी पूर्वानुमान।",
    "s": "मौसम पूर्वानुमान",
-   "t": "मौसम का पूर्वानुमान कितने समय पहले तक लगाया जा सकता है?"
+   "t": "मौसम का पूर्वानुमान कितने समय पहले तक लगाया जा सकता है?",
+   "why": "मौसम हर किसी के निर्णयों और सुरक्षा को प्रभावित करता है। यह जानना कि मौसम का पूर्वानुमान कितना पहले लगाया जा सकता है, दिखाएगा कि चरम घटनाओं की कितनी पहले चेतावनी संभव है, जिससे अधिकारियों को जानें बचाने, नुकसान टालने और पैसा बचाने में, और नवीकरणीय ऊर्जा की योजना बनाने में मदद मिल सकती है।"
   },
   "pt": {
    "block": "O caos da atmosfera parece limitar as previsões a cerca de duas semanas.",
    "known": "Modelos de IA já igualam ou superam as melhores previsões tradicionais até cerca de 15 dias à frente.",
    "leads": "Previsões em conjunto com IA, previsões mensais e sazonais.",
    "s": "Previsão do tempo",
-   "t": "Com quanta antecedência o tempo pode ser previsto?"
+   "t": "Com quanta antecedência o tempo pode ser previsto?",
+   "why": "O tempo influencia as decisões e a segurança de todos. Saber com quanta antecedência ele pode ser previsto mostraria quanto aviso é possível para eventos extremos, o que pode ajudar as autoridades a salvar vidas, evitar danos e economizar dinheiro, e ajudar a planejar as energias renováveis."
   },
   "zh": {
    "block": "大气的混沌似乎把预报限制在大约两周。",
    "known": "AI模型如今在未来约15天的预报上已能媲美甚至超越最好的传统预报。",
    "leads": "AI集合预报,月度和季节预测。",
    "s": "天气预报",
-   "t": "天气能预报到多远?"
+   "t": "天气能预报到多远?",
+   "why": "天气影响着每个人的决定和安全。弄清天气最远能提前多久预报，将表明面对极端事件能提前多少时间发出预警，这可以帮助有关部门挽救生命、避免损失、节约资金，也有助于规划可再生能源。"
   }
  },
  "links": [

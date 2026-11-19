@@ -7,49 +7,56 @@
    "known": "يصيب الألم المزمن نحو بالغ واحد من كل خمسة في الولايات المتحدة. وفي عام 2025 اعتُمد في الولايات المتحدة مسكّن جديد غير أفيوني للألم الحاد.",
    "leads": "مسكنات تستهدف قنوات صوديوم محددة، وتحفيز الأعصاب.",
    "s": "الألم المزمن",
-   "t": "لماذا يتحول الألم إلى مزمن؟"
+   "t": "لماذا يتحول الألم إلى مزمن؟",
+   "why": "يقيّد الألم المزمن الحياة اليومية والعمل لملايين البالغين في الولايات المتحدة، ويرتبط بالاكتئاب وخطر الانتحار وتعاطي المواد. وفهم سبب استمرار الألم قد يتيح علاجًا مبكرًا يمنع تحوّله إلى ألم مزمن، كما بعد العمليات الجراحية مثلًا."
   },
   "en": {
    "block": "How the nervous system rewires itself to keep pain going is poorly understood.",
    "known": "Chronic pain affects roughly one adult in five in the United States. A new non-opioid painkiller was approved in the US in 2025 for acute pain.",
    "leads": "Painkillers targeting specific sodium channels, nerve stimulation.",
    "s": "Chronic pain",
-   "t": "Why does pain become chronic?"
+   "t": "Why does pain become chronic?",
+   "why": "Chronic pain restricts daily life and work for millions of adults in the United States and is linked with depression, suicide risk and substance misuse. Understanding why pain persists could allow early treatment that stops it becoming chronic, for example after surgery."
   },
   "es": {
    "block": "Se entiende mal cómo se reconfigura el sistema nervioso para mantener el dolor.",
    "known": "El dolor crónico afecta aproximadamente a uno de cada cinco adultos en Estados Unidos. En 2025 se aprobó en Estados Unidos un nuevo analgésico no opioide para el dolor agudo.",
    "leads": "Analgésicos dirigidos a canales de sodio específicos, estimulación nerviosa.",
    "s": "Dolor crónico",
-   "t": "¿Por qué el dolor se vuelve crónico?"
+   "t": "¿Por qué el dolor se vuelve crónico?",
+   "why": "El dolor crónico limita la vida diaria y el trabajo de millones de adultos en Estados Unidos y está relacionado con la depresión, el riesgo de suicidio y el abuso de sustancias. Entender por qué el dolor persiste podría permitir un tratamiento temprano que evite que se vuelva crónico, por ejemplo tras una cirugía."
   },
   "fr": {
    "block": "On comprend mal comment le système nerveux se reprogramme pour entretenir la douleur.",
    "known": "La douleur chronique touche environ un adulte sur cinq aux États-Unis. Un nouvel antidouleur non opioïde a été approuvé aux États-Unis en 2025 contre la douleur aiguë.",
    "leads": "Antidouleurs ciblant des canaux sodiques précis, stimulation des nerfs.",
    "s": "Douleur chronique",
-   "t": "Pourquoi la douleur devient-elle chronique ?"
+   "t": "Pourquoi la douleur devient-elle chronique ?",
+   "why": "La douleur chronique limite la vie quotidienne et le travail de millions d'adultes aux États-Unis et est associée à la dépression, au risque de suicide et à l'abus de substances. Comprendre pourquoi la douleur persiste pourrait permettre un traitement précoce qui l'empêche de devenir chronique, par exemple après une opération."
   },
   "hi": {
    "block": "तंत्रिका तंत्र दर्द को बनाए रखने के लिए खुद को कैसे दोबारा जोड़ता है, यह कम समझा गया है।",
    "known": "अमेरिका में दीर्घकालिक दर्द लगभग हर पाँच में से एक वयस्क को प्रभावित करता है। 2025 में अमेरिका में एक नई गैर-ओपिओइड दर्द-निवारक दवा तीव्र दर्द के लिए स्वीकृत हुई।",
    "leads": "विशिष्ट सोडियम चैनलों को लक्षित करने वाली दर्द निवारक दवाएँ, तंत्रिका उत्तेजना।",
    "s": "दीर्घकालिक दर्द",
-   "t": "दर्द दीर्घकालिक क्यों हो जाता है?"
+   "t": "दर्द दीर्घकालिक क्यों हो जाता है?",
+   "why": "अमेरिका में दीर्घकालिक दर्द लाखों वयस्कों के रोज़मर्रा के जीवन और काम को सीमित करता है और अवसाद, आत्महत्या के जोखिम तथा नशीले पदार्थों के दुरुपयोग से जुड़ा है। दर्द क्यों बना रहता है, यह समझना ऐसे शुरुआती इलाज को संभव बना सकता है जो उसे दीर्घकालिक बनने से रोके, जैसे सर्जरी के बाद।"
   },
   "pt": {
    "block": "Como o sistema nervoso se reconfigura para manter a dor é pouco compreendido.",
    "known": "A dor crônica afeta cerca de um em cada cinco adultos nos EUA. Em 2025, um novo analgésico não opioide foi aprovado nos EUA para dor aguda.",
    "leads": "Analgésicos que atuam em canais de sódio específicos, estimulação nervosa.",
    "s": "Dor crônica",
-   "t": "Por que a dor se torna crônica?"
+   "t": "Por que a dor se torna crônica?",
+   "why": "A dor crônica restringe a vida diária e o trabalho de milhões de adultos nos Estados Unidos e está associada à depressão, ao risco de suicídio e ao uso indevido de substâncias. Entender por que a dor persiste poderia permitir um tratamento precoce que impeça que ela se torne crônica, por exemplo após uma cirurgia."
   },
   "zh": {
    "block": "神经系统如何重塑自身以使疼痛持续,目前还了解不多。",
    "known": "在美国，慢性疼痛大约影响五分之一的成年人。2025年，一种新的非阿片类止痛药在美国获批用于急性疼痛。",
    "leads": "针对特定钠通道的止痛药,神经刺激。",
    "s": "慢性疼痛",
-   "t": "疼痛为什么会变成慢性?"
+   "t": "疼痛为什么会变成慢性?",
+   "why": "在美国，慢性疼痛限制了数以百万计成年人的日常生活和工作，并与抑郁、自杀风险和物质滥用相关。弄清疼痛为何持续存在，可能使早期治疗成为可能，从而防止疼痛转为慢性，例如在手术之后。"
   }
  },
  "links": [

@@ -96,6 +96,7 @@ site/                      site public généré (ne pas éditer à la main)
 
 ## 9. Journal
 
+- **2026-11-18** — Rubrique « Pourquoi c'est important » ajoutée aux 100 questions (7 langues), rédigée par 4 agents, vérifiée par 4 vérificateurs indépendants (54 acceptées telles quelles, 46 corrigées, 0 rejetée).
 - **2026-11-18** — Lisible par les IA : `llms.txt` à la racine, données structurées schema.org (Dataset sur l'accueil, WebPage + Question + citations sur chaque page).
 - **2026-11-18** — Règle de croissance : jusqu'à 5 nouvelles questions par mois, vérifiées.
 - **2026-11-18** — Version v1.0 archivée sur Zenodo, DOI 10.5281/zenodo.24356516. Search Console validé, sitemap envoyé.

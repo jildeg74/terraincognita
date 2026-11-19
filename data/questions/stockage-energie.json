@@ -7,49 +7,56 @@
    "known": "انخفضت أسعار البطاريات بنحو 90% منذ عام 2010.",
    "leads": "تقنيات جديدة مصممة لتخزين الطاقة لمدة 100 ساعة أو أكثر.",
    "s": "تخزين الطاقة",
-   "t": "كيف يمكن تخزين الطاقة المتجددة بكلفة منخفضة لفترات طويلة؟"
+   "t": "كيف يمكن تخزين الطاقة المتجددة بكلفة منخفضة لفترات طويلة؟",
+   "why": "الكهرباء المتجددة متقطعة: فهي لا تُنتَج دائمًا عند الحاجة إليها. والتخزين طويل الأمد حلّ محتمل، ويمكنه، إذا كان رخيصًا وفعالًا بما يكفي، أن يخفّض تكاليف الكهرباء بشكل كبير في أنظمة الطاقة منخفضة الكربون."
   },
   "en": {
    "block": "Storage that lasts for days must become much cheaper to replace power plants that run on demand.",
    "known": "Battery prices have fallen by about 90% since 2010.",
    "leads": "New technologies designed to store energy for 100 hours or more.",
    "s": "Energy storage",
-   "t": "How can renewable energy be stored cheaply for long periods?"
+   "t": "How can renewable energy be stored cheaply for long periods?",
+   "why": "Renewable power is intermittent: it is not always produced when it is needed. Long-duration storage is a potential solution and, if cheap and efficient enough, could substantially reduce electricity costs in low-carbon power systems."
   },
   "es": {
    "block": "El almacenamiento que dura varios días debe abaratarse mucho para sustituir a las centrales que producen a demanda.",
    "known": "Los precios de las baterías han bajado cerca de un 90 % desde 2010.",
    "leads": "Nuevas tecnologías diseñadas para almacenar energía durante 100 horas o más.",
    "s": "Almacenar energía",
-   "t": "¿Cómo se puede almacenar energía renovable de forma barata durante largos periodos?"
+   "t": "¿Cómo se puede almacenar energía renovable de forma barata durante largos periodos?",
+   "why": "La electricidad renovable es intermitente: no siempre se produce cuando se necesita. El almacenamiento de larga duración es una posible solución y, si es lo bastante barato y eficiente, podría reducir sustancialmente el coste de la electricidad en sistemas eléctricos bajos en carbono."
   },
   "fr": {
    "block": "Le stockage qui dure plusieurs jours doit devenir beaucoup moins cher pour remplacer les centrales pilotables.",
    "known": "Le prix des batteries a baissé d'environ 90 % depuis 2010.",
    "leads": "De nouvelles technologies conçues pour stocker l'énergie 100 heures ou plus.",
    "s": "Stockage d'énergie",
-   "t": "Comment stocker l'énergie renouvelable longtemps et à bas coût ?"
+   "t": "Comment stocker l'énergie renouvelable longtemps et à bas coût ?",
+   "why": "L'électricité renouvelable est intermittente : elle n'est pas toujours produite au moment où elle est nécessaire. Le stockage de longue durée est une solution possible et, s'il est assez bon marché et efficace, pourrait réduire nettement le coût de l'électricité dans les systèmes électriques bas carbone."
   },
   "hi": {
    "block": "कई दिनों तक चलने वाले भंडारण को मांग पर बिजली देने वाले संयंत्रों की जगह लेने के लिए बहुत सस्ता होना होगा।",
    "known": "2010 से बैटरी की कीमतें लगभग 90% गिरी हैं।",
    "leads": "100 घंटे या उससे अधिक समय तक ऊर्जा संग्रहित करने के लिए बनाई गई नई तकनीकें।",
    "s": "ऊर्जा भंडारण",
-   "t": "नवीकरणीय ऊर्जा को लंबे समय तक सस्ते में कैसे संग्रहित किया जा सकता है?"
+   "t": "नवीकरणीय ऊर्जा को लंबे समय तक सस्ते में कैसे संग्रहित किया जा सकता है?",
+   "why": "नवीकरणीय बिजली रुक-रुक कर बनती है: यह हमेशा ज़रूरत के समय पैदा नहीं होती। लंबी अवधि का भंडारण इसका एक संभावित समाधान है और, अगर यह पर्याप्त सस्ता और कुशल हो, तो कम-कार्बन बिजली प्रणालियों में बिजली की लागत को काफ़ी घटा सकता है।"
   },
   "pt": {
    "block": "O armazenamento que dura vários dias precisa ficar muito mais barato para substituir as usinas que produzem sob demanda.",
    "known": "Os preços das baterias caíram cerca de 90% desde 2010.",
    "leads": "Novas tecnologias projetadas para armazenar energia por 100 horas ou mais.",
    "s": "Armazenar energia",
-   "t": "Como armazenar energia renovável de forma barata por longos períodos?"
+   "t": "Como armazenar energia renovável de forma barata por longos períodos?",
+   "why": "A eletricidade renovável é intermitente: nem sempre é produzida quando é necessária. O armazenamento de longa duração é uma solução possível e, se for barato e eficiente o suficiente, poderia reduzir substancialmente os custos da eletricidade em sistemas elétricos de baixo carbono."
   },
   "zh": {
    "block": "可持续数天的储能必须大幅降低成本，才能取代可按需发电的电厂。",
    "known": "自2010年以来,电池价格已下降约90%。",
    "leads": "可储能100小时以上的新技术。",
    "s": "储能",
-   "t": "如何低成本、长时间地储存可再生能源?"
+   "t": "如何低成本、长时间地储存可再生能源?",
+   "why": "可再生电力具有间歇性：它并不总是在需要时产生。长时储能是一种可能的解决方案，如果足够便宜和高效，就可以大幅降低低碳电力系统中的电力成本。"
   }
  },
  "links": [

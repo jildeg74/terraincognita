@@ -7,49 +7,56 @@
    "known": "تُراجَع الآن فكرة النقص البسيط في السيروتونين.",
    "leads": "المهلوسات تحت إشراف، والكيتامين، وتحفيز دماغي موجَّه ومخصص.",
    "s": "الاكتئاب",
-   "t": "ما السبب الحقيقي للاكتئاب؟"
+   "t": "ما السبب الحقيقي للاكتئاب؟",
+   "why": "يتناول كثير من الناس مضادات الاكتئاب معتقدين أن لاكتئابهم سببًا كيميائيًا، وهي فكرة لم تدعمها مراجعة علمية كبرى. ومعرفة الأسباب الحقيقية ستساعد الناس على اتخاذ قرارات علاجية مستنيرة وقد توجّه اختيار الأساليب التي تستحق التجربة."
   },
   "en": {
    "block": "It is probably several illnesses under one name, with no reliable biological marker.",
    "known": "The idea of a simple serotonin shortage is now being challenged.",
    "leads": "Supervised psychedelics, ketamine, targeted and personalized brain stimulation.",
    "s": "Depression",
-   "t": "What really causes depression?"
+   "t": "What really causes depression?",
+   "why": "Many people take antidepressants believing their depression has a chemical cause, an idea a major review did not support. Knowing the real causes would help people make informed treatment choices and could guide which approaches to try."
   },
   "es": {
    "block": "Probablemente son varias enfermedades bajo un mismo nombre, sin un marcador biológico fiable.",
    "known": "La idea de una simple carencia de serotonina se cuestiona hoy.",
    "leads": "Psicodélicos supervisados, ketamina, estimulación cerebral dirigida y personalizada.",
    "s": "Depresión",
-   "t": "¿Cuál es realmente la causa de la depresión?"
+   "t": "¿Cuál es realmente la causa de la depresión?",
+   "why": "Muchas personas toman antidepresivos creyendo que su depresión tiene una causa química, una idea que una gran revisión no respaldó. Conocer las causas reales ayudaría a tomar decisiones informadas sobre el tratamiento y podría orientar qué enfoques probar."
   },
   "fr": {
    "block": "C'est probablement plusieurs maladies sous un même nom, sans marqueur biologique fiable.",
    "known": "L'idée d'un simple manque de sérotonine est aujourd'hui remise en cause.",
    "leads": "Psychédéliques encadrés, kétamine, stimulation cérébrale ciblée et personnalisée.",
    "s": "Dépression",
-   "t": "Qu'est-ce qui cause vraiment la dépression ?"
+   "t": "Qu'est-ce qui cause vraiment la dépression ?",
+   "why": "Beaucoup de personnes prennent des antidépresseurs en croyant que leur dépression a une cause chimique, une idée qu'une grande revue n'a pas confirmée. Connaître les vraies causes aiderait à faire des choix de traitement éclairés et pourrait orienter les approches à essayer."
   },
   "hi": {
    "block": "संभवतः यह एक नाम के नीचे कई बीमारियाँ हैं, और कोई भरोसेमंद जैविक संकेतक नहीं है।",
    "known": "सेरोटोनिन की सरल कमी का विचार अब चुनौती के दायरे में है।",
    "leads": "निगरानी में साइकेडेलिक्स, केटामाइन, लक्षित और व्यक्तिगत मस्तिष्क उत्तेजना।",
    "s": "अवसाद",
-   "t": "अवसाद का वास्तविक कारण क्या है?"
+   "t": "अवसाद का वास्तविक कारण क्या है?",
+   "why": "बहुत से लोग यह मानकर अवसादरोधी दवाएँ लेते हैं कि उनके अवसाद का कारण रासायनिक है, जबकि एक बड़ी समीक्षा ने इस विचार का समर्थन नहीं किया। असली कारण जानने से लोग इलाज के बारे में सोच-समझकर फ़ैसले कर सकेंगे और यह तय करने में मदद मिल सकती है कि कौन-से उपाय आज़माए जाएँ।"
   },
   "pt": {
    "block": "Provavelmente são várias doenças sob um só nome, sem marcador biológico confiável.",
    "known": "A ideia de uma simples falta de serotonina está sendo contestada hoje.",
    "leads": "Psicodélicos supervisionados, cetamina, estimulação cerebral direcionada e personalizada.",
    "s": "Depressão",
-   "t": "O que realmente causa a depressão?"
+   "t": "O que realmente causa a depressão?",
+   "why": "Muitas pessoas tomam antidepressivos acreditando que sua depressão tem uma causa química, uma ideia que uma grande revisão não sustentou. Conhecer as causas reais ajudaria as pessoas a fazer escolhas de tratamento informadas e poderia orientar quais abordagens tentar."
   },
   "zh": {
    "block": "它很可能是同一名称下的多种疾病,并且没有可靠的生物学标志。",
    "known": "简单的血清素不足这一观点,如今正受到质疑。",
    "leads": "在监督下使用迷幻药,氯胺酮,靶向的个性化脑刺激。",
    "s": "抑郁症",
-   "t": "抑郁症的真正成因是什么?"
+   "t": "抑郁症的真正成因是什么?",
+   "why": "许多人服用抗抑郁药，是因为相信自己的抑郁症有化学上的病因，而一项大型综述并未支持这一观点。弄清真正的病因将帮助人们在知情的情况下选择治疗，并可能指导应尝试哪些方法。"
   }
  },
  "links": [

@@ -70,7 +70,7 @@ def shell(lang, title, desc, path, body, tokens, alt_path, ld=None):
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>{e(title)}</title>{ldjson(ld)}
 <meta name="description" content="{e(desc)}">
-<link rel="canonical" href="{BASE}/{path}">{alts}
+<link rel="canonical" href="{BASE}/{path}"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">{alts}
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:url" content="{BASE}/{path}">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Terra Incognita"><meta property="og:image" content="{BASE}/og.png?v=2"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">

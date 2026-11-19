@@ -44,6 +44,7 @@ tools/build_site.py        construit site/ depuis data/ + page/
 tools/build_pages.py       pages par question, liste, à propos (×7 langues)
 tools/strings.json         textes des pages générées, 7 langues
 tools/og.png               image d'aperçu des liens partagés (1200×630)
+tools/logo/                logo (SVG source + PNG 32, 180, 512, 1024) : points reliés, un point en pointillé doré = l'inconnu
 site/                      site public généré (ne pas éditer à la main)
 .github/workflows/build.yml  valide + reconstruit site/ à chaque push
 ```
@@ -96,6 +97,7 @@ site/                      site public généré (ne pas éditer à la main)
 
 ## 9. Journal
 
+- **2026-11-18** — Logo « points reliés » (icône d'onglet, écran d'accueil, profils de réseaux sociaux).
 - **2026-11-18** — Rubrique « Pourquoi c'est important » ajoutée aux 100 questions (7 langues), rédigée par 4 agents, vérifiée par 4 vérificateurs indépendants (54 acceptées telles quelles, 46 corrigées, 0 rejetée).
 - **2026-11-18** — Lisible par les IA : `llms.txt` à la racine, données structurées schema.org (Dataset sur l'accueil, WebPage + Question + citations sur chaque page).
 - **2026-11-18** — Règle de croissance : jusqu'à 5 nouvelles questions par mois, vérifiées.

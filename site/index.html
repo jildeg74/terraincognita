@@ -299,8 +299,8 @@ function fit(){
   if(!nodes.length||!W)return;
   let x0=Infinity,y0=Infinity,x1=-Infinity,y1=-Infinity;
   for(const n of nodes){x0=Math.min(x0,n.x);y0=Math.min(y0,n.y);x1=Math.max(x1,n.x);y1=Math.max(y1,n.y)}
-  const pad=60;view.k=Math.min((W-pad*2)/(x1-x0||1),(H-pad*2)/(y1-y0||1),1.4);
-  view.x=W/2-(x0+x1)/2*view.k;view.y=H/2-(y0+y1)/2*view.k;
+  const pad=W<500?44:60,lg=($('legend')||{}).offsetHeight||0,Hu=H-lg;view.k=Math.min((W-pad*2)/(x1-x0||1),(Hu-pad*2)/(y1-y0||1),1.4);
+  view.x=W/2-(x0+x1)/2*view.k;view.y=Hu/2-(y0+y1)/2*view.k;
 }
 const toS=n=>({x:n.x*view.k+view.x,y:n.y*view.k+view.y});
 
@@ -325,11 +325,24 @@ function draw(){
     ctx.beginPath();ctx.arc(p.x,p.y,r+4.5,0,Math.PI*2);ctx.stroke();ctx.setLineDash([]);
     if(n.n===3){ctx.strokeStyle=accent;ctx.lineWidth=1.5;ctx.beginPath();ctx.arc(p.x,p.y,r+7.5,0,Math.PI*2);ctx.stroke()}
     if(n===sel){ctx.strokeStyle=fg;ctx.lineWidth=2;ctx.beginPath();ctx.arc(p.x,p.y,r+9,0,Math.PI*2);ctx.stroke()}
-    if(showAll||nb.has(n.id)||query)labels.push({n,p,r,pri:n===focus?0:nb.has(n.id)?1:2});
+    if(showAll||nb.has(n.id)||query||(!focus&&n.n>=2))labels.push({n,p,r,pri:n===focus?0:nb.has(n.id)?1:(!focus&&n.n>=2)?1:2});
   }
   ctx.globalAlpha=1;
   labels.sort((a,b)=>a.pri-b.pri);const boxes=[],bg=css('--bg');
   ctx.textAlign='center';ctx.lineJoin='round';
+  // Domain names on their clusters, so the map reads at a glance before any click
+  if(!query){
+    const t=T(),all=nodes.filter(visible);let cx=0,cy=0;all.forEach(n=>{const p=toS(n);cx+=p.x;cy+=p.y});cx/=all.length||1;cy/=all.length||1;
+    for(const k of DKEYS){
+      const g=all.filter(n=>n.d===k);if(!g.length)continue;
+      let gx=0,gy=0;const ps=g.map(toS);ps.forEach(p=>{gx+=p.x;gy+=p.y});gx/=ps.length;gy/=ps.length;
+      const rad=Math.max(...ps.map(p=>Math.hypot(p.x-gx,p.y-gy)));let dx=gx-cx,dy=gy-cy;const d=Math.hypot(dx,dy)||1;dx/=d;dy/=d;
+      const txt=(t.dom[k]||k).toUpperCase();ctx.font=(W<500?'700 11px':'700 12.5px')+' Inter, system-ui, "Noto Sans", sans-serif';const w=ctx.measureText(txt).width;
+      let x=gx+dx*(rad+16),y=gy+dy*(rad+16)+4;x=Math.min(Math.max(x,w/2+8),W-w/2-8);y=Math.min(Math.max(y,18),H-(($('legend')||{}).offsetHeight||0)-28);
+      boxes.push({x0:x-w/2-4,x1:x+w/2+4,y0:y-13,y1:y+4});
+      ctx.globalAlpha=focus&&focus.d!==k?.6:1;ctx.strokeStyle=bg;ctx.lineWidth=4;ctx.strokeText(txt,x,y);ctx.fillStyle=css('--d-'+k);ctx.fillText(txt,x,y);ctx.globalAlpha=1;
+    }
+  }
   for(const L of labels){
     const txt=tx(L.n).s||'';ctx.font=(L.pri===0?'600 ':'500 ')+'11.5px Inter, system-ui, "Noto Sans", sans-serif';
     const w=ctx.measureText(txt).width,y=L.p.y+L.r+17,bx={x0:L.p.x-w/2-2,x1:L.p.x+w/2+2,y0:y-11,y1:y+3};

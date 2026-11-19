@@ -44,6 +44,16 @@ head = '''<!doctype html>
 <link rel="canonical" href="https://terraincognita.ca/">
 <style>*,*::before,*::after{box-sizing:border-box}body{margin:0}[hidden]{display:none!important}</style>
 '''
+LD = {'@context': 'https://schema.org', '@type': 'Dataset', 'name': 'Terra Incognita',
+      'description': 'A living map of the great open questions of science: for each question, what we know, what blocks us, current leads, research sub-questions and typed sources, in seven languages, checked every week.',
+      'url': 'https://terraincognita.ca/', 'identifier': 'https://doi.org/10.5281/zenodo.24356516',
+      'license': 'https://creativecommons.org/licenses/by/4.0/', 'isAccessibleForFree': True,
+      'inLanguage': ['en', 'fr', 'zh', 'es', 'hi', 'ar', 'pt'],
+      'keywords': ['open questions', 'unsolved problems', 'science', 'research frontier', 'open data'],
+      'creator': {'@type': 'Organization', 'name': 'Terra Incognita contributors'},
+      'publisher': {'@type': 'Organization', 'name': 'Juvason', 'email': 'contact@juvason.com'},
+      'distribution': [{'@type': 'DataDownload', 'encodingFormat': 'application/json', 'contentUrl': 'https://terraincognita.ca/data.json'}]}
+head = head.replace('<style>', '<script type="application/ld+json">' + json.dumps(LD, ensure_ascii=False) + '</script>\n<style>', 1)
 te = page.index('</title>') + len('</title>')
 html = head + page[:te] + '\n' + page[te:].replace('<div class="wrap">', '</head><body>\n<div class="wrap">', 1) + '\n</body></html>\n'
 
@@ -68,6 +78,22 @@ open(os.path.join(out, 'data.json'), 'w').write(json.dumps({
     'name': 'Terra Incognita', 'license': 'CC BY 4.0', 'url': 'https://terraincognita.ca/',
     'updated': updated, 'questions': docs, 'changes': changes, 'digests': digests}, ensure_ascii=False, indent=1))
 open(os.path.join(out, 'robots.txt'), 'w').write('User-agent: *\nAllow: /\nSitemap: https://terraincognita.ca/sitemap.xml\n')
+LD['dateModified'] = updated
+html = html.replace('"isAccessibleForFree": true', '"isAccessibleForFree": true, "dateModified": "' + updated + '"', 1)
+open(os.path.join(out, 'index.html'), 'w').write(html)
+en = sorted(docs, key=lambda d: d['i18n']['en']['t'])
+open(os.path.join(out, 'llms.txt'), 'w').write(
+    '# Terra Incognita\n\n> A living map of what humanity does not know yet: ' + str(len(docs)) + ' great open scientific questions, linked together. '
+    'For each: what we know, what blocks us, current leads, research sub-questions and typed sources (peer-reviewed study, preprint, official, press...). '
+    'Seven languages: en, fr, zh, es, hi, ar, pt. Checked every week; nothing is written without a source that was actually read, and changes are re-checked by an independent verifier. '
+    'Not yet reviewed by domain specialists. Last update: ' + updated + '.\n\n'
+    '## Data\n\n- [Full dataset, all languages (JSON)](https://terraincognita.ca/data.json): questions, sources, sub-questions, change log. License CC BY 4.0.\n'
+    + ''.join(f'- [Questions in {l} (JSON)](https://terraincognita.ca/q/{l}.json)\n' for l in build_pages.LANGS) +
+    '- Cite as: Terra Incognita contributors, Terra Incognita, DOI https://doi.org/10.5281/zenodo.24356516\n\n'
+    '## Pages\n\n- [About and method](https://terraincognita.ca/en/about.html)\n- [All questions by field](https://terraincognita.ca/en/index.html)\n'
+    '- Each question has one page per language: https://terraincognita.ca/<lang>/<id>.html\n\n'
+    '## Questions (English)\n\n' + ''.join(f"- [{d['i18n']['en']['t']}](https://terraincognita.ca/en/{d['id']}.html)\n" for d in en) +
+    '\n## Contact\n\ncontact@juvason.com (publisher: Juvason, Montréal, Canada)\n')
 locs = [''] + urls
 open(os.path.join(out, 'sitemap.xml'), 'w').write(
     '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +

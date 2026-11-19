@@ -52,13 +52,22 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-si
 '''
 
 
-def shell(lang, title, desc, path, body, tokens, alt_path):
+DOI = 'https://doi.org/10.5281/zenodo.24356516'
+
+
+def ldjson(obj):
+    if not obj:
+        return ''
+    return '\n<script type="application/ld+json">' + json.dumps(obj, ensure_ascii=False).replace('</', '<\\/') + '</script>'
+
+
+def shell(lang, title, desc, path, body, tokens, alt_path, ld=None):
     d = ' dir="rtl"' if lang == 'ar' else ''
     alts = ''.join(f'<link rel="alternate" hreflang="{l}" href="{BASE}/{l}/{alt_path}">' for l in LANGS)
     return f'''<!doctype html>
 <html lang="{lang}"{d}><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>{e(title)}</title>
+<title>{e(title)}</title>{ldjson(ld)}
 <meta name="description" content="{e(desc)}">
 <link rel="canonical" href="{BASE}/{path}">{alts}
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:url" content="{BASE}/{path}">
@@ -122,7 +131,13 @@ def build(page, docs, out, changes=()):
                     f'<p class="meta">{e(X["checked"])}: {e(d.get("checked", ""))}</p>' + hsec +
                     f'<a class="cta" href="../?lang={lang}#{d["id"]}">{e(X["map"])} {"←" if lang == "ar" else "→"}</a>' + foot(lang, X))
             open(os.path.join(out, lang, d['id'] + '.html'), 'w', encoding='utf-8').write(
-                shell(lang, f'{a["t"]} · Terra Incognita', a['known'], f'{lang}/{d["id"]}.html', body, tokens, d['id'] + '.html'))
+                shell(lang, f'{a["t"]} · Terra Incognita', a['known'], f'{lang}/{d["id"]}.html', body, tokens, d['id'] + '.html', {
+                    '@context': 'https://schema.org', '@type': 'WebPage', 'url': f'{BASE}/{lang}/{d["id"]}.html',
+                    'name': a['t'], 'description': a['known'], 'inLanguage': lang, 'dateModified': d.get('checked', ''),
+                    'license': 'https://creativecommons.org/licenses/by/4.0/',
+                    'isPartOf': {'@type': 'Dataset', 'name': 'Terra Incognita', 'url': BASE + '/', 'identifier': DOI},
+                    'mainEntity': {'@type': 'Question', 'name': a['t'], 'text': a['t'], 'about': t['dom'][d['d']]},
+                    'citation': [{'@type': 'CreativeWork', 'name': s['t'], 'url': s['u']} for s in d['src']]}))
             urls.append(f'{lang}/{d["id"]}.html')
         groups = ''
         for k in DKEYS:

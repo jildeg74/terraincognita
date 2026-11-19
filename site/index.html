@@ -40,6 +40,7 @@ body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15
 .wrap{max-width:1280px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
 header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px}
 h1{font-family:var(--f-display);font-weight:400;font-size:clamp(30px,5vw,46px);margin:0;line-height:1;letter-spacing:.02em}
+.allq{display:inline-block;margin-top:8px;padding:6px 14px;border:1.5px solid var(--accent);border-radius:999px;color:var(--accent);font-weight:600;font-size:14px;text-decoration:none}.allq:hover{background:color-mix(in srgb,var(--accent) 8%,transparent)}
 .sub{color:var(--muted);margin:6px 0 0;max-width:62ch}
 .right{display:flex;flex-direction:column;align-items:flex-end;gap:8px}
 .count{font-family:var(--f-mono);font-size:12px;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
@@ -114,6 +115,7 @@ footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-si
 #nlMsg{margin:0;font-size:13px;color:var(--muted);flex:1 1 100%}
 #propForm select{font:14px var(--f-body);background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:8px 10px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+@media (max-width:640px){.right{flex-direction:row;flex-wrap:wrap;align-items:center;width:100%}.allq{margin-top:0}}
 @media (max-width:640px){canvas{height:clamp(380px,115vw,70vh)}}
 </style>
 
@@ -127,6 +129,7 @@ footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-si
     <div class="right">
       <select id="lang" aria-label="Language"></select>
       <div class="count" id="count">—</div>
+      <a class="allq" id="listTop" href="en/index.html"></a>
     </div>
   </header>
   <div class="tools" id="filters"></div>
@@ -267,7 +270,7 @@ function applyLang(){
   $('digT').textContent=t.dig;$('nlL').textContent=t.nl;$('nlBtn').textContent=t.nlBtn;$('nlLang').value=lang;$('pkL').textContent=t.kind;$('pk0').textContent=t.k0;$('pk1').textContent=t.k1;$('pk2').textContent=t.k2;
   $('newsT').textContent=t.news;$('propT').textContent=t.prop;$('pqL').textContent=t.propQ;$('psL').textContent=t.propS;$('peL').textContent=t.propE;$('pBtn').textContent=t.send;$('dataLink').textContent=t.data;
   renderNews();renderDigest();
-  const X=EXTRA[lang]||EXTRA.en;if(X){$('listLink').textContent=X.list;$('listLink').href=lang+'/index.html';$('aboutLink').textContent=X.about;$('aboutLink').href=lang+'/about.html'}
+  const X=EXTRA[lang]||EXTRA.en;if(X){$('listLink').textContent=X.list;$('listLink').href=lang+'/index.html';$('listTop').textContent=X.list+(lang==='ar'?' ←':' →');$('listTop').href=lang+'/index.html';$('aboutLink').textContent=X.about;$('aboutLink').href=lang+'/about.html'}
   if(sel)select(sel);else panel.replaceChildren(el('p',{textContent:t.pick,style:'margin:0;color:var(--muted)'}));
   draw();
 }

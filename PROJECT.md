@@ -97,6 +97,7 @@ site/                      site public généré (ne pas éditer à la main)
 
 ## 9. Journal
 
+- **2026-11-19** — Bouton « Toutes les questions » bien visible en haut de l'accueil (idée de Mistral) ; l'en-tête est aussi mieux disposé sur téléphone.
 - **2026-11-19** — Bouton « Lire en détail » en haut du panneau de la carte (durée de lecture, nombre de sources) pour les fiches qui ont la section détaillée ; il mène directement à cette section.
 - **2026-11-19** — Section « En détail » (où en est-on, hypothèses en présence, ce qui permettrait de trancher, dernières avancées), 250 à 350 mots, chaque phrase reliée à sa source, 7 langues, sur les pages de question seulement. 10 fiches pilotes : énergie sombre, matière noire, origine de la vie, Alzheimer, antibiorésistance, conscience, P contre NP, interprétabilité, sensibilité climatique, origine du langage. Le validateur vérifie qu'aucune phrase anglaise n'est sans source et que chaque langue cite les mêmes sources que l'anglais. Déploiement : environ 10 fiches par veille hebdomadaire.
 - **2026-11-19** — Règle de croissance réduite à 2 questions par mois maximum, et seulement après le règlement des points ouverts (consolidation d'abord, avis convergent de 4 IA consultées). Netlify ne publie plus quand un envoi ne touche pas `site/` (fichiers de documentation seulement).

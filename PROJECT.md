@@ -97,6 +97,7 @@ site/                      site public généré (ne pas éditer à la main)
 
 ## 9. Journal
 
+- **2026-11-19** — Objet des courriels de formulaire fixé dans le HTML (champ caché `subject`) : « Terra Incognita : proposition » et « Terra Incognita : nouvel abonné ». Ce réglage l'emporte sur celui de l'interface Netlify.
 - **2026-11-19** — Les courriels des formulaires arrivaient vides (« : ») : les étiquettes des champs étaient vides dans le HTML publié, puisque le texte est ajouté ensuite par le script dans la langue du visiteur. Netlify lit ces étiquettes au déploiement pour nommer les champs. Étiquettes anglaises ajoutées dans le HTML ; le script les remplace toujours à l'affichage.
 - **2026-11-19** — Carte cadrée au-dessus de la légende (téléphone). Essai de noms affichés en permanence sur la carte (domaines, questions « percée en vue ») retiré le même jour à la demande du propriétaire : plus encombrant qu'utile.
 - **2026-11-19** — Bouton « Toutes les questions » bien visible en haut de l'accueil (idée de Mistral) ; l'en-tête est aussi mieux disposé sur téléphone.

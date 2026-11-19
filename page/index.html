@@ -131,6 +131,7 @@ footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-si
       <div class="digest-body" id="digBody"></div>
       <form name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field" id="nlForm" hidden>
         <input type="hidden" name="form-name" value="newsletter">
+        <input type="hidden" name="subject" data-remove-prefix value="Terra Incognita : nouvel abonné">
         <p hidden><label>Leave empty <input name="bot-field"></label></p>
         <label for="nlE" id="nlL">Email</label>
         <input id="nlE" name="email" type="email" required maxlength="200" autocomplete="email">
@@ -142,6 +143,7 @@ footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-si
     <section class="card" id="propose" aria-labelledby="propT" hidden><h2 id="propT"></h2>
       <form name="propose" method="POST" data-netlify="true" netlify-honeypot="bot-field" id="propForm">
         <input type="hidden" name="form-name" value="propose">
+        <input type="hidden" name="subject" data-remove-prefix value="Terra Incognita : proposition">
         <p hidden><label>Leave empty <input name="bot-field"></label></p>
         <label for="pk" id="pkL">Type</label><select id="pk" name="kind"><option value="question" id="pk0">New question</option><option value="correction" id="pk1">Correction</option><option value="reviewer" id="pk2">Reviewer</option></select>
         <label for="pq" id="pqL">Message</label><textarea id="pq" name="message" rows="4" required maxlength="3000"></textarea>

@@ -92,14 +92,15 @@ site/                      site public généré (ne pas éditer à la main)
 - [x] Google Search Console : propriété « Domaine » terraincognita.ca validée (via GoDaddy), sitemap envoyé le 18/11/2026.
 - [x] Zenodo relié à GitHub le 18/11/2026 : chaque « release » GitHub est archivée avec un DOI (v1.0 publiée le 18/11/2026). DOI : 10.5281/zenodo.24356516 (https://doi.org/10.5281/zenodo.24356516).
 - [x] Outil d'envoi du bilan mensuel : Brevo (gratuit), formulaire en ligne le 19/11/2026.
-- [ ] Brevo : vérifier le numéro de téléphone du compte (par le propriétaire), puis passer le formulaire en double opt-in (Formulaires > Terra Incognita - Infolettre > Paramètres) ; actuellement « pas d'e-mail de confirmation ». Ensuite envoyer le premier bilan (début décembre 2026).
+- [x] Brevo : téléphone vérifié, 2FA (application d'authentification) activé, formulaire en double opt-in depuis le 19/11/2026.
+- [ ] Envoyer le premier bilan mensuel par Brevo (début décembre 2026).
 - [ ] Recruter des chercheurs relecteurs par domaine (affichés « Relu par » avec leur institution).
 - [ ] Revenus envisagés : subventions (science ouverte), accès aux données/API pour organisations, rapports sur mesure.
 - [ ] Plus tard : agents « chercheurs » qui proposent de nouvelles questions, toujours avec vérification.
 
 ## 9. Journal
 
-- **2026-11-19** — Infolettre sur Brevo (plan gratuit) : domaine authentifié (brevo-code, brevo1/brevo2 DKIM chez GoDaddy, DMARC OK), expéditeur « Juvason <contact@terraincognita.ca> », liste « Terra Incognita », formulaire d'inscription hébergé par Brevo. Sur la page d'accueil, le formulaire Netlify « newsletter » est remplacé par un bouton « S'abonner » qui ouvre ce formulaire. Reste : vérification du téléphone du compte par le propriétaire (bloque le double opt-in et les envois), puis passage en double opt-in.
+- **2026-11-19** — Infolettre sur Brevo (plan gratuit) : domaine authentifié (brevo-code, brevo1/brevo2 DKIM chez GoDaddy, DMARC OK), expéditeur « Juvason <contact@terraincognita.ca> », liste « Terra Incognita », formulaire d'inscription hébergé par Brevo. Sur la page d'accueil, le formulaire Netlify « newsletter » est remplacé par un bouton « S'abonner » qui ouvre ce formulaire. Téléphone vérifié, 2FA activé et formulaire passé en double opt-in le soir même.
 - **2026-11-19** — Adresse dédiée contact@terraincognita.ca : domaine ajouté dans Zoho (MX, SPF, DKIM vérifiés ; enregistrements GoDaddy A @ et CNAME www inchangés), alias de la boîte existante. Le site, llms.txt et les données structurées l'utilisent. Les notifications Netlify Forms continuent d'arriver dans la même boîte. Pour mixjournal.org : même méthode (domaine Zoho, MX/SPF/DKIM chez GoDaddy, alias).
 - **2026-11-19** — Objet des courriels de formulaire fixé dans le HTML (champ caché `subject`) : « Terra Incognita : proposition » et « Terra Incognita : nouvel abonné ». Ce réglage l'emporte sur celui de l'interface Netlify.
 - **2026-11-19** — Les courriels des formulaires arrivaient vides (« : ») : les étiquettes des champs étaient vides dans le HTML publié, puisque le texte est ajouté ensuite par le script dans la langue du visiteur. Netlify lit ces étiquettes au déploiement pour nommer les champs. Étiquettes anglaises ajoutées dans le HTML ; le script les remplace toujours à l'affichage.

@@ -27,11 +27,11 @@
   color-scheme:dark;
 }
 @media (prefers-color-scheme: light){ :root:not([data-theme="dark"]){
-  --bg:#eef2f4; --bg2:#ffffff; --line:#c6d2da; --fg:#13212d; --muted:#5a6f7f; --accent:#b06d0b;
+  --bg:#f1eadb; --bg2:#fffcf5; --line:#d9ccb1; --fg:#1a2430; --muted:#6a6352; --accent:#a45a00;
   --d-P:#2a6fc9; --d-V:#1f8a57; --d-E:#a23d92; --d-M:#b06d0b; --d-I:#6a52d1; --d-T:#14868c; --d-H:#c9472a;
   color-scheme:light } }
 :root[data-theme="light"]{
-  --bg:#eef2f4; --bg2:#ffffff; --line:#c6d2da; --fg:#13212d; --muted:#5a6f7f; --accent:#b06d0b;
+  --bg:#f1eadb; --bg2:#fffcf5; --line:#d9ccb1; --fg:#1a2430; --muted:#6a6352; --accent:#a45a00;
   --d-P:#2a6fc9; --d-V:#1f8a57; --d-E:#a23d92; --d-M:#b06d0b; --d-I:#6a52d1; --d-T:#14868c; --d-H:#c9472a;
   color-scheme:light }
 html,body{height:100%}
@@ -123,6 +123,16 @@ footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-si
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 @media (max-width:640px){.right{flex-direction:row;flex-wrap:wrap;align-items:center;width:100%}.allq{margin-top:0}}
 @media (max-width:640px){canvas{height:clamp(380px,115vw,70vh)}}
+
+/* La carte est toujours une mer de nuit : points lumineux sur bleu marine, quel que soit le thème */
+.sea{--bg:#0d1a26;--bg2:#13263a;--line:#2a425b;--fg:#e6edf2;--muted:#8fa6b8;--accent:#f2b45a;--d-P:#7fb8ff;--d-V:#6fd3a0;--d-E:#e58fd6;--d-M:#f2b45a;--d-I:#b6a3ff;--d-T:#5fd0d6;--d-H:#ff9478;color:var(--fg);
+  box-shadow:0 18px 50px -20px rgba(8,20,40,.55),inset 0 0 90px rgba(0,0,0,.35);border-color:#1d3248;
+  background:radial-gradient(ellipse at 50% 40%,rgba(60,110,170,.22),transparent 65%),radial-gradient(circle at 1px 1px,color-mix(in srgb,var(--line) 70%,transparent) 1px,transparent 0) 0 0/22px 22px,var(--bg)}
+body{background:radial-gradient(900px 520px at 6% 0%,color-mix(in srgb,var(--accent) 14%,transparent),transparent 70%),radial-gradient(1000px 640px at 100% 100%,rgba(50,100,150,.13),transparent 70%),var(--bg);background-attachment:fixed}
+aside,.card{box-shadow:0 10px 30px -18px rgba(60,40,10,.35)}
+.chip{background:color-mix(in srgb,var(--bg2) 70%,transparent)}
+footer::before{background:linear-gradient(180deg,#13263a,#0a1420);border-top:1px solid #000}
+footer{color:#aebccb}footer a{color:#f0a030}
 </style>
 
 </head><body>
@@ -228,7 +238,7 @@ ar:{sub:"خريطة لما لا تعرفه البشرية بعد. كل نقطة 
 };
 const EXTRA={"en":{"list":"All questions","about":"About","solved":"Solved","page":"This question's page","newq":"New question","why":"Why it matters","readMore":"Read in depth","readMeta":"{m} min read · {n} sources, every sentence cited"},"fr":{"list":"Toutes les questions","about":"À propos","solved":"Résolue","page":"Page de cette question","newq":"Nouvelle question","why":"Pourquoi c'est important","readMore":"Lire en détail","readMeta":"{m} min de lecture · {n} sources, chaque phrase citée"},"zh":{"list":"全部问题","about":"关于","solved":"已解决","page":"本问题页面","newq":"新问题","why":"为什么重要","readMore":"深入阅读","readMeta":"阅读约{m}分钟 · {n}个来源，每句均注明出处"},"es":{"list":"Todas las preguntas","about":"Acerca de","solved":"Resuelta","page":"Página de esta pregunta","newq":"Nueva pregunta","why":"Por qué importa","readMore":"Leer en detalle","readMeta":"{m} min de lectura · {n} fuentes, cada frase citada"},"hi":{"list":"सभी प्रश्न","about":"परिचय","solved":"हल हो चुका","page":"इस प्रश्न का पेज","newq":"नया प्रश्न","why":"यह क्यों महत्वपूर्ण है","readMore":"विस्तार से पढ़ें","readMeta":"लगभग {m} मिनट का पाठ · {n} स्रोत, हर वाक्य का स्रोत दिया गया"},"ar":{"list":"كل الأسئلة","about":"عن المشروع","solved":"محلول","page":"صفحة هذا السؤال","newq":"سؤال جديد","why":"لماذا يهمّ","readMore":"اقرأ بالتفصيل","readMeta":"قراءة نحو {m} دقائق · المصادر: {n}، ولكل جملة مصدرها"},"pt":{"list":"Todas as perguntas","about":"Sobre","solved":"Resolvida","page":"Página desta pergunta","newq":"Nova pergunta","why":"Por que isso importa","readMore":"Ler em detalhe","readMeta":"{m} min de leitura · {n} fontes, cada frase citada"}};let hashOK=false;
 const DKEYS=["P","V","E","M","I","T","H"];
-const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const css=n=>getComputedStyle(document.querySelector('.sea')||document.documentElement).getPropertyValue(n).trim();
 const $=id=>document.getElementById(id);
 const cv=$('cv'),ctx=cv.getContext('2d'),statusEl=$('status'),panel=$('panel');
 let nodes=[],byId={},edges=[],sel=null,hover=null,query='',statusKey='loading';

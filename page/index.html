@@ -96,7 +96,7 @@ footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-si
 #nlForm{display:flex;flex-wrap:wrap;gap:8px;align-items:center;border-top:1px solid var(--line);padding-top:12px}
 #nlForm label{font-size:14px;flex:1 1 100%}
 #nlForm input{font:14px var(--f-body);background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:8px 10px;flex:1 1 220px;min-width:0}
-#nlForm button{font:600 14px var(--f-body);background:var(--accent);color:var(--bg);border:0;border-radius:8px;padding:9px 16px;cursor:pointer}
+#nlForm .nlbtn{text-decoration:none;display:inline-block;font:600 14px var(--f-body);background:var(--accent);color:var(--bg);border:0;border-radius:8px;padding:9px 16px;cursor:pointer}
 #nlMsg{margin:0;font-size:13px;color:var(--muted);flex:1 1 100%}
 #propForm select{font:14px var(--f-body);background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:8px 10px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
@@ -129,15 +129,10 @@ footer .links{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:8px;font-si
     <section class="card" id="digest" aria-labelledby="digT">
       <div class="digest-head"><h2 id="digT"></h2><div class="months" id="months"></div></div>
       <div class="digest-body" id="digBody"></div>
-      <form name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field" id="nlForm" hidden>
-        <input type="hidden" name="form-name" value="newsletter">
-        <input type="hidden" name="subject" data-remove-prefix value="Terra Incognita : nouvel abonné">
-        <p hidden><label>Leave empty <input name="bot-field"></label></p>
-        <label for="nlE" id="nlL">Email</label>
-        <input id="nlE" name="email" type="email" required maxlength="200" autocomplete="email">
-        <input type="hidden" name="lang" id="nlLang" value="en" aria-label="Language">
-        <button type="submit" id="nlBtn"></button><p id="nlMsg" role="status"></p>
-      </form>
+      <div id="nlForm" hidden>
+        <label id="nlL">Email</label>
+        <a id="nlBtn" class="nlbtn" href="https://c2bb3c16.sibforms.com/serve/MUIFAM9DvPAlSw5pesjVrVFyfLhOjlNZuTeAP1MfPW4eb0jPkcTywEYohkqEJ3__wMfRW3kh_8N5Zvk7SewpwrCTdYNndAWJAHmjtXh2vIPyGqvqHpGhbmxOocevR6uqci85mc6mCqcOVmKa6YJvr2hDD586jH9jO2S1wxcps5xYhu4Sq-OnCN5ENUIq-5TTBTPe2hyrBodsvMjFUg==" target="_blank" rel="noopener"></a>
+      </div>
     </section>
     <section class="card" id="news" aria-labelledby="newsT"><h2 id="newsT"></h2><ol id="newsList"></ol></section>
     <section class="card" id="propose" aria-labelledby="propT" hidden><h2 id="propT"></h2>
@@ -253,7 +248,7 @@ function applyLang(){
   for(const k of DKEYS)chips[k].textContent=t.dom[k];
   const lg=$('legend');lg.replaceChildren();[...t.near,((EXTRA[lang]||EXTRA.en||{}).solved||'')].forEach((s,i)=>{if(!s)return;const sp=document.createElement('span'),b=document.createElement('b');if(i!==2)b.className='d'+i;sp.append(b,s);lg.append(sp)});
   setStatus(statusKey);
-  $('digT').textContent=t.dig;$('nlL').textContent=t.nl;$('nlBtn').textContent=t.nlBtn;$('nlLang').value=lang;$('pkL').textContent=t.kind;$('pk0').textContent=t.k0;$('pk1').textContent=t.k1;$('pk2').textContent=t.k2;
+  $('digT').textContent=t.dig;$('nlL').textContent=t.nl;$('nlBtn').textContent=t.nlBtn;$('pkL').textContent=t.kind;$('pk0').textContent=t.k0;$('pk1').textContent=t.k1;$('pk2').textContent=t.k2;
   $('newsT').textContent=t.news;$('propT').textContent=t.prop;$('pqL').textContent=t.propQ;$('psL').textContent=t.propS;$('peL').textContent=t.propE;$('pBtn').textContent=t.send;$('dataLink').textContent=t.data;
   renderNews();renderDigest();
   const X=EXTRA[lang]||EXTRA.en;if(X){$('listLink').textContent=X.list;$('listLink').href=lang+'/index.html';$('listTop').textContent=X.list+(lang==='ar'?' ←':' →');$('listTop').href=lang+'/index.html';$('aboutLink').textContent=X.about;$('aboutLink').href=lang+'/about.html'}
@@ -435,12 +430,6 @@ function renderDigest(){
   if(loc.title)body.append(el('h3',{textContent:loc.title,style:'font:600 17px var(--f-body);margin:0 0 8px;color:var(--fg);letter-spacing:0;text-transform:none'}));
   String(loc.body||'').split(/\n+/).filter(Boolean).forEach(par=>body.append(el('p',{textContent:par})));
 }
-$('nlForm').addEventListener('submit',async e=>{
-  e.preventDefault();const f=e.target,t=T(),msg=$('nlMsg');$('nlBtn').disabled=true;msg.textContent='';
-  try{const r=await fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams(new FormData(f)).toString()});
-    if(!r.ok)throw 0;msg.textContent=t.nlOk;f.reset()}catch(err){msg.textContent=t.failed}
-  $('nlBtn').disabled=false;
-});
 applyLang();resize();
 (async()=>{
   const timer=setTimeout(()=>{if(!nodes.length)setStatus('slow')},10000);

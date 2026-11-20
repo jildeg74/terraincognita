@@ -39,7 +39,7 @@ head = '''<!doctype html>
 <meta property="og:description" content="A living map of what humanity does not know yet.">
 <meta property="og:url" content="https://terraincognita.ca/">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Terra Incognita">
-<meta property="og:image" content="https://terraincognita.ca/og.png?v=2"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:image" content="https://terraincognita.ca/og.jpg?v=3"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://terraincognita.ca/">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -79,7 +79,7 @@ import shutil
 L = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'logo')
 for src, dst in (('logo.svg', 'favicon.svg'), ('favicon-32.png', 'favicon-32.png'), ('apple-touch-icon.png', 'apple-touch-icon.png'), ('logo-512.png', 'logo-512.png')):
     shutil.copy(os.path.join(L, src), os.path.join(out, dst))
-shutil.copy(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'og.png'), os.path.join(out, 'og.png'))
+shutil.copy(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'og.jpg'), os.path.join(out, 'og.jpg'))
 updated = max([d.get('checked', '') for d in docs] + [c.get('date', '') for c in changes])
 open(os.path.join(out, 'data.json'), 'w').write(json.dumps({
     'name': 'Terra Incognita', 'license': 'CC BY 4.0', 'url': 'https://terraincognita.ca/',

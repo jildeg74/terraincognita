@@ -43,7 +43,7 @@ tools/validate.py          contrôle les données (langues, sources, liens…)
 tools/build_site.py        construit site/ depuis data/ + page/
 tools/build_pages.py       pages par question, liste, à propos (×7 langues)
 tools/strings.json         textes des pages générées, 7 langues
-tools/og.png               image d'aperçu des liens partagés (1200×630)
+tools/og.jpg               image d'aperçu des liens partagés (1200×630)
 tools/logo/                logo (SVG source + PNG 32, 180, 512, 1024) : points reliés, un point en pointillé doré = l'inconnu
 site/                      site public généré (ne pas éditer à la main)
 .github/workflows/build.yml  valide + reconstruit site/ à chaque push

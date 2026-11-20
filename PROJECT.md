@@ -11,7 +11,7 @@ Ce document permet à n'importe qui (le propriétaire, une IA de n'importe quell
 **Terra Incognita** (https://terraincognita.ca) est une carte vivante de ce que l'humanité ne sait pas encore : les grandes questions scientifiques ouvertes de tous les domaines, reliées entre elles. Pour chaque question : ce qu'on sait, ce qui bloque, les pistes actuelles, des sous-questions de recherche, les sources (avec leur type), et à quel point on est proche d'une réponse.
 
 - **Public visé** : toute la planète (étudiants, enseignants, journalistes, chercheurs, curieux, financeurs).
-- **Éditeur** : Juvason, entreprise basée à Montréal (Canada). Contact public : contact@juvason.com.
+- **Éditeur** : Juvason, entreprise basée à Montréal (Canada). Contact public : contact@terraincognita.ca (alias Zoho de la même boîte que contact@juvason.com).
 - **Né le** 18 novembre 2026, conçu et construit avec Claude (Anthropic).
 
 ## 2. Principes non négociables
@@ -20,7 +20,7 @@ Ce document permet à n'importe qui (le propriétaire, une IA de n'importe quell
 2. **Vérification indépendante.** Tout lot de changements est revérifié par un second agent (ou une personne) qui ne l'a pas écrit, avant publication.
 3. **Mondial.** Pensé pour 8 milliards de personnes, pas pour un pays. Sept langues : en, fr, zh, es, hi, ar, pt.
 4. **Indépendant.** Le projet ne dépend d'aucune IA, entreprise ou personne. Tout ce qu'il faut pour continuer est dans ce dépôt.
-5. **Vie privée du propriétaire.** Aucun nom personnel, adresse personnelle ou donnée personnelle sur le site ni dans le dépôt. Le nom « Juvason », la ville (Montréal, Canada) et contact@juvason.com peuvent apparaître. Le nom d'utilisateur GitHub est visible sur GitHub seulement, jamais sur le site.
+5. **Vie privée du propriétaire.** Aucun nom personnel, adresse personnelle ou donnée personnelle sur le site ni dans le dépôt. Le nom « Juvason », la ville (Montréal, Canada) et contact@terraincognita.ca peuvent apparaître (contact@juvason.com reste réservé à juvason.com). Le nom d'utilisateur GitHub est visible sur GitHub seulement, jamais sur le site.
 6. **Pas de publicité, pas de cookies de suivi, pas de comptes utilisateurs.**
 
 ## 3. État au 18 novembre 2026
@@ -97,6 +97,7 @@ site/                      site public généré (ne pas éditer à la main)
 
 ## 9. Journal
 
+- **2026-11-19** — Adresse dédiée contact@terraincognita.ca : domaine ajouté dans Zoho (MX, SPF, DKIM vérifiés ; enregistrements GoDaddy A @ et CNAME www inchangés), alias de la boîte existante. Le site, llms.txt et les données structurées l'utilisent. Les notifications Netlify Forms continuent d'arriver dans la même boîte. Pour mixjournal.org : même méthode (domaine Zoho, MX/SPF/DKIM chez GoDaddy, alias).
 - **2026-11-19** — Objet des courriels de formulaire fixé dans le HTML (champ caché `subject`) : « Terra Incognita : proposition » et « Terra Incognita : nouvel abonné ». Ce réglage l'emporte sur celui de l'interface Netlify.
 - **2026-11-19** — Les courriels des formulaires arrivaient vides (« : ») : les étiquettes des champs étaient vides dans le HTML publié, puisque le texte est ajouté ensuite par le script dans la langue du visiteur. Netlify lit ces étiquettes au déploiement pour nommer les champs. Étiquettes anglaises ajoutées dans le HTML ; le script les remplace toujours à l'affichage.
 - **2026-11-19** — Carte cadrée au-dessus de la légende (téléphone). Essai de noms affichés en permanence sur la carte (domaines, questions « percée en vue ») retiré le même jour à la demande du propriétaire : plus encombrant qu'utile.

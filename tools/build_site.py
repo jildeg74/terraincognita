@@ -52,7 +52,7 @@ LD = {'@context': 'https://schema.org', '@type': 'Dataset', 'name': 'Terra Incog
       'inLanguage': ['en', 'fr', 'zh', 'es', 'hi', 'ar', 'pt'],
       'keywords': ['open questions', 'unsolved problems', 'science', 'research frontier', 'open data'],
       'creator': {'@type': 'Organization', 'name': 'Terra Incognita contributors'},
-      'publisher': {'@type': 'Organization', 'name': 'Juvason', 'email': 'contact@juvason.com'},
+      'publisher': {'@type': 'Organization', 'name': 'Juvason', 'email': 'contact@terraincognita.ca'},
       'distribution': [{'@type': 'DataDownload', 'encodingFormat': 'application/json', 'contentUrl': 'https://terraincognita.ca/data.json'}]}
 head = head.replace('<style>', '<script type="application/ld+json">' + json.dumps(LD, ensure_ascii=False) + '</script>\n<style>', 1)
 te = page.index('</title>') + len('</title>')
@@ -100,7 +100,7 @@ open(os.path.join(out, 'llms.txt'), 'w').write(
     '## Pages\n\n- [About and method](https://terraincognita.ca/en/about.html)\n- [All questions by field](https://terraincognita.ca/en/index.html)\n'
     '- Each question has one page per language: https://terraincognita.ca/<lang>/<id>.html\n\n'
     '## Questions (English)\n\n' + ''.join(f"- [{d['i18n']['en']['t']}](https://terraincognita.ca/en/{d['id']}.html)\n" for d in en) +
-    '\n## Contact\n\ncontact@juvason.com (publisher: Juvason, Montréal, Canada)\n')
+    '\n## Contact\n\ncontact@terraincognita.ca (publisher: Juvason, Montréal, Canada)\n')
 locs = [''] + urls
 open(os.path.join(out, 'sitemap.xml'), 'w').write(
     '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +

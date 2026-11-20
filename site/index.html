@@ -133,6 +133,16 @@ aside,.card{box-shadow:0 10px 30px -18px rgba(60,40,10,.35)}
 .chip{background:color-mix(in srgb,var(--bg2) 70%,transparent)}
 footer::before{background:linear-gradient(180deg,#13263a,#0a1420);border-top:1px solid #000}
 footer{color:#aebccb}footer a{color:#f0a030}
+
+/* Étoiles qui scintillent derrière la carte */
+.sea::before,.sea::after{content:"";position:absolute;inset:0;pointer-events:none;z-index:0;background-repeat:no-repeat}
+.sea::before{background-image:radial-gradient(1.6px 1.6px at 8% 14%,#fff,transparent),radial-gradient(1.2px 1.2px at 21% 62%,#cfe3ff,transparent),radial-gradient(1.8px 1.8px at 33% 28%,#fff,transparent),radial-gradient(1.2px 1.2px at 47% 83%,#ffe9c2,transparent),radial-gradient(1.6px 1.6px at 62% 12%,#fff,transparent),radial-gradient(1.3px 1.3px at 74% 55%,#cfe3ff,transparent),radial-gradient(1.7px 1.7px at 88% 33%,#fff,transparent),radial-gradient(1.2px 1.2px at 94% 78%,#ffe9c2,transparent);animation:tw 4.5s ease-in-out infinite}
+.sea::after{background-image:radial-gradient(1.3px 1.3px at 14% 40%,#ffe9c2,transparent),radial-gradient(1.7px 1.7px at 27% 90%,#fff,transparent),radial-gradient(1.2px 1.2px at 41% 8%,#cfe3ff,transparent),radial-gradient(1.6px 1.6px at 55% 46%,#fff,transparent),radial-gradient(1.2px 1.2px at 68% 92%,#cfe3ff,transparent),radial-gradient(1.8px 1.8px at 79% 20%,#ffe9c2,transparent),radial-gradient(1.3px 1.3px at 91% 58%,#fff,transparent),radial-gradient(1.2px 1.2px at 4% 76%,#cfe3ff,transparent);animation:tw 6.5s ease-in-out infinite;animation-delay:-2.5s}
+@keyframes tw{0%,100%{opacity:.15}50%{opacity:.95}}
+.sea canvas{position:relative;z-index:1}.sea .status,.sea .legend{z-index:2}
+@media (prefers-reduced-motion:reduce){.sea::before,.sea::after{animation:none;opacity:.6}}
+/* Panneau : couleur du domaine sélectionné */
+aside{border-top:3px solid var(--c,var(--line));background-image:radial-gradient(340px 150px at 100% 0,color-mix(in srgb,var(--c,transparent) 15%,transparent),transparent 75%)}
 </style>
 
 </head><body>
@@ -317,6 +327,7 @@ function fit(){
 }
 const toS=n=>({x:n.x*view.k+view.x,y:n.y*view.k+view.y});
 
+let pulseT=0;const reduceMotion=matchMedia('(prefers-reduced-motion:reduce)').matches;
 function draw(){
   if(!W)return;
   ctx.setTransform(dpr,0,0,dpr,0,0);ctx.clearRect(0,0,W,H);
@@ -333,11 +344,14 @@ function draw(){
     if(!visible(n))continue;if(n.n<3)shown++;
     const p=toS(n),c=css('--d-'+n.d),r=6+Math.min(n.n,2)*1.5,dim=focus&&!nb.has(n.id);
     ctx.globalAlpha=dim?.28:1;
+    if(!dim){ctx.shadowColor=c;ctx.shadowBlur=n.n>=2?16:9}
     ctx.fillStyle=c;ctx.beginPath();ctx.arc(p.x,p.y,r,0,Math.PI*2);ctx.fill();
+    ctx.shadowBlur=0;
     ctx.strokeStyle=c;ctx.lineWidth=1.5;ctx.setLineDash(n.n===0?[1.5,3]:n.n===1?[4,3]:[]);
     ctx.beginPath();ctx.arc(p.x,p.y,r+4.5,0,Math.PI*2);ctx.stroke();ctx.setLineDash([]);
     if(n.n===3){ctx.strokeStyle=accent;ctx.lineWidth=1.5;ctx.beginPath();ctx.arc(p.x,p.y,r+7.5,0,Math.PI*2);ctx.stroke()}
     if(n===sel){ctx.strokeStyle=fg;ctx.lineWidth=2;ctx.beginPath();ctx.arc(p.x,p.y,r+9,0,Math.PI*2);ctx.stroke()}
+    if(n===sel&&!reduceMotion){const ph=(Math.sin(pulseT/450)+1)/2;ctx.globalAlpha=.55*(1-ph);ctx.strokeStyle=c;ctx.lineWidth=2;ctx.beginPath();ctx.arc(p.x,p.y,r+10+ph*14,0,Math.PI*2);ctx.stroke();ctx.globalAlpha=1}
     if(showAll||nb.has(n.id)||query)labels.push({n,p,r,pri:n===focus?0:nb.has(n.id)?1:2});
   }
   ctx.globalAlpha=1;
@@ -375,7 +389,7 @@ function zoom(cx,cy,f){view.touched=true;const k=Math.min(4,Math.max(.25,view.k*
 
 function el(tag,props,...kids){const e=document.createElement(tag);for(const [k,v] of Object.entries(props||{})){if(k==='style')e.style.cssText=v;else e[k]=v}kids.forEach(k=>k!=null&&e.append(k));return e}
 function select(n){
-  sel=n;try{if(hashOK&&location.hash.slice(1)!==n.id)history.replaceState(null,'','#'+n.id)}catch(e){}draw();const t=T(),a=tx(n);panel.replaceChildren();
+  sel=n;try{if(hashOK&&location.hash.slice(1)!==n.id)history.replaceState(null,'','#'+n.id)}catch(e){}draw();const t=T(),a=tx(n);panel.replaceChildren();panel.style.setProperty('--c',`var(--d-${n.d})`);
   const dom=el('div',{className:'dom',textContent:t.dom[n.d]||n.d});dom.style.setProperty('--c',`var(--d-${n.d})`);
   const near=el('span',{className:'near',textContent:nearLabel(n)});near.dataset.n=n.n;
   const h=el('h2',{textContent:a.t||''});if(a.fb)h.lang='en';
@@ -469,6 +483,8 @@ changes=CHANGES;digests=DIGESTS;renderDigest();
 const TI_DONE=new Set();
 window.TI_LOAD=async function(l){if(TI_DONE.has(l))return;const r=await fetch("q/"+l+".json");if(!r.ok)throw new Error("load");const d=await r.json();TI_DONE.add(l);if(!nodes.length){ingest(d.map(x=>{const {id,...rest}=x;return {id,data:()=>rest}}));return}for(const x of d){const n=byId[x.id];if(!n)continue;n.i18n={...(n.i18n||{}),...(x.i18n||{})};(x.sub||[]).forEach((q,i)=>{if(n.sub&&n.sub[i])Object.assign(n.sub[i],q)})}};
 (async()=>{const timer=setTimeout(()=>{if(!nodes.length)setStatus("slow")},10000);try{await TI_LOAD(lang)}catch(e){try{await TI_LOAD("en")}catch(e2){setStatus("err")}}clearTimeout(timer);if(nodes.length&&!(byId[nodes[0].id].i18n||{})[lang])applyLang()})();
+
+;(function(){let last=0;function loop(ts){if(sel&&!reduceMotion&&!document.hidden&&ts-last>60){last=ts;pulseT=ts;draw()}requestAnimationFrame(loop)}requestAnimationFrame(loop)})();
 </script>
 
 </body></html>

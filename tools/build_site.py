@@ -80,6 +80,7 @@ L = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'logo')
 for src, dst in (('logo.svg', 'favicon.svg'), ('favicon-32.png', 'favicon-32.png'), ('apple-touch-icon.png', 'apple-touch-icon.png'), ('logo-512.png', 'logo-512.png')):
     shutil.copy(os.path.join(L, src), os.path.join(out, dst))
 shutil.copy(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'og.jpg'), os.path.join(out, 'og.jpg'))
+shutil.copy(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'header-map.jpg'), os.path.join(out, 'header-map.jpg'))
 updated = max([d.get('checked', '') for d in docs] + [c.get('date', '') for c in changes])
 open(os.path.join(out, 'data.json'), 'w').write(json.dumps({
     'name': 'Terra Incognita', 'license': 'CC BY 4.0', 'url': 'https://terraincognita.ca/',

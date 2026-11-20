@@ -25,7 +25,8 @@ body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15
 .wrap{max-width:1280px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
 header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px;position:relative;padding:6px 0 18px}
 header::before,footer::before{content:"";position:absolute;left:50%;width:100vw;transform:translateX(-50%);z-index:-1;background:var(--bg2);border-bottom:1px solid var(--line)}
-header::before{top:-20px;bottom:0;background:linear-gradient(180deg,var(--bg2),var(--bg))}
+header::before{top:-20px;bottom:0;border-bottom:1px solid #000;background:linear-gradient(90deg,rgba(8,16,32,.94) 0%,rgba(8,16,32,.78) 45%,rgba(8,16,32,.35) 100%),url(header-map.jpg) center 62%/cover}
+header{--hf:#f4e9d0}header h1{color:var(--hf);text-shadow:0 2px 12px rgba(0,0,0,.5)}header .sub{color:#d9cfb8}header .count{color:#cfc6b0}header .allq{background:rgba(8,16,32,.55);color:#f0a030;border-color:#f0a030}
 footer::before{top:0;bottom:-20px;border-bottom:0;border-top:1px solid var(--line)}
 html,body{overflow-x:clip}
 

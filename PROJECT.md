@@ -116,3 +116,8 @@ site/                      site public généré (ne pas éditer à la main)
 - **2026-11-18** — Règle de croissance : jusqu'à 5 nouvelles questions par mois, vérifiées.
 - **2026-11-18** — Version v1.0 archivée sur Zenodo, DOI 10.5281/zenodo.24356516. Search Console validé, sitemap envoyé.
 - **2026-11-18** — Création. 100 questions en 7 langues, site en ligne sur terraincognita.ca. Rattrapage par 4 agents + 4 vérificateurs indépendants : études relues ajoutées (39 → 99/100), 273 sous-questions, une dizaine d'affirmations corrigées ou retirées. Dépôt GitHub devenu source de vérité, règles `AGENT.md`, contrôle automatique. Pages par question, liste, à propos, éditeur Juvason. Formulaires Netlify activés (→ contact@juvason.com). Plan Netlify payant après épuisement des crédits gratuits. Questions résolues, image d'aperçu, chargement par langue, historique par question.
+
+## MixJournal newsletter (ajouté 2026-11-20)
+- Brevo: liste #4 "MixJournal", expéditeur "MixJournal <contact@mixjournal.org>" (domaine mixjournal.org authentifié: DKIM/DMARC au DNS GoDaddy), formulaire hébergé "MixJournal - Infolettre" (double opt-in, copie du formulaire Terra).
+- Site: pages /infolettre/ et /en/newsletter/ (bouton vers le formulaire Brevo), lien en pied de page; politique de confidentialité mise à jour. Source: mixjournal/tools/build.py (NL_URL).
+- Juvason.com garde sa propre newsletter (MailPoet, pages /fr/newsletter-2/ et /en/newsletter/), reformulée "Juvason".

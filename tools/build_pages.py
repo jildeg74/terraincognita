@@ -55,6 +55,7 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-si
 
 
 DOI = 'https://doi.org/10.5281/zenodo.24356516'
+DATASET_DESC = 'A living map of the great open questions of science: for each question, what we know, what blocks us, current leads, research sub-questions and typed sources, in seven languages, checked every week.'
 
 
 def ldjson(obj):
@@ -148,7 +149,7 @@ def build(page, docs, out, changes=()):
                     '@context': 'https://schema.org', '@type': 'WebPage', 'url': f'{BASE}/{lang}/{d["id"]}.html',
                     'name': a['t'], 'description': a.get('why') or a['known'], 'inLanguage': lang, 'dateModified': d.get('checked', ''),
                     'license': 'https://creativecommons.org/licenses/by/4.0/',
-                    'isPartOf': {'@type': 'Dataset', 'name': 'Terra Incognita', 'url': BASE + '/', 'identifier': DOI},
+                    'isPartOf': {'@type': 'Dataset', 'name': 'Terra Incognita', 'description': DATASET_DESC, 'url': BASE + '/', 'identifier': DOI, 'license': 'https://creativecommons.org/licenses/by/4.0/'},
                     'mainEntity': {'@type': 'Question', 'name': a['t'], 'text': a['t'], 'about': t['dom'][d['d']]},
                     'citation': [{'@type': 'CreativeWork', 'name': s['t'], 'url': s['u']} for s in d['src'] + d.get('dsrc', [])]}))
             urls.append(f'{lang}/{d["id"]}.html')

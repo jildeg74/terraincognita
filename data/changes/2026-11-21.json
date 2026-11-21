@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-21",
+ "items": [
+  {
+   "f": "leads",
+   "q": "energie-sombre"
+  },
+  {
+   "f": "src",
+   "q": "connectome"
+  },
+  {
+   "f": "src",
+   "q": "ia-energie"
+  },
+  {
+   "k": "sources",
+   "n": 8
+  },
+  {
+   "k": "note",
+   "text": "Checked (web search, no verified post-2026-11-18 development found, fiches unchanged, 'checked' not updated): ia-generale, ia-valeurs, interpretabilite, apprentissage-continu, ordinateur-quantique, hubble-tension, mesure-quantique, depression. Open issues: Planck journal URL not adopted (A&A page opened, title matches, but only abstract-level; the 68% figure is supported by the arXiv full text)."
+  }
+ ]
+}

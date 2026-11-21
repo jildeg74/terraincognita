@@ -42,7 +42,7 @@ head = '''<!doctype html>
 <meta property="og:image" content="https://terraincognita.ca/og.jpg?v=3"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://terraincognita.ca/">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png"><link rel="icon" href="/favicon.ico" sizes="48x48"><link rel="icon" href="/favicon-48.png" sizes="48x48" type="image/png"><link rel="icon" href="/favicon-192.png" sizes="192x192" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <style>*,*::before,*::after{box-sizing:border-box}body{margin:0}[hidden]{display:none!important}</style>
 '''
 LD = {'@context': 'https://schema.org', '@type': 'Dataset', 'name': 'Terra Incognita',
@@ -77,7 +77,7 @@ for l in build_pages.LANGS:
     open(os.path.join(out, 'q', l + '.json'), 'w').write(json.dumps(part, ensure_ascii=False, separators=(',', ':')))
 import shutil
 L = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'logo')
-for src, dst in (('logo.svg', 'favicon.svg'), ('favicon-32.png', 'favicon-32.png'), ('apple-touch-icon.png', 'apple-touch-icon.png'), ('logo-512.png', 'logo-512.png')):
+for src, dst in (('logo.svg', 'favicon.svg'), ('favicon-32.png', 'favicon-32.png'), ('apple-touch-icon.png', 'apple-touch-icon.png'), ('logo-512.png', 'logo-512.png'), ('favicon-48.png', 'favicon-48.png'), ('favicon-192.png', 'favicon-192.png'), ('favicon.ico', 'favicon.ico')):
     shutil.copy(os.path.join(L, src), os.path.join(out, dst))
 shutil.copy(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'og.jpg'), os.path.join(out, 'og.jpg'))
 shutil.copy(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'header-map.jpg'), os.path.join(out, 'header-map.jpg'))

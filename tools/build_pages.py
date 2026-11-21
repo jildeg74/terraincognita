@@ -149,7 +149,7 @@ def build(page, docs, out, changes=()):
                     '@context': 'https://schema.org', '@type': 'WebPage', 'url': f'{BASE}/{lang}/{d["id"]}.html',
                     'name': a['t'], 'description': a.get('why') or a['known'], 'inLanguage': lang, 'dateModified': d.get('checked', ''),
                     'license': 'https://creativecommons.org/licenses/by/4.0/',
-                    'isPartOf': {'@type': 'Dataset', 'name': 'Terra Incognita', 'description': DATASET_DESC, 'url': BASE + '/', 'identifier': DOI, 'license': 'https://creativecommons.org/licenses/by/4.0/'},
+                    'isPartOf': {'@type': 'Dataset', 'name': 'Terra Incognita', 'description': DATASET_DESC, 'url': BASE + '/', 'identifier': DOI, 'creator': {'@type': 'Organization', 'name': 'Juvason', 'url': 'https://juvason.com'}, 'license': 'https://creativecommons.org/licenses/by/4.0/'},
                     'mainEntity': {'@type': 'Question', 'name': a['t'], 'text': a['t'], 'about': t['dom'][d['d']]},
                     'citation': [{'@type': 'CreativeWork', 'name': s['t'], 'url': s['u']} for s in d['src'] + d.get('dsrc', [])]}))
             urls.append(f'{lang}/{d["id"]}.html')

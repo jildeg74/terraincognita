@@ -64,7 +64,16 @@ def ldjson(obj):
     return '\n<script type="application/ld+json">' + json.dumps(obj, ensure_ascii=False).replace('</', '<\\/') + '</script>'
 
 
+def trim(x, n=155):
+    x = ' '.join(str(x).split())
+    if len(x) <= n: return x
+    c = x[:n]
+    k = max(c.rfind(' '), c.rfind('。'), c.rfind('，'))
+    return (c[:k] if k > n * 0.6 else c).rstrip(' ,;:.、。，') + '…'
+
+
 def shell(lang, title, desc, path, body, tokens, alt_path, ld=None):
+    desc = trim(desc)
     d = ' dir="rtl"' if lang == 'ar' else ''
     alts = ''.join(f'<link rel="alternate" hreflang="{l}" href="{BASE}/{l}/{alt_path}">' for l in LANGS)
     return f'''<!doctype html>

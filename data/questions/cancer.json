@@ -1,10 +1,10 @@
 {
- "checked": "2026-11-18",
+ "checked": "2026-11-23",
  "d": "V",
  "i18n": {
   "ar": {
    "block": "كل ورم متنوع ويتطور ليقاوم العلاج.",
-   "known": "تشفي العلاجات المناعية والعلاجات الموجَّهة اليوم بعض أنواع السرطان التي كانت قاتلة.",
+   "known": "تشفي العلاجات المناعية والعلاجات الموجَّهة اليوم بعض أنواع السرطان التي كانت قاتلة. في عام 2026، وجدت تجربة كبيرة على أورام ميلانينية أُزيلت جراحيًا أن إضافة لقاح mRNA مخصَّص إلى العلاج المناعي خفّضت خطر عودة السرطان أو الوفاة بنسبة 42%؛ وقد عُرضت النتائج في مؤتمر في أكتوبر 2026.",
    "leads": "لقاحات mRNA المخصصة، وخلايا CAR-T للأورام الصلبة، والكشف المبكر بفحص دم.",
    "s": "السرطان",
    "t": "هل يمكننا شفاء معظم أنواع السرطان؟",
@@ -12,7 +12,7 @@
   },
   "en": {
    "block": "Every tumor is diverse and evolves to resist treatment.",
-   "known": "Immunotherapies and targeted therapies now cure some cancers that used to be fatal.",
+   "known": "Immunotherapies and targeted therapies now cure some cancers that used to be fatal. In 2026, a large trial in melanoma removed by surgery found that adding a personalized mRNA vaccine to immunotherapy cut the risk of the cancer returning or of death by 42%; the results were presented at a congress in October 2026.",
    "leads": "Personalized mRNA vaccines, CAR-T cells for solid tumors, early detection from a blood test.",
    "s": "Cancer",
    "t": "Can we cure most cancers?",
@@ -20,7 +20,7 @@
   },
   "es": {
    "block": "Cada tumor es diverso y evoluciona para resistir al tratamiento.",
-   "known": "Las inmunoterapias y las terapias dirigidas curan hoy algunos cánceres que antes eran mortales.",
+   "known": "Las inmunoterapias y las terapias dirigidas curan hoy algunos cánceres que antes eran mortales. En 2026, un gran ensayo en melanomas extirpados con cirugía encontró que añadir una vacuna de ARNm personalizada a la inmunoterapia reducía en un 42 % el riesgo de que el cáncer reapareciera o de muerte; los resultados se presentaron en un congreso en octubre de 2026.",
    "leads": "Vacunas personalizadas de ARNm, células CAR-T para tumores sólidos, detección temprana con un análisis de sangre.",
    "s": "Cáncer",
    "t": "¿Podemos curar la mayoría de los cánceres?",
@@ -28,7 +28,7 @@
   },
   "fr": {
    "block": "Chaque tumeur est diverse et évolue pour résister aux traitements.",
-   "known": "Les immunothérapies et les thérapies ciblées guérissent désormais certains cancers autrefois mortels.",
+   "known": "Les immunothérapies et les thérapies ciblées guérissent désormais certains cancers autrefois mortels. En 2026, un grand essai sur des mélanomes retirés par chirurgie a montré qu'ajouter un vaccin à ARNm personnalisé à l'immunothérapie réduisait de 42 % le risque de récidive du cancer ou de décès ; les résultats ont été présentés lors d'un congrès en octobre 2026.",
    "leads": "Vaccins à ARNm personnalisés, cellules CAR-T pour les tumeurs solides, dépistage précoce par prise de sang.",
    "s": "Cancer",
    "t": "Peut-on guérir la plupart des cancers ?",
@@ -36,7 +36,7 @@
   },
   "hi": {
    "block": "हर ट्यूमर अलग होता है और इलाज का प्रतिरोध करने के लिए विकसित होता रहता है।",
-   "known": "इम्यूनोथेरेपी और लक्षित उपचार अब कुछ ऐसे कैंसर ठीक कर देते हैं जो पहले जानलेवा थे।",
+   "known": "इम्यूनोथेरेपी और लक्षित उपचार अब कुछ ऐसे कैंसर ठीक कर देते हैं जो पहले जानलेवा थे। 2026 में, सर्जरी से निकाले गए मेलानोमा पर एक बड़े परीक्षण में पाया गया कि इम्यूनोथेरेपी के साथ एक व्यक्तिगत mRNA टीका जोड़ने से कैंसर के लौटने या मृत्यु का जोखिम 42% घट गया; ये परिणाम अक्टूबर 2026 में एक सम्मेलन में प्रस्तुत किए गए।",
    "leads": "व्यक्तिगत mRNA टीके, ठोस ट्यूमर के लिए CAR-T कोशिकाएँ, रक्त जाँच से शुरुआती पहचान।",
    "s": "कैंसर",
    "t": "क्या हम अधिकांश कैंसर ठीक कर सकते हैं?",
@@ -44,7 +44,7 @@
   },
   "pt": {
    "block": "Cada tumor é diverso e evolui para resistir ao tratamento.",
-   "known": "Imunoterapias e terapias direcionadas hoje curam alguns cânceres que antes eram fatais.",
+   "known": "Imunoterapias e terapias direcionadas hoje curam alguns cânceres que antes eram fatais. Em 2026, um grande ensaio em melanomas retirados por cirurgia mostrou que adicionar uma vacina de mRNA personalizada à imunoterapia reduziu em 42% o risco de o câncer voltar ou de morte; os resultados foram apresentados em um congresso em outubro de 2026.",
    "leads": "Vacinas personalizadas de mRNA, células CAR-T para tumores sólidos, detecção precoce por exame de sangue.",
    "s": "Câncer",
    "t": "Podemos curar a maioria dos cânceres?",
@@ -52,7 +52,7 @@
   },
   "zh": {
    "block": "每个肿瘤都各不相同,并会演化出抗药性。",
-   "known": "免疫疗法和靶向疗法如今已能治愈一些曾经致命的癌症。",
+   "known": "免疫疗法和靶向疗法如今已能治愈一些曾经致命的癌症。2026年,一项针对已手术切除黑色素瘤的大型试验发现,在免疫疗法基础上加用个性化mRNA疫苗,可将癌症复发或死亡的风险降低42%;结果于2026年10月在一次学术大会上公布。",
    "leads": "个性化mRNA疫苗,针对实体瘤的CAR-T细胞,通过血液检测早期发现。",
    "s": "癌症",
    "t": "我们能治愈大多数癌症吗?",
@@ -74,6 +74,11 @@
    "t": "Moderna cancer vaccine results (Boston Globe, 2026)",
    "ty": "press",
    "u": "https://www.bostonglobe.com/2026/08/19/business/moderna-cancer-vaccine-results/"
+  },
+  {
+   "t": "INTerpath-001 Data Detail Survival, Subgroup, and Safety Findings in Melanoma",
+   "ty": "press",
+   "u": "https://www.cancernetwork.com/view/interpath-001-data-detail-survival-subgroup-and-safety-findings-in-melanoma"
   }
  ],
  "sub": [

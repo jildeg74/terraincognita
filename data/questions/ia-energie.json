@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-18",
+ "checked": "2026-11-23",
  "d": "I",
  "i18n": {
   "ar": {
@@ -72,9 +72,9 @@
    "u": "https://www.iea.org/reports/energy-and-ai/executive-summary"
   },
   {
-   "t": "Electricity Demand and Grid Impacts of AI Data Centers: Challenges and Prospects",
-   "ty": "preprint",
-   "u": "https://arxiv.org/html/2509.07218v4"
+   "t": "Xiao et al., Environmental impact and net-zero pathways for sustainable artificial intelligence servers in the USA (Nature Sustainability, 2025)",
+   "ty": "study",
+   "u": "https://re.public.polimi.it/retrieve/536a055b-d8ab-4b86-bd4d-88facfaaf2ae/s41893-025-01681-y.pdf"
   },
   {
    "t": "Multiscale grid intelligence to fight artificial intelligence data center grid defection: unlocking a faster, cheaper, and cleaner on-grid AI rollout",

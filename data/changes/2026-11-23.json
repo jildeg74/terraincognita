@@ -4,7 +4,11 @@
   {"f": "block", "q": "navier-stokes"},
   {"f": "leads", "q": "navier-stokes"},
   {"f": "src", "q": "navier-stokes"},
+  {"f": "known", "q": "cancer"},
+  {"f": "src", "q": "cancer"},
+  {"f": "src", "q": "ia-energie"},
   {"k": "sources", "n": 2},
-  {"k": "note", "text": "Weekly check of the week-48 quarter by web search. Only navier-stokes changed: OpenAI's announced computer-checked blow-up result (2026-09-08), reported by NPR as judged correct by most mathematicians but still under study. Other questions: no verified development found, fiches unchanged and 'checked' not updated. Open issue: Clay Institute page could not be opened this session, so Clay's own position is not stated."}
+  {"k": "note", "text": "Weekly check of the week-48 quarter by web search. Only navier-stokes changed: OpenAI's announced computer-checked blow-up result (2026-09-08), reported by NPR as judged correct by most mathematicians but still under study. Other questions: no verified development found, fiches unchanged and 'checked' not updated. Open issue: Clay Institute page could not be opened this session, so Clay's own position is not stated."},
+  {"k": "note", "text": "Morning session (same day, published later): cancer (INTerpath-001 phase 3 result presented at ESMO 2026, CancerNetwork 2026-10-24), ia-energie (arXiv preprint replaced by Xiao et al., Nature Sustainability 2025, peer-reviewed; open issue closed), paludisme checked against the WHO World Malaria Report 2025 release (unchanged). Sources opened and approved by an independent verifier."}
  ]
 }

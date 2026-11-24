@@ -1,59 +1,59 @@
 {
- "checked": "2026-11-18",
+ "checked": "2026-11-23",
  "d": "M",
  "i18n": {
   "ar": {
-   "block": "لا نستطيع إثبات أنها لا تنفجر أبدًا إلى قيم لانهائية، ولا تزال الاضطرابات غير مفهومة جيدًا.",
+   "block": "أعلنت OpenAI في سبتمبر 2026 عن برهان تحقّق منه الحاسوب بأن تدفقًا أملس قد ينفجر في زمن محدود تحت تأثير قوة خارجية. تفيد تقارير صحفية بأن معظم علماء الرياضيات يرونه صحيحًا، لكنه صعب القراءة وما زال قيد الدراسة، ولذلك لم تُحسم المسألة الرسمية بعد.",
    "known": "تصف هذه المعادلات الماء والهواء والطقس، وتُستخدم في كل مكان في الهندسة.",
-   "leads": "بحث بمساعدة الذكاء الاصطناعي عن التفردات، وبراهين متحقَّق منها حاسوبيًا.",
+   "leads": "قراءة وتوضيح البرهان المؤلف من 166 صفحة الذي أنتجه الذكاء الاصطناعي؛ وأعمال مرتبطة بمعادلات أويلر مع قوة خارجية (Alpöge, Buckmaster).",
    "s": "نافييه–ستوكس",
    "t": "هل لمعادلات الموائع حل سلس دائمًا؟",
    "why": "تصف هذه المعادلات كيف يجري الماء والهواء. ويمكن لفهم حلولها أن يساعد في تفسير وتوقّع ظواهر مثل النسيم أو الاضطرابات أثناء رحلة بطائرة نفاثة، ومن شأن البرهان أن يبيّن ما إذا كانت الحلول موجودة دائمًا ووحيدة."
   },
   "en": {
-   "block": "We can't prove they never blow up to infinite values, and turbulence remains poorly understood.",
+   "block": "In September 2026 OpenAI announced a computer-checked proof that, under an outside force, a smooth flow can blow up in finite time. Press reports say most mathematicians think it is correct, but it is hard to read and still being studied, so the official question is not settled.",
    "known": "These equations describe water, air and weather, and are used everywhere in engineering.",
-   "leads": "AI-assisted search for singularities and computer-verified proofs.",
+   "leads": "Reading and clarifying the 166-page AI-produced proof; related work on the forced Euler equations (Alpöge, Buckmaster).",
    "s": "Navier–Stokes",
    "t": "Do the equations of fluids always have a smooth solution?",
    "why": "These equations describe how water and air flow. Understanding their solutions could help explain and predict things like a breeze or the turbulence on a jet flight, and a proof would show whether solutions always exist and are unique."
   },
   "es": {
-   "block": "No podemos demostrar que nunca divergen a valores infinitos, y la turbulencia sigue entendiéndose mal.",
+   "block": "En septiembre de 2026, OpenAI anunció una demostración verificada por ordenador de que, bajo una fuerza externa, un flujo suave puede explotar en tiempo finito. Según la prensa, la mayoría de los matemáticos la considera correcta, pero es difícil de leer y sigue en estudio, así que la cuestión oficial no está zanjada.",
    "known": "Estas ecuaciones describen el agua, el aire y el tiempo atmosférico, y se usan en todas partes en ingeniería.",
-   "leads": "Búsqueda de singularidades asistida por IA y demostraciones verificadas por ordenador.",
+   "leads": "Lectura y aclaración de la demostración de 166 páginas producida por IA; trabajos afines sobre las ecuaciones de Euler con fuerza (Alpöge, Buckmaster).",
    "s": "Navier–Stokes",
    "t": "¿Tienen siempre una solución suave las ecuaciones de los fluidos?",
    "why": "Estas ecuaciones describen cómo fluyen el agua y el aire. Entender sus soluciones podría ayudar a explicar y predecir fenómenos como una brisa o las turbulencias en un vuelo en avión a reacción, y una demostración mostraría si las soluciones siempre existen y son únicas."
   },
   "fr": {
-   "block": "On ne sait pas prouver qu'elles ne produisent jamais de valeurs infinies, et la turbulence reste mal comprise.",
+   "block": "En septembre 2026, OpenAI a annoncé une preuve vérifiée par ordinateur qu'avec une force extérieure, un écoulement régulier peut exploser en temps fini. Selon la presse, la plupart des mathématiciens la jugent correcte, mais elle est difficile à lire et encore à l'étude : la question officielle n'est donc pas tranchée.",
    "known": "Ces équations décrivent l'eau, l'air et la météo, et on les utilise partout en ingénierie.",
-   "leads": "Recherche de singularités assistée par IA et preuves vérifiées par ordinateur.",
+   "leads": "Lecture et clarification de la preuve de 166 pages produite par IA ; travaux voisins sur les équations d'Euler avec force (Alpöge, Buckmaster).",
    "s": "Navier-Stokes",
    "t": "Les équations des fluides ont-elles toujours une solution régulière ?",
    "why": "Ces équations décrivent l'écoulement de l'eau et de l'air. Comprendre leurs solutions pourrait aider à expliquer et à prévoir des phénomènes comme une brise ou les turbulences d'un vol en avion à réaction, et une preuve montrerait si les solutions existent toujours et sont uniques."
   },
   "hi": {
-   "block": "हम यह सिद्ध नहीं कर सकते कि वे कभी अनंत मानों तक नहीं फूटते, और विक्षोभ (टर्बुलेंस) अब भी कम समझा गया है।",
+   "block": "सितंबर 2026 में OpenAI ने कंप्यूटर-सत्यापित प्रमाण की घोषणा की कि बाहरी बल के तहत एक सहज प्रवाह सीमित समय में फट सकता है। प्रेस रिपोर्टों के अनुसार अधिकांश गणितज्ञ इसे सही मानते हैं, पर इसे पढ़ना कठिन है और अध्ययन जारी है, इसलिए आधिकारिक प्रश्न तय नहीं हुआ है।",
    "known": "ये समीकरण पानी, हवा और मौसम का वर्णन करते हैं और इंजीनियरिंग में हर जगह इस्तेमाल होते हैं।",
-   "leads": "विलक्षणताओं की AI-सहायता से खोज और कंप्यूटर द्वारा सत्यापित प्रमाण।",
+   "leads": "AI द्वारा बनाए गए 166 पृष्ठों के प्रमाण को पढ़ना और स्पष्ट करना; बाहरी बल वाले यूलर समीकरणों पर संबंधित कार्य (Alpöge, Buckmaster)।",
    "s": "नेवियर-स्टोक्स",
    "t": "क्या तरल पदार्थों के समीकरणों का हमेशा एक सहज हल होता है?",
    "why": "ये समीकरण बताते हैं कि पानी और हवा कैसे बहते हैं। इनके हलों को समझना हल्की हवा या जेट विमान की उड़ान में होने वाली अशांति (टर्बुलेंस) जैसी चीज़ों को समझाने और उनका पूर्वानुमान लगाने में मदद कर सकता है, और एक प्रमाण दिखाएगा कि क्या हल हमेशा मौजूद और अद्वितीय होते हैं।"
   },
   "pt": {
-   "block": "Não conseguimos provar que elas nunca explodem para valores infinitos, e a turbulência continua mal compreendida.",
+   "block": "Em setembro de 2026, a OpenAI anunciou uma prova verificada por computador de que, sob uma força externa, um escoamento suave pode explodir em tempo finito. Segundo a imprensa, a maioria dos matemáticos a considera correta, mas ela é difícil de ler e ainda está em estudo, por isso a questão oficial não está resolvida.",
    "known": "Essas equações descrevem a água, o ar e o clima, e são usadas em toda a engenharia.",
-   "leads": "Busca de singularidades assistida por IA e demonstrações verificadas por computador.",
+   "leads": "Leitura e esclarecimento da prova de 166 páginas produzida por IA; trabalhos relacionados sobre as equações de Euler com força (Alpöge, Buckmaster).",
    "s": "Navier–Stokes",
    "t": "As equações dos fluidos sempre têm uma solução suave?",
    "why": "Estas equações descrevem como a água e o ar fluem. Compreender as suas soluções poderia ajudar a explicar e prever fenómenos como uma brisa ou a turbulência num voo de avião a jato, e uma prova mostraria se as soluções existem sempre e são únicas."
   },
   "zh": {
-   "block": "我们无法证明它们不会爆破成无穷大的值,湍流也仍然没有被很好地理解。",
+   "block": "2026年9月，OpenAI宣布了一个经计算机验证的证明：在外力作用下，光滑流动可能在有限时间内爆破。媒体报道称大多数数学家认为该证明正确，但它难以阅读且仍在研究中，因此官方意义上的问题尚未定论。",
    "known": "这些方程描述水、空气和天气,在工程中被广泛使用。",
-   "leads": "借助AI搜寻奇点,经计算机验证的证明。",
+   "leads": "阅读并厘清这份由AI生成的166页证明；带外力的欧拉方程的相关工作（Alpöge、Buckmaster）。",
    "s": "纳维-斯托克斯",
    "t": "流体方程总是有光滑解吗?",
    "why": "这些方程描述了水和空气如何流动。理解它们的解可能有助于解释和预测诸如微风或喷气式飞机飞行中的湍流等现象，而一个证明将表明解是否总是存在且唯一。"
@@ -69,6 +69,16 @@
    "t": "Navier-Stokes Equation (Clay Mathematics Institute)",
    "ty": "reference",
    "u": "https://www.claymath.org/millennium/navier-stokes-equation/"
+  },
+  {
+   "t": "Navier–Stokes solution (OpenAI, 2026-09-08)",
+   "ty": "company",
+   "u": "https://openai.com/index/navier-stokes-solution/"
+  },
+  {
+   "t": "AI solved one of math's hardest problems. Humanity learned nothing (so far) (NPR, 2026-09-22)",
+   "ty": "press",
+   "u": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little"
   }
  ],
  "sub": [

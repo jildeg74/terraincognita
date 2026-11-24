@@ -1,6 +1,6 @@
 # Terra Incognita
 
-> A living map of what humanity does not know yet: 100 great open scientific questions, linked together. For each: what we know, what blocks us, current leads, research sub-questions and typed sources (peer-reviewed study, preprint, official, press...). Seven languages: en, fr, zh, es, hi, ar, pt. Checked every week; nothing is written without a source that was actually read, and changes are re-checked by an independent verifier. Not yet reviewed by domain specialists. Last update: 2026-11-21.
+> A living map of what humanity does not know yet: 100 great open scientific questions, linked together. For each: what we know, what blocks us, current leads, research sub-questions and typed sources (peer-reviewed study, preprint, official, press...). Seven languages: en, fr, zh, es, hi, ar, pt. Checked every week; nothing is written without a source that was actually read, and changes are re-checked by an independent verifier. Not yet reviewed by domain specialists. Last update: 2026-11-23.
 
 ## Data
 

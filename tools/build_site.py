@@ -56,7 +56,7 @@ LD = {'@context': 'https://schema.org', '@type': 'Dataset', 'name': 'Terra Incog
       'distribution': [{'@type': 'DataDownload', 'encodingFormat': 'application/json', 'contentUrl': 'https://terraincognita.ca/data.json'}]}
 head = head.replace('<style>', '<script type="application/ld+json">' + json.dumps(LD, ensure_ascii=False) + '</script>\n<style>', 1)
 te = page.index('</title>') + len('</title>')
-html = head + page[:te] + '\n' + page[te:].replace('<div class="wrap">', '</head><body>\n<div class="wrap">', 1) + '\n</body></html>\n'
+html = head + page[:te] + '\n' + page[te:].replace('<div class="wrap">', '</head><body>\n<div class="wrap">', 1) + '\n' + build_pages.CFWA + '\n</body></html>\n'
 
 os.makedirs(out, exist_ok=True)
 urls, extra = build_pages.build(src_page, docs, out, changes)

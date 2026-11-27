@@ -58,6 +58,10 @@ DOI = 'https://doi.org/10.5281/zenodo.24356516'
 DATASET_DESC = 'A living map of the great open questions of science: for each question, what we know, what blocks us, current leads, research sub-questions and typed sources, in seven languages, checked every week.'
 
 
+# Cloudflare Web Analytics: cookie-free visit statistics (public token, visible in every page)
+CFWA = """<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c7566d18a67c4768a4f70562d6c9e3df"}'></script><!-- End Cloudflare Web Analytics -->"""
+
+
 def ldjson(obj):
     if not obj:
         return ''
@@ -86,7 +90,8 @@ def shell(lang, title, desc, path, body, tokens, alt_path, ld=None):
 <meta property="og:type" content="website"><meta property="og:site_name" content="Terra Incognita"><meta property="og:image" content="{BASE}/og.jpg?v=3"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
 <style>*,*::before,*::after{{box-sizing:border-box}}{tokens}{CSS}</style>
-</head><body><div class="w">{body}</div></body></html>
+</head><body><div class="w">{body}</div>
+{CFWA}</body></html>
 '''
 
 
@@ -172,7 +177,7 @@ def build(page, docs, out, changes=()):
         body = top(lang, 'index.html') + f'<h1>{e(X["list"])}</h1><p>{e(X["listIntro"])}</p>{groups}' + foot(lang, X)
         open(os.path.join(out, lang, 'index.html'), 'w', encoding='utf-8').write(
             shell(lang, f'{X["list"]} · Terra Incognita', X['listIntro'], f'{lang}/index.html', body, tokens, 'index.html'))
-        secs = ''.join(f'<h2>{e(h)}</h2><p>{e(p)}</p>' for h, p in X['aboutBody']).replace('contact@terraincognita.ca', '<a href="mailto:contact@terraincognita.ca">contact@terraincognita.ca</a>').replace('https://doi.org/10.5281/zenodo.24356516', '<a href="https://doi.org/10.5281/zenodo.24356516">https://doi.org/10.5281/zenodo.24356516</a>')
+        secs = ''.join(f'<h2>{e(h)}</h2><p>{e(p)}</p>' for h, p in X['aboutBody']).replace('contact@terraincognita.ca', '<a href="mailto:contact@terraincognita.ca">contact@terraincognita.ca</a>').replace('https://doi.org/10.5281/zenodo.24356516', '<a href="https://doi.org/10.5281/zenodo.24356516">https://doi.org/10.5281/zenodo.24356516</a>').replace('https://www.cloudflare.com/privacypolicy/', '<a href="https://www.cloudflare.com/privacypolicy/" dir="ltr" rel="noopener" style="overflow-wrap:anywhere">https://www.cloudflare.com/privacypolicy/</a>')
         body = top(lang, 'about.html') + f'<h1>{e(X["aboutTitle"])}</h1>{secs}' + foot(lang, X)
         open(os.path.join(out, lang, 'about.html'), 'w', encoding='utf-8').write(
             shell(lang, f'{X["aboutTitle"]}', X['aboutBody'][0][1], f'{lang}/about.html', body, tokens, 'about.html'))
